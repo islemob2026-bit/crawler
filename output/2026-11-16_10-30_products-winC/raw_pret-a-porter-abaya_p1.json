@@ -1,0 +1,47 @@
+[
+  {
+    "category": "pret-a-porter-abaya",
+    "page": 1,
+    "name": "Étoile d’Azur",
+    "url": "https://naisoun.com/produit.html?id=etoile-dazur",
+    "price_text": "10 000 DA",
+    "price_da": 10000,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/07/DSC06177-1-600x900.webp"
+  },
+  {
+    "category": "pret-a-porter-abaya",
+    "page": 1,
+    "name": "Abaya Clair de Lune",
+    "url": "https://naisoun.com/produit.html?id=abaya-clair-de-lune",
+    "price_text": "8 500 DA",
+    "price_da": 8500,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/07/DSC06854-1-600x900.webp"
+  },
+  {
+    "category": "pret-a-porter-abaya",
+    "page": 1,
+    "name": "Emerald Moon",
+    "url": "https://naisoun.com/produit.html?id=emerald-moon",
+    "price_text": "9 800 DA",
+    "price_da": 9800,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/07/DSC06474-1-600x900.webp"
+  },
+  {
+    "category": "pret-a-porter-abaya",
+    "page": 1,
+    "name": "Nuit Royale",
+    "url": "https://naisoun.com/produit.html?id=nuit-royale",
+    "price_text": "9 800 DA",
+    "price_da": 9800,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/07/DSC06450-1-600x900.webp"
+  },
+  {
+    "category": "pret-a-porter-abaya",
+    "page": 1,
+    "name": "Takm Esalat",
+    "url": "https://naisoun.com/produit.html?id=takm-esalat",
+    "price_text": "4 500 DA",
+    "price_da": 4500,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/07/DSC06430-1-600x900.webp"
+  }
+]

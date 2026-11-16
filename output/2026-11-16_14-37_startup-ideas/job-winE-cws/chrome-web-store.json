@@ -1,0 +1,8 @@
+{
+  "site": "https://chromewebstore.google.com/",
+  "status": "stopped_robots_disallow",
+  "reason": "robots.txt disallows /detail/*/reviews and /search, the paths needed for 1-2 star review data",
+  "pages_visited": ["https://chromewebstore.google.com/robots.txt", "https://chromewebstore.google.com/"],
+  "item_count": 0,
+  "items": []
+}

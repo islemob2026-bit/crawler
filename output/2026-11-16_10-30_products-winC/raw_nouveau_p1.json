@@ -1,0 +1,101 @@
+[
+  {
+    "category": "nouveau",
+    "page": 1,
+    "name": "Diamant Éternel",
+    "url": "https://naisoun.com/produit.html?id=diamant-eternel",
+    "price_text": "15 000 DA",
+    "price_da": 15000,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/07/DSC06390_5a882b62-1766-4380-b43b-19fd75e8e931-1-600x900.webp"
+  },
+  {
+    "category": "nouveau",
+    "page": 1,
+    "name": "Nuit Florale",
+    "url": "https://naisoun.com/produit.html?id=nuit-florale",
+    "price_text": "15 000 DA",
+    "price_da": 15000,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/07/007-1-600x900.webp"
+  },
+  {
+    "category": "nouveau",
+    "page": 1,
+    "name": "Ensemble Nahla",
+    "url": "https://naisoun.com/produit.html?id=ensemble-nahla",
+    "price_text": "4 900 DA",
+    "price_da": 4900,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/07/12-1-600x900.webp"
+  },
+  {
+    "category": "nouveau",
+    "page": 1,
+    "name": "Ensemble Sahara",
+    "url": "https://naisoun.com/produit.html?id=ensemble-sahara",
+    "price_text": "4 900 DA / 3 400 DA",
+    "price_da": 3400,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/07/1-1-600x899.webp"
+  },
+  {
+    "category": "nouveau",
+    "page": 1,
+    "name": "Robe Chemise",
+    "url": "https://naisoun.com/produit.html?id=robe-chemise",
+    "price_text": "4 900 DA / 3 400 DA",
+    "price_da": 3400,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/07/image0001-1-600x750.webp"
+  },
+  {
+    "category": "nouveau",
+    "page": 1,
+    "name": "Robe Sakura",
+    "url": "https://naisoun.com/produit.html?id=robe-sakura",
+    "price_text": "5 900 DA",
+    "price_da": 5900,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/08/sakura-rose-1-600x750.webp"
+  },
+  {
+    "category": "nouveau",
+    "page": 1,
+    "name": "Robe La Isla",
+    "url": "https://naisoun.com/produit.html?id=robe-la-isla",
+    "price_text": "6 400 DA",
+    "price_da": 6400,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/08/isla-1-600x750.webp"
+  },
+  {
+    "category": "nouveau",
+    "page": 1,
+    "name": "Chemise Polka",
+    "url": "https://naisoun.com/produit.html?id=chemise-polka",
+    "price_text": "2 900 DA",
+    "price_da": 2900,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/08/chemise-polka-1-600x750.webp"
+  },
+  {
+    "category": "nouveau",
+    "page": 1,
+    "name": "Jupe Polka",
+    "url": "https://naisoun.com/produit.html?id=jupe-polka",
+    "price_text": "3 500 DA",
+    "price_da": 3500,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/08/jupe-polka-1-600x750.webp"
+  },
+  {
+    "category": "nouveau",
+    "page": 1,
+    "name": "Ensemble Cache-Cœur",
+    "url": "https://naisoun.com/produit.html?id=ensemble-cache-coeur-bleu",
+    "price_text": "4 000 DA",
+    "price_da": 4000,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/10/ensemble-cache-coeur-1-600x750.webp"
+  },
+  {
+    "category": "nouveau",
+    "page": 1,
+    "name": "Ensemble El Bahdja",
+    "url": "https://naisoun.com/produit.html?id=ensemble-el-bahdja",
+    "price_text": "3 500 DA",
+    "price_da": 3500,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/10/ensemble-el-bahdja-1-600x750.webp"
+  }
+]

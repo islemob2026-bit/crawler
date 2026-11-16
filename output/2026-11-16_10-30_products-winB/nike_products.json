@@ -1,0 +1,29 @@
+{
+  "site": "nike.com",
+  "region_requested": "Algeria",
+  "algeria_online_store_exists": false,
+  "products_sold_online_to_algeria": false,
+  "crawled_at": "2026-11-16T13:03Z",
+  "urls_checked": [
+    "https://www.nike.com/",
+    "https://www.nike.com/dz/",
+    "https://www.nike.com/dz/en/",
+    "https://www.nike.com/help",
+    "https://www.nike.com/help/a/shipping-delivery-info-all",
+    "https://www.nike.com/help/a/international-shipping",
+    "https://www.nike.com/retail/directory/algeria/algiers/"
+  ],
+  "evidence": {
+    "country_selector": {
+      "africa_entries": ["Egypt (English) -> nike.com/eg/", "Morocco (English) -> nike.com/ma/en/", "Maroc (Français) -> nike.com/ma/", "South Africa (English) -> nike.com/za/"],
+      "middle_east_entries": ["Saudi Arabia", "United Arab Emirates", "Qatar", "Kuwait"],
+      "algeria_found": false,
+      "country_links_total": 86
+    },
+    "dz_storefront": "https://www.nike.com/dz/ and /dz/en/ both return Nike's 'Page not found' page",
+    "shipping_policy": "Nike Help: 'We currently offer shipping only within the US and to APO/FPO addresses. We do not offer international shipping...'",
+    "retail_directory": "nike.com/retail/directory/algeria/algiers lists only partnered physical stores (Bab Ezzouar Mall, Garden City Mall), no online shop"
+  },
+  "products": [],
+  "note": "No Algerian online catalogue exists, so no products were collected. Products from another country's Nike store were deliberately NOT collected, as they are not sold to Algeria."
+}

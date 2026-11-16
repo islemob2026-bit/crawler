@@ -1,0 +1,38 @@
+[
+  {
+    "name": "BOSS | BOTTINES EN CUIR KIDS",
+    "product_url": "https://www.lenomadefashion.com.dz/produit/boss-bottines-en-cuir/",
+    "price": 40500,
+    "price_text": "40 500,00 DZD",
+    "image_url": "https://www.lenomadefashion.com.dz/wp-content/uploads/2023/11/00-00059500_1-300x409.jpg",
+    "category": "FILLE",
+    "page": 1
+  },
+  {
+    "name": "KARL | PANTALON DE JOGGING",
+    "product_url": "https://www.lenomadefashion.com.dz/produit/karl-pantalon-de-jogging/",
+    "price": 24000,
+    "price_text": "24 000,00 DZD",
+    "image_url": "https://www.lenomadefashion.com.dz/wp-content/uploads/2023/11/AW23-SPK024-11X_F0-300x453.jpg",
+    "category": "FILLE",
+    "page": 1
+  },
+  {
+    "name": "KARL | ROBE PLISSÉE EN ORGANZA",
+    "product_url": "https://www.lenomadefashion.com.dz/produit/karl-robe-plissee-en-organza/",
+    "price": 34000,
+    "price_text": "34 000,00 DZD",
+    "image_url": "https://www.lenomadefashion.com.dz/wp-content/uploads/2023/11/telechargement-13-1-300x400.jpg",
+    "category": "FILLE",
+    "page": 1
+  },
+  {
+    "name": "Karl Lagerfeld | Basket Blanc",
+    "product_url": "https://www.lenomadefashion.com.dz/produit/karl-lagerfeld-basket-blanc/",
+    "price": 29500,
+    "price_text": "29 500,00 DZD",
+    "image_url": "https://www.lenomadefashion.com.dz/wp-content/uploads/2025/03/sneakersy-karl-lagerfeld-kids-z30007-m-white-10p-0000303669324-1-300x400.jpg",
+    "category": "FILLE",
+    "page": 1
+  }
+]

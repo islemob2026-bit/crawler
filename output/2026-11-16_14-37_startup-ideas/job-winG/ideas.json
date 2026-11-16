@@ -1,0 +1,6 @@
+{
+  "site": "https://flippa.com/",
+  "status": "blocked",
+  "reason": "Cloudflare bot challenge, HTTP 403 repeated after 20s backoff",
+  "items": []
+}

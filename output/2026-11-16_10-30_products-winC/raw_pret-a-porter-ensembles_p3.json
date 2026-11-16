@@ -1,0 +1,83 @@
+[
+  {
+    "category": "pret-a-porter-ensembles",
+    "page": 3,
+    "name": "Ensemble Zina",
+    "url": "https://naisoun.com/produit.html?id=ensemble-zina",
+    "price_text": "4 900 DA",
+    "price_da": 4900,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/07/ChatGPTImage27mai2026_00_31_12-1-600x901.webp"
+  },
+  {
+    "category": "pret-a-porter-ensembles",
+    "page": 3,
+    "name": "Ensemble Nour",
+    "url": "https://naisoun.com/produit.html?id=ensemble-nour",
+    "price_text": "4 900 DA",
+    "price_da": 4900,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/07/01-1-600x900.webp"
+  },
+  {
+    "category": "pret-a-porter-ensembles",
+    "page": 3,
+    "name": "Ensemble Nahla",
+    "url": "https://naisoun.com/produit.html?id=ensemble-nahla",
+    "price_text": "4 900 DA",
+    "price_da": 4900,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/07/12-1-600x900.webp"
+  },
+  {
+    "category": "pret-a-porter-ensembles",
+    "page": 3,
+    "name": "Ensemble Sahara",
+    "url": "https://naisoun.com/produit.html?id=ensemble-sahara",
+    "price_text": "4 900 DA / 3 400 DA",
+    "price_da": 3400,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/07/1-1-600x899.webp"
+  },
+  {
+    "category": "pret-a-porter-ensembles",
+    "page": 3,
+    "name": "Ensemble Sérénité",
+    "url": "https://naisoun.com/produit.html?id=ensemble-serenite",
+    "price_text": "4 900 DA",
+    "price_da": 4900,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/07/06-1-600x900.webp"
+  },
+  {
+    "category": "pret-a-porter-ensembles",
+    "page": 3,
+    "name": "Chemise Polka",
+    "url": "https://naisoun.com/produit.html?id=chemise-polka",
+    "price_text": "2 900 DA",
+    "price_da": 2900,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/08/chemise-polka-1-600x750.webp"
+  },
+  {
+    "category": "pret-a-porter-ensembles",
+    "page": 3,
+    "name": "Jupe Polka",
+    "url": "https://naisoun.com/produit.html?id=jupe-polka",
+    "price_text": "3 500 DA",
+    "price_da": 3500,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/08/jupe-polka-1-600x750.webp"
+  },
+  {
+    "category": "pret-a-porter-ensembles",
+    "page": 3,
+    "name": "Ensemble Cache-Cœur",
+    "url": "https://naisoun.com/produit.html?id=ensemble-cache-coeur-bleu",
+    "price_text": "4 000 DA",
+    "price_da": 4000,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/10/ensemble-cache-coeur-1-600x750.webp"
+  },
+  {
+    "category": "pret-a-porter-ensembles",
+    "page": 3,
+    "name": "Ensemble El Bahdja",
+    "url": "https://naisoun.com/produit.html?id=ensemble-el-bahdja",
+    "price_text": "3 500 DA",
+    "price_da": 3500,
+    "image_url": "https://api.naisoun.com/wp-content/uploads/2026/10/ensemble-el-bahdja-1-600x750.webp"
+  }
+]

@@ -1,0 +1,1 @@
+Site: https://news.ycombinator.com/ask (single start URL, stay on news.ycombinator.com). Collect up to 30 startup/side-hustle idea items from Ask HN threads: idea/title, thread URL, complaint/request/gap, price/revenue signal, points and comment count. One tab, 2-6s waits, no login/API. Stop on 403/429/5xx/CAPTCHA/login.
