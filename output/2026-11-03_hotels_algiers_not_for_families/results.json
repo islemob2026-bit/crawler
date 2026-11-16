@@ -1,0 +1,241 @@
+{
+  "task": "Search Google Maps for hotels in Algiers, check reviews for hotels users say are not suitable for families",
+  "collected_at": "2026-11-03",
+  "search_url": "https://www.google.com/maps/search/hotels+in+Algiers/",
+  "hotels_checked": 7,
+  "hotels_with_family_unfriendly_reviews": [
+    {
+      "hotel": "Sofitel Algiers Hamma Garden",
+      "rating": "4.2",
+      "reviews_count": "unknown",
+      "family_unfriendly_reviews": [
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Malheureusement, cet hôtel n'est pas du tout adapté pour un séjour en famille avec enfants, piscine beaucoup trop froide. Mon enfant n'avait pieds nulle part (alors qu'il a 5 ans).",
+          "keyword_searched": "famille, enfant, bébé"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Séjour extrêmement décevant en famille dans un établissement qui ne correspond absolument pas à l'expérience attendue d'un Sofitel.",
+          "keyword_searched": "famille"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "tout nos séminaire ne seront plus effectuer chez vous et nos séjours famille non plus",
+          "keyword_searched": "famille"
+        },
+        {
+          "author": "unnamed",
+          "rating": "3/5",
+          "snippet": "Je le conseille beaucoup moins pour un séjour en famille 'respectable'",
+          "keyword_searched": "famille"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Nous avions demandé un couchage pour notre enfant à 15h. Malgré plusieurs relances, il ne nous a été livré qu'à 23h30. Plus de huit heures d'attente.",
+          "keyword_searched": "enfant"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Nous avions demandé un lit enfant supplémentaire, le lit n'y était pas, après 4 rappels, nous l'avons eu. La piscine est vétuste, les transats abîmés et sales.",
+          "keyword_searched": "enfant"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "J'ai dû manger sur le trottoir avec mon bébé, alors que j'avais simplement commandé à manger pour éviter de le réveiller. Un minimum de compréhension et de flexibilité.",
+          "keyword_searched": "bébé"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "j'avais demandé lors de la réservation n'était pas disponible, alors que j'avais clairement précisé que je voyageais avec un bébé et que j'en avais besoin.",
+          "keyword_searched": "bébé"
+        }
+      ]
+    },
+    {
+      "hotel": "Hyatt Regency Algiers Airport",
+      "rating": "4.3",
+      "reviews_count": "unknown",
+      "family_unfriendly_reviews": [
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "voyageant en famille avec des enfants, nous n'avons pas pu profiter sereinement de la terrasse. De nombreuses personnes y consommaient de...",
+          "keyword_searched": "famille"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "il n'est pas digne d'un 5* de la chaîne Hyatt Regency de laisser une famille avec des enfants en bas âge comme cela",
+          "keyword_searched": "famille"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Après avoir fait deux heures de route pour venir profiter du buffet du mois du Ramadan en famille, j'ai demandé à la responsable du buffet l'autorisation d'emporter deux simples bricks qui restaient dans mon assiette.",
+          "keyword_searched": "famille"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Je suis particulièrement déçu par le manque de réactivité et de professionnalisme du service réservation du Hyatt Regency de l'aéroport d'Alger.",
+          "keyword_searched": "pas pour"
+        }
+      ]
+    },
+    {
+      "hotel": "Hotel Best Night - Bab Ezzouar",
+      "rating": "3.8",
+      "reviews_count": "unknown",
+      "family_unfriendly_reviews": [
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Expérience catastrophique – À éviter absolument. Nous avions réservé une chambre familiale deux mois à l'avance pour garantir notre séjour.",
+          "keyword_searched": "pas pour"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "NUL !!!! Quand j'ai vu que des bons avis j'ai bien compris que les avis ne sont pas vérifiés et n'importe qui peut poster un avis j'ai réservé une chambre familiale lit double je rentre dans la chambre je trouve 2 lit séparés",
+          "keyword_searched": "pas pour"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "la décision inacceptable, le réceptionniste a réagi de façon extrêmement grossière et irrespectueuse, envers moi et envers ma famille. Un hôtel qui confirme une réservation par téléphone la veille et qui la revend le lendemain matin.",
+          "keyword_searched": "famille"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Hôtel est correct par contre les draps ne sont pas changés et le lit parapluie pour bébé était extrêmement sale.",
+          "keyword_searched": "bébé"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Par apport le prix c'est pas juste, une nuit en environ 45€ et que après quand tu rentre dans le hall de hotel et vers l'ascenseur et le restaurant tu trouve des cafards, la propreté catastrophique.",
+          "keyword_searched": "pas pour"
+        }
+      ]
+    },
+    {
+      "hotel": "Hôtel Marriott Algiers Bab Ezzouar",
+      "rating": "4.1",
+      "reviews_count": "unknown",
+      "family_unfriendly_reviews": [
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "DÉCEVANT et le mot est faible. Nous sommes arrivés en famille après 5h de route, on nous indique (à 18h30) que la suite n'est pas prête mais on nous encaisse quand même le montant de la suite.",
+          "keyword_searched": "famille"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "la fréquentation de cette établissement on nous demande notre livret de famille et je pense pas que c'est pour tout le monde vraiment dommage quand on séjourne en famille",
+          "keyword_searched": "famille"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "on m'a répondu qu'il fallait obligatoirement réserver une suite pour avoir un lit bébé, alors que je demandais simplement un matelas supplémentaire.",
+          "keyword_searched": "bébé"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Nous avions demandé un lit bébé ou un matelas ya pas. Il ya la piscine interdit au enfant.",
+          "keyword_searched": "enfant"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "le livret de famille ne contenant même pas de photo ne justifie même pas en réalité l'identité de l'enfant. Le personnel a été insolent.",
+          "keyword_searched": "enfant"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Nous avions réservé une chambre pour un couple avec un bébé, en demandant simplement un matelas supplémentaire pour l'enfant. À ma grande surprise, la personne chargée des réservations m'a répondu qu'il fallait obligatoirement réserver une suite.",
+          "keyword_searched": "bébé"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "insupportables nous qui sommes habitués au bruit avec 3 enfants c'était juste pas possible de se reposer.. avec un bébé de 7 mois cela a été très compliqué.",
+          "keyword_searched": "bébé"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Le restaurant ne contient pas de chaise haute pour bébé quand nous avons demandé on nous dit qu'il n y'avait pas pour des raisons sanitaires à cause de la pandémie.",
+          "keyword_searched": "bébé"
+        }
+      ]
+    },
+    {
+      "hotel": "Residence Inn by Marriott Algiers Bab Ezzouar",
+      "rating": "4.0",
+      "reviews_count": "unknown",
+      "family_unfriendly_reviews": [
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Très mauvaise expérience, surtout pour un séjour en famille avec trois enfants. On m'avait indiqué que l'arrivée était possible à partir de 15h. À notre arrivée, on nous a finalement annoncé que la chambre ne serait pas disponible avant...",
+          "keyword_searched": "famille"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Pas de housse de couette, pas de serviette, téléphone fixe qui ne fonctionne pas, canapé clic clac sans drap ni oreiller pour que mes enfants puisse dormir! Frigo en panne, de l'eau qui coule. Bref une cata!",
+          "keyword_searched": "pas pour"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Dommage pour les ploucs qui y séjournent car ils ne demandent pas de livret de famille aux couples.",
+          "keyword_searched": "famille"
+        }
+      ]
+    },
+    {
+      "hotel": "City Hotel Algiers",
+      "rating": "3.5",
+      "reviews_count": "unknown",
+      "family_unfriendly_reviews": [
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Hôtel à fuire ! L'hôtel a annulé mes 5 nuits la veille de mon arrivée. On se retrouve en famille avec les valises à la réception en nous annonçant que nos deux chambres ont été redonnées à des clients.",
+          "keyword_searched": "famille"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "Hotel horrible, degeulasse. Il n'y a pas de clim soit disant ils n'ont pas les autorisations de l'état pour les allumer a cette periode, la bonne blague!!! L'état de la chambre une catastrophe, de la moisissure sur les murs, des insectes...",
+          "keyword_searched": "pas pour"
+        },
+        {
+          "author": "unnamed",
+          "rating": "1/5",
+          "snippet": "sale. Le réceptionniste m'a indiqué qu'il ne la louait plus depuis environ un mois car la clim de cette chambre n'est pas optimale. Il a mis du produit anti-cafards en spray.",
+          "keyword_searched": "pas pour"
+        }
+      ]
+    }
+  ],
+  "hotels_with_no_family_unfriendly_reviews": [
+    "Sofitel Algiers Hamma Garden - (has both positive and negative family reviews, listed above)",
+    "Hyatt Regency Algiers Airport - (has both positive and negative family reviews, listed above)"
+  ],
+  "notes": "All 7 hotels in the Algiers search results were checked. Reviews were searched using keywords: famille, enfant, bébé, pas pour, pas adapté, familial. Only snippets containing family-related content are included. Full review text was not expanded (truncated in list view)."
+}

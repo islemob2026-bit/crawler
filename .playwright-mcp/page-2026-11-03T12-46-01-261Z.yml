@@ -1,0 +1,285 @@
+- generic [ref=f14e1]:
+  - generic "Google Maps" [ref=f14e9]:
+    - generic [ref=f14e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f14e15]
+      - search [ref=f14e20]:
+        - button "Retour" [ref=f14e725] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f14e726]: 
+        - generic [ref=f14e21]:
+          - combobox [ref=f14e23]: Hotel Best Night - Bab Ezzouar
+          - button "Rechercher" [ref=f14e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f14e26]: 
+          - button "Fermer" [ref=f14e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f14e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f14e36]:
+        - generic [ref=f14e39]:
+          - button "Hôtels à proximité" [ref=f14e41] [cursor=pointer]:
+            - generic [ref=f14e42]:
+              - generic [aria-hidden] [ref=f14e44]: 
+              - generic [ref=f14e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f14e47] [cursor=pointer]:
+            - generic [ref=f14e48]:
+              - generic [aria-hidden] [ref=f14e50]: 
+              - generic [ref=f14e51]: Restaurants
+          - button "Activités à découvrir" [ref=f14e53] [cursor=pointer]:
+            - generic [ref=f14e54]:
+              - generic [aria-hidden] [ref=f14e56]: 
+              - generic [ref=f14e57]: Activités à découvrir
+          - button "Bars" [ref=f14e59] [cursor=pointer]:
+            - generic [ref=f14e60]:
+              - generic [aria-hidden] [ref=f14e62]: 
+              - generic [ref=f14e63]: Bars
+          - button "Cafés" [ref=f14e65] [cursor=pointer]:
+            - generic [ref=f14e66]:
+              - generic [aria-hidden] [ref=f14e68]: 
+              - generic [ref=f14e69]: Cafés
+          - button "Pharmacies" [ref=f14e71] [cursor=pointer]:
+            - generic [ref=f14e72]:
+              - generic [aria-hidden] [ref=f14e74]: 
+              - generic [ref=f14e75]: Pharmacies
+          - button "Parkings" [ref=f14e77] [cursor=pointer]:
+            - generic [ref=f14e78]:
+              - generic [aria-hidden] [ref=f14e80]: 
+              - generic [ref=f14e81]: Parkings
+      - generic [ref=f14e82]:
+        - generic [ref=f14e83]:
+          - list [ref=f14e85]:
+            - listitem [ref=f14e86]:
+              - button "Menu" [ref=f14e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e89]: 
+            - listitem [ref=f14e90]:
+              - button "Enregistré" [ref=f14e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e93]: 
+            - listitem [ref=f14e96]:
+              - button "Récents" [ref=f14e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e99]: 
+            - listitem [ref=f14e103]:
+              - button "Hotel Best Night - Bab Ezzouar" [ref=f14e104] [cursor=pointer]
+            - listitem [ref=f14e112]:
+              - button "Obtenir l'appli" [ref=f14e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e115]: 
+          - main "Hotel Best Night - Bab Ezzouar" [ref=f14e122]:
+            - tablist [ref=f14e165]:
+              - tab "Hotel Best Night - Bab Ezzouar - Présentation" [ref=f14e166]:
+                - generic [aria-hidden] [ref=f14e168]: Présentation
+              - tab "Prix pour Hotel Best Night - Bab Ezzouar" [ref=f14e170]:
+                - generic [aria-hidden] [ref=f14e172]: Prix
+              - tab "Hotel Best Night - Bab Ezzouar - Avis" [selected] [ref=f14e174]:
+                - generic [aria-hidden] [ref=f14e176]: Avis
+              - tab "Informations sur Hotel Best Night - Bab Ezzouar" [ref=f14e178]:
+                - generic [aria-hidden] [ref=f14e180]: À propos
+            - generic [ref=f14e728]:
+              - generic [ref=f14e730]:
+                - list [ref=f14e732]:
+                  - listitem [ref=f14e733]: 11 554 DA
+                  - text: ·
+                  - listitem [ref=f14e734]: Hôtel 3 étoiles
+                - generic [ref=f14e735]: 6–7 nov.
+              - link [ref=f14e739] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f14e740]:
+                  - generic [aria-hidden] [ref=f14e741]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f14e743]:
+              - generic [ref=f14e744]:
+                - heading "Résumé des avis Google" [level=2] [ref=f14e746]
+                - button "Informations" [ref=f14e748] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f14e749]: 
+              - generic [ref=f14e751]:
+                - table [ref=f14e753]:
+                  - rowgroup [ref=f14e754]:
+                    - img "5 étoiles, 1 251 avis" [ref=f14e755]: "5"
+                    - img "4 étoiles, 202 avis" [ref=f14e758]: "4"
+                    - img "3 étoiles, 132 avis" [ref=f14e761]: "3"
+                    - img "2 étoiles, 40 avis" [ref=f14e764]: "2"
+                    - img "1 étoiles, 156 avis" [ref=f14e767]: "1"
+                - generic [ref=f14e770]:
+                  - generic [ref=f14e771]: 4,3
+                  - img "4,3 étoiles" [ref=f14e772]
+                  - generic [ref=f14e778]: 1 781 avis
+              - button "Rédiger un avis" [ref=f14e782] [cursor=pointer]:
+                - generic [ref=f14e783]:
+                  - generic [aria-hidden] [ref=f14e784]: 
+                  - generic [ref=f14e785]: Rédiger un avis
+              - generic [ref=f14e789]:
+                - textbox [active] [ref=f14e973]: famille
+                - button "Effacer" [ref=f14e974] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f14e975]: 
+              - generic [ref=f14e791]:
+                - button "Tous les avis" [ref=f14e792] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f14e794]: 
+                - button "Avis les plus pertinents" [ref=f14e795] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f14e797]: 
+              - generic [ref=f14e976]:
+                - generic "Yacob Dj." [ref=f14e977]:
+                  - generic [ref=f14e979]:
+                    - button "Photo de Yacob Dj." [ref=f14e980]
+                    - generic [ref=f14e982]:
+                      - button "Yacob Dj. 8 avis · 2 photos" [ref=f14e984]:
+                        - generic [ref=f14e985]: Yacob Dj.
+                        - generic [ref=f14e986]: 8 avis · 2 photos
+                      - button "Actions pour l'avis rédigé par Yacob Dj." [ref=f14e987] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f14e989]: 
+                    - generic [ref=f14e990]:
+                      - generic [ref=f14e991]:
+                        - generic [ref=f14e992]: 1/5
+                        - generic [ref=f14e993]:
+                          - text: il y a 3 mois sur
+                          - generic [ref=f14e994]: Google
+                      - generic [ref=f14e996]:
+                        - generic [ref=f14e997]: … décision inacceptable, le réceptionniste a réagi de façon extrêmement grossière et irrespectueuse, envers moi et envers ma famille. Un hôtel qui confirme une réservation par téléphone la veille et qui la revend le lendemain matin sans …
+                        - button "Voir plus" [ref=f14e999] [cursor=pointer]: Plus
+                      - generic [ref=f14e1000]:
+                        - button "1 \"J'aime\"" [ref=f14e1001]:
+                          - generic [ref=f14e1002] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1003]: 
+                            - generic [ref=f14e1004]: "1"
+                        - button "Partager l'avis rédigé par Yacob Dj.." [ref=f14e1006]:
+                          - generic [ref=f14e1007] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1008]: 
+                            - generic [ref=f14e1009]: Partager
+                - generic "Brahim Kerroumi" [ref=f14e1013]:
+                  - generic [ref=f14e1015]:
+                    - button "Photo de Brahim Kerroumi" [ref=f14e1016]
+                    - generic [ref=f14e1018]:
+                      - button "Brahim Kerroumi Local Guide · 28 avis · 27 photos" [ref=f14e1020]:
+                        - generic [ref=f14e1021]: Brahim Kerroumi
+                        - generic [ref=f14e1022]: Local Guide · 28 avis · 27 photos
+                      - button "Actions pour l'avis rédigé par Brahim Kerroumi" [ref=f14e1023] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f14e1025]: 
+                    - generic [ref=f14e1026]:
+                      - generic [ref=f14e1027]:
+                        - generic [ref=f14e1028]: 5/5
+                        - generic [ref=f14e1029]:
+                          - text: il y a 3 mois sur
+                          - generic [ref=f14e1030]: Google
+                      - generic [ref=f14e1032]:
+                        - generic [ref=f14e1033]: Tout était bon, les matelas confortables, la Clim fonctionne tres bien, l’accueil était chaleureux, les draps et les oreillers étaient propres. On a pu avoir une chambre de 4 personnes car on était en famille. Je le recommande fortement!
+                        - button "Voir plus" [ref=f14e1035] [cursor=pointer]: Plus
+                      - generic [ref=f14e1036]:
+                        - button "J'aime" [ref=f14e1037]:
+                          - generic [ref=f14e1038] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1039]: 
+                            - generic [ref=f14e1040]: J'aime
+                        - button "Partager l'avis rédigé par Brahim Kerroumi." [ref=f14e1042]:
+                          - generic [ref=f14e1043] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1044]: 
+                            - generic [ref=f14e1045]: Partager
+                - generic "Halfaoui karim" [ref=f14e1049]:
+                  - generic [ref=f14e1051]:
+                    - button "Photo de Halfaoui karim" [ref=f14e1052]
+                    - generic [ref=f14e1054]:
+                      - button "Halfaoui karim Local Guide · 109 avis · 273 photos" [ref=f14e1056]:
+                        - generic [ref=f14e1057]: Halfaoui karim
+                        - generic [ref=f14e1058]: Local Guide · 109 avis · 273 photos
+                      - button "Actions pour l'avis rédigé par Halfaoui karim" [ref=f14e1059] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f14e1061]: 
+                    - generic [ref=f14e1062]:
+                      - generic [ref=f14e1063]:
+                        - generic [ref=f14e1064]: 5/5
+                        - generic [ref=f14e1065]:
+                          - text: il y a un an sur
+                          - generic [ref=f14e1066]: Google
+                      - generic [ref=f14e1068]:
+                        - generic [ref=f14e1069]: C'est un hôtel dans lequel j'ai résider avec ma famille il y a quelques années, Hôtel moderne , chambre spacieuse, et staff très a la hauteur. D'ailleurs c'est le seul hôtel qui a accepté de garder ma voiture dans le parking pendant mon …
+                        - button "Voir plus" [ref=f14e1071] [cursor=pointer]: Plus
+                      - generic [ref=f14e1072]:
+                        - button "J'aime" [ref=f14e1073]:
+                          - generic [ref=f14e1074] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1075]: 
+                            - generic [ref=f14e1076]: J'aime
+                        - button "Partager l'avis rédigé par Halfaoui karim." [ref=f14e1078]:
+                          - generic [ref=f14e1079] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1080]: 
+                            - generic [ref=f14e1081]: Partager
+                - generic "Belinda Gouasmia" [ref=f14e1085]:
+                  - generic [ref=f14e1087]:
+                    - button "Photo de Belinda Gouasmia" [ref=f14e1088]
+                    - generic [ref=f14e1090]:
+                      - button "Belinda Gouasmia 4 avis" [ref=f14e1092]:
+                        - generic [ref=f14e1093]: Belinda Gouasmia
+                        - generic [ref=f14e1094]: 4 avis
+                      - button "Actions pour l'avis rédigé par Belinda Gouasmia" [ref=f14e1095] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f14e1097]: 
+                    - generic [ref=f14e1098]:
+                      - generic [ref=f14e1099]:
+                        - generic [ref=f14e1100]: 5/5
+                        - generic [ref=f14e1101]:
+                          - text: il y a un an sur
+                          - generic [ref=f14e1102]: Google
+                      - generic [ref=f14e1104]:
+                        - generic [ref=f14e1105]: J’y ai séjourné en famille. Personnel au top et disponible. Chambre très propre , petit déjeuner très variés. L’hôtel est très bien située . Il à toujours des places pour se garer devant .
+                        - button "Voir plus" [ref=f14e1107] [cursor=pointer]: Plus
+                      - generic [ref=f14e1108]:
+                        - button "J'aime" [ref=f14e1109]:
+                          - generic [ref=f14e1110] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1111]: 
+                            - generic [ref=f14e1112]: J'aime
+                        - button "Partager l'avis rédigé par Belinda Gouasmia." [ref=f14e1114]:
+                          - generic [ref=f14e1115] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1116]: 
+                            - generic [ref=f14e1117]: Partager
+                - generic "Mokhtar Djamed" [ref=f14e1121]:
+                  - generic [ref=f14e1123]:
+                    - button "Photo de Mokhtar Djamed" [ref=f14e1124]
+                    - generic [ref=f14e1126]:
+                      - button "Mokhtar Djamed 1 avis" [ref=f14e1128]:
+                        - generic [ref=f14e1129]: Mokhtar Djamed
+                        - generic [ref=f14e1130]: 1 avis
+                      - button "Actions pour l'avis rédigé par Mokhtar Djamed" [ref=f14e1131] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f14e1133]: 
+                    - generic [ref=f14e1134]:
+                      - generic [ref=f14e1135]:
+                        - generic [ref=f14e1136]: 1/5
+                        - generic [ref=f14e1137]:
+                          - text: il y a un an sur
+                          - generic [ref=f14e1138]: Google
+                      - generic [ref=f14e1140]:
+                        - generic [ref=f14e1141]: … de la part du réceptionniste 28/01/2025 J’ai appeler au téléphone pour réserver une chambre pour 2 personnes ( ma famille ) à 14500 dinars (1 million 450) en précisant coter boulevard, le réceptionniste me dit y a des chambres coter …
+                        - button "Voir plus" [ref=f14e1143] [cursor=pointer]: Plus
+                      - generic [ref=f14e1144]:
+                        - button "J'aime" [ref=f14e1145]:
+                          - generic [ref=f14e1146] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1147]: 
+                            - generic [ref=f14e1148]: J'aime
+                        - button "Partager l'avis rédigé par Mokhtar Djamed." [ref=f14e1150]:
+                          - generic [ref=f14e1151] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1152]: 
+                            - generic [ref=f14e1153]: Partager
+              - button "Voir plus d'avis (1 776)" [ref=f14e1157]
+              - generic [ref=f14e1162]:
+                - generic [aria-hidden] [ref=f14e1164]: 
+                - generic [ref=f14e1165]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=f14e1166] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=f14e665] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f14e666]: 
+      - generic [ref=f14e670]:
+        - button "Applications Google" [ref=f14e674] [cursor=pointer]
+        - link "Connexion" [ref=f14e678] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FHotel%2BBest%2BNight%2B-%2BBab%2BEzzouar%2F%4036.7244284%2C3.1706173%2C17z%2Fdata%3D!4m11!3m10!1s0x128e521bcdecec8d%3A0xd61df57da15fbfc2!5m2!4m1!1i2!8m2!3d36.7244284!4d3.1706173!9m1!1b1!16s%252Fg%252F11b6_fgfdc%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f14e681] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f14e683]: 
+          - generic [ref=f14e685] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f14e686]:
+              - generic [aria-hidden] [ref=f14e688]: 
+            - button "Faire un zoom arrière" [ref=f14e689]:
+              - generic [aria-hidden] [ref=f14e691]: 
+        - button "Parcourir les images Street View" [ref=f14e697]
+        - generic [ref=f14e699]:
+          - generic "Carte interactive" [ref=f14e700]
+          - generic [ref=f14e704] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f14e705]: 
+            - generic [ref=f14e706]: Calques
+          - button "Calques" [ref=f14e707] [cursor=pointer]
+      - generic [ref=f14e709]:
+        - contentinfo [ref=f14e712]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f14e713] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f14e714] [cursor=pointer]
+          - button "Confidentialité" [ref=f14e715] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f14e716] [cursor=pointer]
+        - button "100 m" [ref=f14e718] [cursor=pointer]
+  - generic [ref=f14e1167]: Affichage des résultats pour famille

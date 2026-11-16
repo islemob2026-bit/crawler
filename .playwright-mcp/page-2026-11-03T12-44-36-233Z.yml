@@ -1,0 +1,339 @@
+- generic "Google Maps" [ref=f12e9]:
+  - dialog [ref=f12e10]:
+    - generic [ref=f12e13]:
+      - generic [aria-hidden] [ref=f12e14]: 
+      - text: Indiquez vos dates pour afficher les meilleurs prix
+  - generic [ref=f12e3]:
+    - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f12e15]
+    - search [ref=f12e20]:
+      - generic [ref=f12e21]:
+        - combobox [ref=f12e23]: City Hotel Algiers
+        - button "Rechercher" [ref=f12e25] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f12e26]: 
+        - button "Fermer" [ref=f12e28] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f12e29]: 
+    - region "Options de recherche disponibles pour cette zone" [ref=f12e36]:
+      - generic [ref=f12e39]:
+        - button "Hôtels à proximité" [ref=f12e41] [cursor=pointer]:
+          - generic [ref=f12e42]:
+            - generic [aria-hidden] [ref=f12e44]: 
+            - generic [ref=f12e45]: Hôtels à proximité
+        - button "Restaurants" [ref=f12e47] [cursor=pointer]:
+          - generic [ref=f12e48]:
+            - generic [aria-hidden] [ref=f12e50]: 
+            - generic [ref=f12e51]: Restaurants
+        - button "Activités à découvrir" [ref=f12e53] [cursor=pointer]:
+          - generic [ref=f12e54]:
+            - generic [aria-hidden] [ref=f12e56]: 
+            - generic [ref=f12e57]: Activités à découvrir
+        - button "Bars" [ref=f12e59] [cursor=pointer]:
+          - generic [ref=f12e60]:
+            - generic [aria-hidden] [ref=f12e62]: 
+            - generic [ref=f12e63]: Bars
+        - button "Cafés" [ref=f12e65] [cursor=pointer]:
+          - generic [ref=f12e66]:
+            - generic [aria-hidden] [ref=f12e68]: 
+            - generic [ref=f12e69]: Cafés
+        - button "Pharmacies" [ref=f12e71] [cursor=pointer]:
+          - generic [ref=f12e72]:
+            - generic [aria-hidden] [ref=f12e74]: 
+            - generic [ref=f12e75]: Pharmacies
+        - button "Parkings" [ref=f12e77] [cursor=pointer]:
+          - generic [ref=f12e78]:
+            - generic [aria-hidden] [ref=f12e80]: 
+            - generic [ref=f12e81]: Parkings
+    - generic [ref=f12e82]:
+      - generic [ref=f12e83]:
+        - list [ref=f12e85]:
+          - listitem [ref=f12e86]:
+            - button "Menu" [ref=f12e87] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f12e89]: 
+          - listitem [ref=f12e90]:
+            - button "Enregistré" [ref=f12e91] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f12e93]: 
+          - listitem [ref=f12e96]:
+            - button "Récents" [ref=f12e97] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f12e99]: 
+          - listitem [ref=f12e103]:
+            - button "City Hotel Algiers" [ref=f12e104] [cursor=pointer]
+          - listitem [ref=f12e112]:
+            - button "Obtenir l'appli" [ref=f12e113] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f12e115]: 
+        - main "City Hotel Algiers" [ref=f12e122]:
+          - generic [ref=f12e123]:
+            - generic [ref=f12e124]:
+              - button "Photo de City Hotel Algiers" [ref=f12e126] [cursor=pointer]
+              - button "À partir de 7 262 DA par nuit pour 7–8 nov.." [ref=f12e129] [cursor=pointer]:
+                - generic [ref=f12e130]:
+                  - generic [ref=f12e131]: 7 262 DA
+                  - generic [ref=f12e133]: 7–8 nov.
+              - button "Voir les photos" [ref=f12e134] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e135]: 
+            - generic [ref=f12e139]:
+              - heading "City Hotel Algiers" [level=1] [ref=f12e141]
+              - heading "فُندقُ سيتي الجَزائر" [level=2] [ref=f12e142]
+              - generic [ref=f12e146]:
+                - generic [ref=f12e147]:
+                  - generic [ref=f12e148]:
+                    - text: 3,6
+                    - img "3,6 étoiles" [ref=f12e149]
+                  - img "591 avis" [ref=f12e157]: (591)
+                - generic [ref=f12e160]:
+                  - text: ·
+                  - generic [ref=f12e161]: Hôtel 3 étoiles
+            - tablist [ref=f12e165]:
+              - tab "City Hotel Algiers - Présentation" [selected] [ref=f12e166]:
+                - generic [aria-hidden] [ref=f12e168]: Présentation
+              - tab "Prix pour City Hotel Algiers" [ref=f12e170]:
+                - generic [aria-hidden] [ref=f12e172]: Prix
+              - tab "City Hotel Algiers - Avis" [ref=f12e174]:
+                - generic [aria-hidden] [ref=f12e176]: Avis
+              - tab "Informations sur City Hotel Algiers" [ref=f12e178]:
+                - generic [aria-hidden] [ref=f12e180]: À propos
+            - region "City Hotel Algiers - Actions" [ref=f12e182]:
+              - button "Itinéraires" [ref=f12e184] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e186]: 
+              - button "Enregistrer" [ref=f12e189] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e191]: 
+              - button "À proximité" [ref=f12e194] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e196]: 
+              - button "Partager" [ref=f12e199] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e201]: 
+            - link [ref=f12e205] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f12e206]:
+                - generic [aria-hidden] [ref=f12e207]: 
+                - text: Vérifier la disponibilité
+            - generic [ref=f12e210]:
+              - generic [ref=f12e212]:
+                - heading "Comparer les prix" [level=2] [ref=f12e213]
+                - generic [ref=f12e215]:
+                  - generic [ref=f12e216]: Annulation gratuite uniquement
+                  - checkbox "Annulation gratuite uniquement" [ref=f12e217]:
+                    - generic [aria-hidden] [ref=f12e218]: 
+                    - checkbox "Annulation gratuite uniquement" [ref=f12e219] [cursor=pointer]
+              - generic [ref=f12e220]:
+                - group "Arrivée/Départ" [ref=f12e221]:
+                  - group "Du samedi 7 novembre au dimanche 8 novembre" [active] [ref=f12e223]:
+                    - generic [ref=f12e225] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f12e226]: sam. 7 nov.
+                      - generic [ref=f12e227]:
+                        - button "Arriver un jour plus tôt" [ref=f12e228]:
+                          - generic [aria-hidden] [ref=f12e229]: 
+                        - button "Arriver un jour plus tard" [ref=f12e230]:
+                          - generic [aria-hidden] [ref=f12e231]: 
+                    - generic [ref=f12e233] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f12e234]: dim. 8 nov.
+                      - generic [ref=f12e235]:
+                        - button "Partir un jour plus tôt" [disabled] [ref=f12e236]:
+                          - generic [aria-hidden] [ref=f12e237]: 
+                        - button "Partir un jour plus tard" [ref=f12e238]:
+                          - generic [aria-hidden] [ref=f12e239]: 
+                - group "Invités" [ref=f12e240]:
+                  - generic [aria-hidden] [ref=f12e241]: 
+                  - button "2 clients" [ref=f12e242] [cursor=pointer]:
+                    - text: "2"
+                    - generic [aria-hidden] [ref=f12e243]: 
+              - generic [ref=f12e247]:
+                - heading "Toutes les options" [level=2] [ref=f12e250]
+                - generic [ref=f12e251]:
+                  - button "Etrip.net 7 262 DA" [ref=f12e257] [cursor=pointer]:
+                    - generic [ref=f12e259]:
+                      - generic [ref=f12e260]: Etrip.net
+                      - generic [ref=f12e262]:
+                        - generic [ref=f12e263]: 7 262 DA
+                        - generic [aria-hidden] [ref=f12e264]: 
+                  - button "Trip.com 7 361 DA" [ref=f12e270] [cursor=pointer]:
+                    - generic [ref=f12e272]:
+                      - generic [ref=f12e273]: Trip.com
+                      - generic [ref=f12e275]:
+                        - generic [ref=f12e276]: 7 361 DA
+                        - generic [aria-hidden] [ref=f12e277]: 
+                  - button "Voir les chambres" [ref=f12e279] [cursor=pointer]:
+                    - text: Voir les chambres
+                    - generic [aria-hidden] [ref=f12e280]: 
+                  - button "Plus de prix à partir de 7 346 DA" [ref=f12e283]
+            - region "City Hotel Algiers - Informations" [ref=f12e289]:
+              - generic [ref=f12e290]:
+                - 'button "Adresse: 72 Rue Hassiba Ben Bouali, Sidi M''Hamed 16000" [ref=f12e291] [cursor=pointer]':
+                  - generic [ref=f12e292]:
+                    - generic [aria-hidden] [ref=f12e294]: 
+                    - generic [ref=f12e295]: 72 Rue Hassiba Ben Bouali, Sidi M'Hamed 16000
+                - button "Copier l'adresse" [ref=f12e299] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f12e301]: 
+              - generic [ref=f12e302]:
+                - 'link "Site Web: cityhotelalger.com" [ref=f12e303] [cursor=pointer]':
+                  - /url: http://www.cityhotelalger.com/
+                  - generic [ref=f12e304]:
+                    - generic [aria-hidden] [ref=f12e306]: 
+                    - generic [ref=f12e307]: cityhotelalger.com
+                - generic [ref=f12e309]:
+                  - link "Accéder au site Web" [ref=f12e311] [cursor=pointer]:
+                    - /url: http://www.cityhotelalger.com/
+                    - generic [aria-hidden] [ref=f12e313]: 
+                  - button "Copier le site Web" [ref=f12e315] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f12e317]: 
+              - generic [ref=f12e318]:
+                - 'button "Numéro de téléphone: 0770 80 50 40" [ref=f12e319] [cursor=pointer]':
+                  - generic [ref=f12e320]:
+                    - generic [aria-hidden] [ref=f12e322]: 
+                    - generic [ref=f12e323]: 0770 80 50 40
+                - generic [ref=f12e325]:
+                  - button "Copier le numéro de téléphone" [ref=f12e327] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f12e329]: 
+                  - link "Composer le numéro de téléphone" [ref=f12e331] [cursor=pointer]:
+                    - /url: tel:0770805040
+                    - generic [aria-hidden] [ref=f12e333]: 
+              - generic [ref=f12e334]:
+                - 'button "Plus code: Q374+2H Sidi M''Hamed" [ref=f12e335] [cursor=pointer]':
+                  - generic [ref=f12e336]:
+                    - generic [aria-hidden] [ref=f12e338]: 
+                    - generic [ref=f12e339]: Q374+2H Sidi M'Hamed
+                - generic [ref=f12e341]:
+                  - button "Copier le plus code" [ref=f12e343] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f12e345]: 
+                  - button "En savoir plus sur les plus codes" [ref=f12e347] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f12e349]: 
+              - generic [ref=f12e351]:
+                - generic [aria-hidden] [ref=f12e353]: 
+                - generic [ref=f12e354]: "Heure d'arrivée : 2:00 PMHeure de départ : 12:00 PM"
+            - button "Suggérer une modification" [ref=f12e359] [cursor=pointer]:
+              - generic [ref=f12e360]:
+                - generic [aria-hidden] [ref=f12e361]: 
+                - generic [ref=f12e362]: Suggérer une modification
+            - heading "Photos" [level=2] [ref=f12e366]
+            - button "450 photos" [ref=f12e369] [cursor=pointer]
+            - button "Ajouter des photos/vidéos" [ref=f12e377] [cursor=pointer]:
+              - generic [ref=f12e378]:
+                - generic [aria-hidden] [ref=f12e379]: 
+                - generic [ref=f12e380]: Ajouter des photos/vidéos
+            - heading "Hôtels similaires à proximité" [level=2] [ref=f12e384]
+            - region "Hôtels similaires à proximité" [ref=f12e385]:
+              - generic [ref=f12e388]:
+                - link "HOTEL SAMIR·7 413 DA·4,0 étoiles·541 avis·petit-déjeuner inclus·À 0,6 km" [ref=f12e389] [cursor=pointer]:
+                  - generic [ref=f12e390]: 7 413 DA
+                  - generic [ref=f12e393]:
+                    - generic [ref=f12e394]: HOTEL SAMIR
+                    - img "4,0 étoiles 541 avis" [ref=f12e398]: 4,0(541)
+                    - generic [ref=f12e400]: petit-déjeuner inclus
+                    - generic [ref=f12e401]: À 0,6 km
+                - link "Dar El Ikram·6 711 DA·4,1 étoiles·287 avis·Autre hôtel 3 étoiles, 551 DA moins cher·À 1 km" [ref=f12e402] [cursor=pointer]:
+                  - generic [ref=f12e403]: 6 711 DA
+                  - generic [ref=f12e406]:
+                    - generic [ref=f12e407]: Dar El Ikram
+                    - img "4,1 étoiles 287 avis" [ref=f12e411]: 4,1(287)
+                    - generic [ref=f12e413]: Autre hôtel 3 étoiles, 551 DA moins cher
+                    - generic [ref=f12e414]: À 1 km
+                - link "Hôtel Des Beaux Arts·10 381 DA·4,2 étoiles·424 avis·petit-déjeuner et parking inclus·À 1,1 km" [ref=f12e415] [cursor=pointer]:
+                  - generic [ref=f12e416]: 10 381 DA
+                  - generic [ref=f12e419]:
+                    - generic [ref=f12e420]: Hôtel Des Beaux Arts
+                    - img "4,2 étoiles 424 avis" [ref=f12e424]: 4,2(424)
+                    - generic [ref=f12e426]: petit-déjeuner et parking inclus
+                    - generic [ref=f12e427]: À 1,1 km
+                - link "Space Telemly Hotel·4,3 étoiles·300 avis·petit-déjeuner et parking inclus·À 0,9 km" [ref=f12e428] [cursor=pointer]:
+                  - generic [ref=f12e431]:
+                    - generic [ref=f12e432]: Space Telemly Hotel
+                    - img "4,3 étoiles 300 avis" [ref=f12e436]: 4,3(300)
+                    - generic [ref=f12e438]: petit-déjeuner et parking inclus
+                    - generic [ref=f12e439]: À 0,9 km
+            - button "Afficher d'autres hôtels à proximité" [ref=f12e444]
+            - heading "Informations sur l'hôtel" [level=2] [ref=f12e450]
+            - generic [ref=f12e451]:
+              - text: Offrant une vue sur la baie d'Alger, cet hôtel de style décontracté est installé dans un bâtiment colonial français dans une rue très fréquentée
+              - button "Plus d'informations sur cet hôtel" [ref=f12e452] [cursor=pointer]: Plus
+            - generic [ref=f12e455]:
+              - img "Wi-Fi gratuit disponible" [ref=f12e456]:
+                - generic [aria-hidden] [ref=f12e457]: 
+                - generic [ref=f12e458]: Wi-Fi gratuit
+              - img "Petit-déjeuner disponible" [ref=f12e459]:
+                - generic [aria-hidden] [ref=f12e460]: 
+                - generic [ref=f12e461]: Petit-déjeuner
+              - img "Piscine non disponible" [ref=f12e462]:
+                - generic [aria-hidden] [ref=f12e463]: 
+                - generic [ref=f12e464]: Piscine
+              - img "Climatisation disponible" [ref=f12e465]:
+                - generic [aria-hidden] [ref=f12e466]: 
+                - generic [ref=f12e467]: Climatisation
+              - img "Service de blanchisserie disponible" [ref=f12e468]:
+                - generic [aria-hidden] [ref=f12e469]: 
+                - generic [ref=f12e470]: Service de blanchisserie
+              - img "Adapté aux enfants disponible" [ref=f12e471]:
+                - generic [aria-hidden] [ref=f12e472]: 
+                - generic [ref=f12e473]: Adapté aux enfants
+            - button "Afficher plus d'équipements" [ref=f12e477]:
+              - generic [ref=f12e478] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e479]: 
+                - generic [ref=f12e480]: Afficher plus d'équipements
+            - generic [ref=f12e483]:
+              - heading "Résumé des avis Google" [level=2] [ref=f12e484]
+              - button "Plus d'informations sur le résumé des avis" [ref=f12e485] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e486]: 
+            - generic [ref=f12e488] [cursor=pointer]:
+              - table [ref=f12e490]:
+                - rowgroup [ref=f12e491]:
+                  - img "5 étoiles, 269 avis" [ref=f12e492]: "5"
+                  - img "4 étoiles, 110 avis" [ref=f12e495]: "4"
+                  - img "3 étoiles, 66 avis" [ref=f12e498]: "3"
+                  - img "2 étoiles, 24 avis" [ref=f12e501]: "2"
+                  - img "1 étoiles, 122 avis" [ref=f12e504]: "1"
+              - generic [ref=f12e507]:
+                - generic [ref=f12e508]: 3,6
+                - img "3,6 étoiles" [ref=f12e509]
+                - button "591 avis" [ref=f12e515]
+            - button "Rédiger un avis" [ref=f12e521] [cursor=pointer]:
+              - generic [ref=f12e522]:
+                - generic [aria-hidden] [ref=f12e523]: 
+                - generic [ref=f12e524]: Rédiger un avis
+            - generic [ref=f12e527]:
+              - heading "Tous les avis" [level=2] [ref=f12e529]
+              - button "Rechercher dans les avis" [ref=f12e531] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e533]: 
+            - generic [ref=f12e539]:
+              - generic [ref=f12e540]: Tripadvisor
+              - generic [ref=f12e543]:
+                - generic [ref=f12e544]: 3,9/5
+                - generic [aria-hidden] [ref=f12e545]: ·
+                - generic [ref=f12e546]: 84 avis
+              - generic [ref=f12e547]: 447michel, il y a 5 mois
+              - generic [ref=f12e549]: 6 nuits à l'hôtel Ralf (Alger centre) fin avril, début mai 2026. Hôtel récent et propre, décoration actuelle, personnel et chambres OK. Petits …
+              - link "Afficher plus sur Tripadvisor" [ref=f12e552] [cursor=pointer]:
+                - /url: https://www.tripadvisor.fr/ShowUserReviews-g293718-d12185796-r1060210023?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=DZ&supul=fr
+            - button "Plus d'avis (588)" [ref=f12e558]
+            - link "À propos de ces données" [ref=f12e565] [cursor=pointer]:
+              - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=fr
+            - generic [ref=f12e570]:
+              - generic [aria-hidden] [ref=f12e572]: 
+              - generic [ref=f12e573]:
+                - text: Vous voyez un affichage limité de Google Maps.
+                - button "Voir plus" [ref=f12e574] [cursor=pointer]
+      - button "Réduire le panneau latéral" [ref=f12e576] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f12e577]: 
+    - generic [ref=f12e581]:
+      - button "Applications Google" [ref=f12e585] [cursor=pointer]
+      - link "Connexion" [ref=f12e589] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FCity%2BHotel%2BAlgiers%2F%4036.7626114%2C3.0564456%2C17z%2Fdata%3D!3m1!4b1!4m9!3m8!1s0x128fb2603913f341%3A0x91fa04bf5182c1bb!5m2!4m1!1i2!8m2!3d36.7626114!4d3.0564456!16s%252Fg%252F11c60573q3%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Afficher votre position" [ref=f12e592] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f12e594]: 
+        - generic [ref=f12e596] [cursor=pointer]:
+          - button "Faire un zoom avant" [ref=f12e597]:
+            - generic [aria-hidden] [ref=f12e599]: 
+          - button "Faire un zoom arrière" [ref=f12e600]:
+            - generic [aria-hidden] [ref=f12e602]: 
+      - button "Parcourir les images Street View" [ref=f12e608]
+      - generic [ref=f12e610]:
+        - generic "Carte interactive" [ref=f12e611]
+        - generic [ref=f12e615] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f12e616]: 
+          - generic [ref=f12e617]: Calques
+        - button "Calques" [ref=f12e618] [cursor=pointer]
+    - generic [ref=f12e620]:
+      - contentinfo [ref=f12e623]:
+        - text: Données cartographiques ©2026
+        - button "Algérie" [ref=f12e624] [cursor=pointer]
+        - button "Conditions d'utilisation" [ref=f12e625] [cursor=pointer]
+        - button "Confidentialité" [ref=f12e626] [cursor=pointer]
+        - button "Envoyer des commentaires sur le produit" [ref=f12e627] [cursor=pointer]
+      - button "100 m" [ref=f12e629] [cursor=pointer]

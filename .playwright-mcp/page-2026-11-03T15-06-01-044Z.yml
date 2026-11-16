@@ -1,0 +1,957 @@
+- generic [active] [ref=f3e1]:
+  - banner [ref=f3e2]:
+    - link [ref=f3e7] [cursor=pointer]:
+      - /url: /entreprise
+      - img "Accueil" [ref=f3e8]
+  - generic:
+    - link "Aller au menu" [ref=f3e9] [cursor=pointer]:
+      - /url: "#horizonatal-menu"
+    - link "Aller au contenu" [ref=f3e10] [cursor=pointer]:
+      - /url: "#middle"
+  - navigation [ref=f3e12]:
+    - generic [ref=f3e13]:
+      - generic: 
+      - generic [ref=f3e15]:
+        - generic "Contact" [ref=f3e16]: 
+        - link "entreprise-auth" [ref=f3e18] [cursor=pointer]:
+          - /url: /entreprise/login
+          - generic [ref=f3e19]: 
+        - button "Toggle navigation" [ref=f3e20] [cursor=pointer]
+      - text:                               
+  - main [ref=f3e26]:
+    - generic [ref=f3e30]:
+      - navigation [ref=f3e32]:
+        - list [ref=f3e33]:
+          - listitem [ref=f3e34]:
+            - link "Accueil" [ref=f3e35] [cursor=pointer]:
+              - /url: /entreprise
+          - listitem [ref=f3e36]:
+            - text: /
+            - link "Recherche avancée" [ref=f3e37] [cursor=pointer]:
+              - /url: "?page=Entreprise.EntrepriseAdvancedSearch&searchAnnCons"
+          - listitem [ref=f3e38]: / Résultat
+      - list [ref=f3e39]:
+        - listitem [ref=f3e40]:
+          - link "" [ref=f3e41] [cursor=pointer]:
+            - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_ctl13
+        - listitem [ref=f3e44]:
+          - link "" [ref=f3e45] [cursor=pointer]:
+            - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_ctl15
+      - text:      
+      - generic [ref=f3e49]:
+        - generic [ref=f3e51]:
+          - heading [level=1]
+          - link "Légende " [ref=f3e53] [cursor=pointer]:
+            - /url: "#"
+            - text: Légende
+            - generic [ref=f3e54]: 
+        - generic [ref=f3e55]:
+          - generic [ref=f3e56]:
+            - strong [ref=f3e59]: "Nombre de résultats : 423"
+            - generic [ref=f3e60]:
+              - generic [ref=f3e61]:
+                - generic [ref=f3e62]: Afficher
+                - combobox "Afficher" [ref=f3e63]:
+                  - option "10" [selected]
+                  - option "20"
+              - generic [ref=f3e64]:
+                - generic [ref=f3e65]: Aller à la page
+                - generic [ref=f3e66]:
+                  - generic [ref=f3e67]: résultats / page
+                  - textbox "résultats / page" [ref=f3e68]: "1"
+                  - generic [ref=f3e69]: / 43
+              - generic [ref=f3e72]:
+                - generic [ref=f3e73]: 
+                - generic [ref=f3e76]: 
+                - link "" [ref=f3e79] [cursor=pointer]:
+                  - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_PagerTop_ctl2
+                - link "" [ref=f3e82] [cursor=pointer]:
+                  - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_PagerTop_ctl3
+          - generic [ref=f3e85]:
+            - generic [ref=f3e87]:
+              - list [ref=f3e90]:
+                - listitem [ref=f3e91]: Procédure
+                - listitem [ref=f3e92]:
+                  - link "Catégorie " [ref=f3e93] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl0
+                    - generic [ref=f3e94]:
+                      - text: Catégorie
+                      - generic [ref=f3e95]: 
+                - listitem [ref=f3e96]:
+                  - link "Publié le  Trier Par 'Publié le'" [ref=f3e942] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl1
+                    - generic [ref=f3e98]:
+                      - text: Publié le
+                      - generic [ref=f3e99]: 
+                    - tooltip "Trier Par 'Publié le'" [ref=f3e943]
+              - list [ref=f3e101]:
+                - listitem [ref=f3e102]:
+                  - link "Référence " [ref=f3e103] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl2
+                    - generic [ref=f3e104]:
+                      - text: Référence
+                      - generic [ref=f3e105]: 
+                  - text: "|"
+                  - link "Intitulé " [ref=f3e106] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl3
+                    - generic [ref=f3e107]:
+                      - text: Intitulé
+                      - generic [ref=f3e108]: 
+                - listitem [ref=f3e109]:
+                  - link "Objet " [ref=f3e110] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl4
+                    - generic [ref=f3e111]:
+                      - text: Objet
+                      - generic [ref=f3e112]: 
+                - listitem [ref=f3e113]:
+                  - link "Organisme " [ref=f3e114] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl5
+                    - generic [ref=f3e115]:
+                      - text: Organisme
+                      - generic [ref=f3e116]: 
+              - link "Date limite de remise des plis " [ref=f3e119] [cursor=pointer]:
+                - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl7
+                - generic [ref=f3e120]:
+                  - text: Date limite de remise des plis
+                  - generic [ref=f3e121]: 
+              - generic [ref=f3e122]: Actions
+            - generic [ref=f3e123]:
+              - generic [ref=f3e126]:
+                - generic [ref=f3e127]: SAD-A
+                - generic [ref=f3e129]: Services
+                - generic [ref=f3e130]:
+                  - generic [ref=f3e131]: "27"
+                  - generic [ref=f3e132]:
+                    - generic [ref=f3e133]: Mars
+                    - generic [ref=f3e134]: "2026"
+                - generic "Organisme" [ref=f3e136]:
+                  - img "UGAP" [ref=f3e137]
+              - generic [ref=f3e139]:
+                - generic [ref=f3e141]:
+                  - generic [ref=f3e142]: 26U044
+                  - generic [ref=f3e143]: "|"
+                  - generic [ref=f3e144]: Prestations de conversion de motorisation de véhicules et de reconditionnement de véhicules, matériels et équipements
+                - generic [ref=f3e146]:
+                  - strong [ref=f3e148]: "Objet :"
+                  - generic [ref=f3e149]: Prestations de conversion de motorisation de véhicules et de reconditionnement de véhicules, matériels et équipements
+                - generic [ref=f3e151]:
+                  - strong [ref=f3e153]: "Organisme :"
+                  - text: UGAP (77420 - CHAMPS-SUR-MARNE)
+                - list [ref=f3e155]:
+                  - listitem [ref=f3e156]:
+                    - link "11 lots" [ref=f3e158] [cursor=pointer]:
+                      - /url: javascript:popUpOpen('index.php?page=Entreprise.PopUpDetailLots&orgAccronyme=a2w&id=932590&lang=', 'Descriptif des lots - Consultation', 'toolbar=no,menubar=no,resizable=yeslocation=no,width=800,height=275,scrollbars=yes')
+                      - generic [aria-hidden] [ref=f3e159]: 
+                      - text: 11 lots
+                  - listitem [ref=f3e160]:
+                    - generic [ref=f3e162]:
+                      - generic [aria-hidden] [ref=f3e163]: 
+                      - text: (67) Bas-Rhin, (68) Haut-Rhin
+                      - button "..." [ref=f3e164] [cursor=pointer]
+                  - listitem [ref=f3e165]:
+                    - button [ref=f3e167] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem [ref=f3e168]:
+                    - generic [ref=f3e170]:
+                      - img "DUME défini par l'acheteur" [ref=f3e171]
+                      - generic [ref=f3e172]: DUME défini par l'acheteur
+                  - listitem [ref=f3e173]
+                  - listitem
+              - generic [ref=f3e179]:
+                - generic [ref=f3e180]:
+                  - text: 
+                  - generic [ref=f3e181]:
+                    - generic [ref=f3e182]:
+                      - generic [ref=f3e183]: "30"
+                      - generic:
+                        - generic [ref=f3e184]: Avril
+                        - generic [ref=f3e185]: "2036"
+                    - generic [ref=f3e186]:
+                      - generic [ref=f3e187]: 
+                      - generic "Durée" [ref=f3e188]: 17:00
+                - img "Réponse électronique obligatoire pour cette consultation, sans signature électronique." [ref=f3e190]
+              - list [ref=f3e192]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f3e193]:
+                  - list [ref=f3e195]:
+                    - listitem [ref=f3e196]:
+                      - link "Accéder à la consultation" [ref=f3e197] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/932590?orgAcronyme=a2w
+                        - generic [aria-hidden] [ref=f3e199]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f3e200]:
+                      - link "Tester la configuration de mon poste" [ref=f3e201] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f3e203]: 
+                    - listitem
+                    - listitem [ref=f3e204]:
+                      - link "Ajouter au panier" [ref=f3e205] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f3e207]: 
+                    - listitem
+                - listitem
+            - generic [ref=f3e208]:
+              - generic [ref=f3e211]:
+                - generic [ref=f3e212]: SAD-A
+                - generic [ref=f3e214]: Fournitures
+                - generic [ref=f3e215]:
+                  - generic [ref=f3e216]: "12"
+                  - generic [ref=f3e217]:
+                    - generic [ref=f3e218]: Oct.
+                    - generic [ref=f3e219]: "2026"
+              - generic [ref=f3e221]:
+                - generic [ref=f3e223]:
+                  - generic [ref=f3e224]: "2600063"
+                  - generic [ref=f3e225]: "|"
+                  - generic [ref=f3e226]: FOURNITURES DE DENREES ALIMENTAIRES ET PRESTATIONS TRAITEURS GHT GUADELOUPE
+                - generic [ref=f3e228]:
+                  - strong [ref=f3e230]: "Objet :"
+                  - generic [ref=f3e231]: FOURNITURES DE DENREES ALIMENTAIRES ET PRESTATIONS TRAITEURS GHT GUADELOUPE
+                - generic [ref=f3e233]:
+                  - strong [ref=f3e235]: "Organisme :"
+                  - text: Groupement Hospitalier de Territoire (GHT) de Guadeloupe (97110 - Pointe-à-Pitre)
+                - list [ref=f3e237]:
+                  - listitem [ref=f3e238]:
+                    - link "20 lots" [ref=f3e240] [cursor=pointer]:
+                      - /url: javascript:popUpOpen('index.php?page=Entreprise.PopUpDetailLots&orgAccronyme=a2x&id=948600&lang=', 'Descriptif des lots - Consultation', 'toolbar=no,menubar=no,resizable=yeslocation=no,width=800,height=275,scrollbars=yes')
+                      - generic [aria-hidden] [ref=f3e241]: 
+                      - text: 20 lots
+                  - listitem [ref=f3e242]:
+                    - generic [ref=f3e244]:
+                      - generic [aria-hidden] [ref=f3e245]: 
+                      - text: GUADELOUPE
+                  - listitem [ref=f3e246]:
+                    - button [ref=f3e248] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+              - generic [ref=f3e249]:
+                - generic [ref=f3e250]:
+                  - text: 
+                  - generic [ref=f3e251]:
+                    - generic [ref=f3e252]:
+                      - generic [ref=f3e253]: "13"
+                      - generic:
+                        - generic [ref=f3e254]: Nov.
+                        - generic [ref=f3e255]: "2034"
+                    - generic [ref=f3e256]:
+                      - generic [ref=f3e257]: 
+                      - generic "Durée" [ref=f3e258]: 17:00
+                - img "Réponse électronique obligatoire pour cette consultation, sans signature électronique." [ref=f3e260]
+              - list [ref=f3e262]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f3e263]:
+                  - list [ref=f3e265]:
+                    - listitem [ref=f3e266]:
+                      - link "Accéder à la consultation" [ref=f3e267] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/948600?orgAcronyme=a2x
+                        - generic [aria-hidden] [ref=f3e269]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f3e270]:
+                      - link "Tester la configuration de mon poste" [ref=f3e271] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f3e273]: 
+                    - listitem
+                    - listitem [ref=f3e274]:
+                      - link "Ajouter au panier" [ref=f3e275] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f3e277]: 
+                    - listitem
+                - listitem
+            - generic [ref=f3e278]:
+              - generic [ref=f3e281]:
+                - generic [ref=f3e282]: SAD-A
+                - generic [ref=f3e284]: Services
+                - generic [ref=f3e285]:
+                  - generic [ref=f3e286]: "27"
+                  - generic [ref=f3e287]:
+                    - generic [ref=f3e288]: Juil.
+                    - generic [ref=f3e289]: "2026"
+                - generic "Organisme" [ref=f3e291]:
+                  - img "RESAH" [ref=f3e292]
+              - generic [ref=f3e294]:
+                - generic [ref=f3e296]:
+                  - generic [ref=f3e297]: 2026-R045-000-000
+                  - generic [ref=f3e298]: "|"
+                  - generic [ref=f3e299]: Services d'assurance
+                - generic [ref=f3e301]:
+                  - strong [ref=f3e303]: "Objet :"
+                  - generic [ref=f3e304]: Services d'assurance
+                - generic [ref=f3e306]:
+                  - strong [ref=f3e308]: "Organisme :"
+                  - text: RESAH (75012 - Paris)
+                - list [ref=f3e310]:
+                  - listitem
+                  - listitem [ref=f3e311]:
+                    - generic [ref=f3e313]:
+                      - generic [aria-hidden] [ref=f3e314]: 
+                      - text: (67) Bas-Rhin, (68) Haut-Rhin
+                      - button "..." [ref=f3e315] [cursor=pointer]
+                  - listitem [ref=f3e316]:
+                    - button [ref=f3e318] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem [ref=f3e319]:
+                    - generic [ref=f3e321]:
+                      - img "DUME défini par l'acheteur" [ref=f3e322]
+                      - generic [ref=f3e323]: DUME défini par l'acheteur
+                  - listitem
+                  - listitem
+              - generic [ref=f3e324]:
+                - generic [ref=f3e325]:
+                  - text: 
+                  - generic [ref=f3e326]:
+                    - generic [ref=f3e327]:
+                      - generic [ref=f3e328]: "27"
+                      - generic:
+                        - generic [ref=f3e329]: Juil.
+                        - generic [ref=f3e330]: "2034"
+                    - generic [ref=f3e331]:
+                      - generic [ref=f3e332]: 
+                      - generic "Durée" [ref=f3e333]: 12:00
+                - img "Réponse électronique obligatoire pour cette consultation, sans signature électronique." [ref=f3e335]
+              - list [ref=f3e337]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f3e338]:
+                  - list [ref=f3e340]:
+                    - listitem [ref=f3e341]:
+                      - link "Accéder à la consultation" [ref=f3e342] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/942995?orgAcronyme=a0z
+                        - generic [aria-hidden] [ref=f3e344]: 
+                    - listitem [ref=f3e345]:
+                      - link "Télécharger le RC" [ref=f3e346] [cursor=pointer]:
+                        - /url: /index.php?page=Entreprise.EntrepriseDownloadReglement&id=OTQyOTk1&orgAcronyme=a0z
+                        - strong [aria-hidden] [ref=f3e348]: RC
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f3e349]:
+                      - link "Tester la configuration de mon poste" [ref=f3e350] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f3e352]: 
+                    - listitem
+                    - listitem [ref=f3e353]:
+                      - link "Ajouter au panier" [ref=f3e354] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f3e356]: 
+                    - listitem
+                - listitem
+            - generic [ref=f3e357]:
+              - generic [ref=f3e360]:
+                - generic [ref=f3e361]: SAD-A
+                - generic [ref=f3e363]: Services
+                - generic [ref=f3e364]:
+                  - generic [ref=f3e365]: "1"
+                  - generic [ref=f3e366]:
+                    - generic [ref=f3e367]: Avril
+                    - generic [ref=f3e368]: "2026"
+                - generic "Organisme" [ref=f3e370]:
+                  - img "RESAH" [ref=f3e371]
+              - generic [ref=f3e373]:
+                - generic [ref=f3e375]:
+                  - generic [ref=f3e376]: 2026-R042-000-000
+                  - generic [ref=f3e377]: "|"
+                  - generic [ref=f3e378]: SYSTEME D'ACQUISITION DYNAMIQUE (SAD) - Maintenance multimarque des appareils élévateurs, escaliers mécaniques et prestations associées
+                - generic [ref=f3e380]:
+                  - strong [ref=f3e382]: "Objet :"
+                  - generic [ref=f3e383]: "La présente consultation vise à la mise en place d’un SAD en vue de la passation de Marchés spécifiques ayant pour objet de : • fournir un service de maintenance régional ou infrarégional comprenant des prestations d’entretien et de maintenance préventive et corrective, de désincarcération et de téléalarme d’ascenseurs hydrauliques et électriques, monte-malades, monte-charges, monte-handicapés et élévateurs/plateformes pour personne à mobilité réduite-EPMR, monte-plats, monte dossiers, tables élévatrices/élévateurs/niveleurs de quai, escaliers mécaniques et trottoirs roulants, et tout appareil assurant le transport automatique vertical ou horizontal de personnes et/ou de charges, dénommés génériquement « appareils ou élévateurs » au titre de la procédure, de toute marque et des prestations associées ; • répondre aux besoins des Acheteurs, tels que définis dans le présent règlement de la consultation, notamment par le recours à un marché distinct lorsque l’offre issue de l’accord-cadre du Resah portant sur des prestations identiques ne permet pas de répondre de manière satisfaisante à leur situation spécifique, cet accord-cadre étant, à la date de mise en place du présent SAD, identifié sous le numéro 2025-R025. Afin de garantir l’exclusivité accordée au titulaire de l’accord-cadre précité et le droit du Resah de mettre en place des solutions alternatives conformément à la vocation d’exhaustivité propre à la centrale d’achat, le titulaire de cet accord-cadre ne peut être candidat au présent SAD pendant toute sa durée de validité, soit huit (8) ans, en application des stipulations contractuelles qui le lient au Resah au titre de l’accord-cadre concerné."
+                - generic [ref=f3e385]:
+                  - strong [ref=f3e387]: "Organisme :"
+                  - text: RESAH (75012 - Paris)
+                - list [ref=f3e389]:
+                  - listitem
+                  - listitem [ref=f3e390]:
+                    - generic [ref=f3e392]:
+                      - generic [aria-hidden] [ref=f3e393]: 
+                      - text: (67) Bas-Rhin, (68) Haut-Rhin
+                      - button "..." [ref=f3e394] [cursor=pointer]
+                  - listitem [ref=f3e395]:
+                    - button [ref=f3e397] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem [ref=f3e398]:
+                    - generic [ref=f3e400]:
+                      - img "DUME défini par l'acheteur" [ref=f3e401]
+                      - generic [ref=f3e402]: DUME défini par l'acheteur
+                  - listitem
+                  - listitem
+              - generic [ref=f3e403]:
+                - generic [ref=f3e404]:
+                  - text: 
+                  - generic [ref=f3e405]:
+                    - generic [ref=f3e406]:
+                      - generic [ref=f3e407]: "4"
+                      - generic:
+                        - generic [ref=f3e408]: Mai
+                        - generic [ref=f3e409]: "2034"
+                    - generic [ref=f3e410]:
+                      - generic [ref=f3e411]: 
+                      - generic "Durée" [ref=f3e412]: 12:00
+                - img "Réponse électronique non obligatoire pour cette consultation, sans signature électronique." [ref=f3e414]
+              - list [ref=f3e416]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f3e417]:
+                  - list [ref=f3e419]:
+                    - listitem [ref=f3e420]:
+                      - link "Accéder à la consultation" [ref=f3e421] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/935748?orgAcronyme=a0z
+                        - generic [aria-hidden] [ref=f3e423]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f3e424]:
+                      - link "Tester la configuration de mon poste" [ref=f3e425] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f3e427]: 
+                    - listitem
+                    - listitem [ref=f3e428]:
+                      - link "Ajouter au panier" [ref=f3e429] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f3e431]: 
+                    - listitem
+                - listitem
+            - generic [ref=f3e432]:
+              - generic [ref=f3e435]:
+                - generic [ref=f3e436]: SAD-A
+                - generic [ref=f3e438]: Services
+                - generic [ref=f3e439]:
+                  - generic [ref=f3e440]: "27"
+                  - generic [ref=f3e441]:
+                    - generic [ref=f3e442]: Fév.
+                    - generic [ref=f3e443]: "2026"
+                - generic "Organisme" [ref=f3e445]:
+                  - img "RESAH" [ref=f3e446]
+              - generic [ref=f3e448]:
+                - generic [ref=f3e450]:
+                  - generic [ref=f3e451]: 2025-R106-000-000
+                  - generic [ref=f3e452]: "|"
+                  - generic [ref=f3e453]: SYSTEME D'ACQUISITION DYNAMIQUE (SAD) - MAINTENANCE MULTIMARQUE DES SYSTEMES DE FERMETURE AUTOMATIQUE ET PRESTATIONS CONNEXES
+                - generic [ref=f3e455]:
+                  - strong [ref=f3e457]: "Objet :"
+                  - generic [ref=f3e458]: Conformément à sa vocation d’exhaustivité propre à une centrale d’achat, le Resah, agissant en tant que centrale d’achat intermédiaire, met en place, dans le cadre de la présente consultation ayant pour objet la maintenance multimarque des systèmes de fermeture automatique et prestations connexes, un système d’acquisition dynamique (SAD) tel que défini à l’article L. 2125-1 du Code de la commande publique, afin de répondre aux besoins des Acheteurs.
+                - generic [ref=f3e460]:
+                  - strong [ref=f3e462]: "Organisme :"
+                  - text: RESAH (75012 - Paris)
+                - list [ref=f3e464]:
+                  - listitem
+                  - listitem [ref=f3e465]:
+                    - generic [ref=f3e467]:
+                      - generic [aria-hidden] [ref=f3e468]: 
+                      - text: (67) Bas-Rhin, (68) Haut-Rhin
+                      - button "..." [ref=f3e469] [cursor=pointer]
+                  - listitem [ref=f3e470]:
+                    - button [ref=f3e472] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem [ref=f3e473]:
+                    - generic [ref=f3e475]:
+                      - img "DUME défini par l'acheteur" [ref=f3e476]
+                      - generic [ref=f3e477]: DUME défini par l'acheteur
+                  - listitem
+                  - listitem
+              - generic [ref=f3e478]:
+                - generic [ref=f3e479]:
+                  - text: 
+                  - generic [ref=f3e480]:
+                    - generic [ref=f3e481]:
+                      - generic [ref=f3e482]: "28"
+                      - generic:
+                        - generic [ref=f3e483]: Fév.
+                        - generic [ref=f3e484]: "2034"
+                    - generic [ref=f3e485]:
+                      - generic [ref=f3e486]: 
+                      - generic "Durée" [ref=f3e487]: 12:00
+                - img "Réponse électronique non obligatoire pour cette consultation, sans signature électronique." [ref=f3e489]
+              - list [ref=f3e491]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f3e492]:
+                  - list [ref=f3e494]:
+                    - listitem [ref=f3e495]:
+                      - link "Accéder à la consultation" [ref=f3e496] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/933401?orgAcronyme=a0z
+                        - generic [aria-hidden] [ref=f3e498]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f3e499]:
+                      - link "Tester la configuration de mon poste" [ref=f3e500] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f3e502]: 
+                    - listitem
+                    - listitem [ref=f3e503]:
+                      - link "Ajouter au panier" [ref=f3e504] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f3e506]: 
+                    - listitem
+                - listitem
+            - generic [ref=f3e507]:
+              - generic [ref=f3e510]:
+                - generic [ref=f3e511]: SAD-A
+                - generic [ref=f3e513]: Fournitures
+                - generic [ref=f3e514]:
+                  - generic [ref=f3e515]: "20"
+                  - generic [ref=f3e516]:
+                    - generic [ref=f3e517]: Déc.
+                    - generic [ref=f3e518]: "2023"
+                - generic "Organisme" [ref=f3e520]:
+                  - img "UGAP" [ref=f3e521]
+              - generic [ref=f3e523]:
+                - generic [ref=f3e525]:
+                  - generic [ref=f3e526]: 21U057
+                  - generic [ref=f3e527]: "|"
+                  - generic [ref=f3e528]: Système d’acquisition dynamique pour la fourniture d'équipements, de logiciels d'imagerie médicale et prestations associée
+                - generic [ref=f3e530]:
+                  - strong [ref=f3e532]: "Objet :"
+                  - generic [ref=f3e533]: Système d’acquisition dynamique pour la fourniture d'équipements, de logiciels d'imagerie médicale et prestations associée
+                - generic [ref=f3e535]:
+                  - strong [ref=f3e537]: "Organisme :"
+                  - text: UGAP (77420 - CHAMPS-SUR-MARNE)
+                - list [ref=f3e539]:
+                  - listitem [ref=f3e540]:
+                    - link "1 lots" [ref=f3e542] [cursor=pointer]:
+                      - /url: javascript:popUpOpen('index.php?page=Entreprise.PopUpDetailLots&orgAccronyme=a2w&id=862551&lang=', 'Descriptif des lots - Consultation', 'toolbar=no,menubar=no,resizable=yeslocation=no,width=800,height=275,scrollbars=yes')
+                      - generic [aria-hidden] [ref=f3e543]: 
+                      - text: 1 lots
+                  - listitem [ref=f3e544]:
+                    - generic [ref=f3e546]:
+                      - generic [aria-hidden] [ref=f3e547]: 
+                      - text: (67) Bas-Rhin, (68) Haut-Rhin
+                      - button "..." [ref=f3e548] [cursor=pointer]
+                  - listitem [ref=f3e549]:
+                    - button [ref=f3e551] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem [ref=f3e552]:
+                    - generic [ref=f3e554]:
+                      - img "DUME défini par l'acheteur" [ref=f3e555]
+                      - generic [ref=f3e556]: DUME défini par l'acheteur
+                  - listitem [ref=f3e557]
+                  - listitem
+              - generic [ref=f3e561]:
+                - generic [ref=f3e562]:
+                  - text: 
+                  - generic [ref=f3e563]:
+                    - generic [ref=f3e564]:
+                      - generic [ref=f3e565]: "12"
+                      - generic:
+                        - generic [ref=f3e566]: Avril
+                        - generic [ref=f3e567]: "2033"
+                    - generic [ref=f3e568]:
+                      - generic [ref=f3e569]: 
+                      - generic "Durée" [ref=f3e570]: 16:00
+                - img "Réponse électronique obligatoire pour cette consultation, sans signature électronique." [ref=f3e572]
+              - list [ref=f3e574]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f3e575]:
+                  - list [ref=f3e577]:
+                    - listitem [ref=f3e578]:
+                      - link "Accéder à la consultation" [ref=f3e579] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/862551?orgAcronyme=a2w
+                        - generic [aria-hidden] [ref=f3e581]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f3e582]:
+                      - link "Tester la configuration de mon poste" [ref=f3e583] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f3e585]: 
+                    - listitem
+                    - listitem [ref=f3e586]:
+                      - link "Ajouter au panier" [ref=f3e587] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f3e589]: 
+                    - listitem
+                - listitem
+            - generic [ref=f3e590]:
+              - generic [ref=f3e593]:
+                - generic [ref=f3e594]: SAD-A
+                - generic [ref=f3e596]: Services
+                - generic [ref=f3e597]:
+                  - generic [ref=f3e598]: "25"
+                  - generic [ref=f3e599]:
+                    - generic [ref=f3e600]: Fév.
+                    - generic [ref=f3e601]: "2025"
+                - generic "Organisme" [ref=f3e603]:
+                  - img "RESAH" [ref=f3e604]
+              - generic [ref=f3e606]:
+                - generic [ref=f3e608]:
+                  - generic [ref=f3e609]: 2025-R016-000-000
+                  - generic [ref=f3e610]: "|"
+                  - generic [ref=f3e611]: Maintenance associée aux fluides médicaux et prestations associées pour les établissements de santé ou médico-sociaux
+                - generic [ref=f3e613]:
+                  - strong [ref=f3e615]: "Objet :"
+                  - generic [ref=f3e616]: La présente consultation vise à la mise en place d’un SAD en vue de la passation de Marchés spécifiques relatifs la mise en œuvre de prestations de maintenance des réseaux, des installations de fluides médicaux propriétés établissements, la mise à disposition et/ou acquisition de groupes de vide, la mise à disposition et / ou acquisition de secours d’Air médical et prestations associées pour les établissements de santé ou médico-sociaux France métropolitaine (Corse incluse) et dans les DROM-COM
+                - generic [ref=f3e618]:
+                  - strong [ref=f3e620]: "Organisme :"
+                  - text: RESAH (75012 - Paris)
+                - list [ref=f3e622]:
+                  - listitem [ref=f3e623]:
+                    - link "3 lots" [ref=f3e625] [cursor=pointer]:
+                      - /url: javascript:popUpOpen('index.php?page=Entreprise.PopUpDetailLots&orgAccronyme=a0z&id=903785&lang=', 'Descriptif des lots - Consultation', 'toolbar=no,menubar=no,resizable=yeslocation=no,width=800,height=275,scrollbars=yes')
+                      - generic [aria-hidden] [ref=f3e626]: 
+                      - text: 3 lots
+                  - listitem [ref=f3e627]:
+                    - generic [ref=f3e629]:
+                      - generic [aria-hidden] [ref=f3e630]: 
+                      - text: (68) Haut-Rhin, (03) Allier
+                      - button "..." [ref=f3e631] [cursor=pointer]
+                  - listitem [ref=f3e632]:
+                    - button [ref=f3e634] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem [ref=f3e635]:
+                    - generic [ref=f3e637]:
+                      - img "DUME défini par l'acheteur" [ref=f3e638]
+                      - generic [ref=f3e639]: DUME défini par l'acheteur
+                  - listitem [ref=f3e640]
+                  - listitem
+              - generic [ref=f3e644]:
+                - generic [ref=f3e645]:
+                  - text: 
+                  - generic [ref=f3e646]:
+                    - generic [ref=f3e647]:
+                      - generic [ref=f3e648]: "1"
+                      - generic:
+                        - generic [ref=f3e649]: Avril
+                        - generic [ref=f3e650]: "2033"
+                    - generic [ref=f3e651]:
+                      - generic [ref=f3e652]: 
+                      - generic "Durée" [ref=f3e653]: 17:30
+                - img "Réponse électronique obligatoire pour cette consultation, sans signature électronique." [ref=f3e655]
+              - list [ref=f3e657]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f3e658]:
+                  - list [ref=f3e660]:
+                    - listitem [ref=f3e661]:
+                      - link "Accéder à la consultation" [ref=f3e662] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/903785?orgAcronyme=a0z
+                        - generic [aria-hidden] [ref=f3e664]: 
+                    - listitem [ref=f3e665]:
+                      - link "Télécharger le RC" [ref=f3e666] [cursor=pointer]:
+                        - /url: /index.php?page=Entreprise.EntrepriseDownloadReglement&id=OTAzNzg1&orgAcronyme=a0z
+                        - strong [aria-hidden] [ref=f3e668]: RC
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f3e669]:
+                      - link "Tester la configuration de mon poste" [ref=f3e670] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f3e672]: 
+                    - listitem
+                    - listitem [ref=f3e673]:
+                      - link "Ajouter au panier" [ref=f3e674] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f3e676]: 
+                    - listitem
+                - listitem
+            - generic [ref=f3e677]:
+              - generic [ref=f3e680]:
+                - generic [ref=f3e681]: SAD-A
+                - generic [ref=f3e683]: Fournitures
+                - generic [ref=f3e684]:
+                  - generic [ref=f3e685]: "2"
+                  - generic [ref=f3e686]:
+                    - generic [ref=f3e687]: Mars
+                    - generic [ref=f3e688]: "2026"
+              - generic [ref=f3e690]:
+                - generic [ref=f3e692]:
+                  - generic [ref=f3e693]: "2500053"
+                  - generic [ref=f3e694]: "|"
+                  - generic [ref=f3e695]: ACQUISITION, LOCATION ET MAINTENANCE D’INFRASTRUCTURE SYSTEME, DE STOCKAGE, D’ARCHIVAGE ET RESEAU AINSI QUE DES PRESTATIONS
+                - generic [ref=f3e697]:
+                  - strong [ref=f3e699]: "Objet :"
+                  - generic [ref=f3e700]: Le présent Système d’Acquisition Dynamique est un marché de fournitures et de services visant à la conclusion de marchés spécifiques ayant pour objet « ACQUISITION, LOCATION ET MAINTENANCE D’INFRASTRUCTURE SYSTEME, DE STOCKAGE, D’ARCHIVAGE ET RESEAU AINSI QUE DES PRESTATIONS COMPLEMENTAIRES », pour le compte des établissements membres du Groupement Hospitalier de Territoire de la Guadeloupe
+                - generic [ref=f3e702]:
+                  - strong [ref=f3e704]: "Organisme :"
+                  - text: Groupement Hospitalier de Territoire (GHT) de Guadeloupe (97110 - Pointe-à-Pitre)
+                - list [ref=f3e706]:
+                  - listitem [ref=f3e707]:
+                    - link "5 lots" [ref=f3e709] [cursor=pointer]:
+                      - /url: javascript:popUpOpen('index.php?page=Entreprise.PopUpDetailLots&orgAccronyme=a2x&id=920154&lang=', 'Descriptif des lots - Consultation', 'toolbar=no,menubar=no,resizable=yeslocation=no,width=800,height=275,scrollbars=yes')
+                      - generic [aria-hidden] [ref=f3e710]: 
+                      - text: 5 lots
+                  - listitem [ref=f3e711]:
+                    - generic [ref=f3e713]:
+                      - generic [aria-hidden] [ref=f3e714]: 
+                      - text: GUADELOUPE
+                  - listitem [ref=f3e715]:
+                    - button [ref=f3e717] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+              - generic [ref=f3e718]:
+                - generic [ref=f3e719]:
+                  - text: 
+                  - generic [ref=f3e720]:
+                    - generic [ref=f3e721]:
+                      - generic [ref=f3e722]: "2"
+                      - generic:
+                        - generic [ref=f3e723]: Mars
+                        - generic [ref=f3e724]: "2033"
+                    - generic [ref=f3e725]:
+                      - generic [ref=f3e726]: 
+                      - generic "Durée" [ref=f3e727]: 17:00
+                - img "Réponse électronique non obligatoire pour cette consultation, sans signature électronique." [ref=f3e729]
+              - list [ref=f3e731]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f3e732]:
+                  - list [ref=f3e734]:
+                    - listitem [ref=f3e735]:
+                      - link "Accéder à la consultation" [ref=f3e736] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/920154?orgAcronyme=a2x
+                        - generic [aria-hidden] [ref=f3e738]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f3e739]:
+                      - link "Tester la configuration de mon poste" [ref=f3e740] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f3e742]: 
+                    - listitem
+                    - listitem [ref=f3e743]:
+                      - link "Ajouter au panier" [ref=f3e744] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f3e746]: 
+                    - listitem
+                - listitem
+            - generic [ref=f3e747]:
+              - generic [ref=f3e750]:
+                - generic [ref=f3e751]: SAD-A
+                - generic [ref=f3e753]: Fournitures
+                - generic [ref=f3e754]:
+                  - generic [ref=f3e755]: "12"
+                  - generic [ref=f3e756]:
+                    - generic [ref=f3e757]: Fév.
+                    - generic [ref=f3e758]: "2025"
+                - generic "Organisme" [ref=f3e760]:
+                  - img "UGAP" [ref=f3e761]
+              - generic [ref=f3e763]:
+                - generic [ref=f3e765]:
+                  - generic [ref=f3e766]: 23U053
+                  - generic [ref=f3e767]: "|"
+                  - generic [ref=f3e768]: Système d’acquisition dynamique pour l’achat de matériel informatique et télécommunication avec livraison plateforme logistique
+                - generic [ref=f3e770]:
+                  - strong [ref=f3e772]: "Objet :"
+                  - generic [ref=f3e773]: Système d’acquisition dynamique pour l’achat de matériel informatique et télécommunication avec livraison plateforme logistique
+                - generic [ref=f3e775]:
+                  - strong [ref=f3e777]: "Organisme :"
+                  - text: UGAP (77420 - CHAMPS-SUR-MARNE)
+                - list [ref=f3e779]:
+                  - listitem [ref=f3e780]:
+                    - link "8 lots" [ref=f3e782] [cursor=pointer]:
+                      - /url: javascript:popUpOpen('index.php?page=Entreprise.PopUpDetailLots&orgAccronyme=a2w&id=894984&lang=', 'Descriptif des lots - Consultation', 'toolbar=no,menubar=no,resizable=yeslocation=no,width=800,height=275,scrollbars=yes')
+                      - generic [aria-hidden] [ref=f3e783]: 
+                      - text: 8 lots
+                  - listitem [ref=f3e784]:
+                    - generic [ref=f3e786]:
+                      - generic [aria-hidden] [ref=f3e787]: 
+                      - text: (67) Bas-Rhin, (68) Haut-Rhin
+                      - button "..." [ref=f3e788] [cursor=pointer]
+                  - listitem [ref=f3e789]:
+                    - button [ref=f3e791] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+              - generic [ref=f3e792]:
+                - generic [ref=f3e793]:
+                  - text: 
+                  - generic [ref=f3e794]:
+                    - generic [ref=f3e795]:
+                      - generic [ref=f3e796]: "11"
+                      - generic:
+                        - generic [ref=f3e797]: Fév.
+                        - generic [ref=f3e798]: "2033"
+                    - generic [ref=f3e799]:
+                      - generic [ref=f3e800]: 
+                      - generic "Durée" [ref=f3e801]: 12:00
+                - img "Réponse électronique non obligatoire pour cette consultation, sans signature électronique." [ref=f3e803]
+              - list [ref=f3e805]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f3e806]:
+                  - list [ref=f3e808]:
+                    - listitem [ref=f3e809]:
+                      - link "Accéder à la consultation" [ref=f3e810] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/894984?orgAcronyme=a2w
+                        - generic [aria-hidden] [ref=f3e812]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f3e813]:
+                      - link "Tester la configuration de mon poste" [ref=f3e814] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f3e816]: 
+                    - listitem
+                    - listitem [ref=f3e817]:
+                      - link "Ajouter au panier" [ref=f3e818] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f3e820]: 
+                    - listitem
+                - listitem
+            - generic [ref=f3e821]:
+              - generic [ref=f3e824]:
+                - generic [ref=f3e825]: SAD-A
+                - generic [ref=f3e827]: Fournitures
+                - generic [ref=f3e828]:
+                  - generic [ref=f3e829]: "20"
+                  - generic [ref=f3e830]:
+                    - generic [ref=f3e831]: Janv.
+                    - generic [ref=f3e832]: "2025"
+              - generic [ref=f3e834]:
+                - generic [ref=f3e836]:
+                  - generic [ref=f3e837]: "2400072"
+                  - generic [ref=f3e838]: "|"
+                  - generic [ref=f3e839]: "Le Système d'acquisition dynamique : Acquisition, location (LLD et courte durée) et maintenance de véhicules neufs ou d'occasion."
+                - generic [ref=f3e841]:
+                  - strong [ref=f3e843]: "Objet :"
+                  - generic [ref=f3e844]: Le Système d’acquisition dynamique vise à la conclusion de marchés spécifiques ayant pour objet la « ACQUISITION, LOCATION DE VEHICULE SANS CHAUFFEUR AVEC MAINTENANCE-ENTRETIEN, ASSURANCE ET ASSISTANCE-DEPANNAGE AFFERENTES INCLUSES », pour le compte des établissements membres du Groupement Hospitalier de Territoire de la Guadeloupe.
+                - generic [ref=f3e846]:
+                  - strong [ref=f3e848]: "Organisme :"
+                  - text: Groupement Hospitalier de Territoire (GHT) de Guadeloupe (97110 - Pointe-à-Pitre)
+                - list [ref=f3e850]:
+                  - listitem [ref=f3e851]:
+                    - link "4 lots" [ref=f3e853] [cursor=pointer]:
+                      - /url: javascript:popUpOpen('index.php?page=Entreprise.PopUpDetailLots&orgAccronyme=a2x&id=895296&lang=', 'Descriptif des lots - Consultation', 'toolbar=no,menubar=no,resizable=yeslocation=no,width=800,height=275,scrollbars=yes')
+                      - generic [aria-hidden] [ref=f3e854]: 
+                      - text: 4 lots
+                  - listitem [ref=f3e855]:
+                    - generic [ref=f3e857]:
+                      - generic [aria-hidden] [ref=f3e858]: 
+                      - text: GUADELOUPE
+                  - listitem [ref=f3e859]:
+                    - button [ref=f3e861] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+              - generic [ref=f3e862]:
+                - generic [ref=f3e863]:
+                  - text: 
+                  - generic [ref=f3e864]:
+                    - generic [ref=f3e865]:
+                      - generic [ref=f3e866]: "20"
+                      - generic:
+                        - generic [ref=f3e867]: Janv.
+                        - generic [ref=f3e868]: "2033"
+                    - generic [ref=f3e869]:
+                      - generic [ref=f3e870]: 
+                      - generic "Durée" [ref=f3e871]: 17:00
+                - img "Réponse électronique obligatoire pour cette consultation, sans signature électronique." [ref=f3e873]
+              - list [ref=f3e875]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f3e876]:
+                  - list [ref=f3e878]:
+                    - listitem [ref=f3e879]:
+                      - link "Accéder à la consultation" [ref=f3e880] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/895296?orgAcronyme=a2x
+                        - generic [aria-hidden] [ref=f3e882]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f3e883]:
+                      - link "Tester la configuration de mon poste" [ref=f3e884] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f3e886]: 
+                    - listitem
+                    - listitem [ref=f3e887]:
+                      - link "Ajouter au panier" [ref=f3e888] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f3e890]: 
+                    - listitem
+                - listitem
+          - generic [ref=f3e892]:
+            - generic [ref=f3e893]:
+              - generic [ref=f3e894]: Afficher
+              - combobox "Afficher" [ref=f3e895]:
+                - option "10" [selected]
+                - option "20"
+            - generic [ref=f3e896]:
+              - generic [ref=f3e897]: Aller à la page
+              - generic [ref=f3e898]:
+                - generic [ref=f3e899]: résultats / page
+                - textbox "résultats / page" [ref=f3e900]: "1"
+                - generic [ref=f3e901]: / 43
+            - generic [ref=f3e904]:
+              - generic [ref=f3e905]: 
+              - generic [ref=f3e908]: 
+              - link "" [ref=f3e911] [cursor=pointer]:
+                - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_PagerBottom_ctl2
+              - link "" [ref=f3e914] [cursor=pointer]:
+                - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_PagerBottom_ctl3
+  - contentinfo [ref=f3e918]:
+    - generic [ref=f3e920]:
+      - list [ref=f3e922]:
+        - listitem [ref=f3e923]:
+          - link "Mentions légales" [ref=f3e924] [cursor=pointer]:
+            - /url: /entreprise/footer/info-site
+        - listitem [ref=f3e925]:
+          - link "Conditions d'utilisation" [ref=f3e926] [cursor=pointer]:
+            - /url: /entreprise/footer/conditions-utilisation
+        - listitem [ref=f3e927]:
+          - link "Pré-requis techniques" [ref=f3e928] [cursor=pointer]:
+            - /url: /entreprise/footer/prerequis-techniques
+        - listitem [ref=f3e929]:
+          - link "Accessibilité" [ref=f3e930] [cursor=pointer]:
+            - /url: /entreprise/footer/accessibilite
+        - listitem [ref=f3e931]:
+          - link "Autorités de certification européennes" [ref=f3e932] [cursor=pointer]:
+            - /url: /entreprise/footer/info-acrgs
+      - generic [ref=f3e933]:
+        - link [ref=f3e935] [cursor=pointer]:
+          - /url: /language/en
+          - button "en" [ref=f3e936]
+        - link [ref=f3e938] [cursor=pointer]:
+          - /url: /language
+          - button "fr" [ref=f3e939]
+  - link "" [ref=f3e947] [cursor=pointer]:
+    - /url: "#"
+  - img "chat icon" [ref=f3e941] [cursor=pointer]

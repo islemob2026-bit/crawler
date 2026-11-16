@@ -1,0 +1,281 @@
+- generic [ref=f18e1]:
+  - generic "Google Maps" [ref=f18e9]:
+    - generic [ref=f18e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f18e15]
+      - search [ref=f18e20]:
+        - button "Retour" [ref=f18e882] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f18e883]: 
+        - generic [ref=f18e21]:
+          - combobox [ref=f18e23]: Sofitel Algiers Hamma Garden
+          - button "Rechercher" [ref=f18e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f18e26]: 
+          - button "Fermer" [ref=f18e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f18e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f18e36]:
+        - generic [ref=f18e39]:
+          - button "Hôtels à proximité" [ref=f18e41] [cursor=pointer]:
+            - generic [ref=f18e42]:
+              - generic [aria-hidden] [ref=f18e44]: 
+              - generic [ref=f18e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f18e47] [cursor=pointer]:
+            - generic [ref=f18e48]:
+              - generic [aria-hidden] [ref=f18e50]: 
+              - generic [ref=f18e51]: Restaurants
+          - button "Activités à découvrir" [ref=f18e53] [cursor=pointer]:
+            - generic [ref=f18e54]:
+              - generic [aria-hidden] [ref=f18e56]: 
+              - generic [ref=f18e57]: Activités à découvrir
+          - button "Bars" [ref=f18e59] [cursor=pointer]:
+            - generic [ref=f18e60]:
+              - generic [aria-hidden] [ref=f18e62]: 
+              - generic [ref=f18e63]: Bars
+          - button "Cafés" [ref=f18e65] [cursor=pointer]:
+            - generic [ref=f18e66]:
+              - generic [aria-hidden] [ref=f18e68]: 
+              - generic [ref=f18e69]: Cafés
+          - button "Pharmacies" [ref=f18e71] [cursor=pointer]:
+            - generic [ref=f18e72]:
+              - generic [aria-hidden] [ref=f18e74]: 
+              - generic [ref=f18e75]: Pharmacies
+          - button "Parkings" [ref=f18e77] [cursor=pointer]:
+            - generic [ref=f18e78]:
+              - generic [aria-hidden] [ref=f18e80]: 
+              - generic [ref=f18e81]: Parkings
+      - generic [ref=f18e82]:
+        - generic [ref=f18e83]:
+          - list [ref=f18e85]:
+            - listitem [ref=f18e86]:
+              - button "Menu" [ref=f18e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e89]: 
+            - listitem [ref=f18e90]:
+              - button "Enregistré" [ref=f18e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e93]: 
+            - listitem [ref=f18e96]:
+              - button "Récents" [ref=f18e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e99]: 
+            - listitem [ref=f18e103]:
+              - button "Sofitel Algiers Hamma Garden" [ref=f18e104] [cursor=pointer]
+            - listitem [ref=f18e112]:
+              - button "Obtenir l'appli" [ref=f18e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e115]: 
+          - main "Sofitel Algiers Hamma Garden" [ref=f18e122]:
+            - tablist [ref=f18e167]:
+              - tab "Sofitel Algiers Hamma Garden - Présentation" [ref=f18e168]:
+                - generic [aria-hidden] [ref=f18e170]: Présentation
+              - tab "Prix pour Sofitel Algiers Hamma Garden" [ref=f18e172]:
+                - generic [aria-hidden] [ref=f18e174]: Prix
+              - tab "Sofitel Algiers Hamma Garden - Avis" [selected] [ref=f18e176]:
+                - generic [aria-hidden] [ref=f18e178]: Avis
+              - tab "Informations sur Sofitel Algiers Hamma Garden" [ref=f18e180]:
+                - generic [aria-hidden] [ref=f18e182]: À propos
+            - generic [ref=f18e885]:
+              - generic [ref=f18e887]:
+                - list [ref=f18e889]:
+                  - listitem [ref=f18e890]: 24 160 DA
+                  - text: ·
+                  - listitem [ref=f18e891]: Hôtel 5 étoiles
+                - generic [ref=f18e892]: 9–10 févr.
+              - link [ref=f18e896] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f18e897]:
+                  - generic [aria-hidden] [ref=f18e898]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f18e900]:
+              - generic [ref=f18e901]:
+                - heading "Résumé des avis Google" [level=2] [ref=f18e903]
+                - button "Informations" [ref=f18e905] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f18e906]: 
+              - generic [ref=f18e908]:
+                - table [ref=f18e910]:
+                  - rowgroup [ref=f18e911]:
+                    - img "5 étoiles, 3 206 avis" [ref=f18e912]: "5"
+                    - img "4 étoiles, 780 avis" [ref=f18e915]: "4"
+                    - img "3 étoiles, 341 avis" [ref=f18e918]: "3"
+                    - img "2 étoiles, 111 avis" [ref=f18e921]: "2"
+                    - img "1 étoiles, 383 avis" [ref=f18e924]: "1"
+                - generic [ref=f18e927]:
+                  - generic [ref=f18e928]: 4,3
+                  - img "4,3 étoiles" [ref=f18e929]
+                  - generic [ref=f18e935]: 4 821 avis
+              - button "Rédiger un avis" [ref=f18e939] [cursor=pointer]:
+                - generic [ref=f18e940]:
+                  - generic [aria-hidden] [ref=f18e941]: 
+                  - generic [ref=f18e942]: Rédiger un avis
+              - generic [ref=f18e946]:
+                - textbox [active] [ref=f18e2314]: bébé
+                - button "Effacer" [ref=f18e2315] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f18e2316]: 
+              - generic [ref=f18e948]:
+                - button "Tous les avis" [ref=f18e949] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f18e951]: 
+                - button "Avis les plus pertinents" [ref=f18e952] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f18e954]: 
+              - generic [ref=f18e2317]:
+                - generic "Ilbna" [ref=f18e2318]:
+                  - generic [ref=f18e2320]:
+                    - button "Photo de Ilbna" [ref=f18e2321]
+                    - button "Ilbna" [ref=f18e2325]
+                    - generic [ref=f18e2327]:
+                      - generic [ref=f18e2328]:
+                        - generic [ref=f18e2329]: 1/5
+                        - generic [ref=f18e2330]:
+                          - text: il y a un mois sur
+                          - generic [ref=f18e2331]: Tripadvisor
+                      - generic [ref=f18e2333]:
+                        - generic [ref=f18e2334]: … j’avais demandé lors de la réservation n’était pas disponible, alors que j’avais clairement précisé que je voyageais avec un bébé et que j’en avais besoin.||L’état de la chambre était également très décevant, notamment avec une forte odeur …
+                        - button "En savoir plus sur Tripadvisor" [ref=f18e2336] [cursor=pointer]
+                - generic "Alias Al Paccino" [ref=f18e2340]:
+                  - generic [ref=f18e2342]:
+                    - button "Photo de Alias Al Paccino" [ref=f18e2343]
+                    - generic [ref=f18e2345]:
+                      - button "Alias Al Paccino Local Guide · 161 avis · 55 photos" [ref=f18e2347]:
+                        - generic [ref=f18e2348]: Alias Al Paccino
+                        - generic [ref=f18e2349]: Local Guide · 161 avis · 55 photos
+                      - button "Actions pour l'avis rédigé par Alias Al Paccino" [ref=f18e2350] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f18e2352]: 
+                    - generic [ref=f18e2353]:
+                      - generic [ref=f18e2354]:
+                        - generic [ref=f18e2355]: 1/5
+                        - generic [ref=f18e2356]:
+                          - text: il y a un mois sur
+                          - generic [ref=f18e2357]: Google
+                      - generic [ref=f18e2359]:
+                        - generic [ref=f18e2360]: … j’avais demandé lors de la réservation n’était pas disponible, alors que j’avais clairement précisé que je voyageais avec un bébé et que j’en avais besoin. L’état de la chambre était également très décevant, notamment avec une forte odeur …
+                        - button "Voir plus" [ref=f18e2362] [cursor=pointer]: Plus
+                      - generic [ref=f18e2363]:
+                        - button "Photo 1 dans l'avis rédigé par Alias Al Paccino" [ref=f18e2364] [cursor=pointer]
+                        - button "Photo 2 dans l'avis rédigé par Alias Al Paccino" [ref=f18e2365] [cursor=pointer]
+                        - button "Photo 3 dans l'avis rédigé par Alias Al Paccino" [ref=f18e2366] [cursor=pointer]
+                        - button "3 autres photos dans l'avis rédigé par Alias Al Paccino" [ref=f18e2367] [cursor=pointer]:
+                          - generic [ref=f18e2368]: + 3
+                      - generic [ref=f18e2369]:
+                        - button "J'aime" [ref=f18e2370]:
+                          - generic [ref=f18e2371] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e2372]: 
+                            - generic [ref=f18e2373]: J'aime
+                        - button "Partager l'avis rédigé par Alias Al Paccino." [ref=f18e2375]:
+                          - generic [ref=f18e2376] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e2377]: 
+                            - generic [ref=f18e2378]: Partager
+                      - generic [ref=f18e2379]:
+                        - generic [ref=f18e2380]: Réponse du propriétaire il y a un mois
+                        - generic [ref=f18e2381]:
+                          - text: Cher Monsieur, Nous vous remercions d’avoir pris le temps de partager votre expérience à la …
+                          - button "Voir plus" [ref=f18e2383] [cursor=pointer]: Plus
+                - generic "697dhal" [ref=f18e2387]:
+                  - generic [ref=f18e2389]:
+                    - button "Photo de 697dhal" [ref=f18e2390]
+                    - button "697dhal" [ref=f18e2394]
+                    - generic [ref=f18e2396]:
+                      - generic [ref=f18e2397]:
+                        - generic [ref=f18e2398]: 1/5
+                        - generic [ref=f18e2399]:
+                          - text: il y a 2 mois sur
+                          - generic [ref=f18e2400]: Tripadvisor
+                      - generic [ref=f18e2402]:
+                        - generic [ref=f18e2403]: … , mais nous n’avons reçu aucune réponse ni même aucune prise de contact de leur part.||Nous avions également un bébé avec nous, qui dormait au moment où le problème est survenu. Nous ne voulions évidemment pas le réveiller en pleine …
+                        - button "En savoir plus sur Tripadvisor" [ref=f18e2405] [cursor=pointer]
+                - generic "bouchmoukha ranya" [ref=f18e2409]:
+                  - generic [ref=f18e2411]:
+                    - button "Photo de bouchmoukha ranya" [ref=f18e2412]
+                    - generic [ref=f18e2414]:
+                      - button "bouchmoukha ranya Local Guide · 14 avis · 3 photos" [ref=f18e2416]:
+                        - generic [ref=f18e2417]: bouchmoukha ranya
+                        - generic [ref=f18e2418]: Local Guide · 14 avis · 3 photos
+                      - button "Actions pour l'avis rédigé par bouchmoukha ranya" [ref=f18e2419] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f18e2421]: 
+                    - generic [ref=f18e2422]:
+                      - generic [ref=f18e2423]:
+                        - generic [ref=f18e2424]: 5/5
+                        - generic [ref=f18e2425]:
+                          - text: il y a un an sur
+                          - generic [ref=f18e2426]: Google
+                      - generic [ref=f18e2428]:
+                        - generic [ref=f18e2429]: Nous avons séjourné 1 semaine dans cet hôtel avec notre bébé et tout s’est très bien passé. Le personnel est très professionnel gentil a l’écoute et au petit soin. Ils sont serviables et répondent à vos besoins. La nourriture est bonne …
+                        - button "Voir plus" [ref=f18e2431] [cursor=pointer]: Plus
+                      - generic [ref=f18e2432]:
+                        - button "J'aime" [ref=f18e2433]:
+                          - generic [ref=f18e2434] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e2435]: 
+                            - generic [ref=f18e2436]: J'aime
+                        - button "Partager l'avis rédigé par bouchmoukha ranya." [ref=f18e2438]:
+                          - generic [ref=f18e2439] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e2440]: 
+                            - generic [ref=f18e2441]: Partager
+                      - generic [ref=f18e2442]:
+                        - generic [ref=f18e2443]: Réponse du propriétaire il y a un an
+                        - generic [ref=f18e2444]:
+                          - text: Chère Madame Bouchmoukha, Nous tenons à vous remercier pour votre merveilleuse appréciation suite à …
+                          - button "Voir plus" [ref=f18e2446] [cursor=pointer]: Plus
+                - generic "Héléna Bl" [ref=f18e2450]:
+                  - generic [ref=f18e2452]:
+                    - button "Photo de Héléna Bl" [ref=f18e2453]
+                    - generic [ref=f18e2455]:
+                      - button "Héléna Bl 1 avis" [ref=f18e2457]:
+                        - generic [ref=f18e2458]: Héléna Bl
+                        - generic [ref=f18e2459]: 1 avis
+                      - button "Actions pour l'avis rédigé par Héléna Bl" [ref=f18e2460] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f18e2462]: 
+                    - generic [ref=f18e2463]:
+                      - generic [ref=f18e2464]:
+                        - generic [ref=f18e2465]: 1/5
+                        - generic [ref=f18e2466]:
+                          - text: il y a un an sur
+                          - generic [ref=f18e2467]: Google
+                      - generic [ref=f18e2469]:
+                        - generic [ref=f18e2470]: … ramener de nourriture de l’extérieur ni même manger dans la réception. J’ai dû manger sur le trottoir avec mon bébé, alors que j’avais simplement commandé à manger pour éviter de le réveiller. Un minimum de compréhension et de flexibilité …
+                        - button "Voir plus" [ref=f18e2472] [cursor=pointer]: Plus
+                      - generic [ref=f18e2473]:
+                        - button "J'aime" [ref=f18e2474]:
+                          - generic [ref=f18e2475] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e2476]: 
+                            - generic [ref=f18e2477]: J'aime
+                        - button "Partager l'avis rédigé par Héléna Bl." [ref=f18e2479]:
+                          - generic [ref=f18e2480] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e2481]: 
+                            - generic [ref=f18e2482]: Partager
+                      - generic [ref=f18e2483]:
+                        - generic [ref=f18e2484]: Réponse du propriétaire il y a un an
+                        - generic [ref=f18e2485]:
+                          - text: Chère Madame BL , Nous sommes navrés de lire que votre séjour n'ait pas été aussi plaisant qu'il …
+                          - button "Voir plus" [ref=f18e2487] [cursor=pointer]: Plus
+              - button "Voir plus d'avis (4 816)" [ref=f18e2491]
+              - generic [ref=f18e2496]:
+                - generic [aria-hidden] [ref=f18e2498]: 
+                - generic [ref=f18e2499]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=f18e2500] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=f18e818] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f18e819]: 
+      - generic [ref=f18e823]:
+        - button "Applications Google" [ref=f18e827] [cursor=pointer]
+        - link "Connexion" [ref=f18e831] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FSofitel%2BAlgiers%2BHamma%2BGarden%2F%4036.7505228%2C3.0725569%2C17z%2Fdata%3D!4m11!3m10!1s0x128fb28be0db0863%3A0x7c8ea0ca3200f8ad!5m2!4m1!1i2!8m2!3d36.7505228!4d3.0725569!9m1!1b1!16s%252Fm%252F0gk_5k7%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f18e834] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f18e836]: 
+          - generic [ref=f18e838] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f18e839]:
+              - generic [aria-hidden] [ref=f18e841]: 
+            - button "Faire un zoom arrière" [ref=f18e842]:
+              - generic [aria-hidden] [ref=f18e844]: 
+        - generic [ref=f18e848]:
+          - button "Parcourir les images Street View" [ref=f18e850]
+          - button "Street View" [ref=f18e852] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f18e855]: 
+        - generic [ref=f18e856]:
+          - generic "Carte interactive" [ref=f18e857]
+          - generic [ref=f18e861] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f18e862]: 
+            - generic [ref=f18e863]: Calques
+          - button "Calques" [ref=f18e864] [cursor=pointer]
+      - generic [ref=f18e866]:
+        - contentinfo [ref=f18e869]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f18e870] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f18e871] [cursor=pointer]
+          - button "Confidentialité" [ref=f18e872] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f18e873] [cursor=pointer]
+        - button "100 m" [ref=f18e875] [cursor=pointer]
+  - generic [ref=f18e1346]: Affichage des résultats pour bébé

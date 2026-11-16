@@ -1,0 +1,225 @@
+- generic [ref=f14e1]:
+  - generic "Google Maps" [ref=f14e9]:
+    - generic [ref=f14e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f14e15]
+      - search [ref=f14e20]:
+        - button "Retour" [ref=f14e725] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f14e726]: 
+        - generic [ref=f14e21]:
+          - combobox [ref=f14e23]: Hotel Best Night - Bab Ezzouar
+          - button "Rechercher" [ref=f14e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f14e26]: 
+          - button "Fermer" [ref=f14e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f14e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f14e36]:
+        - generic [ref=f14e39]:
+          - button "Hôtels à proximité" [ref=f14e41] [cursor=pointer]:
+            - generic [ref=f14e42]:
+              - generic [aria-hidden] [ref=f14e44]: 
+              - generic [ref=f14e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f14e47] [cursor=pointer]:
+            - generic [ref=f14e48]:
+              - generic [aria-hidden] [ref=f14e50]: 
+              - generic [ref=f14e51]: Restaurants
+          - button "Activités à découvrir" [ref=f14e53] [cursor=pointer]:
+            - generic [ref=f14e54]:
+              - generic [aria-hidden] [ref=f14e56]: 
+              - generic [ref=f14e57]: Activités à découvrir
+          - button "Bars" [ref=f14e59] [cursor=pointer]:
+            - generic [ref=f14e60]:
+              - generic [aria-hidden] [ref=f14e62]: 
+              - generic [ref=f14e63]: Bars
+          - button "Cafés" [ref=f14e65] [cursor=pointer]:
+            - generic [ref=f14e66]:
+              - generic [aria-hidden] [ref=f14e68]: 
+              - generic [ref=f14e69]: Cafés
+          - button "Pharmacies" [ref=f14e71] [cursor=pointer]:
+            - generic [ref=f14e72]:
+              - generic [aria-hidden] [ref=f14e74]: 
+              - generic [ref=f14e75]: Pharmacies
+          - button "Parkings" [ref=f14e77] [cursor=pointer]:
+            - generic [ref=f14e78]:
+              - generic [aria-hidden] [ref=f14e80]: 
+              - generic [ref=f14e81]: Parkings
+      - generic [ref=f14e82]:
+        - generic [ref=f14e83]:
+          - list [ref=f14e85]:
+            - listitem [ref=f14e86]:
+              - button "Menu" [ref=f14e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e89]: 
+            - listitem [ref=f14e90]:
+              - button "Enregistré" [ref=f14e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e93]: 
+            - listitem [ref=f14e96]:
+              - button "Récents" [ref=f14e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e99]: 
+            - listitem [ref=f14e103]:
+              - button "Hotel Best Night - Bab Ezzouar" [ref=f14e104] [cursor=pointer]
+            - listitem [ref=f14e112]:
+              - button "Obtenir l'appli" [ref=f14e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e115]: 
+          - main "Hotel Best Night - Bab Ezzouar" [ref=f14e122]:
+            - tablist [ref=f14e165]:
+              - tab "Hotel Best Night - Bab Ezzouar - Présentation" [ref=f14e166]:
+                - generic [aria-hidden] [ref=f14e168]: Présentation
+              - tab "Prix pour Hotel Best Night - Bab Ezzouar" [ref=f14e170]:
+                - generic [aria-hidden] [ref=f14e172]: Prix
+              - tab "Hotel Best Night - Bab Ezzouar - Avis" [selected] [ref=f14e174]:
+                - generic [aria-hidden] [ref=f14e176]: Avis
+              - tab "Informations sur Hotel Best Night - Bab Ezzouar" [ref=f14e178]:
+                - generic [aria-hidden] [ref=f14e180]: À propos
+            - generic [ref=f14e728]:
+              - generic [ref=f14e730]:
+                - list [ref=f14e732]:
+                  - listitem [ref=f14e733]: 11 554 DA
+                  - text: ·
+                  - listitem [ref=f14e734]: Hôtel 3 étoiles
+                - generic [ref=f14e735]: 6–7 nov.
+              - link [ref=f14e739] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f14e740]:
+                  - generic [aria-hidden] [ref=f14e741]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f14e743]:
+              - generic [ref=f14e744]:
+                - heading "Résumé des avis Google" [level=2] [ref=f14e746]
+                - button "Informations" [ref=f14e748] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f14e749]: 
+              - generic [ref=f14e751]:
+                - table [ref=f14e753]:
+                  - rowgroup [ref=f14e754]:
+                    - img "5 étoiles, 1 251 avis" [ref=f14e755]: "5"
+                    - img "4 étoiles, 202 avis" [ref=f14e758]: "4"
+                    - img "3 étoiles, 132 avis" [ref=f14e761]: "3"
+                    - img "2 étoiles, 40 avis" [ref=f14e764]: "2"
+                    - img "1 étoiles, 156 avis" [ref=f14e767]: "1"
+                - generic [ref=f14e770]:
+                  - generic [ref=f14e771]: 4,3
+                  - img "4,3 étoiles" [ref=f14e772]
+                  - generic [ref=f14e778]: 1 781 avis
+              - button "Rédiger un avis" [ref=f14e782] [cursor=pointer]:
+                - generic [ref=f14e783]:
+                  - generic [aria-hidden] [ref=f14e784]: 
+                  - generic [ref=f14e785]: Rédiger un avis
+              - generic [ref=f14e789]:
+                - textbox [active] [ref=f14e1891]: bébé
+                - button "Effacer" [ref=f14e1892] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f14e1893]: 
+              - generic [ref=f14e791]:
+                - button "Tous les avis" [ref=f14e792] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f14e794]: 
+                - button "Avis les plus pertinents" [ref=f14e795] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f14e797]: 
+              - generic [ref=f14e1894]:
+                - generic "Sihem Zobiri" [ref=f14e1895]:
+                  - generic [ref=f14e1897]:
+                    - button "Photo de Sihem Zobiri" [ref=f14e1898]
+                    - generic [ref=f14e1900]:
+                      - button "Sihem Zobiri Local Guide · 16 avis · 11 photos" [ref=f14e1902]:
+                        - generic [ref=f14e1903]: Sihem Zobiri
+                        - generic [ref=f14e1904]: Local Guide · 16 avis · 11 photos
+                      - button "Actions pour l'avis rédigé par Sihem Zobiri" [ref=f14e1905] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f14e1907]: 
+                    - generic [ref=f14e1908]:
+                      - generic [ref=f14e1909]:
+                        - generic [ref=f14e1910]: 5/5
+                        - generic [ref=f14e1911]:
+                          - text: il y a 9 mois sur
+                          - generic [ref=f14e1912]: Google
+                      - generic [ref=f14e1914]:
+                        - generic [ref=f14e1915]: Hôtel propre avec navette à disponibilité à n'importe quelle heure pour l'aéroport. On a eu une chambre familiale pour 4 avec un lit bébé en plus. Petit déjeuner très correct et personnel au top. Je recommande !
+                        - button "Voir plus" [ref=f14e1917] [cursor=pointer]: Plus
+                      - generic [ref=f14e1918]:
+                        - button "J'aime" [ref=f14e1919]:
+                          - generic [ref=f14e1920] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1921]: 
+                            - generic [ref=f14e1922]: J'aime
+                        - button "Partager l'avis rédigé par Sihem Zobiri." [ref=f14e1924]:
+                          - generic [ref=f14e1925] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1926]: 
+                            - generic [ref=f14e1927]: Partager
+                - generic "Jade Djeghal" [ref=f14e1931]:
+                  - generic [ref=f14e1933]:
+                    - button "Photo de Jade Djeghal" [ref=f14e1934]
+                    - generic [ref=f14e1936]:
+                      - button "Jade Djeghal 3 avis" [ref=f14e1938]:
+                        - generic [ref=f14e1939]: Jade Djeghal
+                        - generic [ref=f14e1940]: 3 avis
+                      - button "Actions pour l'avis rédigé par Jade Djeghal" [ref=f14e1941] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f14e1943]: 
+                    - generic [ref=f14e1944]:
+                      - generic [ref=f14e1945]:
+                        - generic [ref=f14e1946]: 5/5
+                        - generic [ref=f14e1947]:
+                          - text: il y a 2 ans sur
+                          - generic [ref=f14e1948]: Google
+                      - generic [ref=f14e1950]:
+                        - generic [ref=f14e1951]: Bonjour, Nous sommes venue hier soir pour une escale, je recommande fortement cette hôtel, lit bébé avec draps déjà faits propre. Lit confortable, chambre spacieuse, fonctionnelle, et très très propre. Douche, toilette, très propre. …
+                        - button "Voir plus" [ref=f14e1953] [cursor=pointer]: Plus
+                      - generic [ref=f14e1954]:
+                        - button "8 \"J'aime\"" [ref=f14e1955]:
+                          - generic [ref=f14e1956] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1957]: 
+                            - generic [ref=f14e1958]: "8"
+                        - button "Partager l'avis rédigé par Jade Djeghal." [ref=f14e1960]:
+                          - generic [ref=f14e1961] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1962]: 
+                            - generic [ref=f14e1963]: Partager
+                - generic "Aures Magique" [ref=f14e1967]:
+                  - generic [ref=f14e1969]:
+                    - button "Photo de Aures Magique" [ref=f14e1970]
+                    - generic [ref=f14e1972]:
+                      - button "Aures Magique Local Guide · 48 avis · 2 photos" [ref=f14e1974]:
+                        - generic [ref=f14e1975]: Aures Magique
+                        - generic [ref=f14e1976]: Local Guide · 48 avis · 2 photos
+                      - button "Actions pour l'avis rédigé par Aures Magique" [ref=f14e1977] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f14e1979]: 
+                    - generic [ref=f14e1980]:
+                      - generic [ref=f14e1981]:
+                        - generic [ref=f14e1982]: 3/5
+                        - generic [ref=f14e1983]:
+                          - text: il y a un an sur
+                          - generic [ref=f14e1984]: Google
+                      - generic [ref=f14e1986]:
+                        - generic [ref=f14e1987]: Hôtel est correct par contre les draps ne sont pas changés et le lit parapluie pour bébé était extrêmement sale. Le personnel est agréable et serviable.
+                        - button "Voir plus" [ref=f14e1989] [cursor=pointer]: Plus
+                      - generic [ref=f14e1990]:
+                        - button "J'aime" [ref=f14e1991]:
+                          - generic [ref=f14e1992] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1993]: 
+                            - generic [ref=f14e1994]: J'aime
+                        - button "Partager l'avis rédigé par Aures Magique." [ref=f14e1996]:
+                          - generic [ref=f14e1997] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f14e1998]: 
+                            - generic [ref=f14e1999]: Partager
+        - button "Réduire le panneau latéral" [ref=f14e665] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f14e666]: 
+      - generic [ref=f14e670]:
+        - button "Applications Google" [ref=f14e674] [cursor=pointer]
+        - link "Connexion" [ref=f14e678] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FHotel%2BBest%2BNight%2B-%2BBab%2BEzzouar%2F%4036.7244284%2C3.1706173%2C17z%2Fdata%3D!4m11!3m10!1s0x128e521bcdecec8d%3A0xd61df57da15fbfc2!5m2!4m1!1i2!8m2!3d36.7244284!4d3.1706173!9m1!1b1!16s%252Fg%252F11b6_fgfdc%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f14e681] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f14e683]: 
+          - generic [ref=f14e685] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f14e686]:
+              - generic [aria-hidden] [ref=f14e688]: 
+            - button "Faire un zoom arrière" [ref=f14e689]:
+              - generic [aria-hidden] [ref=f14e691]: 
+        - button "Parcourir les images Street View" [ref=f14e697]
+        - generic [ref=f14e699]:
+          - generic "Carte interactive" [ref=f14e700]
+          - generic [ref=f14e704] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f14e705]: 
+            - generic [ref=f14e706]: Calques
+          - button "Calques" [ref=f14e707] [cursor=pointer]
+      - generic [ref=f14e709]:
+        - contentinfo [ref=f14e712]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f14e713] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f14e714] [cursor=pointer]
+          - button "Confidentialité" [ref=f14e715] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f14e716] [cursor=pointer]
+        - button "100 m" [ref=f14e718] [cursor=pointer]
+  - generic [ref=f14e1167]: Affichage des résultats pour bébé

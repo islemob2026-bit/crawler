@@ -1,0 +1,377 @@
+- generic "Google Maps" [ref=f14e9]:
+  - dialog [ref=f14e10]:
+    - generic [ref=f14e13]:
+      - generic [aria-hidden] [ref=f14e14]: 
+      - text: Indiquez vos dates pour afficher les meilleurs prix
+  - generic [ref=f14e3]:
+    - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f14e15]
+    - search [ref=f14e20]:
+      - generic [ref=f14e21]:
+        - combobox [ref=f14e23]: Hotel Best Night - Bab Ezzouar
+        - button "Rechercher" [ref=f14e25] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f14e26]: 
+        - button "Fermer" [ref=f14e28] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f14e29]: 
+    - region "Options de recherche disponibles pour cette zone" [ref=f14e36]:
+      - generic [ref=f14e39]:
+        - button "Hôtels à proximité" [ref=f14e41] [cursor=pointer]:
+          - generic [ref=f14e42]:
+            - generic [aria-hidden] [ref=f14e44]: 
+            - generic [ref=f14e45]: Hôtels à proximité
+        - button "Restaurants" [ref=f14e47] [cursor=pointer]:
+          - generic [ref=f14e48]:
+            - generic [aria-hidden] [ref=f14e50]: 
+            - generic [ref=f14e51]: Restaurants
+        - button "Activités à découvrir" [ref=f14e53] [cursor=pointer]:
+          - generic [ref=f14e54]:
+            - generic [aria-hidden] [ref=f14e56]: 
+            - generic [ref=f14e57]: Activités à découvrir
+        - button "Bars" [ref=f14e59] [cursor=pointer]:
+          - generic [ref=f14e60]:
+            - generic [aria-hidden] [ref=f14e62]: 
+            - generic [ref=f14e63]: Bars
+        - button "Cafés" [ref=f14e65] [cursor=pointer]:
+          - generic [ref=f14e66]:
+            - generic [aria-hidden] [ref=f14e68]: 
+            - generic [ref=f14e69]: Cafés
+        - button "Pharmacies" [ref=f14e71] [cursor=pointer]:
+          - generic [ref=f14e72]:
+            - generic [aria-hidden] [ref=f14e74]: 
+            - generic [ref=f14e75]: Pharmacies
+        - button "Parkings" [ref=f14e77] [cursor=pointer]:
+          - generic [ref=f14e78]:
+            - generic [aria-hidden] [ref=f14e80]: 
+            - generic [ref=f14e81]: Parkings
+    - generic [ref=f14e82]:
+      - generic [ref=f14e83]:
+        - list [ref=f14e85]:
+          - listitem [ref=f14e86]:
+            - button "Menu" [ref=f14e87] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f14e89]: 
+          - listitem [ref=f14e90]:
+            - button "Enregistré" [ref=f14e91] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f14e93]: 
+          - listitem [ref=f14e96]:
+            - button "Récents" [ref=f14e97] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f14e99]: 
+          - listitem [ref=f14e103]:
+            - button "Hotel Best Night - Bab Ezzouar" [ref=f14e104] [cursor=pointer]
+          - listitem [ref=f14e112]:
+            - button "Obtenir l'appli" [ref=f14e113] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f14e115]: 
+        - main "Hotel Best Night - Bab Ezzouar" [ref=f14e122]:
+          - generic [ref=f14e123]:
+            - generic [ref=f14e124]:
+              - button "Photo de Hotel Best Night - Bab Ezzouar" [ref=f14e126] [cursor=pointer]
+              - button "À partir de 11 554 DA par nuit pour 6–7 nov.." [ref=f14e129] [cursor=pointer]:
+                - generic [ref=f14e130]:
+                  - generic [ref=f14e131]: 11 554 DA
+                  - generic [ref=f14e133]: 6–7 nov.
+              - button "Voir les photos" [ref=f14e134] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e135]: 
+            - generic [ref=f14e139]:
+              - heading "Hotel Best Night - Bab Ezzouar" [level=1] [ref=f14e141]
+              - heading "فندق بست نايت" [level=2] [ref=f14e142]
+              - generic [ref=f14e146]:
+                - generic [ref=f14e147]:
+                  - generic [ref=f14e148]:
+                    - text: 4,3
+                    - img "4,3 étoiles" [ref=f14e149]
+                  - img "1 781 avis" [ref=f14e157]: (1 781)
+                - generic [ref=f14e160]:
+                  - text: ·
+                  - generic [ref=f14e161]: Hôtel 3 étoiles
+            - tablist [ref=f14e165]:
+              - tab "Hotel Best Night - Bab Ezzouar - Présentation" [selected] [ref=f14e166]:
+                - generic [aria-hidden] [ref=f14e168]: Présentation
+              - tab "Prix pour Hotel Best Night - Bab Ezzouar" [ref=f14e170]:
+                - generic [aria-hidden] [ref=f14e172]: Prix
+              - tab "Hotel Best Night - Bab Ezzouar - Avis" [ref=f14e174]:
+                - generic [aria-hidden] [ref=f14e176]: Avis
+              - tab "Informations sur Hotel Best Night - Bab Ezzouar" [ref=f14e178]:
+                - generic [aria-hidden] [ref=f14e180]: À propos
+            - region "Hotel Best Night - Bab Ezzouar - Actions" [ref=f14e182]:
+              - button "Itinéraires" [ref=f14e184] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e186]: 
+              - button "Enregistrer" [ref=f14e189] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e191]: 
+              - button "À proximité" [ref=f14e194] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e196]: 
+              - button "Partager" [ref=f14e199] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e201]: 
+            - link [ref=f14e205] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f14e206]:
+                - generic [aria-hidden] [ref=f14e207]: 
+                - text: Vérifier la disponibilité
+            - generic [ref=f14e210]:
+              - generic [ref=f14e212]:
+                - heading "Comparer les prix" [level=2] [ref=f14e213]
+                - generic [ref=f14e215]:
+                  - generic [ref=f14e216]: Annulation gratuite uniquement
+                  - checkbox "Annulation gratuite uniquement" [ref=f14e217]:
+                    - generic [aria-hidden] [ref=f14e218]: 
+                    - checkbox "Annulation gratuite uniquement" [ref=f14e219] [cursor=pointer]
+              - generic [ref=f14e220]:
+                - group "Arrivée/Départ" [ref=f14e221]:
+                  - group "Du vendredi 6 novembre au samedi 7 novembre" [active] [ref=f14e223]:
+                    - generic [ref=f14e225] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f14e226]: ven. 6 nov.
+                      - generic [ref=f14e227]:
+                        - button "Arriver un jour plus tôt" [ref=f14e228]:
+                          - generic [aria-hidden] [ref=f14e229]: 
+                        - button "Arriver un jour plus tard" [ref=f14e230]:
+                          - generic [aria-hidden] [ref=f14e231]: 
+                    - generic [ref=f14e233] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f14e234]: sam. 7 nov.
+                      - generic [ref=f14e235]:
+                        - button "Partir un jour plus tôt" [disabled] [ref=f14e236]:
+                          - generic [aria-hidden] [ref=f14e237]: 
+                        - button "Partir un jour plus tard" [ref=f14e238]:
+                          - generic [aria-hidden] [ref=f14e239]: 
+                - group "Invités" [ref=f14e240]:
+                  - generic [aria-hidden] [ref=f14e241]: 
+                  - button "2 clients" [ref=f14e242] [cursor=pointer]:
+                    - text: "2"
+                    - generic [aria-hidden] [ref=f14e243]: 
+              - generic [ref=f14e244]:
+                - generic [aria-hidden] [ref=f14e246]: 
+                - button "Réservez du sam. 7 nov. au dim. 8 nov. pour économiser 4 440 DA" [ref=f14e247] [cursor=pointer]:
+                  - text: Réservez du
+                  - generic [ref=f14e248]: sam. 7 nov. au dim. 8 nov.
+                  - text: pour économiser 4 440 DA
+              - generic [ref=f14e252]:
+                - heading "Toutes les options" [level=2] [ref=f14e255]
+                - generic [ref=f14e256]:
+                  - button "Trip.com 11 589 DA Petit-déjeuner inclus · Parking gratuit" [ref=f14e262] [cursor=pointer]:
+                    - generic [ref=f14e263]:
+                      - generic [ref=f14e264]:
+                        - generic [ref=f14e265]: Trip.com
+                        - generic [ref=f14e267]:
+                          - generic [ref=f14e268]: 11 589 DA
+                          - generic [aria-hidden] [ref=f14e269]: 
+                      - generic [ref=f14e270]: Petit-déjeuner inclus · Parking gratuit
+                  - button "Voir les chambres" [ref=f14e273] [cursor=pointer]:
+                    - text: Voir les chambres
+                    - generic [aria-hidden] [ref=f14e274]: 
+                  - button "Qantas Hotels 11 554 DA" [ref=f14e280] [cursor=pointer]:
+                    - generic [ref=f14e282]:
+                      - generic [ref=f14e283]: Qantas Hotels
+                      - generic [ref=f14e285]:
+                        - generic [ref=f14e286]: 11 554 DA
+                        - generic [aria-hidden] [ref=f14e287]: 
+                  - button "Plus de prix à partir de 11 565 DA" [ref=f14e290]
+            - region "Hotel Best Night - Bab Ezzouar - Informations" [ref=f14e296]:
+              - generic [ref=f14e297]:
+                - 'button "Adresse: P5FC+83X, Cité Boushaki D N°: 158, Unnamed Road, Bab Ezzouar 16024" [ref=f14e298] [cursor=pointer]':
+                  - generic [ref=f14e299]:
+                    - generic [aria-hidden] [ref=f14e301]: 
+                    - generic [ref=f14e302]: "P5FC+83X, Cité Boushaki D N°: 158, Unnamed Road, Bab Ezzouar 16024"
+                - button "Copier l'adresse" [ref=f14e306] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f14e308]: 
+              - generic [ref=f14e309]:
+                - 'link "Site Web: hotelbestnight.com" [ref=f14e310] [cursor=pointer]':
+                  - /url: http://www.hotelbestnight.com/
+                  - generic [ref=f14e311]:
+                    - generic [aria-hidden] [ref=f14e313]: 
+                    - generic [ref=f14e314]: hotelbestnight.com
+                - generic [ref=f14e316]:
+                  - link "Accéder au site Web" [ref=f14e318] [cursor=pointer]:
+                    - /url: http://www.hotelbestnight.com/
+                    - generic [aria-hidden] [ref=f14e320]: 
+                  - button "Copier le site Web" [ref=f14e322] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f14e324]: 
+              - generic [ref=f14e325]:
+                - 'button "Numéro de téléphone: 020 41 67 69" [ref=f14e326] [cursor=pointer]':
+                  - generic [ref=f14e327]:
+                    - generic [aria-hidden] [ref=f14e329]: 
+                    - generic [ref=f14e330]: 020 41 67 69
+                - generic [ref=f14e332]:
+                  - button "Copier le numéro de téléphone" [ref=f14e334] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f14e336]: 
+                  - link "Composer le numéro de téléphone" [ref=f14e338] [cursor=pointer]:
+                    - /url: tel:020416769
+                    - generic [aria-hidden] [ref=f14e340]: 
+              - generic [ref=f14e342]:
+                - generic [aria-hidden] [ref=f14e344]: 
+                - generic [ref=f14e345]: "Heure d'arrivée : 2:00 PMHeure de départ : 12:00 PM"
+            - button "Suggérer une modification" [ref=f14e350] [cursor=pointer]:
+              - generic [ref=f14e351]:
+                - generic [aria-hidden] [ref=f14e352]: 
+                - generic [ref=f14e353]: Suggérer une modification
+            - heading "Photos" [level=2] [ref=f14e357]
+            - button "876 photos" [ref=f14e360] [cursor=pointer]
+            - button "Ajouter des photos/vidéos" [ref=f14e368] [cursor=pointer]:
+              - generic [ref=f14e369]:
+                - generic [aria-hidden] [ref=f14e370]: 
+                - generic [ref=f14e371]: Ajouter des photos/vidéos
+            - generic [ref=f14e374]:
+              - heading "À cette adresse" [level=2] [ref=f14e376]
+              - article [ref=f14e378]:
+                - button "CBS" [ref=f14e379] [cursor=pointer]
+                - generic [ref=f14e385] [cursor=pointer]:
+                  - generic [ref=f14e386]: CBS
+                  - img "4,8 étoiles 44 avis" [ref=f14e391]: 4,8(44)
+                  - generic [ref=f14e397]:
+                    - generic [ref=f14e398]: Magasin
+                    - generic [ref=f14e400]: Ouvert 24h/24
+              - article [ref=f14e404]:
+                - button "Placoplâtre Bab Ezzouar" [ref=f14e405] [cursor=pointer]
+                - generic [ref=f14e407] [cursor=pointer]:
+                  - generic [ref=f14e411]:
+                    - generic [ref=f14e412]: Placoplâtre Bab Ezzouar
+                    - img "4,4 étoiles 7 avis" [ref=f14e417]: 4,4(7)
+                    - generic [ref=f14e423]:
+                      - generic [ref=f14e424]: Magasin de materiaux de construction
+                      - generic [ref=f14e426]: Ouvert · Ferme à 17:00
+                  - button "Obtenir un itinéraire vers Placoplâtre Bab Ezzouar" [ref=f14e431]:
+                    - generic [aria-hidden] [ref=f14e433]: 
+                    - generic [ref=f14e434]: Itinéraires
+            - heading "Hôtels similaires à proximité" [level=2] [ref=f14e437]
+            - region "Hôtels similaires à proximité" [ref=f14e438]:
+              - generic [ref=f14e441]:
+                - link "Hôtel Dar El Aaz - Bab Ezzouar·5 948 DA·3,6 étoiles·193 avis·À 0,5 km" [ref=f14e442] [cursor=pointer]:
+                  - generic [ref=f14e443]: 5 948 DA
+                  - generic [ref=f14e446]:
+                    - generic [ref=f14e447]: Hôtel Dar El Aaz - Bab Ezzouar
+                    - img "3,6 étoiles 193 avis" [ref=f14e451]: 3,6(193)
+                    - generic [ref=f14e453]: À 0,5 km
+                - link "Hani Hotel Aeroport·8 089 DA·3,9 étoiles·634 avis·À 0,9 km" [ref=f14e454] [cursor=pointer]:
+                  - generic [ref=f14e455]: 8 089 DA
+                  - generic [ref=f14e458]:
+                    - generic [ref=f14e459]: Hani Hotel Aeroport
+                    - img "3,9 étoiles 634 avis" [ref=f14e463]: 3,9(634)
+                    - generic [ref=f14e465]: À 0,9 km
+                - link "Golden Tulip Royaume·13 326 DA·3,9 étoiles·1 283 avis·Hôtel 4 étoiles pour seulement 1 772 DA de plus·À 3,4 km" [ref=f14e466] [cursor=pointer]:
+                  - generic [ref=f14e467]: 13 326 DA
+                  - generic [ref=f14e470]:
+                    - generic [ref=f14e471]: Golden Tulip Royaume
+                    - img "3,9 étoiles 1 283 avis" [ref=f14e475]: 3,9(1 283)
+                    - generic [ref=f14e477]: Hôtel 4 étoiles pour seulement 1 772 DA de plus
+                    - generic [ref=f14e478]: À 3,4 km
+                - link "Mercure Hotel Aéroport·11 256 DA·4,4 étoiles·7 052 avis·Hôtel 4 étoiles, 298 DA moins cher·À 2,6 km" [ref=f14e479] [cursor=pointer]:
+                  - generic [ref=f14e480]: 11 256 DA
+                  - generic [ref=f14e483]:
+                    - generic [ref=f14e484]: Mercure Hotel Aéroport
+                    - img "4,4 étoiles 7 052 avis" [ref=f14e488]: 4,4(7 052)
+                    - generic [ref=f14e490]: Hôtel 4 étoiles, 298 DA moins cher
+                    - generic [ref=f14e491]: À 2,6 km
+                - link "Palace Appart Hotel - Bordj El Kifan·8 075 DA·4,2 étoiles·596 avis·Autre hôtel 3 étoiles, 3 479 DA moins cher·À 2,8 km" [ref=f14e492] [cursor=pointer]:
+                  - generic [ref=f14e493]: 8 075 DA
+                  - generic [ref=f14e496]:
+                    - generic [ref=f14e497]: Palace Appart Hotel - Bordj El Kifan
+                    - img "4,2 étoiles 596 avis" [ref=f14e501]: 4,2(596)
+                    - generic [ref=f14e503]: Autre hôtel 3 étoiles, 3 479 DA moins cher
+                    - generic [ref=f14e504]: À 2,8 km
+                - link "Hôtel Ikram Bab Ezzouar·7 449 DA·4,0 étoiles·401 avis·Autre hôtel 3 étoiles, 4 105 DA moins cher·À 2,1 km" [ref=f14e505] [cursor=pointer]:
+                  - generic [ref=f14e506]: 7 449 DA
+                  - generic [ref=f14e509]:
+                    - generic [ref=f14e510]: Hôtel Ikram Bab Ezzouar
+                    - img "4,0 étoiles 401 avis" [ref=f14e514]: 4,0(401)
+                    - generic [ref=f14e516]: Autre hôtel 3 étoiles, 4 105 DA moins cher
+                    - generic [ref=f14e517]: À 2,1 km
+                - link "Selma Appart Hôtel·4,4 étoiles·439 avis·À 2,6 km" [ref=f14e518] [cursor=pointer]:
+                  - generic [ref=f14e521]:
+                    - generic [ref=f14e522]: Selma Appart Hôtel
+                    - img "4,4 étoiles 439 avis" [ref=f14e526]: 4,4(439)
+                    - generic [ref=f14e528]: À 2,6 km
+            - button "Afficher d'autres hôtels à proximité" [ref=f14e533]
+            - heading "Informations sur l'hôtel" [level=2] [ref=f14e539]
+            - generic [ref=f14e540]:
+              - text: Situé au bord de la route nationale 5, cet hôtel à l'atmosphère conviviale se trouve à 6 km de l'aéroport international d'Alger-Houari-Boumédiène et à 12 km du jardin botanique du Hamma.
+              - button "Plus d'informations sur cet hôtel" [ref=f14e541] [cursor=pointer]: Plus
+            - generic [ref=f14e544]:
+              - img "Wi-Fi gratuit disponible" [ref=f14e545]:
+                - generic [aria-hidden] [ref=f14e546]: 
+                - generic [ref=f14e547]: Wi-Fi gratuit
+              - img "Petit-déjeuner inclus disponible" [ref=f14e548]:
+                - generic [aria-hidden] [ref=f14e549]: 
+                - generic [ref=f14e550]: Petit-déjeuner inclus
+              - img "Parking gratuit disponible" [ref=f14e551]:
+                - generic [aria-hidden] [ref=f14e552]: 
+                - generic [ref=f14e553]: Parking gratuit
+              - img "Piscine non disponible" [ref=f14e554]:
+                - generic [aria-hidden] [ref=f14e555]: 
+                - generic [ref=f14e556]: Piscine
+              - img "Climatisation disponible" [ref=f14e557]:
+                - generic [aria-hidden] [ref=f14e558]: 
+                - generic [ref=f14e559]: Climatisation
+              - img "Service de blanchisserie disponible" [ref=f14e560]:
+                - generic [aria-hidden] [ref=f14e561]: 
+                - generic [ref=f14e562]: Service de blanchisserie
+            - button "Afficher plus d'équipements" [ref=f14e566]:
+              - generic [ref=f14e567] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e568]: 
+                - generic [ref=f14e569]: Afficher plus d'équipements
+            - generic [ref=f14e572]:
+              - heading "Résumé des avis Google" [level=2] [ref=f14e573]
+              - button "Plus d'informations sur le résumé des avis" [ref=f14e574] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e575]: 
+            - generic [ref=f14e577] [cursor=pointer]:
+              - table [ref=f14e579]:
+                - rowgroup [ref=f14e580]:
+                  - img "5 étoiles, 1 251 avis" [ref=f14e581]: "5"
+                  - img "4 étoiles, 202 avis" [ref=f14e584]: "4"
+                  - img "3 étoiles, 132 avis" [ref=f14e587]: "3"
+                  - img "2 étoiles, 40 avis" [ref=f14e590]: "2"
+                  - img "1 étoiles, 156 avis" [ref=f14e593]: "1"
+              - generic [ref=f14e596]:
+                - generic [ref=f14e597]: 4,3
+                - img "4,3 étoiles" [ref=f14e598]
+                - button "1 781 avis" [ref=f14e604]
+            - button "Rédiger un avis" [ref=f14e610] [cursor=pointer]:
+              - generic [ref=f14e611]:
+                - generic [aria-hidden] [ref=f14e612]: 
+                - generic [ref=f14e613]: Rédiger un avis
+            - generic [ref=f14e616]:
+              - heading "Tous les avis" [level=2] [ref=f14e618]
+              - button "Rechercher dans les avis" [ref=f14e620] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e622]: 
+            - generic [ref=f14e628]:
+              - generic [ref=f14e629]: Tripadvisor
+              - generic [ref=f14e632]:
+                - generic [ref=f14e633]: 3,9/5
+                - generic [aria-hidden] [ref=f14e634]: ·
+                - generic [ref=f14e635]: 91 avis
+              - generic [ref=f14e636]: Trip743253, il y a 3 mois
+              - generic [ref=f14e638]: Trop chère pour une chambre minuscule et entouré de magasins de pièces détacher et proche d'une cimetière.
+              - link "Afficher plus sur Tripadvisor" [ref=f14e641] [cursor=pointer]:
+                - /url: https://www.tripadvisor.fr/ShowUserReviews-g293718-d7905376-r1070590434?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=DZ&supul=fr
+            - button "Plus d'avis (1 778)" [ref=f14e647]
+            - link "À propos de ces données" [ref=f14e654] [cursor=pointer]:
+              - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=fr
+            - generic [ref=f14e659]:
+              - generic [aria-hidden] [ref=f14e661]: 
+              - generic [ref=f14e662]:
+                - text: Vous voyez un affichage limité de Google Maps.
+                - button "Voir plus" [ref=f14e663] [cursor=pointer]
+      - button "Réduire le panneau latéral" [ref=f14e665] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f14e666]: 
+    - generic [ref=f14e670]:
+      - button "Applications Google" [ref=f14e674] [cursor=pointer]
+      - link "Connexion" [ref=f14e678] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FHotel%2BBest%2BNight%2B-%2BBab%2BEzzouar%2F%4036.7244284%2C3.1706173%2C17z%2Fdata%3D!3m1!4b1!4m9!3m8!1s0x128e521bcdecec8d%3A0xd61df57da15fbfc2!5m2!4m1!1i2!8m2!3d36.7244284!4d3.1706173!16s%252Fg%252F11b6_fgfdc%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Afficher votre position" [ref=f14e681] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f14e683]: 
+        - generic [ref=f14e685] [cursor=pointer]:
+          - button "Faire un zoom avant" [ref=f14e686]:
+            - generic [aria-hidden] [ref=f14e688]: 
+          - button "Faire un zoom arrière" [ref=f14e689]:
+            - generic [aria-hidden] [ref=f14e691]: 
+      - button "Parcourir les images Street View" [ref=f14e697]
+      - generic [ref=f14e699]:
+        - generic "Carte interactive" [ref=f14e700]
+        - generic [ref=f14e704] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f14e705]: 
+          - generic [ref=f14e706]: Calques
+        - button "Calques" [ref=f14e707] [cursor=pointer]
+    - generic [ref=f14e709]:
+      - contentinfo [ref=f14e712]:
+        - text: Données cartographiques ©2026
+        - button "Algérie" [ref=f14e713] [cursor=pointer]
+        - button "Conditions d'utilisation" [ref=f14e714] [cursor=pointer]
+        - button "Confidentialité" [ref=f14e715] [cursor=pointer]
+        - button "Envoyer des commentaires sur le produit" [ref=f14e716] [cursor=pointer]
+      - button "100 m" [ref=f14e718] [cursor=pointer]

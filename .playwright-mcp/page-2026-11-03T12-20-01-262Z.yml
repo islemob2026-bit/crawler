@@ -1,0 +1,298 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e5]:
+    - banner [ref=f3e6]:
+      - generic [ref=f3e8]:
+        - button "القائمة" [ref=f3e9] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f3e10]: 󰍜
+        - link [ref=f3e12] [cursor=pointer]:
+          - /url: /
+          - img "واد كنيس" [ref=f3e13]
+        - generic [ref=f3e18]:
+          - textbox "أدخل بحثك هنا" [ref=f3e20]
+          - text: 󰅖
+          - button "بحث" [ref=f3e22] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f3e23]: 󰍉
+        - generic [ref=f3e24]:
+          - button "سلة المشتريات" [ref=f3e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f3e27]: 󰄐
+          - button "إضافة إعلان" [ref=f3e29] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f3e30]: 󰐙
+          - link "تسجيل الدخول" [ref=f3e31] [cursor=pointer]:
+            - /url: /auth/login
+            - generic [aria-hidden] [ref=f3e32]: 󰀄
+    - main [ref=f3e33]:
+      - generic [ref=f3e35]:
+        - generic [ref=f3e38]:
+          - generic [ref=f3e41]:
+            - link "algomat" [ref=f3e45] [cursor=pointer]:
+              - /url: https://www.ouedkniss.com/store/10141/algomat
+              - img "Slide Accueil - ALGOMAT" [ref=f3e47]
+            - link [ref=f3e52] [cursor=pointer]:
+              - /url: https://www.ouedkniss.com/store/19047/ouedkniss?q=store
+              - img "DESKTOP_HOME_SQUARE" [ref=f3e54]
+          - generic [ref=f3e60] [cursor=pointer]:
+            - link "متاجر" [ref=f3e62]:
+              - /url: /boutiques
+              - img "متاجر" [ref=f3e65]
+              - heading "متاجر" [level=2] [ref=f3e66]
+            - link "عقارات" [ref=f3e68]:
+              - /url: /immobilier/1
+              - img "عقارات" [ref=f3e71]
+              - heading "عقارات" [level=2] [ref=f3e72]
+            - link "سيارات و مركبات" [ref=f3e74]:
+              - /url: /automobiles_vehicules/1
+              - img "سيارات و مركبات" [ref=f3e77]
+              - heading "سيارات و مركبات" [level=2] [ref=f3e78]
+            - link "قطع غيار" [ref=f3e80]:
+              - /url: /pieces_detachees/1
+              - img "قطع غيار" [ref=f3e83]
+              - heading "قطع غيار" [level=2] [ref=f3e84]
+            - link "هواتف و أكسسوارات" [ref=f3e86]:
+              - /url: /telephones/1
+              - img "هواتف و أكسسوارات" [ref=f3e89]
+              - heading "هواتف و أكسسوارات" [level=2] [ref=f3e90]
+            - link "إعلام آلي" [ref=f3e92]:
+              - /url: /informatique/1
+              - img "إعلام آلي" [ref=f3e95]
+              - heading "إعلام آلي" [level=2] [ref=f3e96]
+            - link "أجهزة إلكترونية و كهرومنزلية" [ref=f3e98]:
+              - /url: /electronique_electromenager/1
+              - img "أجهزة إلكترونية و كهرومنزلية" [ref=f3e101]
+              - heading "أجهزة إلكترونية و كهرومنزلية" [level=2] [ref=f3e102]
+            - link "ملابس و موضة" [ref=f3e104]:
+              - /url: /vetements_mode/1
+              - img "ملابس و موضة" [ref=f3e107]
+              - heading "ملابس و موضة" [level=2] [ref=f3e108]
+            - link "صحة و جمال" [ref=f3e110]:
+              - /url: /sante_beaute/1
+              - img "صحة و جمال" [ref=f3e113]
+              - heading "صحة و جمال" [level=2] [ref=f3e114]
+            - link "أثاث و منزل" [ref=f3e116]:
+              - /url: /meubles_maison/1
+              - img "أثاث و منزل" [ref=f3e119]
+              - heading "أثاث و منزل" [level=2] [ref=f3e120]
+            - link "تسلية و ترفيه" [ref=f3e122]:
+              - /url: /loisirs_divertissements/1
+              - img "تسلية و ترفيه" [ref=f3e125]
+              - heading "تسلية و ترفيه" [level=2] [ref=f3e126]
+            - link "رياضة" [ref=f3e128]:
+              - /url: /sport/1
+              - img "رياضة" [ref=f3e131]
+              - heading "رياضة" [level=2] [ref=f3e132]
+            - link "عروض و طلبات العمل" [ref=f3e134]:
+              - /url: /offres_demandes_emploi/1
+              - img "عروض و طلبات العمل" [ref=f3e137]
+              - heading "عروض و طلبات العمل" [level=2] [ref=f3e138]
+            - link "معدات و مواد" [ref=f3e140]:
+              - /url: /materiaux_equipement/1
+              - img "معدات و مواد" [ref=f3e143]
+              - heading "معدات و مواد" [level=2] [ref=f3e144]
+            - link "مواد غذائية" [ref=f3e146]:
+              - /url: /alimentaires/1
+              - img "مواد غذائية" [ref=f3e149]
+              - heading "مواد غذائية" [level=2] [ref=f3e150]
+            - link "سياحة و سفر" [ref=f3e152]:
+              - /url: /voyages/1
+              - img "سياحة و سفر" [ref=f3e155]
+              - heading "سياحة و سفر" [level=2] [ref=f3e156]
+            - link "خدمات" [ref=f3e158]:
+              - /url: /services/1
+              - img "خدمات" [ref=f3e161]
+              - heading "خدمات" [level=2] [ref=f3e162]
+        - generic [ref=f3e164]:
+          - generic [ref=f3e166]:
+            - generic [aria-hidden] [ref=f3e168]: 󰉁
+            - heading "إشهار" [level=2] [ref=f3e170]
+          - link [ref=f3e173] [cursor=pointer]:
+            - /url: https://www.tv5mondeplus.com/fr/jeunesse?xtor=CS5-70-%5bMMO_PS_AFMAFHREB_DZ%5d-%5bOuedkniss%5d-%5bBanner-1300x150%5d-%5b%5d
+            - img "Bannière den-tête Accueil Desktop - unlock marketing tv5 monde" [ref=f3e175]
+        - generic [ref=f3e177]:
+          - generic [ref=f3e179]:
+            - generic [aria-hidden] [ref=f3e181]: 󰓎
+            - heading "إعلانات مميزة" [level=2] [ref=f3e183]
+          - generic [ref=f3e187]:
+            - generic [ref=f3e190]:
+              - link "خدمات-في-الخارج-permis-international-usa-10-ans-الأبيار-الجزائر Permis international USA ( 10 ans ) 12 000 دج" [ref=f3e191] [cursor=pointer]:
+                - /url: /%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC-permis-international-usa-10-ans-%D8%A7%D9%84%D8%A3%D8%A8%D9%8A%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-d10905174
+                - img "خدمات-في-الخارج-permis-international-usa-10-ans-الأبيار-الجزائر" [ref=f3e194]
+                - generic [ref=f3e196]:
+                  - heading "Permis international USA ( 10 ans )" [level=3] [ref=f3e197]
+                  - generic [ref=f3e200]:
+                    - generic [ref=f3e201]: 12 000
+                    - generic [ref=f3e202]: دج
+              - generic [ref=f3e203]:
+                - separator [ref=f3e204]
+                - generic [ref=f3e205]:
+                  - button "إتصال" [ref=f3e206] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e207]: 󰏲
+                  - button "رسالة" [ref=f3e210] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e211]: 󰍪
+            - generic [ref=f3e214]:
+              - link "بناء-و-أشغال-cabine-sanitaire-et-cassier-vestiaire-banc-dassise-en-hpl-تسالة-المرجة-الجزائر Cabine Sanitaire et Cassier Vestiaire et banc d'assise en HPL 11 دج" [ref=f3e215] [cursor=pointer]:
+                - /url: /%D8%A8%D9%86%D8%A7%D8%A1-%D9%88-%D8%A3%D8%B4%D8%BA%D8%A7%D9%84-cabine-sanitaire-et-cassier-vestiaire-banc-dassise-en-hpl-%D8%AA%D8%B3%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%AC%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-d34687700
+                - img "بناء-و-أشغال-cabine-sanitaire-et-cassier-vestiaire-banc-dassise-en-hpl-تسالة-المرجة-الجزائر" [ref=f3e218]
+                - generic [ref=f3e220]:
+                  - heading "Cabine Sanitaire et Cassier Vestiaire et banc d'assise en HPL" [level=3] [ref=f3e221]
+                  - generic [ref=f3e224]:
+                    - generic [ref=f3e225]: "11"
+                    - generic [ref=f3e226]: دج
+              - generic [ref=f3e227]:
+                - separator [ref=f3e228]
+                - generic [ref=f3e229]:
+                  - button "إتصال" [ref=f3e230] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e231]: 󰏲
+                  - button "رسالة" [ref=f3e234] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e235]: 󰍪
+            - generic [ref=f3e238]:
+              - link [ref=f3e239] [cursor=pointer]:
+                - /url: /%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-jetour-x70-l-2026-luxury-edition-7-places-%D8%AD%D9%8A%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-d58475835
+                - img "سيارات-jetour-x70-l-2026-luxury-edition-7-places-حيدرة-الجزائر" [ref=f3e242]
+                - heading "Jetour X70 L 2026 Luxury Edition 7 places" [level=3] [ref=f3e245]
+              - generic [ref=f3e246]:
+                - separator [ref=f3e247]
+                - generic [ref=f3e248]:
+                  - button "إتصال" [ref=f3e249] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e250]: 󰏲
+                  - button "رسالة" [ref=f3e253] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e254]: 󰍪
+            - generic [ref=f3e257]:
+              - link "حجوزات-و-تأشيرة-visa-chine-برج-الكيفان-الجزائر VISA CHINE 12 000 دج" [ref=f3e258] [cursor=pointer]:
+                - /url: /%D8%AD%D8%AC%D9%88%D8%B2%D8%A7%D8%AA-%D9%88-%D8%AA%D8%A3%D8%B4%D9%8A%D8%B1%D8%A9-visa-chine-%D8%A8%D8%B1%D8%AC-%D8%A7%D9%84%D9%83%D9%8A%D9%81%D8%A7%D9%86-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-d43305006
+                - img "حجوزات-و-تأشيرة-visa-chine-برج-الكيفان-الجزائر" [ref=f3e261]
+                - generic [ref=f3e263]:
+                  - heading "VISA CHINE" [level=3] [ref=f3e264]
+                  - generic [ref=f3e267]:
+                    - generic [ref=f3e268]: 12 000
+                    - generic [ref=f3e269]: دج
+              - generic [ref=f3e270]:
+                - separator [ref=f3e271]
+                - generic [ref=f3e272]:
+                  - button "إتصال" [ref=f3e273] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e274]: 󰏲
+                  - button "رسالة" [ref=f3e277] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e278]: 󰍪
+            - generic [ref=f3e281]:
+              - link "سيارات-seat-ibiza-2019-high-بئر-خادم-الجزائر Seat Ibiza 2019 HIGH 415 مليون" [ref=f3e282] [cursor=pointer]:
+                - /url: /%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-seat-ibiza-2019-high-%D8%A8%D8%A6%D8%B1-%D8%AE%D8%A7%D8%AF%D9%85-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-d58443633
+                - img "سيارات-seat-ibiza-2019-high-بئر-خادم-الجزائر" [ref=f3e285]
+                - generic [ref=f3e287]:
+                  - heading "Seat Ibiza 2019 HIGH" [level=3] [ref=f3e288]
+                  - generic [ref=f3e291]:
+                    - generic [ref=f3e292]: "415"
+                    - generic [ref=f3e293]: مليون
+              - generic [ref=f3e294]:
+                - separator [ref=f3e295]
+                - generic [ref=f3e296]:
+                  - button "إتصال" [ref=f3e297] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e298]: 󰏲
+                  - button "رسالة" [ref=f3e301] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e302]: 󰍪
+            - generic [ref=f3e305]:
+              - link [ref=f3e306] [cursor=pointer]:
+                - /url: /%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83-%D9%85%D8%B7%D9%84%D9%88%D8%A8-%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D9%8A-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%AD%D8%AA%D8%B1%D9%81-%D8%B1%D8%A7%D8%AA%D8%A8-%D9%85%D8%AD%D9%81%D8%B2-%D9%85%D8%B9-%D8%A5%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D9%83%D8%A7%D9%84%D9%8A%D8%AA%D9%88%D8%B3-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-d58562274
+                - img "السيارات-والميكانيك-مطلوب-ميكانيكي-سيارات-محترف-راتب-محفز-مع-إمكانية-الإقامة-الكاليتوس-الجزائر" [ref=f3e309]
+                - heading "مطلوب ميكانيكي سيارات محترف راتب محفّز مع إمكانية الإقامة" [level=3] [ref=f3e312]
+              - generic [ref=f3e313]:
+                - separator [ref=f3e314]
+                - generic [ref=f3e315]:
+                  - button "إتصال" [ref=f3e316] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e317]: 󰏲
+                  - button "رسالة" [ref=f3e320] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e321]: 󰍪
+            - generic [ref=f3e324]:
+              - link [ref=f3e325] [cursor=pointer]:
+                - /url: /%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-audi-a3-2026-rs-%D8%AD%D9%8A%D8%AF%D8%B1%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-d58048248
+                - img "سيارات-audi-a3-2026-rs-حيدرة-الجزائر" [ref=f3e328]
+                - heading "Audi A3 2026 Rs" [level=3] [ref=f3e331]
+              - generic [ref=f3e332]:
+                - separator [ref=f3e333]
+                - generic [ref=f3e334]:
+                  - button "إتصال" [ref=f3e335] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e336]: 󰏲
+                  - button "رسالة" [ref=f3e339] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e340]: 󰍪
+        - generic [ref=f3e349]:
+          - generic [ref=f3e351]:
+            - generic [aria-hidden] [ref=f3e353]: 󰓜
+            - heading "متاجر في المقدمة" [level=2] [ref=f3e355]
+            - link "عرض المزيد" [ref=f3e356] [cursor=pointer]:
+              - /url: /boutiques
+          - generic [ref=f3e360]:
+            - generic [ref=f3e362]:
+              - link [ref=f3e363] [cursor=pointer]:
+                - /url: /store/37025/sarl-iltocco-italiano/
+                - generic [ref=f3e368]:
+                  - generic [ref=f3e369]:
+                    - heading "SARL ILTOCCO ITALIANO" [level=3] [ref=f3e371]
+                    - generic [ref=f3e372]:
+                      - generic [ref=f3e373]:
+                        - generic [aria-hidden] [ref=f3e374]: 󰍎
+                        - text: الرغاية, الجزائر
+                      - generic [ref=f3e375]:
+                        - generic [aria-hidden] [ref=f3e376]: 󰓜
+                        - text: 13 إعلان
+                  - img "Image" [ref=f3e379]
+              - generic [ref=f3e380]:
+                - separator [ref=f3e381]
+                - generic [ref=f3e382]:
+                  - button "اتصال" [ref=f3e383] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e384]: 󰏲
+                  - button "اشترك" [ref=f3e388] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e389]: 󰂞
+                    - text: اشترك
+            - generic [ref=f3e391]:
+              - link [ref=f3e392] [cursor=pointer]:
+                - /url: /store/36593/lalmi-car/
+                - img "LALMI CAR" [ref=f3e397]
+                - generic [ref=f3e398]:
+                  - generic [ref=f3e399]:
+                    - heading "LALMI CAR" [level=3] [ref=f3e401]
+                    - generic [ref=f3e403]:
+                      - generic [aria-hidden] [ref=f3e404]: 󰓜
+                      - text: 2 إعلان
+                  - img "Image" [ref=f3e407]
+              - generic [ref=f3e408]:
+                - separator [ref=f3e409]
+                - generic [ref=f3e410]:
+                  - button "اتصال" [ref=f3e411] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e412]: 󰏲
+                  - button "اشترك" [ref=f3e416] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e417]: 󰂞
+                    - text: اشترك
+            - generic [ref=f3e419]:
+              - link "BATI ASRI Promotion Société de promotion immobiliers Bati ASRI Promoteur Nadji دلس, بومرداس 8 إعلان Image" [ref=f3e420] [cursor=pointer]:
+                - /url: /store/27943/bati-asri-promotion/
+                - generic [ref=f3e425]:
+                  - generic [ref=f3e426]:
+                    - heading "BATI ASRI Promotion" [level=3] [ref=f3e428]
+                    - generic [ref=f3e429]: Société de promotion immobiliers Bati ASRI Promoteur Nadji
+                    - generic [ref=f3e430]:
+                      - generic [ref=f3e431]:
+                        - generic [aria-hidden] [ref=f3e432]: 󰍎
+                        - text: دلس, بومرداس
+                      - generic [ref=f3e433]:
+                        - generic [aria-hidden] [ref=f3e434]: 󰓜
+                        - text: 8 إعلان
+                  - img "Image" [ref=f3e437]
+              - generic [ref=f3e438]:
+                - separator [ref=f3e439]
+                - generic [ref=f3e440]:
+                  - button "اتصال" [ref=f3e441] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e442]: 󰏲
+                  - button "اشترك" [ref=f3e446] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e447]: 󰂞
+                    - text: اشترك
+        - generic [ref=f3e448]:
+          - generic [ref=f3e451]:
+            - generic [ref=f3e453]:
+              - generic [aria-hidden] [ref=f3e455]: 󱧐
+              - heading "توصيات" [level=1] [ref=f3e457]
+            - generic [ref=f3e458] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f3e460]: 󰄬
+              - generic [ref=f3e461]: من أجلك
+            - generic [ref=f3e462] [cursor=pointer]: الرائج
+          - button "إعلانات الجزائر" [ref=f3e466] [cursor=pointer]:
+            - heading "إعلانات الجزائر" [level=1] [ref=f3e467]
+            - generic [aria-hidden] [ref=f3e468]: 󰁝
+  - generic:
+    - tooltip "إضافة إعلان"

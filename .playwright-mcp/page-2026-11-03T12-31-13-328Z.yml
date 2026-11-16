@@ -1,0 +1,146 @@
+- generic "Google Maps" [ref=e2]:
+  - generic [ref=e8]:
+    - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=e13]
+    - search [ref=e19]:
+      - button "Retour" [ref=e856] [cursor=pointer]:
+        - generic [aria-hidden] [ref=e857]: 
+      - generic [ref=e20]:
+        - combobox [ref=e22]: Le Méridien Hôtel & Convention center
+        - button "Rechercher" [ref=e24] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e25]: 
+        - button "Fermer" [ref=e27] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e28]: 
+    - region "Options de recherche disponibles pour cette zone" [ref=e731]:
+      - generic [ref=e734]:
+        - button "Hôtels à proximité" [ref=e736] [cursor=pointer]:
+          - generic [ref=e737]:
+            - generic [aria-hidden] [ref=e739]: 
+            - generic [ref=e740]: Hôtels à proximité
+        - button "Restaurants" [ref=e742] [cursor=pointer]:
+          - generic [ref=e743]:
+            - generic [aria-hidden] [ref=e745]: 
+            - generic [ref=e746]: Restaurants
+        - button "Activités à découvrir" [ref=e748] [cursor=pointer]:
+          - generic [ref=e749]:
+            - generic [aria-hidden] [ref=e751]: 
+            - generic [ref=e752]: Activités à découvrir
+        - button "Bars" [ref=e754] [cursor=pointer]:
+          - generic [ref=e755]:
+            - generic [aria-hidden] [ref=e757]: 
+            - generic [ref=e758]: Bars
+        - button "Cafés" [ref=e760] [cursor=pointer]:
+          - generic [ref=e761]:
+            - generic [aria-hidden] [ref=e763]: 
+            - generic [ref=e764]: Cafés
+        - button "Pharmacies" [ref=e766] [cursor=pointer]:
+          - generic [ref=e767]:
+            - generic [aria-hidden] [ref=e769]: 
+            - generic [ref=e770]: Pharmacies
+        - button "Parkings" [ref=e772] [cursor=pointer]:
+          - generic [ref=e773]:
+            - generic [aria-hidden] [ref=e775]: 
+            - generic [ref=e776]: Parkings
+      - button "Page suivante" [ref=e777] [cursor=pointer]:
+        - generic [aria-hidden] [ref=e778]: 
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - list [ref=e32]:
+          - listitem [ref=e33]:
+            - button "Menu" [ref=e34] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e36]: 
+          - listitem [ref=e37]:
+            - button "Enregistré" [ref=e38] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e40]: 
+          - listitem [ref=e43]:
+            - button "Récents" [ref=e44] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e46]: 
+          - listitem [ref=e780]:
+            - button "Voir plus" [ref=e781] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e787]: 
+          - listitem [ref=e50]:
+            - button "Obtenir l'appli" [ref=e51] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e53]: 
+        - main "Le Méridien Hôtel & Convention center" [ref=e60]:
+          - tablist [ref=e120]:
+            - tab "Le Méridien Hôtel & Convention center - Présentation" [ref=e121]:
+              - generic [aria-hidden] [ref=e123]: Présentation
+            - tab "Prix pour Le Méridien Hôtel & Convention center" [ref=e125]:
+              - generic [aria-hidden] [ref=e127]: Prix
+            - tab "Le Méridien Hôtel & Convention center - Avis" [active] [selected] [ref=e129]:
+              - generic [aria-hidden] [ref=e131]: Avis
+            - tab "Informations sur Le Méridien Hôtel & Convention center" [ref=e133]:
+              - generic [aria-hidden] [ref=e135]: À propos
+          - generic [ref=e859]:
+            - generic [ref=e861]:
+              - list [ref=e863]:
+                - listitem [ref=e864]: 48 355 DA
+                - text: ·
+                - listitem [ref=e865]: Hôtel 5 étoiles
+              - generic [ref=e866]: 28–29 janv.
+            - link [ref=e870] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e871]:
+                - generic [aria-hidden] [ref=e872]: 
+                - text: Vérifier la disponibilité
+          - generic [ref=e874]:
+            - generic [ref=e875]:
+              - heading "Résumé des avis Google" [level=2] [ref=e877]
+              - button "Informations" [ref=e879] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e880]: 
+            - generic [ref=e882]:
+              - table [ref=e884]:
+                - rowgroup [ref=e885]:
+                  - img "5 étoiles, 1 335 avis" [ref=e886]: "5"
+                  - img "4 étoiles, 504 avis" [ref=e889]: "4"
+                  - img "3 étoiles, 195 avis" [ref=e892]: "3"
+                  - img "2 étoiles, 95 avis" [ref=e895]: "2"
+                  - img "1 étoiles, 237 avis" [ref=e898]: "1"
+              - generic [ref=e901]:
+                - generic [ref=e902]: 4,1
+                - img "4,1 étoiles" [ref=e903]
+                - generic [ref=e909]: 2 366 avis
+            - button "Rédiger un avis" [ref=e913] [cursor=pointer]:
+              - generic [ref=e914]:
+                - generic [aria-hidden] [ref=e915]: 
+                - generic [ref=e916]: Rédiger un avis
+            - generic [ref=e920]:
+              - textbox "Rechercher dans les avis" [ref=e921]
+              - generic [aria-hidden]: Rechercher dans les avis
+            - generic [ref=e922]:
+              - button "Tous les avis" [ref=e923] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e925]: 
+              - button "Avis les plus pertinents" [ref=e926] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e928]: 
+      - button "Réduire le panneau latéral" [ref=e722] [cursor=pointer]:
+        - generic [aria-hidden] [ref=e723]: 
+    - generic [ref=e793]:
+      - button "Applications Google" [ref=e797] [cursor=pointer]
+      - link "Connexion" [ref=e801] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FLe%2BM%25C3%25A9ridien%2BH%25C3%25B4tel%2B%2526%2BConvention%2Bcenter%2F%4035.7264888%2C-0.5919311%2C17z%2Fdata%3D!4m11!3m10!1s0xd7e88570d76d9cb%3A0x4f243c20bf8254a8!5m2!4m1!1i2!8m2!3d35.7264888!4d-0.5919311!9m1!1b1!16s%252Fg%252F1tp09h6c%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic [ref=e802]:
+      - generic:
+        - button "Afficher votre position" [ref=e805] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e807]: 
+        - generic [ref=e809] [cursor=pointer]:
+          - button "Faire un zoom avant" [ref=e810]:
+            - generic [aria-hidden] [ref=e812]: 
+          - button "Faire un zoom arrière" [ref=e813]:
+            - generic [aria-hidden] [ref=e815]: 
+      - generic [ref=e819]:
+        - button "Parcourir les images Street View" [ref=e821]
+        - button "Street View" [ref=e823] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e826]: 
+      - generic [ref=e831]:
+        - generic "Carte interactive" [ref=e832]
+        - generic [ref=e836] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e837]: 
+          - generic [ref=e838]: Calques
+        - button "Calques" [ref=e839] [cursor=pointer]
+    - generic [ref=e841]:
+      - contentinfo [ref=e844]:
+        - text: Données cartographiques ©2026
+        - button "Algérie" [ref=e845] [cursor=pointer]
+        - button "Conditions d'utilisation" [ref=e846] [cursor=pointer]
+        - button "Confidentialité" [ref=e847] [cursor=pointer]
+        - button "Envoyer des commentaires sur le produit" [ref=e848] [cursor=pointer]
+      - button "100 m" [ref=e850] [cursor=pointer]

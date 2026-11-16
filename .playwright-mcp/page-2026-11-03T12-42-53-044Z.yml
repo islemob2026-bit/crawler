@@ -1,0 +1,283 @@
+- generic [ref=f8e1]:
+  - generic "Google Maps" [ref=f8e9]:
+    - generic [ref=f8e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f8e15]
+      - search [ref=f8e20]:
+        - button "Retour" [ref=f8e642] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f8e643]: 
+        - generic [ref=f8e21]:
+          - combobox [ref=f8e23]: Residence Inn by Marriott Algiers Bab Ezzouar
+          - button "Rechercher" [ref=f8e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f8e26]: 
+          - button "Fermer" [ref=f8e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f8e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f8e36]:
+        - generic [ref=f8e39]:
+          - button "Hôtels à proximité" [ref=f8e41] [cursor=pointer]:
+            - generic [ref=f8e42]:
+              - generic [aria-hidden] [ref=f8e44]: 
+              - generic [ref=f8e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f8e47] [cursor=pointer]:
+            - generic [ref=f8e48]:
+              - generic [aria-hidden] [ref=f8e50]: 
+              - generic [ref=f8e51]: Restaurants
+          - button "Activités à découvrir" [ref=f8e53] [cursor=pointer]:
+            - generic [ref=f8e54]:
+              - generic [aria-hidden] [ref=f8e56]: 
+              - generic [ref=f8e57]: Activités à découvrir
+          - button "Bars" [ref=f8e59] [cursor=pointer]:
+            - generic [ref=f8e60]:
+              - generic [aria-hidden] [ref=f8e62]: 
+              - generic [ref=f8e63]: Bars
+          - button "Cafés" [ref=f8e65] [cursor=pointer]:
+            - generic [ref=f8e66]:
+              - generic [aria-hidden] [ref=f8e68]: 
+              - generic [ref=f8e69]: Cafés
+          - button "Pharmacies" [ref=f8e71] [cursor=pointer]:
+            - generic [ref=f8e72]:
+              - generic [aria-hidden] [ref=f8e74]: 
+              - generic [ref=f8e75]: Pharmacies
+          - button "Parkings" [ref=f8e77] [cursor=pointer]:
+            - generic [ref=f8e78]:
+              - generic [aria-hidden] [ref=f8e80]: 
+              - generic [ref=f8e81]: Parkings
+      - generic [ref=f8e82]:
+        - generic [ref=f8e83]:
+          - list [ref=f8e85]:
+            - listitem [ref=f8e86]:
+              - button "Menu" [ref=f8e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f8e89]: 
+            - listitem [ref=f8e90]:
+              - button "Enregistré" [ref=f8e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f8e93]: 
+            - listitem [ref=f8e96]:
+              - button "Récents" [ref=f8e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f8e99]: 
+            - listitem [ref=f8e103]:
+              - button "Residence Inn by Marriott Algiers Bab Ezzouar" [ref=f8e104] [cursor=pointer]
+            - listitem [ref=f8e112]:
+              - button "Obtenir l'appli" [ref=f8e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f8e115]: 
+          - main "Residence Inn by Marriott Algiers Bab Ezzouar" [ref=f8e122]:
+            - tablist [ref=f8e163]:
+              - tab "Residence Inn by Marriott Algiers Bab Ezzouar - Présentation" [ref=f8e164]:
+                - generic [aria-hidden] [ref=f8e166]: Présentation
+              - tab "Prix pour Residence Inn by Marriott Algiers Bab Ezzouar" [ref=f8e168]:
+                - generic [aria-hidden] [ref=f8e170]: Prix
+              - tab "Residence Inn by Marriott Algiers Bab Ezzouar - Avis" [selected] [ref=f8e172]:
+                - generic [aria-hidden] [ref=f8e174]: Avis
+              - tab "Informations sur Residence Inn by Marriott Algiers Bab Ezzouar" [ref=f8e176]:
+                - generic [aria-hidden] [ref=f8e178]: À propos
+            - generic [ref=f8e645]:
+              - generic [ref=f8e647]:
+                - list [ref=f8e649]:
+                  - listitem [ref=f8e650]: 36 291 DA
+                  - text: ·
+                  - listitem [ref=f8e651]: Hôtel 3 étoiles
+                - generic [ref=f8e652]: 21–22 nov.
+              - link [ref=f8e656] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f8e657]:
+                  - generic [aria-hidden] [ref=f8e658]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f8e660]:
+              - generic [ref=f8e661]:
+                - heading "Résumé des avis Google" [level=2] [ref=f8e663]
+                - button "Informations" [ref=f8e665] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f8e666]: 
+              - generic [ref=f8e668]:
+                - table [ref=f8e670]:
+                  - rowgroup [ref=f8e671]:
+                    - img "5 étoiles, 91 avis" [ref=f8e672]: "5"
+                    - img "4 étoiles, 21 avis" [ref=f8e675]: "4"
+                    - img "3 étoiles, 9 avis" [ref=f8e678]: "3"
+                    - img "2 étoiles, 4 avis" [ref=f8e681]: "2"
+                    - img "1 étoiles, 20 avis" [ref=f8e684]: "1"
+                - generic [ref=f8e687]:
+                  - generic [ref=f8e688]: 4,1
+                  - img "4,1 étoiles" [ref=f8e689]
+                  - generic [ref=f8e695]: 145 avis
+              - button "Rédiger un avis" [ref=f8e699] [cursor=pointer]:
+                - generic [ref=f8e700]:
+                  - generic [aria-hidden] [ref=f8e701]: 
+                  - generic [ref=f8e702]: Rédiger un avis
+              - generic [ref=f8e706]:
+                - textbox "Rechercher dans les avis" [active] [ref=f8e1392]
+                - generic [aria-hidden]: Rechercher dans les avis
+              - generic [ref=f8e708]:
+                - button "Tous les avis" [ref=f8e709] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f8e711]: 
+                - button "Avis les plus pertinents" [ref=f8e712] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f8e714]: 
+              - generic [ref=f8e1217]:
+                - generic "ibrahim Cevik" [ref=f8e1393]:
+                  - generic [ref=f8e1395]:
+                    - button "Photo de ibrahim Cevik" [ref=f8e1396]
+                    - generic [ref=f8e1398]:
+                      - button "ibrahim Cevik 6 avis" [ref=f8e1400]:
+                        - generic [ref=f8e1401]: ibrahim Cevik
+                        - generic [ref=f8e1402]: 6 avis
+                      - button "Actions pour l'avis rédigé par ibrahim Cevik" [ref=f8e1403] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f8e1405]: 
+                    - generic [ref=f8e1406]:
+                      - generic [ref=f8e1407]:
+                        - generic [ref=f8e1408]: 1/5
+                        - generic [ref=f8e1409]:
+                          - text: Modifié il y a 2 mois sur
+                          - generic [ref=f8e1410]: Google
+                      - generic [ref=f8e1412]:
+                        - text: Très mauvaise expérience, surtout pour un séjour en famille avec trois enfants. On m’avait indiqué que l’arrivée était possible à partir de 15h. À notre …
+                        - button "Voir plus" [ref=f8e1414] [cursor=pointer]: Plus
+                      - generic [ref=f8e1415]:
+                        - button "J'aime" [ref=f8e1416]:
+                          - generic [ref=f8e1417] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f8e1418]: 
+                            - generic [ref=f8e1419]: J'aime
+                        - button "Partager l'avis rédigé par ibrahim Cevik." [ref=f8e1421]:
+                          - generic [ref=f8e1422] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f8e1423]: 
+                            - generic [ref=f8e1424]: Partager
+                      - generic [ref=f8e1425]:
+                        - generic [ref=f8e1426]: Réponse du propriétaire il y a 2 mois
+                        - generic [ref=f8e1427]:
+                          - text: Bonjour Ibrahim, Merci d’avoir pris le temps de partager votre expérience. Nous sommes …
+                          - button "Voir plus" [ref=f8e1429] [cursor=pointer]: Plus
+                - generic "L9891JAlindad" [ref=f8e1433]:
+                  - generic [ref=f8e1435]:
+                    - button "Photo de L9891JAlindad" [ref=f8e1436]
+                    - button "L9891JAlindad" [ref=f8e1440]
+                    - generic [ref=f8e1442]:
+                      - generic [ref=f8e1443]:
+                        - generic [ref=f8e1444]: 5/5
+                        - generic [ref=f8e1445]:
+                          - text: il y a 11 mois sur
+                          - generic [ref=f8e1446]: Tripadvisor
+                      - generic [ref=f8e1448]:
+                        - text: Salut, moi et mon fils Nous avons passé un excellent séjour dans cette résidence dans les séjour du vacances du novembre. L'accueil par le personnel a été chaleureux et professionnel, et l'appartement était d'une propreté irréprochable. …
+                        - button "En savoir plus sur Tripadvisor" [ref=f8e1450] [cursor=pointer]
+                - generic "omayma drira" [ref=f8e1454]:
+                  - generic [ref=f8e1456]:
+                    - button "Photo de omayma drira" [ref=f8e1457]
+                    - generic [ref=f8e1459]:
+                      - button "omayma drira 3 avis" [ref=f8e1461]:
+                        - generic [ref=f8e1462]: omayma drira
+                        - generic [ref=f8e1463]: 3 avis
+                      - button "Actions pour l'avis rédigé par omayma drira" [ref=f8e1464] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f8e1466]: 
+                    - generic [ref=f8e1467]:
+                      - generic [ref=f8e1468]:
+                        - generic [ref=f8e1469]: 5/5
+                        - generic [ref=f8e1470]:
+                          - text: il y a 7 mois sur
+                          - generic [ref=f8e1471]: Google
+                      - generic [ref=f8e1473]:
+                        - text: Je souhaite remercier une nouvelle fois toute l’équipe de nettoyage pour leur excellent travail. Je les avais déjà remerciés auparavant, mais leur constance mérite d’être …
+                        - button "Voir plus" [ref=f8e1475] [cursor=pointer]: Plus
+                      - generic [ref=f8e1476]:
+                        - button "J'aime" [ref=f8e1477]:
+                          - generic [ref=f8e1478] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f8e1479]: 
+                            - generic [ref=f8e1480]: J'aime
+                        - button "Partager l'avis rédigé par omayma drira." [ref=f8e1482]:
+                          - generic [ref=f8e1483] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f8e1484]: 
+                            - generic [ref=f8e1485]: Partager
+                      - generic [ref=f8e1486]:
+                        - generic [ref=f8e1487]: Réponse du propriétaire il y a 6 mois
+                        - generic [ref=f8e1488]:
+                          - text: Merci pour vos excellents commentaires à l’égard de notre équipe de nettoyage. Nous sommes ravis que la propreté, la qualité du service et le professionnalisme aient pleinement répondu à vos attentes. …
+                          - button "Voir plus" [ref=f8e1490] [cursor=pointer]: Plus
+                - generic "Cho Aib" [ref=f8e1494]:
+                  - generic [ref=f8e1496]:
+                    - button "Photo de Cho Aib" [ref=f8e1497]
+                    - generic [ref=f8e1499]:
+                      - button "Cho Aib 1 avis" [ref=f8e1501]:
+                        - generic [ref=f8e1502]: Cho Aib
+                        - generic [ref=f8e1503]: 1 avis
+                      - button "Actions pour l'avis rédigé par Cho Aib" [ref=f8e1504] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f8e1506]: 
+                    - generic [ref=f8e1507]:
+                      - generic [ref=f8e1508]:
+                        - generic [ref=f8e1509]: 5/5
+                        - generic [ref=f8e1510]:
+                          - text: il y a 10 mois sur
+                          - generic [ref=f8e1511]: Google
+                      - generic [ref=f8e1513]:
+                        - text: Je tiens à exprimer toute ma gratitude à votre hôtel pour la qualité exceptionnelle de l’accueil. Le personnel de la réception a été particulièrement professionnel, attentionné et bienveillant, ce qui a rendu notre séjour encore plus …
+                        - button "Voir plus" [ref=f8e1515] [cursor=pointer]: Plus
+                      - generic [ref=f8e1516]:
+                        - button "J'aime" [ref=f8e1517]:
+                          - generic [ref=f8e1518] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f8e1519]: 
+                            - generic [ref=f8e1520]: J'aime
+                        - button "Partager l'avis rédigé par Cho Aib." [ref=f8e1522]:
+                          - generic [ref=f8e1523] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f8e1524]: 
+                            - generic [ref=f8e1525]: Partager
+                - generic "Chaima Tenai" [ref=f8e1529]:
+                  - generic [ref=f8e1531]:
+                    - button "Photo de Chaima Tenai" [ref=f8e1532]
+                    - generic [ref=f8e1534]:
+                      - button "Chaima Tenai 1 avis" [ref=f8e1536]:
+                        - generic [ref=f8e1537]: Chaima Tenai
+                        - generic [ref=f8e1538]: 1 avis
+                      - button "Actions pour l'avis rédigé par Chaima Tenai" [ref=f8e1539] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f8e1541]: 
+                    - generic [ref=f8e1542]:
+                      - generic [ref=f8e1543]:
+                        - generic [ref=f8e1544]: 5/5
+                        - generic [ref=f8e1545]:
+                          - text: il y a 7 mois sur
+                          - generic [ref=f8e1546]: Google
+                      - generic [ref=f8e1548]:
+                        - text: Très bon séjours ,je remercie mme Louiza de service ménage elle est adorable a pris soins de ma chambre c’est très propre merci aussi à Hadjer la réceptionniste
+                        - button "Voir plus" [ref=f8e1550] [cursor=pointer]: Plus
+                      - generic [ref=f8e1551]:
+                        - button "J'aime" [ref=f8e1552]:
+                          - generic [ref=f8e1553] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f8e1554]: 
+                            - generic [ref=f8e1555]: J'aime
+                        - button "Partager l'avis rédigé par Chaima Tenai." [ref=f8e1557]:
+                          - generic [ref=f8e1558] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f8e1559]: 
+                            - generic [ref=f8e1560]: Partager
+                      - generic [ref=f8e1561]:
+                        - generic [ref=f8e1562]: Réponse du propriétaire il y a 7 mois
+                        - generic [ref=f8e1563]: Nous vous remercions pour votre aimable commentaire. Nous sommes ravis que vous ayez apprécié le soin apporté par notre équipe du service ménage ainsi que la qualité de l’accueil à la réception. Au plaisir de vous accueillir de nouveau très prochainement.
+              - button "Voir plus d'avis (140)" [ref=f8e1567]
+              - generic [ref=f8e1572]:
+                - generic [aria-hidden] [ref=f8e1574]: 
+                - generic [ref=f8e1575]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=f8e1576] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=f8e582] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f8e583]: 
+      - generic [ref=f8e587]:
+        - button "Applications Google" [ref=f8e591] [cursor=pointer]
+        - link "Connexion" [ref=f8e595] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FResidence%2BInn%2Bby%2BMarriott%2BAlgiers%2BBab%2BEzzouar%2F%4036.7126469%2C3.1940727%2C17z%2Fdata%3D!4m11!3m10!1s0x128e51f4072a1b5d%3A0x60b2257a57547fc6!5m2!4m1!1i2!8m2!3d36.7126469!4d3.1940727!9m1!1b1!16s%252Fg%252F11qq9rw72g%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f8e598] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f8e600]: 
+          - generic [ref=f8e602] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f8e603]:
+              - generic [aria-hidden] [ref=f8e605]: 
+            - button "Faire un zoom arrière" [ref=f8e606]:
+              - generic [aria-hidden] [ref=f8e608]: 
+        - button "Parcourir les images Street View" [ref=f8e614]
+        - generic [ref=f8e616]:
+          - generic "Carte interactive" [ref=f8e617]
+          - generic [ref=f8e621] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f8e622]: 
+            - generic [ref=f8e623]: Calques
+          - button "Calques" [ref=f8e624] [cursor=pointer]
+      - generic [ref=f8e626]:
+        - contentinfo [ref=f8e629]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f8e630] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f8e631] [cursor=pointer]
+          - button "Confidentialité" [ref=f8e632] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f8e633] [cursor=pointer]
+        - button "100 m" [ref=f8e635] [cursor=pointer]
+  - generic [ref=f8e1028]: Recherche effacée

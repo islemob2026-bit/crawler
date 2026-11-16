@@ -1,0 +1,424 @@
+- generic "Google Maps" [ref=f10e9]:
+  - dialog [ref=f10e10]:
+    - generic [ref=f10e13]:
+      - generic [aria-hidden] [ref=f10e14]: 
+      - text: Indiquez vos dates pour afficher les meilleurs prix
+  - generic [ref=f10e3]:
+    - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f10e15]
+    - search [ref=f10e20]:
+      - generic [ref=f10e21]:
+        - combobox [ref=f10e23]: Hôtel Marriott Algiers Bab Ezzouar
+        - button "Rechercher" [ref=f10e25] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f10e26]: 
+        - button "Fermer" [ref=f10e28] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f10e29]: 
+    - region "Options de recherche disponibles pour cette zone" [ref=f10e36]:
+      - generic [ref=f10e39]:
+        - button "Hôtels à proximité" [ref=f10e41] [cursor=pointer]:
+          - generic [ref=f10e42]:
+            - generic [aria-hidden] [ref=f10e44]: 
+            - generic [ref=f10e45]: Hôtels à proximité
+        - button "Restaurants" [ref=f10e47] [cursor=pointer]:
+          - generic [ref=f10e48]:
+            - generic [aria-hidden] [ref=f10e50]: 
+            - generic [ref=f10e51]: Restaurants
+        - button "Activités à découvrir" [ref=f10e53] [cursor=pointer]:
+          - generic [ref=f10e54]:
+            - generic [aria-hidden] [ref=f10e56]: 
+            - generic [ref=f10e57]: Activités à découvrir
+        - button "Bars" [ref=f10e59] [cursor=pointer]:
+          - generic [ref=f10e60]:
+            - generic [aria-hidden] [ref=f10e62]: 
+            - generic [ref=f10e63]: Bars
+        - button "Cafés" [ref=f10e65] [cursor=pointer]:
+          - generic [ref=f10e66]:
+            - generic [aria-hidden] [ref=f10e68]: 
+            - generic [ref=f10e69]: Cafés
+        - button "Pharmacies" [ref=f10e71] [cursor=pointer]:
+          - generic [ref=f10e72]:
+            - generic [aria-hidden] [ref=f10e74]: 
+            - generic [ref=f10e75]: Pharmacies
+        - button "Parkings" [ref=f10e77] [cursor=pointer]:
+          - generic [ref=f10e78]:
+            - generic [aria-hidden] [ref=f10e80]: 
+            - generic [ref=f10e81]: Parkings
+    - generic [ref=f10e82]:
+      - generic [ref=f10e83]:
+        - list [ref=f10e85]:
+          - listitem [ref=f10e86]:
+            - button "Menu" [ref=f10e87] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f10e89]: 
+          - listitem [ref=f10e90]:
+            - button "Enregistré" [ref=f10e91] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f10e93]: 
+          - listitem [ref=f10e96]:
+            - button "Récents" [ref=f10e97] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f10e99]: 
+          - listitem [ref=f10e103]:
+            - button "Hôtel Marriott Algiers Bab Ezzouar" [ref=f10e104] [cursor=pointer]
+          - listitem [ref=f10e112]:
+            - button "Obtenir l'appli" [ref=f10e113] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f10e115]: 
+        - main "Hôtel Marriott Algiers Bab Ezzouar" [ref=f10e122]:
+          - generic [ref=f10e123]:
+            - generic [ref=f10e124]:
+              - button "Photo de Hôtel Marriott Algiers Bab Ezzouar" [ref=f10e126] [cursor=pointer]
+              - button "À partir de 39 562 DA par nuit pour 5–6 nov.." [ref=f10e129] [cursor=pointer]:
+                - generic [ref=f10e130]:
+                  - generic [ref=f10e131]: 39 562 DA
+                  - generic [ref=f10e133]: 5–6 nov.
+              - button "Voir les photos" [ref=f10e134] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f10e135]: 
+            - generic [ref=f10e139]:
+              - heading "Hôtel Marriott Algiers Bab Ezzouar" [level=1] [ref=f10e141]
+              - heading "فندق ماريوت - باب الزوار - الجزائر" [level=2] [ref=f10e142]
+              - generic [ref=f10e146]:
+                - generic [ref=f10e147]:
+                  - generic [ref=f10e148]:
+                    - text: 4,2
+                    - img "4,2 étoiles" [ref=f10e149]
+                  - img "1 999 avis" [ref=f10e157]: (1 999)
+                - generic [ref=f10e160]:
+                  - text: ·
+                  - generic [ref=f10e161]: Hôtel 5 étoiles
+            - tablist [ref=f10e165]:
+              - tab "Hôtel Marriott Algiers Bab Ezzouar - Présentation" [selected] [ref=f10e166]:
+                - generic [aria-hidden] [ref=f10e168]: Présentation
+              - tab "Prix pour Hôtel Marriott Algiers Bab Ezzouar" [ref=f10e170]:
+                - generic [aria-hidden] [ref=f10e172]: Prix
+              - tab "Hôtel Marriott Algiers Bab Ezzouar - Avis" [ref=f10e174]:
+                - generic [aria-hidden] [ref=f10e176]: Avis
+              - tab "Informations sur Hôtel Marriott Algiers Bab Ezzouar" [ref=f10e178]:
+                - generic [aria-hidden] [ref=f10e180]: À propos
+            - region "Hôtel Marriott Algiers Bab Ezzouar - Actions" [ref=f10e182]:
+              - button "Itinéraires" [ref=f10e184] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f10e186]: 
+              - button "Enregistrer" [ref=f10e189] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f10e191]: 
+              - button "À proximité" [ref=f10e194] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f10e196]: 
+              - button "Partager" [ref=f10e199] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f10e201]: 
+            - link [ref=f10e205] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f10e206]:
+                - generic [aria-hidden] [ref=f10e207]: 
+                - text: Vérifier la disponibilité
+            - generic [ref=f10e210]:
+              - generic [ref=f10e212]:
+                - heading "Comparer les prix" [level=2] [ref=f10e213]
+                - generic [ref=f10e215]:
+                  - generic [ref=f10e216]: Annulation gratuite uniquement
+                  - checkbox "Annulation gratuite uniquement" [ref=f10e217]:
+                    - generic [aria-hidden] [ref=f10e218]: 
+                    - checkbox "Annulation gratuite uniquement" [ref=f10e219] [cursor=pointer]
+              - generic [ref=f10e220]:
+                - group "Arrivée/Départ" [ref=f10e221]:
+                  - group "Du jeudi 5 novembre au vendredi 6 novembre" [active] [ref=f10e223]:
+                    - generic [ref=f10e225] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f10e226]: jeu. 5 nov.
+                      - generic [ref=f10e227]:
+                        - button "Arriver un jour plus tôt" [ref=f10e228]:
+                          - generic [aria-hidden] [ref=f10e229]: 
+                        - button "Arriver un jour plus tard" [ref=f10e230]:
+                          - generic [aria-hidden] [ref=f10e231]: 
+                    - generic [ref=f10e233] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f10e234]: ven. 6 nov.
+                      - generic [ref=f10e235]:
+                        - button "Partir un jour plus tôt" [disabled] [ref=f10e236]:
+                          - generic [aria-hidden] [ref=f10e237]: 
+                        - button "Partir un jour plus tard" [ref=f10e238]:
+                          - generic [aria-hidden] [ref=f10e239]: 
+                - group "Invités" [ref=f10e240]:
+                  - generic [aria-hidden] [ref=f10e241]: 
+                  - button "2 clients" [ref=f10e242] [cursor=pointer]:
+                    - text: "2"
+                    - generic [aria-hidden] [ref=f10e243]: 
+              - generic [ref=f10e247]:
+                - heading "Toutes les options" [level=2] [ref=f10e250]
+                - generic [ref=f10e251]:
+                  - button "Algiers Marriott Hotel Bab Ezzouar Obtenir le prix Site officiel Inscrivez-vous gratuitement pour bénéficier de tarifs réduits et d'un accès Wi-Fi offert" [ref=f10e257] [cursor=pointer]:
+                    - generic [ref=f10e258]:
+                      - generic [ref=f10e259]:
+                        - generic [ref=f10e260]: Algiers Marriott Hotel Bab Ezzouar
+                        - generic [ref=f10e262]:
+                          - generic [aria-hidden] [ref=f10e263]: 39 568 DA
+                          - generic [ref=f10e264]: Obtenir le prix
+                          - generic [aria-hidden] [ref=f10e265]: 
+                      - generic [ref=f10e266]:
+                        - generic [ref=f10e268]:
+                          - generic [aria-hidden] [ref=f10e269]: 
+                          - generic [ref=f10e270]: Site officiel
+                        - generic [ref=f10e271]: Inscrivez-vous gratuitement pour bénéficier de tarifs réduits et d'un accès Wi-Fi offert
+                  - button "Voir les chambres" [ref=f10e273] [cursor=pointer]:
+                    - text: Voir les chambres
+                    - generic [aria-hidden] [ref=f10e274]: 
+                  - button "Trip.com 39 562 DA Annulation gratuite jusqu'au 5 nov." [ref=f10e280] [cursor=pointer]:
+                    - generic [ref=f10e281]:
+                      - generic [ref=f10e282]:
+                        - generic [ref=f10e283]: Trip.com
+                        - generic [ref=f10e285]:
+                          - generic [ref=f10e286]: 39 562 DA
+                          - generic [aria-hidden] [ref=f10e287]: 
+                      - generic [ref=f10e288]: Annulation gratuite jusqu'au 5 nov.
+                  - button "Voir les chambres" [ref=f10e291] [cursor=pointer]:
+                    - text: Voir les chambres
+                    - generic [aria-hidden] [ref=f10e292]: 
+                  - button "Plus de prix à partir de 39 562 DA" [ref=f10e295]
+            - region "Hôtel Marriott Algiers Bab Ezzouar - Informations" [ref=f10e301]:
+              - generic [ref=f10e302]:
+                - 'button "Adresse: Trust Complex Buildings Nouveau, Quartier d''Affaires de Bab Ezzouar, Bab Ezzouar 16311" [ref=f10e303] [cursor=pointer]':
+                  - generic [ref=f10e304]:
+                    - generic [aria-hidden] [ref=f10e306]: 
+                    - generic [ref=f10e307]: Trust Complex Buildings Nouveau, Quartier d'Affaires de Bab Ezzouar, Bab Ezzouar 16311
+                - button "Copier l'adresse" [ref=f10e311] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f10e313]: 
+              - generic [ref=f10e314]:
+                - 'link "Site Web: marriott.com" [ref=f10e315] [cursor=pointer]':
+                  - /url: https://www.marriott.com/en-us/hotels/algmc-algiers-marriott-hotel-bab-ezzouar/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+                  - generic [ref=f10e316]:
+                    - generic [aria-hidden] [ref=f10e318]: 
+                    - generic [ref=f10e319]: marriott.com
+                - generic [ref=f10e321]:
+                  - link "Accéder au site Web" [ref=f10e323] [cursor=pointer]:
+                    - /url: https://www.marriott.com/en-us/hotels/algmc-algiers-marriott-hotel-bab-ezzouar/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+                    - generic [aria-hidden] [ref=f10e325]: 
+                  - button "Copier le site Web" [ref=f10e327] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f10e329]: 
+              - generic [ref=f10e330]:
+                - 'button "Numéro de téléphone: 023 74 13 13" [ref=f10e331] [cursor=pointer]':
+                  - generic [ref=f10e332]:
+                    - generic [aria-hidden] [ref=f10e334]: 
+                    - generic [ref=f10e335]: 023 74 13 13
+                - generic [ref=f10e337]:
+                  - button "Copier le numéro de téléphone" [ref=f10e339] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f10e341]: 
+                  - link "Composer le numéro de téléphone" [ref=f10e343] [cursor=pointer]:
+                    - /url: tel:023741313
+                    - generic [aria-hidden] [ref=f10e345]: 
+              - generic [ref=f10e346]:
+                - 'button "Plus code: P57V+3M Bab Ezzouar" [ref=f10e347] [cursor=pointer]':
+                  - generic [ref=f10e348]:
+                    - generic [aria-hidden] [ref=f10e350]: 
+                    - generic [ref=f10e351]: P57V+3M Bab Ezzouar
+                - generic [ref=f10e353]:
+                  - button "Copier le plus code" [ref=f10e355] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f10e357]: 
+                  - button "En savoir plus sur les plus codes" [ref=f10e359] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f10e361]: 
+              - generic [ref=f10e363]:
+                - generic [aria-hidden] [ref=f10e365]: 
+                - generic [ref=f10e366]: "Heure d'arrivée : 4:00 PMHeure de départ : 12:00 PM"
+            - button "Suggérer une modification" [ref=f10e371] [cursor=pointer]:
+              - generic [ref=f10e372]:
+                - generic [aria-hidden] [ref=f10e373]: 
+                - generic [ref=f10e374]: Suggérer une modification
+            - heading "Photos" [level=2] [ref=f10e378]
+            - button "2516 photos" [ref=f10e381] [cursor=pointer]
+            - button "Ajouter des photos/vidéos" [ref=f10e389] [cursor=pointer]:
+              - generic [ref=f10e390]:
+                - generic [aria-hidden] [ref=f10e391]: 
+                - generic [ref=f10e392]: Ajouter des photos/vidéos
+            - generic [ref=f10e395]:
+              - heading "À cette adresse" [level=2] [ref=f10e397]
+              - article [ref=f10e399]:
+                - button "RESTAURANT PINOZZO 🇮🇹" [ref=f10e400] [cursor=pointer]
+                - generic [ref=f10e406] [cursor=pointer]:
+                  - generic [ref=f10e407]: RESTAURANT PINOZZO 🇮🇹
+                  - img "4,5 étoiles 200 avis" [ref=f10e412]: 4,5(200)
+                  - generic [ref=f10e418]:
+                    - generic [ref=f10e419]: Restaurant italien
+                    - generic [ref=f10e421]: Ouvert · Ferme à 23:30
+              - article [ref=f10e425]:
+                - button "JW Steakhouse" [ref=f10e426] [cursor=pointer]
+                - generic [ref=f10e432] [cursor=pointer]:
+                  - generic [ref=f10e433]: JW Steakhouse
+                  - img "3,7 étoiles 175 avis" [ref=f10e438]: 3,7(175)
+                  - generic [ref=f10e444]:
+                    - generic [ref=f10e445]: Restaurant de grillades à l'américaine
+                    - generic [ref=f10e447]: Fermé · Ouvre à 19:00
+              - article [ref=f10e451]:
+                - button "Residence Inn by Marriott Algiers Bab Ezzouar" [ref=f10e452] [cursor=pointer]
+                - generic [ref=f10e458] [cursor=pointer]:
+                  - generic [ref=f10e459]: Residence Inn by Marriott Algiers Bab Ezzouar
+                  - img "4,1 étoiles 145 avis" [ref=f10e464]: 4,1(145)
+                  - generic [ref=f10e470]: Hôtel
+              - article [ref=f10e474]:
+                - button "Saveurs du Sahel" [ref=f10e475] [cursor=pointer]
+                - generic [ref=f10e481] [cursor=pointer]:
+                  - generic [ref=f10e482]: Saveurs du Sahel
+                  - img "3,9 étoiles 32 avis" [ref=f10e487]: 3,9(32)
+                  - generic [ref=f10e493]: Restaurant généraliste
+            - heading "Hôtels similaires à proximité" [level=2] [ref=f10e498]
+            - region "Hôtels similaires à proximité" [ref=f10e499]:
+              - generic [ref=f10e502]:
+                - link "Residence Inn by Marriott Algiers Bab Ezzouar·36 299 DA·4,1 étoiles·145 avis·petit-déjeuner inclus·À 0,1 km" [ref=f10e503] [cursor=pointer]:
+                  - generic [ref=f10e504]: 36 299 DA
+                  - generic [ref=f10e507]:
+                    - generic [ref=f10e508]: Residence Inn by Marriott Algiers Bab Ezzouar
+                    - img "4,1 étoiles 145 avis" [ref=f10e512]: 4,1(145)
+                    - generic [ref=f10e514]: petit-déjeuner inclus
+                    - generic [ref=f10e515]: À 0,1 km
+                - link "M Suite Hotel·20 350 DA·4,4 étoiles·855 avis·Hôtel 4 étoiles, 19 212 DA moins cher·À 1,5 km" [ref=f10e516] [cursor=pointer]:
+                  - generic [ref=f10e517]: 20 350 DA
+                  - generic [ref=f10e520]:
+                    - generic [ref=f10e521]: M Suite Hotel
+                    - img "4,4 étoiles 855 avis" [ref=f10e525]: 4,4(855)
+                    - generic [ref=f10e527]: Hôtel 4 étoiles, 19 212 DA moins cher
+                    - generic [ref=f10e528]: À 1,5 km
+                - link "Golden Tulip Royaume·12 148 DA·3,9 étoiles·1 283 avis·Hôtel 4 étoiles, 27 414 DA moins cher·À 3,5 km" [ref=f10e529] [cursor=pointer]:
+                  - generic [ref=f10e530]: 12 148 DA
+                  - generic [ref=f10e533]:
+                    - generic [ref=f10e534]: Golden Tulip Royaume
+                    - img "3,9 étoiles 1 283 avis" [ref=f10e538]: 3,9(1 283)
+                    - generic [ref=f10e540]: Hôtel 4 étoiles, 27 414 DA moins cher
+                    - generic [ref=f10e541]: À 3,5 km
+                - link "Hyatt Regency Algiers Airport·34 224 DA·4,4 étoiles·2 554 avis·À 1,4 km" [ref=f10e542] [cursor=pointer]:
+                  - generic [ref=f10e543]: 34 224 DA
+                  - generic [ref=f10e546]:
+                    - generic [ref=f10e547]: Hyatt Regency Algiers Airport
+                    - img "4,4 étoiles 2 554 avis" [ref=f10e551]: 4,4(2 554)
+                    - generic [ref=f10e553]: À 1,4 km
+                - link "Hani Hotel Aeroport·8 381 DA·3,9 étoiles·634 avis·petit-déjeuner inclus·À 2,4 km" [ref=f10e554] [cursor=pointer]:
+                  - generic [ref=f10e555]: 8 381 DA
+                  - generic [ref=f10e558]:
+                    - generic [ref=f10e559]: Hani Hotel Aeroport
+                    - img "3,9 étoiles 634 avis" [ref=f10e563]: 3,9(634)
+                    - generic [ref=f10e565]: petit-déjeuner inclus
+                    - generic [ref=f10e566]: À 2,4 km
+                - link "Hotel Niagara·12 673 DA·4,1 étoiles·146 avis·petit-déjeuner inclus·À 2,7 km" [ref=f10e567] [cursor=pointer]:
+                  - generic [ref=f10e568]: 12 673 DA
+                  - generic [ref=f10e571]:
+                    - generic [ref=f10e572]: Hotel Niagara
+                    - img "4,1 étoiles 146 avis" [ref=f10e576]: 4,1(146)
+                    - generic [ref=f10e578]: petit-déjeuner inclus
+                    - generic [ref=f10e579]: À 2,7 km
+                - link "Naya Hotel·3,9 étoiles·615 avis·petit-déjeuner inclus·À 0,3 km" [ref=f10e580] [cursor=pointer]:
+                  - generic [ref=f10e583]:
+                    - generic [ref=f10e584]: Naya Hotel
+                    - img "3,9 étoiles 615 avis" [ref=f10e588]: 3,9(615)
+                    - generic [ref=f10e590]: petit-déjeuner inclus
+                    - generic [ref=f10e591]: À 0,3 km
+                - link "Jardy Hotel & Suites·4,0 étoiles·657 avis·petit-déjeuner inclus·À 1,4 km" [ref=f10e592] [cursor=pointer]:
+                  - generic [ref=f10e595]:
+                    - generic [ref=f10e596]: Jardy Hotel & Suites
+                    - img "4,0 étoiles 657 avis" [ref=f10e600]: 4,0(657)
+                    - generic [ref=f10e602]: petit-déjeuner inclus
+                    - generic [ref=f10e603]: À 1,4 km
+                - link "Hotel Bay Diab·4,3 étoiles·726 avis·petit-déjeuner inclus·À 1,1 km" [ref=f10e604] [cursor=pointer]:
+                  - generic [ref=f10e607]:
+                    - generic [ref=f10e608]: Hotel Bay Diab
+                    - img "4,3 étoiles 726 avis" [ref=f10e612]: 4,3(726)
+                    - generic [ref=f10e614]: petit-déjeuner inclus
+                    - generic [ref=f10e615]: À 1,1 km
+            - button "Afficher d'autres hôtels à proximité" [ref=f10e620]
+            - heading "Informations sur l'hôtel" [level=2] [ref=f10e626]
+            - generic [ref=f10e627]:
+              - text: Situé dans un quartier d'affaires, cet hôtel raffiné se trouve à 3 km de l'aéroport Houari Boumediene, à 5 km du parc des expositions SAFEX - Pins Maritimes et à 17 km du centre-ville d'Alger.
+              - button "Plus d'informations sur cet hôtel" [ref=f10e628] [cursor=pointer]: Plus
+            - generic [ref=f10e631]:
+              - img "Wi-Fi gratuit disponible" [ref=f10e632]:
+                - generic [aria-hidden] [ref=f10e633]: 
+                - generic [ref=f10e634]: Wi-Fi gratuit
+              - img "Petit déjeuner payant disponible" [ref=f10e635]:
+                - generic [aria-hidden] [ref=f10e636]: 
+                - generic [ref=f10e637]: Petit déjeuner payant
+              - img "Parking gratuit disponible" [ref=f10e638]:
+                - generic [aria-hidden] [ref=f10e639]: 
+                - generic [ref=f10e640]: Parking gratuit
+              - img "Accès handicapés non disponible" [ref=f10e641]:
+                - generic [aria-hidden] [ref=f10e642]: 
+                - generic [ref=f10e643]: Accès handicapés
+              - img "Piscine extérieure disponible" [ref=f10e644]:
+                - generic [aria-hidden] [ref=f10e645]: 
+                - generic [ref=f10e646]: Piscine extérieure
+              - img "Climatisation disponible" [ref=f10e647]:
+                - generic [aria-hidden] [ref=f10e648]: 
+                - generic [ref=f10e649]: Climatisation
+            - button "Afficher plus d'équipements" [ref=f10e653]:
+              - generic [ref=f10e654] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f10e655]: 
+                - generic [ref=f10e656]: Afficher plus d'équipements
+            - generic [ref=f10e659]:
+              - heading "Résumé des avis Google" [level=2] [ref=f10e660]
+              - button "Plus d'informations sur le résumé des avis" [ref=f10e661] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f10e662]: 
+            - generic [ref=f10e664] [cursor=pointer]:
+              - table [ref=f10e666]:
+                - rowgroup [ref=f10e667]:
+                  - img "5 étoiles, 1 315 avis" [ref=f10e668]: "5"
+                  - img "4 étoiles, 258 avis" [ref=f10e671]: "4"
+                  - img "3 étoiles, 119 avis" [ref=f10e674]: "3"
+                  - img "2 étoiles, 59 avis" [ref=f10e677]: "2"
+                  - img "1 étoiles, 248 avis" [ref=f10e680]: "1"
+              - generic [ref=f10e683]:
+                - generic [ref=f10e684]: 4,2
+                - img "4,2 étoiles" [ref=f10e685]
+                - button "1 999 avis" [ref=f10e691]
+            - button "Rédiger un avis" [ref=f10e697] [cursor=pointer]:
+              - generic [ref=f10e698]:
+                - generic [aria-hidden] [ref=f10e699]: 
+                - generic [ref=f10e700]: Rédiger un avis
+            - generic [ref=f10e703]:
+              - heading "Tous les avis" [level=2] [ref=f10e705]
+              - button "Rechercher dans les avis" [ref=f10e707] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f10e709]: 
+            - generic [ref=f10e713]:
+              - generic [ref=f10e715]:
+                - generic [ref=f10e716]: Tripadvisor
+                - generic [ref=f10e719]:
+                  - generic [ref=f10e720]: 4/5
+                  - generic [aria-hidden] [ref=f10e721]: ·
+                  - generic [ref=f10e722]: 211 avis
+                - generic [ref=f10e723]: 598salmak, il y a un mois
+                - generic [ref=f10e725]: La propreté était impeccable, tout était très propre et bien entretenu. Un grand merci à Ayoub et Younes pour leur attention et leur soin, qui ont …
+                - link "Afficher plus sur Tripadvisor" [ref=f10e728] [cursor=pointer]:
+                  - /url: https://www.tripadvisor.fr/ShowUserReviews-g293718-d20297203-r1079246372?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=DZ&supul=fr
+              - generic [ref=f10e731]:
+                - generic [ref=f10e732]: Tripadvisor
+                - generic [ref=f10e735]:
+                  - generic [ref=f10e736]: 4/5
+                  - generic [aria-hidden] [ref=f10e737]: ·
+                  - generic [ref=f10e738]: 212 avis
+                - generic [ref=f10e739]: 411naime, il y a 4 semaines
+                - generic [ref=f10e741]: Personnel agréable gentille à l’écoute|Excellent service
+                - link "Afficher plus sur Tripadvisor" [ref=f10e744] [cursor=pointer]:
+                  - /url: https://www.tripadvisor.fr/ShowUserReviews-g293718-d20297203-r1080719611?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=DZ&supul=fr
+            - button "Plus d'avis (1 996)" [ref=f10e750]
+            - link "À propos de ces données" [ref=f10e757] [cursor=pointer]:
+              - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=fr
+            - generic [ref=f10e762]:
+              - generic [aria-hidden] [ref=f10e764]: 
+              - generic [ref=f10e765]:
+                - text: Vous voyez un affichage limité de Google Maps.
+                - button "Voir plus" [ref=f10e766] [cursor=pointer]
+      - button "Réduire le panneau latéral" [ref=f10e768] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f10e769]: 
+    - generic [ref=f10e773]:
+      - button "Applications Google" [ref=f10e777] [cursor=pointer]
+      - link "Connexion" [ref=f10e781] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FH%25C3%25B4tel%2BMarriott%2BAlgiers%2BBab%2BEzzouar%2F%4036.7126325%2C3.194152%2C17z%2Fdata%3D!3m1!4b1!4m9!3m8!1s0x128e51941a455765%3A0xab87bfbe1948c1f4!5m2!4m1!1i2!8m2!3d36.7126325!4d3.194152!16s%252Fg%252F12llrpfxf%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Afficher votre position" [ref=f10e784] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f10e786]: 
+        - generic [ref=f10e788] [cursor=pointer]:
+          - button "Faire un zoom avant" [ref=f10e789]:
+            - generic [aria-hidden] [ref=f10e791]: 
+          - button "Faire un zoom arrière" [ref=f10e792]:
+            - generic [aria-hidden] [ref=f10e794]: 
+      - button "Parcourir les images Street View" [ref=f10e800]
+      - generic [ref=f10e802]:
+        - generic "Carte interactive" [ref=f10e803]
+        - generic [ref=f10e807] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f10e808]: 
+          - generic [ref=f10e809]: Calques
+        - button "Calques" [ref=f10e810] [cursor=pointer]
+    - generic [ref=f10e812]:
+      - contentinfo [ref=f10e815]:
+        - text: Données cartographiques ©2026
+        - button "Algérie" [ref=f10e816] [cursor=pointer]
+        - button "Conditions d'utilisation" [ref=f10e817] [cursor=pointer]
+        - button "Confidentialité" [ref=f10e818] [cursor=pointer]
+        - button "Envoyer des commentaires sur le produit" [ref=f10e819] [cursor=pointer]
+      - button "100 m" [ref=f10e821] [cursor=pointer]

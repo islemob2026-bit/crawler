@@ -1,0 +1,280 @@
+- generic [ref=f12e1]:
+  - generic "Google Maps" [ref=f12e9]:
+    - generic [ref=f12e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f12e15]
+      - search [ref=f12e20]:
+        - button "Retour" [ref=f12e636] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f12e637]: 
+        - generic [ref=f12e21]:
+          - combobox [ref=f12e23]: City Hotel Algiers
+          - button "Rechercher" [ref=f12e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f12e26]: 
+          - button "Fermer" [ref=f12e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f12e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f12e36]:
+        - generic [ref=f12e39]:
+          - button "Hôtels à proximité" [ref=f12e41] [cursor=pointer]:
+            - generic [ref=f12e42]:
+              - generic [aria-hidden] [ref=f12e44]: 
+              - generic [ref=f12e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f12e47] [cursor=pointer]:
+            - generic [ref=f12e48]:
+              - generic [aria-hidden] [ref=f12e50]: 
+              - generic [ref=f12e51]: Restaurants
+          - button "Activités à découvrir" [ref=f12e53] [cursor=pointer]:
+            - generic [ref=f12e54]:
+              - generic [aria-hidden] [ref=f12e56]: 
+              - generic [ref=f12e57]: Activités à découvrir
+          - button "Bars" [ref=f12e59] [cursor=pointer]:
+            - generic [ref=f12e60]:
+              - generic [aria-hidden] [ref=f12e62]: 
+              - generic [ref=f12e63]: Bars
+          - button "Cafés" [ref=f12e65] [cursor=pointer]:
+            - generic [ref=f12e66]:
+              - generic [aria-hidden] [ref=f12e68]: 
+              - generic [ref=f12e69]: Cafés
+          - button "Pharmacies" [ref=f12e71] [cursor=pointer]:
+            - generic [ref=f12e72]:
+              - generic [aria-hidden] [ref=f12e74]: 
+              - generic [ref=f12e75]: Pharmacies
+          - button "Parkings" [ref=f12e77] [cursor=pointer]:
+            - generic [ref=f12e78]:
+              - generic [aria-hidden] [ref=f12e80]: 
+              - generic [ref=f12e81]: Parkings
+      - generic [ref=f12e82]:
+        - generic [ref=f12e83]:
+          - list [ref=f12e85]:
+            - listitem [ref=f12e86]:
+              - button "Menu" [ref=f12e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e89]: 
+            - listitem [ref=f12e90]:
+              - button "Enregistré" [ref=f12e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e93]: 
+            - listitem [ref=f12e96]:
+              - button "Récents" [ref=f12e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e99]: 
+            - listitem [ref=f12e103]:
+              - button "City Hotel Algiers" [ref=f12e104] [cursor=pointer]
+            - listitem [ref=f12e112]:
+              - button "Obtenir l'appli" [ref=f12e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e115]: 
+          - main "City Hotel Algiers" [ref=f12e122]:
+            - tablist [ref=f12e165]:
+              - tab "City Hotel Algiers - Présentation" [ref=f12e166]:
+                - generic [aria-hidden] [ref=f12e168]: Présentation
+              - tab "Prix pour City Hotel Algiers" [ref=f12e170]:
+                - generic [aria-hidden] [ref=f12e172]: Prix
+              - tab "City Hotel Algiers - Avis" [selected] [ref=f12e174]:
+                - generic [aria-hidden] [ref=f12e176]: Avis
+              - tab "Informations sur City Hotel Algiers" [ref=f12e178]:
+                - generic [aria-hidden] [ref=f12e180]: À propos
+            - generic [ref=f12e639]:
+              - generic [ref=f12e641]:
+                - list [ref=f12e643]:
+                  - listitem [ref=f12e644]: 7 262 DA
+                  - text: ·
+                  - listitem [ref=f12e645]: Hôtel 3 étoiles
+                - generic [ref=f12e646]: 7–8 nov.
+              - link [ref=f12e650] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f12e651]:
+                  - generic [aria-hidden] [ref=f12e652]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f12e654]:
+              - generic [ref=f12e655]:
+                - heading "Résumé des avis Google" [level=2] [ref=f12e657]
+                - button "Informations" [ref=f12e659] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f12e660]: 
+              - generic [ref=f12e662]:
+                - table [ref=f12e664]:
+                  - rowgroup [ref=f12e665]:
+                    - img "5 étoiles, 269 avis" [ref=f12e666]: "5"
+                    - img "4 étoiles, 110 avis" [ref=f12e669]: "4"
+                    - img "3 étoiles, 66 avis" [ref=f12e672]: "3"
+                    - img "2 étoiles, 24 avis" [ref=f12e675]: "2"
+                    - img "1 étoiles, 122 avis" [ref=f12e678]: "1"
+                - generic [ref=f12e681]:
+                  - generic [ref=f12e682]: 3,6
+                  - img "3,6 étoiles" [ref=f12e683]
+                  - generic [ref=f12e689]: 591 avis
+              - button "Rédiger un avis" [ref=f12e693] [cursor=pointer]:
+                - generic [ref=f12e694]:
+                  - generic [aria-hidden] [ref=f12e695]: 
+                  - generic [ref=f12e696]: Rédiger un avis
+              - generic [ref=f12e700]:
+                - textbox "Rechercher dans les avis" [active] [ref=f12e1602]
+                - generic [aria-hidden]: Rechercher dans les avis
+              - generic [ref=f12e702]:
+                - button "Tous les avis" [ref=f12e703] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f12e705]: 
+                - button "Avis les plus pertinents" [ref=f12e706] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f12e708]: 
+              - generic [ref=f12e1596]:
+                - generic "447michel" [ref=f12e1603]:
+                  - generic [ref=f12e1605]:
+                    - button "Photo de 447michel" [ref=f12e1606]
+                    - button "447michel" [ref=f12e1610]
+                    - generic [ref=f12e1612]:
+                      - generic [ref=f12e1613]:
+                        - generic [ref=f12e1614]: 5/5
+                        - generic [ref=f12e1615]:
+                          - text: il y a 5 mois sur
+                          - generic [ref=f12e1616]: Tripadvisor
+                      - generic [ref=f12e1618]:
+                        - text: 6 nuits à l'hôtel Ralf (Alger centre) fin avril, début mai 2026. Hôtel récent et propre, décoration actuelle, personnel et chambres OK. Petits déjeuners compris vraiment très corrects mais manquent peut-être un peu de variété pour un séjour …
+                        - button "En savoir plus sur Tripadvisor" [ref=f12e1620] [cursor=pointer]
+                - generic "Dalila" [ref=f12e1624]:
+                  - generic [ref=f12e1626]:
+                    - button "Photo de Dalila" [ref=f12e1627]
+                    - generic [ref=f12e1629]:
+                      - button "Dalila Local Guide · 68 avis · 31 photos" [ref=f12e1631]:
+                        - generic [ref=f12e1632]: Dalila
+                        - generic [ref=f12e1633]: Local Guide · 68 avis · 31 photos
+                      - button "Actions pour l'avis rédigé par Dalila" [ref=f12e1634] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f12e1636]: 
+                    - generic [ref=f12e1637]:
+                      - generic [ref=f12e1638]:
+                        - generic [ref=f12e1639]: 1/5
+                        - generic [ref=f12e1640]:
+                          - text: il y a un mois sur
+                          - generic [ref=f12e1641]: Google
+                      - generic [ref=f12e1643]:
+                        - text: ⭐ 1/5 — et encore, parce qu’on ne peut pas mettre moins ! Si Google permettait de mettre –1, –2 ou –3 étoiles, c’est ce que j’aurais mis. …
+                        - button "Voir plus" [ref=f12e1645] [cursor=pointer]: Plus
+                      - generic [ref=f12e1646]:
+                        - button "J'aime" [ref=f12e1647]:
+                          - generic [ref=f12e1648] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1649]: 
+                            - generic [ref=f12e1650]: J'aime
+                        - button "Partager l'avis rédigé par Dalila." [ref=f12e1652]:
+                          - generic [ref=f12e1653] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1654]: 
+                            - generic [ref=f12e1655]: Partager
+                      - generic [ref=f12e1656]:
+                        - generic [ref=f12e1657]: Réponse du propriétaire il y a un mois
+                        - generic [ref=f12e1658]:
+                          - text: Certaines de vos affirmations sont tout simplement mensongères. Pour le petit-déjeuner, vous aviez parfaitement connaissance des formules proposées et vous avez vous-même choisi celle avec petit-déjeuner. Venir ensuite nous …
+                          - button "Voir plus" [ref=f12e1660] [cursor=pointer]: Plus
+                - generic "Sabrina Mellal" [ref=f12e1664]:
+                  - generic [ref=f12e1666]:
+                    - button "Photo de Sabrina Mellal" [ref=f12e1667]
+                    - generic [ref=f12e1669]:
+                      - button "Sabrina Mellal Local Guide · 11 avis · 21 photos" [ref=f12e1671]:
+                        - generic [ref=f12e1672]: Sabrina Mellal
+                        - generic [ref=f12e1673]: Local Guide · 11 avis · 21 photos
+                      - button "Actions pour l'avis rédigé par Sabrina Mellal" [ref=f12e1674] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f12e1676]: 
+                    - generic [ref=f12e1677]:
+                      - generic [ref=f12e1678]:
+                        - generic [ref=f12e1679]: 5/5
+                        - generic [ref=f12e1680]:
+                          - text: il y a 2 mois sur
+                          - generic [ref=f12e1681]: Google
+                      - generic [ref=f12e1683]:
+                        - text: "Cet hôtel mérite largement plus que 3 étoiles ! Dès l’arrivée, l’accueil est irréprochable : chaleureux, professionnel et attentif. Les dames qui s’occupent des clients sont d’une gentillesse exceptionnelle, toujours disponibles et aux …"
+                        - button "Voir plus" [ref=f12e1685] [cursor=pointer]: Plus
+                      - generic [ref=f12e1686]:
+                        - button "Photo 1 dans l'avis rédigé par Sabrina Mellal" [ref=f12e1687] [cursor=pointer]
+                        - button "Photo 2 dans l'avis rédigé par Sabrina Mellal" [ref=f12e1688] [cursor=pointer]
+                        - button "Photo 3 dans l'avis rédigé par Sabrina Mellal" [ref=f12e1689] [cursor=pointer]
+                      - generic [ref=f12e1690]:
+                        - button "J'aime" [ref=f12e1691]:
+                          - generic [ref=f12e1692] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1693]: 
+                            - generic [ref=f12e1694]: J'aime
+                        - button "Partager l'avis rédigé par Sabrina Mellal." [ref=f12e1696]:
+                          - generic [ref=f12e1697] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1698]: 
+                            - generic [ref=f12e1699]: Partager
+                - generic "Elvir MENZILOVIC" [ref=f12e1703]:
+                  - generic [ref=f12e1705]:
+                    - button "Photo de Elvir MENZILOVIC" [ref=f12e1706]
+                    - generic [ref=f12e1708]:
+                      - button "Elvir MENZILOVIC Local Guide · 115 avis · 67 photos" [ref=f12e1710]:
+                        - generic [ref=f12e1711]: Elvir MENZILOVIC
+                        - generic [ref=f12e1712]: Local Guide · 115 avis · 67 photos
+                      - button "Actions pour l'avis rédigé par Elvir MENZILOVIC" [ref=f12e1713] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f12e1715]: 
+                    - generic [ref=f12e1716]:
+                      - generic [ref=f12e1717]:
+                        - generic [ref=f12e1718]: 4/5
+                        - generic [ref=f12e1719]:
+                          - text: il y a un mois sur
+                          - generic [ref=f12e1720]: Google
+                      - generic [ref=f12e1722]:
+                        - text: Très bon rapport/qualité prix. Le petit déjeuner est correct. Les lieux sont propres. Chambre avec balcon est un joli plus! Seul bémol le matelas où l'on sent les ressorts et oreillers bien durs. Accueil chaleureux et agréable.
+                        - button "Voir plus" [ref=f12e1724] [cursor=pointer]: Plus
+                      - generic [ref=f12e1725]:
+                        - button "J'aime" [ref=f12e1726]:
+                          - generic [ref=f12e1727] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1728]: 
+                            - generic [ref=f12e1729]: J'aime
+                        - button "Partager l'avis rédigé par Elvir MENZILOVIC." [ref=f12e1731]:
+                          - generic [ref=f12e1732] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1733]: 
+                            - generic [ref=f12e1734]: Partager
+                - generic "Meftah Khaoula" [ref=f12e1738]:
+                  - generic [ref=f12e1740]:
+                    - button "Photo de Meftah Khaoula" [ref=f12e1741]
+                    - generic [ref=f12e1743]:
+                      - button "Meftah Khaoula 1 avis" [ref=f12e1745]:
+                        - generic [ref=f12e1746]: Meftah Khaoula
+                        - generic [ref=f12e1747]: 1 avis
+                      - button "Actions pour l'avis rédigé par Meftah Khaoula" [ref=f12e1748] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f12e1750]: 
+                    - generic [ref=f12e1751]:
+                      - generic [ref=f12e1752]:
+                        - generic [ref=f12e1753]: 5/5
+                        - generic [ref=f12e1754]:
+                          - text: il y a 2 semaines sur
+                          - generic [ref=f12e1755]: Google
+                        - generic [ref=f12e1756]: Nouveau
+                      - generic [ref=f12e1758]:
+                        - text: Chambre très confortable et propre. Personnel très accueillant L'emplacement de l'hôtel fait que on peut faire tour d'Alger centre à pied. Il donne sur une rue très fréquenté, proche de tout, mais on n'est pas dérangé par le bruit la nuit !
+                        - button "Voir plus" [ref=f12e1760] [cursor=pointer]: Plus
+                      - generic [ref=f12e1761]:
+                        - button "J'aime" [ref=f12e1762]:
+                          - generic [ref=f12e1763] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1764]: 
+                            - generic [ref=f12e1765]: J'aime
+                        - button "Partager l'avis rédigé par Meftah Khaoula." [ref=f12e1767]:
+                          - generic [ref=f12e1768] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1769]: 
+                            - generic [ref=f12e1770]: Partager
+              - button "Voir plus d'avis (586)" [ref=f12e1774]
+              - generic [ref=f12e1779]:
+                - generic [aria-hidden] [ref=f12e1781]: 
+                - generic [ref=f12e1782]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=f12e1783] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=f12e576] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f12e577]: 
+      - generic [ref=f12e581]:
+        - button "Applications Google" [ref=f12e585] [cursor=pointer]
+        - link "Connexion" [ref=f12e589] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FCity%2BHotel%2BAlgiers%2F%4036.7626114%2C3.0564456%2C17z%2Fdata%3D!4m11!3m10!1s0x128fb2603913f341%3A0x91fa04bf5182c1bb!5m2!4m1!1i2!8m2!3d36.7626114!4d3.0564456!9m1!1b1!16s%252Fg%252F11c60573q3%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f12e592] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f12e594]: 
+          - generic [ref=f12e596] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f12e597]:
+              - generic [aria-hidden] [ref=f12e599]: 
+            - button "Faire un zoom arrière" [ref=f12e600]:
+              - generic [aria-hidden] [ref=f12e602]: 
+        - button "Parcourir les images Street View" [ref=f12e608]
+        - generic [ref=f12e610]:
+          - generic "Carte interactive" [ref=f12e611]
+          - generic [ref=f12e615] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f12e616]: 
+            - generic [ref=f12e617]: Calques
+          - button "Calques" [ref=f12e618] [cursor=pointer]
+      - generic [ref=f12e620]:
+        - contentinfo [ref=f12e623]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f12e624] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f12e625] [cursor=pointer]
+          - button "Confidentialité" [ref=f12e626] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f12e627] [cursor=pointer]
+        - button "100 m" [ref=f12e629] [cursor=pointer]
+  - generic [ref=f12e1025]: Recherche effacée

@@ -1,0 +1,380 @@
+- generic "Google Maps" [ref=f6e9]:
+  - generic [ref=f6e3]:
+    - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f6e10]
+    - search [ref=f6e15]:
+      - generic [ref=f6e16]:
+        - combobox [ref=f6e18]: hotels in Algiers
+        - button "Rechercher" [ref=f6e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f6e21]: 
+        - button "Fermer" [ref=f6e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f6e24]: 
+    - region "Filtres disponibles pour cette recherche" [ref=f6e31]:
+      - generic [ref=f6e34]:
+        - radiogroup "Changer de type d'hébergement" [ref=f6e36]:
+          - button "Hôtels" [pressed] [ref=f6e37] [cursor=pointer]:
+            - generic [ref=f6e38]:
+              - generic [aria-hidden] [ref=f6e39]: 
+              - generic [ref=f6e40]: Hôtels
+          - button "Locations de vacances" [ref=f6e41] [cursor=pointer]:
+            - generic [ref=f6e42]:
+              - generic [aria-hidden] [ref=f6e43]: 
+              - generic [ref=f6e44]: Locations de vacances
+        - button "Note des clients" [ref=f6e46] [cursor=pointer]:
+          - generic [ref=f6e47]:
+            - generic [aria-hidden] [ref=f6e48]: 
+            - generic [ref=f6e49]: Note des clients
+            - generic [aria-hidden] [ref=f6e50]: 
+        - button "Chaînes" [ref=f6e52] [cursor=pointer]:
+          - generic [ref=f6e53]:
+            - generic [aria-hidden] [ref=f6e54]: 
+            - generic [ref=f6e55]: Chaînes
+            - generic [aria-hidden] [ref=f6e56]: 
+        - button "Équipements" [ref=f6e58] [cursor=pointer]:
+          - generic [ref=f6e59]:
+            - generic [aria-hidden] [ref=f6e60]: 
+            - generic [ref=f6e61]: Équipements
+            - generic [aria-hidden] [ref=f6e62]: 
+        - button "Catégorie d'hôtel" [ref=f6e64] [cursor=pointer]:
+          - generic [ref=f6e65]:
+            - generic [aria-hidden] [ref=f6e66]: 
+            - generic [ref=f6e67]: Catégorie d'hôtel
+            - generic [aria-hidden] [ref=f6e68]: 
+        - button "Annulation gratuite" [ref=f6e70] [cursor=pointer]
+        - button "Tous les filtres" [ref=f6e74] [cursor=pointer]:
+          - generic [ref=f6e75]:
+            - generic [aria-hidden] [ref=f6e76]: 
+            - generic [ref=f6e77]: Tous les filtres
+      - button "Page suivante" [ref=f6e78] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f6e79]: 
+    - generic [ref=f6e80]:
+      - generic [ref=f6e81]:
+        - list [ref=f6e83]:
+          - listitem [ref=f6e84]:
+            - button "Menu" [ref=f6e85] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f6e87]: 
+          - listitem [ref=f6e88]:
+            - button "Enregistré" [ref=f6e89] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f6e91]: 
+          - listitem [ref=f6e94]:
+            - button "Récents" [disabled] [ref=f6e95]:
+              - generic [aria-hidden] [ref=f6e97]: 
+          - listitem [ref=f6e101]:
+            - button "Obtenir l'appli" [ref=f6e102] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f6e104]: 
+        - main [ref=f6e111]:
+          - generic [ref=f6e112]:
+            - generic [ref=f6e113]:
+              - group "Du mercredi 11 novembre au jeudi 12 novembre" [ref=f6e114]:
+                - generic [ref=f6e115]:
+                  - generic [aria-hidden] [ref=f6e116]: 
+                  - generic [ref=f6e118] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f6e119]: mer. 11 nov.
+                    - generic [ref=f6e120]:
+                      - button "Arriver un jour plus tôt" [active] [ref=f6e121]:
+                        - generic [aria-hidden] [ref=f6e122]: 
+                      - button "Arriver un jour plus tard" [ref=f6e123]:
+                        - generic [aria-hidden] [ref=f6e124]: 
+                - generic [ref=f6e127] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f6e128]: jeu. 12 nov.
+                  - generic [ref=f6e129]:
+                    - button "Partir un jour plus tôt" [disabled] [ref=f6e130]:
+                      - generic [aria-hidden] [ref=f6e131]: 
+                    - button "Partir un jour plus tard" [ref=f6e132]:
+                      - generic [aria-hidden] [ref=f6e133]: 
+              - region "Invités" [ref=f6e134]:
+                - button "2 clients" [ref=f6e135] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f6e136]: 
+                  - text: "2"
+                  - generic [aria-hidden] [ref=f6e137]: 
+            - region "Prix par nuit" [ref=f6e138]:
+              - generic [aria-hidden] [ref=f6e144]: din0 – din36 k+
+              - group "de din0 à din36 k" [ref=f6e147] [cursor=pointer]:
+                - generic [ref=f6e148]:
+                  - slider "Prix minimal"
+                  - slider "Prix maximal"
+          - generic [ref=f6e155]:
+            - feed "Résultats pour \"hotels in Algiers\"" [ref=f6e156]:
+              - generic [ref=f6e157]:
+                - generic [ref=f6e159]:
+                  - heading "Résultats" [level=1] [ref=f6e160]
+                  - button "En savoir plus sur la mention légale concernant les avis publics sur Google Maps" [ref=f6e164]:
+                    - generic [aria-hidden] [ref=f6e168]: 
+                - generic [ref=f6e170]:
+                  - button "Trier par" [ref=f6e172] [cursor=pointer]:
+                    - generic [ref=f6e173]:
+                      - generic [ref=f6e174]: Trier par
+                      - generic [aria-hidden] [ref=f6e175]: 
+                  - button "Partager" [ref=f6e177]:
+                    - generic [ref=f6e178] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f6e179]: 
+                      - generic [ref=f6e180]: Partager
+              - article [ref=f6e182]:
+                - link "Residence Inn by Marriott Algiers Bab Ezzouar" [ref=f6e183] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Residence+Inn+by+Marriott+Algiers+Bab+Ezzouar/data=!4m10!3m9!1s0x128e51941ecc904b:0x60b2257a57547fc6!5m2!4m1!1i2!8m2!3d36.712647!4d3.194073!16s%2Fg%2F11qq9rw72g!19sChIJS5DMHpRRjhIRxn9UV3olsmA?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsorisé" [level=1]:
+                        - button "Pourquoi cette annonce ?" [ref=f6e185] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f6e186]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Residence Inn by Marriott Algiers Bab Ezzouar
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4,1 étoiles 145 avis": 4,1(145)
+                            - generic: Hôtel 3 étoiles
+                    - generic: 50 050 DA
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Piscine disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Piscine
+                          - img "Spa disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Spa
+                          - img "Parking gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Parking gratuit
+                          - img "Petit-déjeuner inclus disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Petit-déjeuner inclus
+                  - link "Annonce·50 050 DA/nuit le 11 nov. - 12·Annulation gratuite·Visiter le site·Residence Inn by Marriott Algiers Bab Ezzouar" [ref=f6e191] [cursor=pointer]:
+                    - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwj52fe16euXAxXckFAGHSgbCTIYACICCAEQAhoCZGc&co=1&ase=2&gclid=EAIaIQobChMI-dn3tenrlwMV3JBQBh0oGwkyEA0YASABEgLMAPD_BwE&cid=CAASygHkaANWT1QcOHPZ934wwO_5GdvKxval-HUn_UAR8LWDfHagijSQ9B39Ijh42Zxv_PQ48qM-rxWFBijqZbeUdRnnbwoSL_jsrfxPjarAbx5dn2WCJRVQ4W2GR1eyVPQMLjdldE0fx9UepDSEyD_DoskEs-rrIvjVeKLfQB25kHPRfPRLi3rrUopio6aCANupkcFE057_MmMVJgbZ-d-yMABaO-qru8sWKhDbh3az9ANtvokOuM2X0LlvdhVHZ3Ppim0zGBYJRrt5fV6E&cce=2&category=acrcp_v1_32&sig=AOD64_2-KtUdv36ZnByktq57_pKEVyI-fw&adurl=&nis=5
+                    - generic [ref=f6e193]:
+                      - generic [ref=f6e196]:
+                        - generic [ref=f6e197]: 50 050 DA/nuit le 11 nov. - 12
+                        - generic [ref=f6e199]: Annulation gratuite
+                      - generic [ref=f6e200]: Visiter le site
+              - article [ref=f6e205]:
+                - link "Hôtel Marriott Algiers Bab Ezzouar" [ref=f6e206] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/H%C3%B4tel+Marriott+Algiers+Bab+Ezzouar/data=!4m10!3m9!1s0x128e51941f2c1dd3:0xab87bfbe1948c1f4!5m2!4m1!1i2!8m2!3d36.712632!4d3.194152!16s%2Fg%2F12llrpfxf!19sChIJ0x0sH5RRjhIR9MFIGb6_h6s?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsorisé" [level=1]:
+                        - button "Pourquoi cette annonce ?" [ref=f6e208] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f6e209]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Hôtel Marriott Algiers Bab Ezzouar
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4,2 étoiles 1 999 avis": 4,2(1 999)
+                            - generic: Hôtel 5 étoiles
+                    - generic: 39 568 DA
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Piscine disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Piscine
+                          - img "Spa disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Spa
+                          - img "Parking gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Parking gratuit
+                          - img "Wi-Fi gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Wi-Fi gratuit
+                  - link "Annonce·39 568 DA/nuit le 11 nov. - 12·Annulation gratuite·Visiter le site·Algiers Marriott Hotel Bab Ezzouar" [ref=f6e214] [cursor=pointer]:
+                    - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwj52fe16euXAxXckFAGHSgbCTIYACICCAEQAxoCZGc&co=1&ase=2&gclid=EAIaIQobChMI-dn3tenrlwMV3JBQBh0oGwkyEA0YAiABEgI1VvD_BwE&cid=CAASygHkaANWT1QcOHPZ934wwO_5GdvKxval-HUn_UAR8LWDfHagijSQ9B39Ijh42Zxv_PQ48qM-rxWFBijqZbeUdRnnbwoSL_jsrfxPjarAbx5dn2WCJRVQ4W2GR1eyVPQMLjdldE0fx9UepDSEyD_DoskEs-rrIvjVeKLfQB25kHPRfPRLi3rrUopio6aCANupkcFE057_MmMVJgbZ-d-yMABaO-qru8sWKhDbh3az9ANtvokOuM2X0LlvdhVHZ3Ppim0zGBYJRrt5fV6E&cce=2&category=acrcp_v1_32&sig=AOD64_0iJg9CpdFJuckx0sRkiCHYnCmqgQ&adurl=&nis=5
+                    - generic [ref=f6e216]:
+                      - generic [ref=f6e219]:
+                        - generic [ref=f6e220]: 39 568 DA/nuit le 11 nov. - 12
+                        - generic [ref=f6e222]: Annulation gratuite
+                      - generic [ref=f6e223]: Visiter le site
+              - article [ref=f6e228]:
+                - link "City Hotel Algiers" [ref=f6e229] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/City+Hotel+Algiers/data=!4m10!3m9!1s0x128fb2603913f341:0x91fa04bf5182c1bb!5m2!4m1!1i2!8m2!3d36.7626114!4d3.0564456!16s%2Fg%2F11c60573q3!19sChIJQfMTOWCyjxIRu8GCUb8E-pE?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: City Hotel Algiers
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "3,6 étoiles 591 avis": 3,6(591)
+                            - generic:
+                              - generic: Hôtel 3 étoiles
+                              - generic: Hôtel convivial avec vue sur baie
+                    - generic: 7 180 DA
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Wi-Fi gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Wi-Fi gratuit
+                          - img "Climatisation disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Climatisation
+                          - img "Petit-déjeuner disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Petit-déjeuner
+                          - img "Wi-Fi disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Wi-Fi
+                    - generic:
+                      - generic: OFFRE SPÉCIALE
+                      - generic: 19 % de moins que le prix habituel
+              - article [ref=f6e233]:
+                - link "Hotel Best Night - Bab Ezzouar" [ref=f6e234] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Hotel+Best+Night+-+Bab+Ezzouar/data=!4m10!3m9!1s0x128e521bcdecec8d:0xd61df57da15fbfc2!5m2!4m1!1i2!8m2!3d36.7244284!4d3.1706173!16s%2Fg%2F11b6_fgfdc!19sChIJjezszRtSjhIRwr9foX31HdY?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Hotel Best Night - Bab Ezzouar
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4,3 étoiles 1 781 avis": 4,3(1 781)
+                            - generic:
+                              - generic: Hôtel 3 étoiles
+                              - generic: Hôtel convivial avec restaurant
+                    - generic: 7 122 DA
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Parking gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Parking gratuit
+                          - img "Petit-déjeuner inclus disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Petit-déjeuner inclus
+                          - img "Wi-Fi gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Wi-Fi gratuit
+                          - img "Climatisation disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Climatisation
+              - article [ref=f6e238]:
+                - link "Hyatt Regency Algiers Airport" [ref=f6e239] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Hyatt+Regency+Algiers+Airport/data=!4m10!3m9!1s0x128e51a501e40221:0xa1c67b8a177ec9ba!5m2!4m1!1i2!8m2!3d36.7042939!4d3.2054075!16s%2Fg%2F11f10f1gnc!19sChIJIQLkAaVRjhIRusl-F4p7xqE?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Hyatt Regency Algiers Airport
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4,4 étoiles 2 556 avis": 4,4(2 556)
+                            - generic:
+                              - generic: Hôtel 4 étoiles
+                              - generic: Hôtel chic à l'aéroport avec restaurant
+                    - generic: 31,5 k
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Piscine disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Piscine
+                          - img "Parking gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Parking gratuit
+                          - img "Wi-Fi gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Wi-Fi gratuit
+                          - img "Climatisation disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Climatisation
+              - article [ref=f6e243]:
+                - link "Sofitel Algiers Hamma Garden" [ref=f6e244] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Sofitel+Algiers+Hamma+Garden/data=!4m10!3m9!1s0x128fb28be0db0863:0x7c8ea0ca3200f8ad!5m2!4m1!1i2!8m2!3d36.7505228!4d3.0725569!16s%2Fm%2F0gk_5k7!19sChIJYwjb4IuyjxIRrfgAMsqgjnw?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Sofitel Algiers Hamma Garden
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4,3 étoiles 4 821 avis": 4,3(4 821)
+                            - generic:
+                              - generic: Hôtel 5 étoiles
+                              - generic: Hôtel raffiné, restaurants et piscine
+                    - generic: 36,2 k
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Piscine disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Piscine
+                          - img "Parking gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Parking gratuit
+                          - img "Wi-Fi gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Wi-Fi gratuit
+                          - img "Climatisation disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Climatisation
+              - generic [ref=f6e280]:
+                - generic [aria-hidden] [ref=f6e282]: 
+                - generic [ref=f6e283]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=f6e284] [cursor=pointer]
+            - generic [ref=f6e289]:
+              - text: À propos des tarifs
+              - link "À propos des tarifs" [ref=f6e290] [cursor=pointer]:
+                - /url: https://support.google.com/websearch/answer/6276008
+                - generic [aria-hidden] [ref=f6e291]: 
+            - checkbox "Mettre à jour les résultats lors du déplacement de la carte" [ref=f6e293] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f6e295]: 
+              - text: Mettre à jour les résultats lors du déplacement de la carte
+      - button "Réduire le panneau latéral" [ref=f6e297] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f6e298]: 
+    - generic [ref=f6e302]:
+      - button "Applications Google" [ref=f6e306] [cursor=pointer]
+      - link "Connexion" [ref=f6e310] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fhotels%2Bin%2BAlgiers%2F%4036.7570026%2C3.1600802%2C12z%2Fdata%3D!3m1!4b1%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Afficher votre position" [ref=f6e313] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f6e315]: 
+        - generic [ref=f6e317] [cursor=pointer]:
+          - button "Faire un zoom avant" [ref=f6e318]:
+            - generic [aria-hidden] [ref=f6e320]: 
+          - button "Faire un zoom arrière" [ref=f6e321]:
+            - generic [aria-hidden] [ref=f6e323]: 
+      - button "Parcourir les images Street View" [ref=f6e329]
+      - generic [ref=f6e331]:
+        - generic "Carte interactive" [ref=f6e332]
+        - generic [ref=f6e336] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f6e337]: 
+          - generic [ref=f6e338]: Calques
+        - button "Calques" [ref=f6e339] [cursor=pointer]
+    - generic [ref=f6e341]:
+      - contentinfo [ref=f6e344]:
+        - text: Données cartographiques ©2026
+        - button "Algérie" [ref=f6e345] [cursor=pointer]
+        - button "Conditions d'utilisation" [ref=f6e346] [cursor=pointer]
+        - button "Confidentialité" [ref=f6e347] [cursor=pointer]
+        - button "Envoyer des commentaires sur le produit" [ref=f6e348] [cursor=pointer]
+      - button "2 km" [ref=f6e350] [cursor=pointer]

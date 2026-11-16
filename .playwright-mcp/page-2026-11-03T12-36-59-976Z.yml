@@ -1,0 +1,464 @@
+- generic "Google Maps" [ref=f2e9]:
+  - dialog [ref=f2e10]:
+    - generic [ref=f2e13]:
+      - generic [aria-hidden] [ref=f2e14]: 
+      - text: Indiquez vos dates pour afficher les meilleurs prix
+  - generic [ref=f2e3]:
+    - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f2e15]
+    - search [ref=f2e20]:
+      - generic [ref=f2e21]:
+        - combobox [ref=f2e23]: Four Points by Sheraton Oran
+        - button "Rechercher" [ref=f2e25] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f2e26]: 
+        - button "Fermer" [ref=f2e28] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f2e29]: 
+    - region "Options de recherche disponibles pour cette zone" [ref=f2e36]:
+      - generic [ref=f2e39]:
+        - button "Hôtels à proximité" [ref=f2e41] [cursor=pointer]:
+          - generic [ref=f2e42]:
+            - generic [aria-hidden] [ref=f2e44]: 
+            - generic [ref=f2e45]: Hôtels à proximité
+        - button "Restaurants" [ref=f2e47] [cursor=pointer]:
+          - generic [ref=f2e48]:
+            - generic [aria-hidden] [ref=f2e50]: 
+            - generic [ref=f2e51]: Restaurants
+        - button "Activités à découvrir" [ref=f2e53] [cursor=pointer]:
+          - generic [ref=f2e54]:
+            - generic [aria-hidden] [ref=f2e56]: 
+            - generic [ref=f2e57]: Activités à découvrir
+        - button "Bars" [ref=f2e59] [cursor=pointer]:
+          - generic [ref=f2e60]:
+            - generic [aria-hidden] [ref=f2e62]: 
+            - generic [ref=f2e63]: Bars
+        - button "Cafés" [ref=f2e65] [cursor=pointer]:
+          - generic [ref=f2e66]:
+            - generic [aria-hidden] [ref=f2e68]: 
+            - generic [ref=f2e69]: Cafés
+        - button "Pharmacies" [ref=f2e71] [cursor=pointer]:
+          - generic [ref=f2e72]:
+            - generic [aria-hidden] [ref=f2e74]: 
+            - generic [ref=f2e75]: Pharmacies
+        - button "Parkings" [ref=f2e77] [cursor=pointer]:
+          - generic [ref=f2e78]:
+            - generic [aria-hidden] [ref=f2e80]: 
+            - generic [ref=f2e81]: Parkings
+    - generic [ref=f2e82]:
+      - generic [ref=f2e83]:
+        - list [ref=f2e85]:
+          - listitem [ref=f2e86]:
+            - button "Menu" [ref=f2e87] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f2e89]: 
+          - listitem [ref=f2e90]:
+            - button "Enregistré" [ref=f2e91] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f2e93]: 
+          - listitem [ref=f2e96]:
+            - button "Récents" [ref=f2e97] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f2e99]: 
+          - listitem [ref=f2e103]:
+            - button "Four Points by Sheraton Oran" [ref=f2e104] [cursor=pointer]
+          - listitem [ref=f2e112]:
+            - button "Obtenir l'appli" [ref=f2e113] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f2e115]: 
+        - main "Four Points by Sheraton Oran" [ref=f2e122]:
+          - generic [ref=f2e123]:
+            - generic [ref=f2e124]:
+              - button "Photo de Four Points by Sheraton Oran" [ref=f2e126] [cursor=pointer]
+              - button "À partir de 23 542 DA par nuit pour 4–7 déc.." [ref=f2e129] [cursor=pointer]:
+                - generic [ref=f2e130]:
+                  - generic [ref=f2e131]: 23 542 DA
+                  - generic [ref=f2e133]: 4–7 déc.
+              - button "Voir les photos" [ref=f2e134] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e135]: 
+            - generic [ref=f2e139]:
+              - heading "Four Points by Sheraton Oran" [level=1] [ref=f2e141]
+              - heading "فور بوينتس شيراطون" [level=2] [ref=f2e142]
+              - generic [ref=f2e146]:
+                - generic [ref=f2e147]:
+                  - generic [ref=f2e148]:
+                    - text: 3,9
+                    - img "3,9 étoiles" [ref=f2e149]
+                  - img "2 843 avis" [ref=f2e157]: (2 843)
+                - generic [ref=f2e160]:
+                  - text: ·
+                  - generic [ref=f2e161]: Hôtel 4 étoiles
+            - generic [ref=f2e164]:
+              - link "Four Points by Sheraton Oran, Obtenir le prix" [ref=f2e165] [cursor=pointer]:
+                - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiCx_Cm6OuXAxUaFAYAHVzYD9gYACICCAEQARoCd3M&co=1&ase=2&gclid=EAIaIQobChMIgsfwpujrlwMVGhQGAB1c2A_YEAoYASABEgIfKPD_BwE&cid=CAASygHkaKe--Al0bq5HkQ-zkwGS1SKsD8h6re2EwoEFOmkTAzgrBbBg-bXR3N2v2EH5SgHKTZF_ZxDcxuPxPsKR58AstPEQliARIJ4hCsY9JIygR0i5tQUuAZIkO4SNGh1_PzFrqQbesC9Jmwc7cNaZEK6IlGR6LN99fu0DwzoWqKEac74q-2vZPuvVs0kjW22B83__H1KJYH14dlLElm12skqT4-oXzOUsuGv-V0ZrPiwBUL4F6KbVwedgLVXrC3V9HJeHKCfMg0XbXJ66&cce=2&category=acrcp_v1_32&sig=AOD64_0hg5J8JtRDVar4gwsZGIvRV3DVjQ&adurl&ved=0EKPKFA
+              - img "Four Points by Sheraton Oran favicon" [ref=f2e166]
+              - generic [ref=f2e167]:
+                - generic [ref=f2e168]: Four Points by Sheraton Oran
+                - generic [ref=f2e170]:
+                  - heading "Sponsorisé" [level=1] [ref=f2e172]:
+                    - button "Pourquoi cette annonce ?" [ref=f2e175] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f2e176]: 
+                  - generic [aria-hidden] [ref=f2e177]: 23 544 DA
+              - generic [ref=f2e178]: Obtenir le prix
+            - tablist [ref=f2e182]:
+              - tab "Four Points by Sheraton Oran - Présentation" [selected] [ref=f2e183]:
+                - generic [aria-hidden] [ref=f2e185]: Présentation
+              - tab "Prix pour Four Points by Sheraton Oran" [ref=f2e187]:
+                - generic [aria-hidden] [ref=f2e189]: Prix
+              - tab "Four Points by Sheraton Oran - Avis" [ref=f2e191]:
+                - generic [aria-hidden] [ref=f2e193]: Avis
+              - tab "Informations sur Four Points by Sheraton Oran" [ref=f2e195]:
+                - generic [aria-hidden] [ref=f2e197]: À propos
+            - region "Four Points by Sheraton Oran - Actions" [ref=f2e199]:
+              - button "Itinéraires" [ref=f2e201] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e203]: 
+              - button "Enregistrer" [ref=f2e206] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e208]: 
+              - button "À proximité" [ref=f2e211] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e213]: 
+              - button "Partager" [ref=f2e216] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e218]: 
+            - link [ref=f2e222] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f2e223]:
+                - generic [aria-hidden] [ref=f2e224]: 
+                - text: Vérifier la disponibilité
+            - generic [ref=f2e227]:
+              - generic [ref=f2e229]:
+                - heading "Comparer les prix" [level=2] [ref=f2e230]
+                - generic [ref=f2e232]:
+                  - generic [ref=f2e233]: Annulation gratuite uniquement
+                  - checkbox "Annulation gratuite uniquement" [ref=f2e234]:
+                    - generic [aria-hidden] [ref=f2e235]: 
+                    - checkbox "Annulation gratuite uniquement" [ref=f2e236] [cursor=pointer]
+              - generic [ref=f2e237]:
+                - group "Arrivée/Départ" [ref=f2e238]:
+                  - group "Du vendredi 4 décembre au lundi 7 décembre" [active] [ref=f2e240]:
+                    - generic [ref=f2e242] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f2e243]: ven. 4 déc.
+                      - generic [ref=f2e244]:
+                        - button "Arriver un jour plus tôt" [ref=f2e245]:
+                          - generic [aria-hidden] [ref=f2e246]: 
+                        - button "Arriver un jour plus tard" [ref=f2e247]:
+                          - generic [aria-hidden] [ref=f2e248]: 
+                    - generic [ref=f2e250] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f2e251]: lun. 7 déc.
+                      - generic [ref=f2e252]:
+                        - button "Partir un jour plus tôt" [ref=f2e253]:
+                          - generic [aria-hidden] [ref=f2e254]: 
+                        - button "Partir un jour plus tard" [ref=f2e255]:
+                          - generic [aria-hidden] [ref=f2e256]: 
+                - group "Invités" [ref=f2e257]:
+                  - generic [aria-hidden] [ref=f2e258]: 
+                  - button "2 clients" [ref=f2e259] [cursor=pointer]:
+                    - text: "2"
+                    - generic [aria-hidden] [ref=f2e260]: 
+              - generic [ref=f2e264]:
+                - heading "Sponsorisé" [level=1] [ref=f2e266]:
+                  - button "Pourquoi cette annonce ?" [ref=f2e269] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f2e270]: 
+                - generic [ref=f2e271]:
+                  - button "Four Points by Sheraton Oran Obtenir le prix Site officiel Inscrivez-vous gratuitement pour bénéficier de tarifs réduits et d'un accès Wi-Fi offert" [ref=f2e277] [cursor=pointer]:
+                    - generic [ref=f2e278]:
+                      - generic [ref=f2e279]:
+                        - generic [ref=f2e280]: Four Points by Sheraton Oran
+                        - generic [ref=f2e282]:
+                          - generic [aria-hidden] [ref=f2e283]: 23 544 DA
+                          - generic [ref=f2e284]: Obtenir le prix
+                          - generic [aria-hidden] [ref=f2e285]: 
+                      - generic [ref=f2e286]:
+                        - generic [ref=f2e288]:
+                          - generic [aria-hidden] [ref=f2e289]: 
+                          - generic [ref=f2e290]: Site officiel
+                        - generic [ref=f2e291]: Inscrivez-vous gratuitement pour bénéficier de tarifs réduits et d'un accès Wi-Fi offert
+                  - generic [ref=f2e293]:
+                    - button "1 grand lit 23 545 DA" [ref=f2e299] [cursor=pointer]:
+                      - generic [ref=f2e301]:
+                        - generic [ref=f2e302]: 1 grand lit
+                        - generic [ref=f2e303]:
+                          - generic [ref=f2e304]: 23 545 DA
+                          - generic [aria-hidden] [ref=f2e305]: 
+                    - button "2 lits jumeaux 23 545 DA" [ref=f2e311] [cursor=pointer]:
+                      - generic [ref=f2e313]:
+                        - generic [ref=f2e314]: 2 lits jumeaux
+                        - generic [ref=f2e315]:
+                          - generic [ref=f2e316]: 23 545 DA
+                          - generic [aria-hidden] [ref=f2e317]: 
+                    - link "Voir toutes les chambres" [ref=f2e318] [cursor=pointer]:
+                      - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiCx_Cm6OuXAxUaFAYAHVzYD9gYACICCAEQARoCd3M&co=1&ase=2&gclid=EAIaIQobChMIgsfwpujrlwMVGhQGAB1c2A_YEAoYASABEgIfKPD_BwE&cid=CAASygHkaKe--Al0bq5HkQ-zkwGS1SKsD8h6re2EwoEFOmkTAzgrBbBg-bXR3N2v2EH5SgHKTZF_ZxDcxuPxPsKR58AstPEQliARIJ4hCsY9JIygR0i5tQUuAZIkO4SNGh1_PzFrqQbesC9Jmwc7cNaZEK6IlGR6LN99fu0DwzoWqKEac74q-2vZPuvVs0kjW22B83__H1KJYH14dlLElm12skqT4-oXzOUsuGv-V0ZrPiwBUL4F6KbVwedgLVXrC3V9HJeHKCfMg0XbXJ66&cce=2&category=acrcp_v1_32&sig=AOD64_0hg5J8JtRDVar4gwsZGIvRV3DVjQ&nis=4&adurl
+                      - text: Voir toutes les chambres
+                      - generic [aria-hidden] [ref=f2e319]: 
+                - heading "Toutes les options" [level=2] [ref=f2e324]
+                - generic [ref=f2e325]:
+                  - button "Four Points by Sheraton Oran Obtenir le prix Site officiel Inscrivez-vous gratuitement pour bénéficier de tarifs réduits et d'un accès Wi-Fi offert" [ref=f2e331] [cursor=pointer]:
+                    - generic [ref=f2e332]:
+                      - generic [ref=f2e333]:
+                        - generic [ref=f2e334]: Four Points by Sheraton Oran
+                        - generic [ref=f2e336]:
+                          - generic [aria-hidden] [ref=f2e337]: 23 544 DA
+                          - generic [ref=f2e338]: Obtenir le prix
+                          - generic [aria-hidden] [ref=f2e339]: 
+                      - generic [ref=f2e340]:
+                        - generic [ref=f2e342]:
+                          - generic [aria-hidden] [ref=f2e343]: 
+                          - generic [ref=f2e344]: Site officiel
+                        - generic [ref=f2e345]: Inscrivez-vous gratuitement pour bénéficier de tarifs réduits et d'un accès Wi-Fi offert
+                  - button "Voir les chambres" [ref=f2e347] [cursor=pointer]:
+                    - text: Voir les chambres
+                    - generic [aria-hidden] [ref=f2e348]: 
+                  - button "Trip.com 23 542 DA Annulation gratuite jusqu'au 4 nov. · Wi-Fi gratuit" [ref=f2e354] [cursor=pointer]:
+                    - generic [ref=f2e355]:
+                      - generic [ref=f2e356]:
+                        - generic [ref=f2e357]: Trip.com
+                        - generic [ref=f2e359]:
+                          - generic [ref=f2e360]: 23 542 DA
+                          - generic [aria-hidden] [ref=f2e361]: 
+                      - generic [ref=f2e362]: Annulation gratuite jusqu'au 4 nov. · Wi-Fi gratuit
+                  - button "Voir les chambres" [ref=f2e365] [cursor=pointer]:
+                    - text: Voir les chambres
+                    - generic [aria-hidden] [ref=f2e366]: 
+                  - button "Plus de prix à partir de 23 542 DA" [ref=f2e369]
+            - region "Four Points by Sheraton Oran - Informations" [ref=f2e375]:
+              - generic [ref=f2e376]:
+                - 'button "Adresse: Boulevard Du 19 Mars، Route Des Falaises, Oran 31000" [ref=f2e377] [cursor=pointer]':
+                  - generic [ref=f2e378]:
+                    - generic [aria-hidden] [ref=f2e380]: 
+                    - generic [ref=f2e381]: Boulevard Du 19 Mars، Route Des Falaises, Oran 31000
+                - button "Copier l'adresse" [ref=f2e385] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f2e387]: 
+              - generic [ref=f2e388]:
+                - 'link "Site Web: marriott.com" [ref=f2e389] [cursor=pointer]':
+                  - /url: https://www.marriott.com/en-us/hotels/ornfp-four-points-oran/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+                  - generic [ref=f2e390]:
+                    - generic [aria-hidden] [ref=f2e392]: 
+                    - generic [ref=f2e393]: marriott.com
+                - generic [ref=f2e395]:
+                  - link "Accéder au site Web" [ref=f2e397] [cursor=pointer]:
+                    - /url: https://www.marriott.com/en-us/hotels/ornfp-four-points-oran/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+                    - generic [aria-hidden] [ref=f2e399]: 
+                  - button "Copier le site Web" [ref=f2e401] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f2e403]: 
+              - generic [ref=f2e404]:
+                - 'button "Numéro de téléphone: 041 59 02 59" [ref=f2e405] [cursor=pointer]':
+                  - generic [ref=f2e406]:
+                    - generic [aria-hidden] [ref=f2e408]: 
+                    - generic [ref=f2e409]: 041 59 02 59
+                - generic [ref=f2e411]:
+                  - button "Copier le numéro de téléphone" [ref=f2e413] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f2e415]: 
+                  - link "Composer le numéro de téléphone" [ref=f2e417] [cursor=pointer]:
+                    - /url: tel:041590259
+                    - generic [aria-hidden] [ref=f2e419]: 
+              - generic [ref=f2e420]:
+                - 'button "Plus code: P98Q+PW Oran" [ref=f2e421] [cursor=pointer]':
+                  - generic [ref=f2e422]:
+                    - generic [aria-hidden] [ref=f2e424]: 
+                    - generic [ref=f2e425]: P98Q+PW Oran
+                - generic [ref=f2e427]:
+                  - button "Copier le plus code" [ref=f2e429] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f2e431]: 
+                  - button "En savoir plus sur les plus codes" [ref=f2e433] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f2e435]: 
+              - generic [ref=f2e437]:
+                - generic [aria-hidden] [ref=f2e439]: 
+                - generic [ref=f2e440]: "Heure d'arrivée : 3:00 PMHeure de départ : 12:00 PM"
+            - button "Suggérer une modification" [ref=f2e445] [cursor=pointer]:
+              - generic [ref=f2e446]:
+                - generic [aria-hidden] [ref=f2e447]: 
+                - generic [ref=f2e448]: Suggérer une modification
+            - heading "Photos" [level=2] [ref=f2e452]
+            - generic [ref=f2e453]:
+              - button "Street View" [ref=f2e455] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e460]: 
+              - button "7816 photos" [ref=f2e462] [cursor=pointer]
+            - button "Ajouter des photos/vidéos" [ref=f2e470] [cursor=pointer]:
+              - generic [ref=f2e471]:
+                - generic [aria-hidden] [ref=f2e472]: 
+                - generic [ref=f2e473]: Ajouter des photos/vidéos
+            - generic [ref=f2e476]:
+              - heading "À cette adresse" [level=2] [ref=f2e478]
+              - article [ref=f2e480]:
+                - button "Le Ciel D' Oran Restaurant" [ref=f2e481] [cursor=pointer]
+                - generic [ref=f2e487] [cursor=pointer]:
+                  - generic [ref=f2e488]: Le Ciel D' Oran Restaurant
+                  - img "4,0 étoiles 160 avis" [ref=f2e493]: 4,0(160)
+                  - generic [ref=f2e499]: Restaurant
+              - article [ref=f2e503]:
+                - button "Arena Club" [ref=f2e504] [cursor=pointer]
+                - generic [ref=f2e510] [cursor=pointer]:
+                  - generic [ref=f2e511]: Arena Club
+                  - img "3,6 étoiles 158 avis" [ref=f2e516]: 3,6(158)
+                  - generic [ref=f2e522]:
+                    - generic [ref=f2e523]: Discothèque
+                    - generic [ref=f2e525]: Fermé · Ouvre à 22:30
+              - article [ref=f2e529]:
+                - button "Chic Antique" [ref=f2e530] [cursor=pointer]
+                - generic [ref=f2e536] [cursor=pointer]:
+                  - generic [ref=f2e537]: Chic Antique
+                  - img "4,6 étoiles 11 avis" [ref=f2e542]: 4,6(11)
+                  - generic [ref=f2e548]: Magasin d'ameublement et de décoration
+              - article [ref=f2e552]:
+                - button "ALMAR Lines" [ref=f2e553] [cursor=pointer]
+                - generic [ref=f2e559] [cursor=pointer]:
+                  - generic [ref=f2e560]: ALMAR Lines
+                  - img "4,5 étoiles 8 avis" [ref=f2e565]: 4,5(8)
+                  - generic [ref=f2e571]: Siège social
+              - button "Tout afficher" [ref=f2e577]
+            - heading "Hôtels similaires à proximité" [level=2] [ref=f2e583]
+            - region "Hôtels similaires à proximité" [ref=f2e584]:
+              - generic [ref=f2e587]:
+                - link "Hôtel Ibiris·8 034 DA·4,5 étoiles·809 avis·Hôtel 3 étoiles, 15 507 DA moins cher·À 0,8 km" [ref=f2e588] [cursor=pointer]:
+                  - generic [ref=f2e589]: 8 034 DA
+                  - generic [ref=f2e592]:
+                    - generic [ref=f2e593]: Hôtel Ibiris
+                    - img "4,5 étoiles 809 avis" [ref=f2e597]: 4,5(809)
+                    - generic [ref=f2e599]: Hôtel 3 étoiles, 15 507 DA moins cher
+                    - generic [ref=f2e600]: À 0,8 km
+                - link "Hotel Oran Bay Managed By Accor·18 171 DA·4,1 étoiles·1 164 avis·Hôtel 5 étoiles, 5 371 DA moins cher·À 0,2 km" [ref=f2e601] [cursor=pointer]:
+                  - generic [ref=f2e602]: 18 171 DA
+                  - generic [ref=f2e605]:
+                    - generic [ref=f2e606]: Hotel Oran Bay Managed By Accor
+                    - img "4,1 étoiles 1 164 avis" [ref=f2e610]: 4,1(1 164)
+                    - generic [ref=f2e612]: Hôtel 5 étoiles, 5 371 DA moins cher
+                    - generic [ref=f2e613]: À 0,2 km
+                - link "Le Méridien Hôtel & Convention center·32 101 DA·4,1 étoiles·2 365 avis·À 2 km" [ref=f2e614] [cursor=pointer]:
+                  - generic [ref=f2e615]: 32 101 DA
+                  - generic [ref=f2e618]:
+                    - generic [ref=f2e619]: Le Méridien Hôtel & Convention center
+                    - img "4,1 étoiles 2 365 avis" [ref=f2e623]: 4,1(2 365)
+                    - generic [ref=f2e625]: À 2 km
+                - link "Royal Hotel Oran-MGallery·21 100 DA·4,5 étoiles·1 179 avis·Hôtel 5 étoiles, 2 442 DA moins cher·À 3,7 km" [ref=f2e626] [cursor=pointer]:
+                  - generic [ref=f2e627]: 21 100 DA
+                  - generic [ref=f2e630]:
+                    - generic [ref=f2e631]: Royal Hotel Oran-MGallery
+                    - img "4,5 étoiles 1 179 avis" [ref=f2e635]: 4,5(1 179)
+                    - generic [ref=f2e637]: Hôtel 5 étoiles, 2 442 DA moins cher
+                    - generic [ref=f2e638]: À 3,7 km
+                - link "LB Suites Hotel·10 793 DA·3,9 étoiles·248 avis·petit-déjeuner inclus·À 2 km" [ref=f2e639] [cursor=pointer]:
+                  - generic [ref=f2e640]: 10 793 DA
+                  - generic [ref=f2e643]:
+                    - generic [ref=f2e644]: LB Suites Hotel
+                    - img "3,9 étoiles 248 avis" [ref=f2e648]: 3,9(248)
+                    - generic [ref=f2e650]: petit-déjeuner inclus
+                    - generic [ref=f2e651]: À 2 km
+                - link "Hotel Plaza·3,3 étoiles·469 avis·À 1,8 km" [ref=f2e652] [cursor=pointer]:
+                  - generic [ref=f2e655]:
+                    - generic [ref=f2e656]: Hotel Plaza
+                    - img "3,3 étoiles 469 avis" [ref=f2e660]: 3,3(469)
+                    - generic [ref=f2e662]: À 1,8 km
+                - link "Hotel Jasmins·3,8 étoiles·193 avis·petit-déjeuner inclus·À 2,3 km" [ref=f2e663] [cursor=pointer]:
+                  - generic [ref=f2e666]:
+                    - generic [ref=f2e667]: Hotel Jasmins
+                    - img "3,8 étoiles 193 avis" [ref=f2e671]: 3,8(193)
+                    - generic [ref=f2e673]: petit-déjeuner inclus
+                    - generic [ref=f2e674]: À 2,3 km
+                - link "Appart Hôtel Ryadi·4,3 étoiles·217 avis·petit-déjeuner inclus·À 1,8 km" [ref=f2e675] [cursor=pointer]:
+                  - generic [ref=f2e678]:
+                    - generic [ref=f2e679]: Appart Hôtel Ryadi
+                    - img "4,3 étoiles 217 avis" [ref=f2e683]: 4,3(217)
+                    - generic [ref=f2e685]: petit-déjeuner inclus
+                    - generic [ref=f2e686]: À 1,8 km
+            - button "Afficher d'autres hôtels à proximité" [ref=f2e691]
+            - heading "Informations sur l'hôtel" [level=2] [ref=f2e697]
+            - generic [ref=f2e698]:
+              - text: Situé à 5 km du musée national Ahmed Zabana, cet hôtel haut de gamme moderne se trouve à 6 km de la mosquée Hassan Basha et à 10 km du fort de Santa Cruz.
+              - button "Plus d'informations sur cet hôtel" [ref=f2e699] [cursor=pointer]: Plus
+            - generic [ref=f2e702]:
+              - img "Wi-Fi gratuit disponible" [ref=f2e703]:
+                - generic [aria-hidden] [ref=f2e704]: 
+                - generic [ref=f2e705]: Wi-Fi gratuit
+              - img "Petit déjeuner payant disponible" [ref=f2e706]:
+                - generic [aria-hidden] [ref=f2e707]: 
+                - generic [ref=f2e708]: Petit déjeuner payant
+              - img "Parking gratuit disponible" [ref=f2e709]:
+                - generic [aria-hidden] [ref=f2e710]: 
+                - generic [ref=f2e711]: Parking gratuit
+              - img "Accès handicapés disponible" [ref=f2e712]:
+                - generic [aria-hidden] [ref=f2e713]: 
+                - generic [ref=f2e714]: Accès handicapés
+              - img "Piscine extérieure disponible" [ref=f2e715]:
+                - generic [aria-hidden] [ref=f2e716]: 
+                - generic [ref=f2e717]: Piscine extérieure
+              - img "Climatisation disponible" [ref=f2e718]:
+                - generic [aria-hidden] [ref=f2e719]: 
+                - generic [ref=f2e720]: Climatisation
+            - button "Afficher plus d'équipements" [ref=f2e724]:
+              - generic [ref=f2e725] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e726]: 
+                - generic [ref=f2e727]: Afficher plus d'équipements
+            - generic [ref=f2e730]:
+              - heading "Résumé des avis Google" [level=2] [ref=f2e731]
+              - button "Plus d'informations sur le résumé des avis" [ref=f2e732] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e733]: 
+            - generic [ref=f2e735] [cursor=pointer]:
+              - table [ref=f2e737]:
+                - rowgroup [ref=f2e738]:
+                  - img "5 étoiles, 1 443 avis" [ref=f2e739]: "5"
+                  - img "4 étoiles, 570 avis" [ref=f2e742]: "4"
+                  - img "3 étoiles, 280 avis" [ref=f2e745]: "3"
+                  - img "2 étoiles, 137 avis" [ref=f2e748]: "2"
+                  - img "1 étoiles, 413 avis" [ref=f2e751]: "1"
+              - generic [ref=f2e754]:
+                - generic [ref=f2e755]: 3,9
+                - img "3,9 étoiles" [ref=f2e756]
+                - button "2 843 avis" [ref=f2e762]
+            - button "Rédiger un avis" [ref=f2e768] [cursor=pointer]:
+              - generic [ref=f2e769]:
+                - generic [aria-hidden] [ref=f2e770]: 
+                - generic [ref=f2e771]: Rédiger un avis
+            - generic [ref=f2e774]:
+              - heading "Tous les avis" [level=2] [ref=f2e776]
+              - button "Rechercher dans les avis" [ref=f2e778] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e780]: 
+            - generic [ref=f2e784]:
+              - generic [ref=f2e786]:
+                - generic [ref=f2e787]: Tripadvisor
+                - generic [ref=f2e790]:
+                  - generic [ref=f2e791]: 3,8/5
+                  - generic [aria-hidden] [ref=f2e792]: ·
+                  - generic [ref=f2e793]: 333 avis
+                - generic [ref=f2e794]: Sunshine35515273961, il y a un mois
+                - generic [ref=f2e796]: Je recommande vivement cet hôtel, aussi bien pour la qualité de ses prestations que pour l’accueil exceptionnel de son personnel.||Les chambres sont …
+                - link "Afficher plus sur Tripadvisor" [ref=f2e799] [cursor=pointer]:
+                  - /url: https://www.tripadvisor.fr/ShowUserReviews-g303167-d8320998-r1079880561?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=DZ&supul=fr
+              - generic [ref=f2e802]:
+                - generic [ref=f2e803]: Four Points by Sheraton Oran
+                - generic [ref=f2e806]:
+                  - generic [ref=f2e807]: 3,8/5
+                  - generic [aria-hidden] [ref=f2e808]: ·
+                  - generic [ref=f2e809]: 660 avis
+                - generic [ref=f2e810]: Marou, il y a 4 ans
+                - generic [ref=f2e812]: Superbe vue panoramique,personnel très accueillant et chaleureux,aux petits soins.endroit calme et propre idéal pour se reposer. ,l’emplacement …
+                - link "Afficher plus sur Four Points by Sheraton Oran" [ref=f2e815] [cursor=pointer]:
+                  - /url: http://reviews.marriott.com/6604-fr_fr/ORNFP/review/256442736/redirect.htm
+            - button "Plus d'avis (2 840)" [ref=f2e821]
+            - link "À propos de ces données" [ref=f2e828] [cursor=pointer]:
+              - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=fr
+            - generic [ref=f2e833]:
+              - generic [aria-hidden] [ref=f2e835]: 
+              - generic [ref=f2e836]:
+                - text: Vous voyez un affichage limité de Google Maps.
+                - button "Voir plus" [ref=f2e837] [cursor=pointer]
+      - button "Réduire le panneau latéral" [ref=f2e839] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f2e840]: 
+    - generic [ref=f2e844]:
+      - button "Applications Google" [ref=f2e848] [cursor=pointer]
+      - link "Connexion" [ref=f2e852] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FFour%2BPoints%2Bby%2BSheraton%2BOran%2F%4035.716781%2C-0.610165%2C17z%2Fdata%3D!3m1!4b1!4m9!3m8!1s0xd7e8822e7eeab43%3A0xb8f8e5d31fb1c56d!5m2!4m1!1i2!8m2!3d35.716781!4d-0.610165!16s%252Fm%252F0gkzpxf%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Afficher votre position" [ref=f2e855] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f2e857]: 
+        - generic [ref=f2e859] [cursor=pointer]:
+          - button "Faire un zoom avant" [ref=f2e860]:
+            - generic [aria-hidden] [ref=f2e862]: 
+          - button "Faire un zoom arrière" [ref=f2e863]:
+            - generic [aria-hidden] [ref=f2e865]: 
+      - button "Parcourir les images Street View" [ref=f2e871]
+      - generic [ref=f2e873]:
+        - generic "Carte interactive" [ref=f2e874]
+        - generic [ref=f2e878] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f2e879]: 
+          - generic [ref=f2e880]: Calques
+        - button "Calques" [ref=f2e881] [cursor=pointer]
+    - generic [ref=f2e883]:
+      - contentinfo [ref=f2e886]:
+        - text: Données cartographiques ©2026
+        - button "Algérie" [ref=f2e887] [cursor=pointer]
+        - button "Conditions d'utilisation" [ref=f2e888] [cursor=pointer]
+        - button "Confidentialité" [ref=f2e889] [cursor=pointer]
+        - button "Envoyer des commentaires sur le produit" [ref=f2e890] [cursor=pointer]
+      - button "100 m" [ref=f2e892] [cursor=pointer]

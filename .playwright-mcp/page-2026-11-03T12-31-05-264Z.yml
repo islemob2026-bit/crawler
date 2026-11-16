@@ -1,0 +1,397 @@
+- generic "Google Maps" [ref=e2]:
+  - dialog [ref=e3]:
+    - generic [ref=e6]:
+      - generic [aria-hidden] [ref=e7]: 
+      - text: Indiquez vos dates pour afficher les meilleurs prix
+  - generic [ref=e8]:
+    - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=e13]
+    - search [ref=e19]:
+      - generic [ref=e20]:
+        - combobox [ref=e22]: Le Méridien Hôtel & Convention center
+        - button "Rechercher" [ref=e24] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e25]: 
+        - button "Fermer" [ref=e27] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e28]: 
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - list [ref=e32]:
+          - listitem [ref=e33]:
+            - button "Menu" [ref=e34] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e36]: 
+          - listitem [ref=e37]:
+            - button "Enregistré" [ref=e38] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e40]: 
+          - listitem [ref=e43]:
+            - button "Récents" [disabled] [ref=e44]:
+              - generic [aria-hidden] [ref=e46]: 
+          - listitem [ref=e50]:
+            - button "Obtenir l'appli" [ref=e51] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e53]: 
+        - main "Le Méridien Hôtel & Convention center" [ref=e60]:
+          - generic [ref=e61]:
+            - generic [ref=e62]:
+              - button "Photo de Le Méridien Hôtel & Convention center" [ref=e64] [cursor=pointer]
+              - button "À partir de 48 355 DA par nuit pour 28–29 janv.." [ref=e67] [cursor=pointer]:
+                - generic [ref=e68]:
+                  - generic [ref=e69]: 48 355 DA
+                  - generic [ref=e71]: 28–29 janv.
+              - button "Voir les photos" [ref=e72] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e73]: 
+            - generic [ref=e77]:
+              - heading "Le Méridien Hôtel & Convention center" [level=1] [ref=e79]
+              - heading "فندق ومركز المؤتمرات ميريديان وهران" [level=2] [ref=e80]
+              - generic [ref=e84]:
+                - generic [ref=e85]:
+                  - generic [ref=e86]:
+                    - text: 4,1
+                    - img "4,1 étoiles" [ref=e87]
+                  - img "2 366 avis" [ref=e95]: (2 366)
+                - generic [ref=e98]:
+                  - text: ·
+                  - generic [ref=e99]: Hôtel 5 étoiles
+            - generic [ref=e102]:
+              - link "Le Méridien Oran Hotel & Convention Centre, Obtenir le prix" [ref=e103] [cursor=pointer]:
+                - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwjljLD_5uuXAxW6iHwGHWdJCkAYACICCAEQARoCd3M&co=1&ase=2&gclid=EAIaIQobChMI5Yyw_-brlwMVuoh8Bh1nSQpAEAoYASABEgLE7fD_BwE&cid=CAASygHkaIvwuhR1fGaVfSfZAO4ReswZZ_yDlSUFB0qicVtKYunU1PIIcy2bdjrXReB-wgNbf0QqMInV2zeAzl2m4Hpi5U4OGErAlGaIyiI1Arn00X4naENhlZIevxaGoeu7y-P5RbI4WOG_pVZvO8bczvK-QVq_ax59Gm-w23tZ-W7NuMbcyKiD_jk5OHZOdc2tbNZRRWwhYzKqBBUBVFAjgj5hYqw68RIgkVq8H0bnR2_xisCwOfyq1BXAArYB-l3_urRXMx2cU-GIjdEf&cce=2&category=acrcp_v1_32&sig=AOD64_2omQa9A-YJ6jxzgoOv0iyILOnr8A&adurl&ved=0EKPKFA
+              - img "Le Méridien Oran Hotel & Convention Centre favicon" [ref=e104]
+              - generic [ref=e105]:
+                - generic [ref=e106]: Le Méridien Oran Hotel & Convention Centre
+                - generic [ref=e108]:
+                  - heading "Sponsorisé" [level=1] [ref=e110]:
+                    - button "Pourquoi cette annonce ?" [ref=e113] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=e114]: 
+                  - generic [aria-hidden] [ref=e115]: 50 250 DA
+              - generic [ref=e116]: Obtenir le prix
+            - tablist [ref=e120]:
+              - tab "Le Méridien Hôtel & Convention center - Présentation" [selected] [ref=e121]:
+                - generic [aria-hidden] [ref=e123]: Présentation
+              - tab "Prix pour Le Méridien Hôtel & Convention center" [ref=e125]:
+                - generic [aria-hidden] [ref=e127]: Prix
+              - tab "Le Méridien Hôtel & Convention center - Avis" [ref=e129]:
+                - generic [aria-hidden] [ref=e131]: Avis
+              - tab "Informations sur Le Méridien Hôtel & Convention center" [ref=e133]:
+                - generic [aria-hidden] [ref=e135]: À propos
+            - region "Le Méridien Hôtel & Convention center - Actions" [ref=e137]:
+              - button "Itinéraires" [ref=e139] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e141]: 
+              - button "Enregistrer" [ref=e144] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e146]: 
+              - button "À proximité" [ref=e149] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e151]: 
+              - button "Partager" [ref=e154] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e156]: 
+            - link [ref=e160] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e161]:
+                - generic [aria-hidden] [ref=e162]: 
+                - text: Vérifier la disponibilité
+            - generic [ref=e165]:
+              - generic [ref=e167]:
+                - heading "Comparer les prix" [level=2] [ref=e168]
+                - generic [ref=e170]:
+                  - generic [ref=e171]: Annulation gratuite uniquement
+                  - checkbox "Annulation gratuite uniquement" [ref=e172]:
+                    - generic [aria-hidden] [ref=e173]: 
+                    - checkbox "Annulation gratuite uniquement" [ref=e174] [cursor=pointer]
+              - generic [ref=e175]:
+                - group "Arrivée/Départ" [ref=e176]:
+                  - group "Du jeudi 28 janvier au vendredi 29 janvier" [active] [ref=e178]:
+                    - generic [ref=e180] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=e181]: jeu. 28 janv.
+                      - generic [ref=e182]:
+                        - button "Arriver un jour plus tôt" [ref=e183]:
+                          - generic [aria-hidden] [ref=e184]: 
+                        - button "Arriver un jour plus tard" [ref=e185]:
+                          - generic [aria-hidden] [ref=e186]: 
+                    - generic [ref=e188] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=e189]: ven. 29 janv.
+                      - generic [ref=e190]:
+                        - button "Partir un jour plus tôt" [disabled] [ref=e191]:
+                          - generic [aria-hidden] [ref=e192]: 
+                        - button "Partir un jour plus tard" [ref=e193]:
+                          - generic [aria-hidden] [ref=e194]: 
+                - group "Invités" [ref=e195]:
+                  - generic [aria-hidden] [ref=e196]: 
+                  - button "2 clients" [ref=e197] [cursor=pointer]:
+                    - text: "2"
+                    - generic [aria-hidden] [ref=e198]: 
+              - generic [ref=e199]:
+                - generic [aria-hidden] [ref=e201]: 
+                - button "Réservez du mer. 27 janv. au jeu. 28 janv. pour économiser 15 285 DA" [ref=e202] [cursor=pointer]:
+                  - text: Réservez du
+                  - generic [ref=e203]: mer. 27 janv. au jeu. 28 janv.
+                  - text: pour économiser 15 285 DA
+              - generic [ref=e207]:
+                - heading "Sponsorisé" [level=1] [ref=e209]:
+                  - button "Pourquoi cette annonce ?" [ref=e212] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=e213]: 
+                - generic [ref=e214]:
+                  - button "Le Méridien Oran Hotel & Convention Centre Obtenir le prix Site officiel Inscrivez-vous gratuitement pour bénéficier de tarifs réduits et d'un accès Wi-Fi offert" [ref=e220] [cursor=pointer]:
+                    - generic [ref=e221]:
+                      - generic [ref=e222]:
+                        - generic [ref=e223]: Le Méridien Oran Hotel & Convention Centre
+                        - generic [ref=e225]:
+                          - generic [aria-hidden] [ref=e226]: 50 250 DA
+                          - generic [ref=e227]: Obtenir le prix
+                          - generic [aria-hidden] [ref=e228]: 
+                      - generic [ref=e229]:
+                        - generic [ref=e231]:
+                          - generic [aria-hidden] [ref=e232]: 
+                          - generic [ref=e233]: Site officiel
+                        - generic [ref=e234]: Inscrivez-vous gratuitement pour bénéficier de tarifs réduits et d'un accès Wi-Fi offert
+                  - generic [ref=e235]:
+                    - generic [ref=e236]:
+                      - button "1 très grand lit 69 870 DA" [ref=e242] [cursor=pointer]:
+                        - generic [ref=e244]:
+                          - generic [ref=e245]: 1 très grand lit
+                          - generic [ref=e246]:
+                            - generic [ref=e247]: 69 870 DA
+                            - generic [aria-hidden] [ref=e248]: 
+                      - button "1 grand lit 50 250 DA" [ref=e254] [cursor=pointer]:
+                        - generic [ref=e256]:
+                          - generic [ref=e257]: 1 grand lit
+                          - generic [ref=e258]:
+                            - generic [ref=e259]: 50 250 DA
+                            - generic [aria-hidden] [ref=e260]: 
+                    - button "Afficher plus de chambres" [ref=e261] [cursor=pointer]:
+                      - text: Afficher plus de chambres
+                      - generic [aria-hidden] [ref=e262]: 
+                - heading "Toutes les options" [level=2] [ref=e267]
+                - generic [ref=e268]:
+                  - button "Le Méridien Oran Hotel & Convention Centre Obtenir le prix Site officiel Inscrivez-vous gratuitement pour bénéficier de tarifs réduits et d'un accès Wi-Fi offert" [ref=e274] [cursor=pointer]:
+                    - generic [ref=e275]:
+                      - generic [ref=e276]:
+                        - generic [ref=e277]: Le Méridien Oran Hotel & Convention Centre
+                        - generic [ref=e279]:
+                          - generic [aria-hidden] [ref=e280]: 50 250 DA
+                          - generic [ref=e281]: Obtenir le prix
+                          - generic [aria-hidden] [ref=e282]: 
+                      - generic [ref=e283]:
+                        - generic [ref=e285]:
+                          - generic [aria-hidden] [ref=e286]: 
+                          - generic [ref=e287]: Site officiel
+                        - generic [ref=e288]: Inscrivez-vous gratuitement pour bénéficier de tarifs réduits et d'un accès Wi-Fi offert
+                  - button "Voir les chambres" [ref=e290] [cursor=pointer]:
+                    - text: Voir les chambres
+                    - generic [aria-hidden] [ref=e291]: 
+                  - button "Bluepillow.com 48 355 DA" [ref=e297] [cursor=pointer]:
+                    - generic [ref=e299]:
+                      - generic [ref=e300]: Bluepillow.com
+                      - generic [ref=e302]:
+                        - generic [ref=e303]: 48 355 DA
+                        - generic [aria-hidden] [ref=e304]: 
+                  - button "Plus de prix à partir de 50 230 DA" [ref=e307]
+            - region "Le Méridien Hôtel & Convention center - Informations" [ref=e313]:
+              - generic [ref=e314]:
+                - 'button "Adresse: Les Genets Chemin De Wilaya, Route 75, Oran 31000" [ref=e315] [cursor=pointer]':
+                  - generic [ref=e316]:
+                    - generic [aria-hidden] [ref=e318]: 
+                    - generic [ref=e319]: Les Genets Chemin De Wilaya, Route 75, Oran 31000
+                - button "Copier l'adresse" [ref=e323] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e325]: 
+              - generic [ref=e326]:
+                - 'link "Site Web: marriott.com" [ref=e327] [cursor=pointer]':
+                  - /url: https://www.marriott.com/en-us/hotels/ornmd-le-meridien-oran-hotel-and-convention-centre/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+                  - generic [ref=e328]:
+                    - generic [aria-hidden] [ref=e330]: 
+                    - generic [ref=e331]: marriott.com
+                - generic [ref=e333]:
+                  - link "Accéder au site Web" [ref=e335] [cursor=pointer]:
+                    - /url: https://www.marriott.com/en-us/hotels/ornmd-le-meridien-oran-hotel-and-convention-centre/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0
+                    - generic [aria-hidden] [ref=e337]: 
+                  - button "Copier le site Web" [ref=e339] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=e341]: 
+              - generic [ref=e342]:
+                - 'button "Numéro de téléphone: 041 98 40 00" [ref=e343] [cursor=pointer]':
+                  - generic [ref=e344]:
+                    - generic [aria-hidden] [ref=e346]: 
+                    - generic [ref=e347]: 041 98 40 00
+                - generic [ref=e349]:
+                  - button "Copier le numéro de téléphone" [ref=e351] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=e353]: 
+                  - link "Composer le numéro de téléphone" [ref=e355] [cursor=pointer]:
+                    - /url: tel:041984000
+                    - generic [aria-hidden] [ref=e357]: 
+              - generic [ref=e358]:
+                - 'button "Plus code: PCG5+H6 Oran" [ref=e359] [cursor=pointer]':
+                  - generic [ref=e360]:
+                    - generic [aria-hidden] [ref=e362]: 
+                    - generic [ref=e363]: PCG5+H6 Oran
+                - generic [ref=e365]:
+                  - button "Copier le plus code" [ref=e367] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=e369]: 
+                  - button "En savoir plus sur les plus codes" [ref=e371] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=e373]: 
+              - generic [ref=e375]:
+                - generic [aria-hidden] [ref=e377]: 
+                - generic [ref=e378]: "Heure d'arrivée : 3:00 PMHeure de départ : 12:00 PM"
+            - button "Suggérer une modification" [ref=e383] [cursor=pointer]:
+              - generic [ref=e384]:
+                - generic [aria-hidden] [ref=e385]: 
+                - generic [ref=e386]: Suggérer une modification
+            - heading "Photos" [level=2] [ref=e390]
+            - generic [ref=e391]:
+              - button "Street View 1" [ref=e393] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e398]: 
+              - button "Street View 2" [ref=e400] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e405]: 
+              - button "3962 photos" [ref=e407] [cursor=pointer]
+            - button "Ajouter des photos/vidéos" [ref=e415] [cursor=pointer]:
+              - generic [ref=e416]:
+                - generic [aria-hidden] [ref=e417]: 
+                - generic [ref=e418]: Ajouter des photos/vidéos
+            - generic [ref=e421]:
+              - heading "À cette adresse" [level=2] [ref=e423]
+              - article [ref=e425]:
+                - button "Palais des congrès Mohamed Ben Ahmed" [ref=e426] [cursor=pointer]
+                - generic [ref=e432] [cursor=pointer]:
+                  - generic [ref=e433]: Palais des congrès Mohamed Ben Ahmed
+                  - img "4,4 étoiles 51 avis" [ref=e438]: 4,4(51)
+                  - generic [ref=e444]: Parc des expositions
+            - heading "Hôtels similaires à proximité" [level=2] [ref=e449]
+            - region "Hôtels similaires à proximité" [ref=e450]:
+              - generic [ref=e453]:
+                - link "Four Points by Sheraton Oran·23 236 DA·3,9 étoiles·2 843 avis·Hôtel 4 étoiles, 25 119 DA moins cher·À 2 km" [ref=e454] [cursor=pointer]:
+                  - generic [ref=e455]: 23 236 DA
+                  - generic [ref=e458]:
+                    - generic [ref=e459]: Four Points by Sheraton Oran
+                    - img "3,9 étoiles 2 843 avis" [ref=e463]: 3,9(2 843)
+                    - generic [ref=e465]: Hôtel 4 étoiles, 25 119 DA moins cher
+                    - generic [ref=e466]: À 2 km
+                - link "Hotel Jasmins·11 925 DA·3,8 étoiles·193 avis·Hôtel 4 étoiles, 36 430 DA moins cher·À 3,1 km" [ref=e467] [cursor=pointer]:
+                  - generic [ref=e468]: 11 925 DA
+                  - generic [ref=e471]:
+                    - generic [ref=e472]: Hotel Jasmins
+                    - img "3,8 étoiles 193 avis" [ref=e476]: 3,8(193)
+                    - generic [ref=e478]: Hôtel 4 étoiles, 36 430 DA moins cher
+                    - generic [ref=e479]: À 3,1 km
+                - link "Hotel Vent dome Khaled·22 890 DA·3,7 étoiles·531 avis·Hôtel 4 étoiles, 25 465 DA moins cher·À 3,5 km" [ref=e480] [cursor=pointer]:
+                  - generic [ref=e481]: 22 890 DA
+                  - generic [ref=e484]:
+                    - generic [ref=e485]: Hotel Vent dome Khaled
+                    - img "3,7 étoiles 531 avis" [ref=e489]: 3,7(531)
+                    - generic [ref=e491]: Hôtel 4 étoiles, 25 465 DA moins cher
+                    - generic [ref=e492]: À 3,5 km
+                - link "Zenith Hotel Oran·11 616 DA·3,9 étoiles·784 avis·Hôtel 4 étoiles, 36 740 DA moins cher·À 5,2 km" [ref=e493] [cursor=pointer]:
+                  - generic [ref=e494]: 11 616 DA
+                  - generic [ref=e497]:
+                    - generic [ref=e498]: Zenith Hotel Oran
+                    - img "3,9 étoiles 784 avis" [ref=e502]: 3,9(784)
+                    - generic [ref=e504]: Hôtel 4 étoiles, 36 740 DA moins cher
+                    - generic [ref=e505]: À 5,2 km
+                - link "LB Suites Hotel·12 377 DA·3,9 étoiles·248 avis·petit-déjeuner inclus·À 2,6 km" [ref=e506] [cursor=pointer]:
+                  - generic [ref=e507]: 12 377 DA
+                  - generic [ref=e510]:
+                    - generic [ref=e511]: LB Suites Hotel
+                    - img "3,9 étoiles 248 avis" [ref=e515]: 3,9(248)
+                    - generic [ref=e517]: petit-déjeuner inclus
+                    - generic [ref=e518]: À 2,6 km
+                - link "Hotel Oran Bay Managed By Accor·4,1 étoiles·1 164 avis·petit-déjeuner inclus·À 2 km" [ref=e519] [cursor=pointer]:
+                  - generic [ref=e522]:
+                    - generic [ref=e523]: Hotel Oran Bay Managed By Accor
+                    - img "4,1 étoiles 1 164 avis" [ref=e527]: 4,1(1 164)
+                    - generic [ref=e529]: petit-déjeuner inclus
+                    - generic [ref=e530]: À 2 km
+                - link "Appart Hôtel Ryadi·4,3 étoiles·217 avis·petit-déjeuner inclus·À 3,7 km" [ref=e531] [cursor=pointer]:
+                  - generic [ref=e534]:
+                    - generic [ref=e535]: Appart Hôtel Ryadi
+                    - img "4,3 étoiles 217 avis" [ref=e539]: 4,3(217)
+                    - generic [ref=e541]: petit-déjeuner inclus
+                    - generic [ref=e542]: À 3,7 km
+                - link "Hotel Santa Cruz Oran·4,4 étoiles·706 avis·À 0,7 km" [ref=e543] [cursor=pointer]:
+                  - generic [ref=e546]:
+                    - generic [ref=e547]: Hotel Santa Cruz Oran
+                    - img "4,4 étoiles 706 avis" [ref=e551]: 4,4(706)
+                    - generic [ref=e553]: À 0,7 km
+            - button "Afficher d'autres hôtels à proximité" [ref=e558]
+            - heading "Informations sur l'hôtel" [level=2] [ref=e564]
+            - generic [ref=e565]:
+              - text: Aménagé dans un bâtiment contemporain donnant sur le golfe d'Oran, cet hôtel haut de gamme se trouve à 10 km du fort de Santa Cruz et à 7 km du musée national Ahmed Zabana.
+              - button "Plus d'informations sur cet hôtel" [ref=e566] [cursor=pointer]: Plus
+            - generic [ref=e569]:
+              - img "Wi-Fi gratuit disponible" [ref=e570]:
+                - generic [aria-hidden] [ref=e571]: 
+                - generic [ref=e572]: Wi-Fi gratuit
+              - img "Petit-déjeuner non disponible" [ref=e573]:
+                - generic [aria-hidden] [ref=e574]: 
+                - generic [ref=e575]: Petit-déjeuner
+              - img "Parking gratuit disponible" [ref=e576]:
+                - generic [aria-hidden] [ref=e577]: 
+                - generic [ref=e578]: Parking gratuit
+              - img "Accès handicapés non disponible" [ref=e579]:
+                - generic [aria-hidden] [ref=e580]: 
+                - generic [ref=e581]: Accès handicapés
+              - img "Piscine extérieure disponible" [ref=e582]:
+                - generic [aria-hidden] [ref=e583]: 
+                - generic [ref=e584]: Piscine extérieure
+              - img "Climatisation disponible" [ref=e585]:
+                - generic [aria-hidden] [ref=e586]: 
+                - generic [ref=e587]: Climatisation
+            - button "Afficher plus d'équipements" [ref=e591]:
+              - generic [ref=e592] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e593]: 
+                - generic [ref=e594]: Afficher plus d'équipements
+            - generic [ref=e597]:
+              - heading "Résumé des avis Google" [level=2] [ref=e598]
+              - button "Plus d'informations sur le résumé des avis" [ref=e599] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e600]: 
+            - generic [ref=e602] [cursor=pointer]:
+              - table [ref=e604]:
+                - rowgroup [ref=e605]:
+                  - img "5 étoiles, 1 335 avis" [ref=e606]: "5"
+                  - img "4 étoiles, 504 avis" [ref=e609]: "4"
+                  - img "3 étoiles, 195 avis" [ref=e612]: "3"
+                  - img "2 étoiles, 95 avis" [ref=e615]: "2"
+                  - img "1 étoiles, 237 avis" [ref=e618]: "1"
+              - generic [ref=e621]:
+                - generic [ref=e622]: 4,1
+                - img "4,1 étoiles" [ref=e623]
+                - button "2 366 avis" [ref=e629]
+            - button "Rédiger un avis" [ref=e635] [cursor=pointer]:
+              - generic [ref=e636]:
+                - generic [aria-hidden] [ref=e637]: 
+                - generic [ref=e638]: Rédiger un avis
+            - generic [ref=e641]:
+              - heading "Tous les avis" [level=2] [ref=e643]
+              - button "Rechercher dans les avis" [ref=e645] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e647]: 
+            - generic [ref=e651]:
+              - generic [ref=e653]:
+                - generic [ref=e654]: Tripadvisor
+                - generic [ref=e657]:
+                  - generic [ref=e658]: 3,3/5
+                  - generic [aria-hidden] [ref=e659]: ·
+                  - generic [ref=e660]: 322 avis
+                - generic [ref=e661]: sofienek896, il y a 3 semaines
+                - generic [ref=e663]: Bjr j'ai mis correcte car faut le signaler il n'est pas moyen ni mauvais mais ce n'est pas au standard d'un 5 étoiles je trouve qu'il vieilli mal …
+                - link "Afficher plus sur Tripadvisor" [ref=e666] [cursor=pointer]:
+                  - /url: https://www.tripadvisor.fr/ShowUserReviews-g303167-d1785159-r1081560185?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=DZ&supul=fr
+              - generic [ref=e669]:
+                - generic [ref=e670]: Tripadvisor
+                - generic [ref=e673]:
+                  - generic [ref=e674]: 3,3/5
+                  - generic [aria-hidden] [ref=e675]: ·
+                  - generic [ref=e676]: 321 avis
+                - generic [ref=e677]: AdelH192, il y a 2 mois
+                - generic [ref=e679]: Indigne d'un 5 etoiles.|Femme de ménage qui rentre dans la chambre malgré le panneau " ne pas déranger" le portier vous interdit de vous garer devant…
+                - link "Afficher plus sur Tripadvisor" [ref=e682] [cursor=pointer]:
+                  - /url: https://www.tripadvisor.fr/ShowUserReviews-g303167-d1785159-r1074476872?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=DZ&supul=fr
+              - generic [ref=e685]:
+                - generic [ref=e686]: Le Méridien Oran Hotel & Convention Centre
+                - generic [ref=e689]:
+                  - generic [ref=e690]: 4/5
+                  - generic [aria-hidden] [ref=e691]: ·
+                  - generic [ref=e692]: 378 avis
+                - generic [ref=e693]: N, il y a 4 ans
+                - generic [ref=e695]: J'ai été vraiment déçu du personnel Je me sentais vraiment mal
+                - link "Afficher plus sur Le Méridien Oran Hotel & Convention Centre" [ref=e698] [cursor=pointer]:
+                  - /url: http://reviews.marriott.com/6604-fr_fr/ORNMD/review/255991233/redirect.htm
+            - button "Plus d'avis (2 363)" [ref=e704]
+            - link "À propos de ces données" [ref=e711] [cursor=pointer]:
+              - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=fr
+            - generic [ref=e716]:
+              - generic [aria-hidden] [ref=e718]: 
+              - generic [ref=e719]:
+                - text: Vous voyez un affichage limité de Google Maps.
+                - button "Voir plus" [ref=e720] [cursor=pointer]
+      - button "Réduire le panneau latéral" [ref=e722] [cursor=pointer]:
+        - generic [aria-hidden] [ref=e723]: 

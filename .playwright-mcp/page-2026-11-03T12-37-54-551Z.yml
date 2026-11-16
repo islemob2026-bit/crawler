@@ -1,0 +1,203 @@
+- generic [ref=f2e1]:
+  - generic "Google Maps" [ref=f2e9]:
+    - generic [ref=f2e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f2e15]
+      - search [ref=f2e20]:
+        - button "Retour" [ref=f2e899] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f2e900]: 
+        - generic [ref=f2e21]:
+          - combobox [ref=f2e23]: Four Points by Sheraton Oran
+          - button "Rechercher" [ref=f2e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f2e26]: 
+          - button "Fermer" [ref=f2e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f2e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f2e36]:
+        - generic [ref=f2e39]:
+          - button "Hôtels à proximité" [ref=f2e41] [cursor=pointer]:
+            - generic [ref=f2e42]:
+              - generic [aria-hidden] [ref=f2e44]: 
+              - generic [ref=f2e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f2e47] [cursor=pointer]:
+            - generic [ref=f2e48]:
+              - generic [aria-hidden] [ref=f2e50]: 
+              - generic [ref=f2e51]: Restaurants
+          - button "Activités à découvrir" [ref=f2e53] [cursor=pointer]:
+            - generic [ref=f2e54]:
+              - generic [aria-hidden] [ref=f2e56]: 
+              - generic [ref=f2e57]: Activités à découvrir
+          - button "Bars" [ref=f2e59] [cursor=pointer]:
+            - generic [ref=f2e60]:
+              - generic [aria-hidden] [ref=f2e62]: 
+              - generic [ref=f2e63]: Bars
+          - button "Cafés" [ref=f2e65] [cursor=pointer]:
+            - generic [ref=f2e66]:
+              - generic [aria-hidden] [ref=f2e68]: 
+              - generic [ref=f2e69]: Cafés
+          - button "Pharmacies" [ref=f2e71] [cursor=pointer]:
+            - generic [ref=f2e72]:
+              - generic [aria-hidden] [ref=f2e74]: 
+              - generic [ref=f2e75]: Pharmacies
+          - button "Parkings" [ref=f2e77] [cursor=pointer]:
+            - generic [ref=f2e78]:
+              - generic [aria-hidden] [ref=f2e80]: 
+              - generic [ref=f2e81]: Parkings
+      - generic [ref=f2e82]:
+        - generic [ref=f2e83]:
+          - list [ref=f2e85]:
+            - listitem [ref=f2e86]:
+              - button "Menu" [ref=f2e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e89]: 
+            - listitem [ref=f2e90]:
+              - button "Enregistré" [ref=f2e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e93]: 
+            - listitem [ref=f2e96]:
+              - button "Récents" [ref=f2e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e99]: 
+            - listitem [ref=f2e103]:
+              - button "Four Points by Sheraton Oran" [ref=f2e104] [cursor=pointer]
+            - listitem [ref=f2e112]:
+              - button "Obtenir l'appli" [ref=f2e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e115]: 
+          - main "Four Points by Sheraton Oran" [ref=f2e122]:
+            - tablist [ref=f2e182]:
+              - tab "Four Points by Sheraton Oran - Présentation" [ref=f2e183]:
+                - generic [aria-hidden] [ref=f2e185]: Présentation
+              - tab "Prix pour Four Points by Sheraton Oran" [ref=f2e187]:
+                - generic [aria-hidden] [ref=f2e189]: Prix
+              - tab "Four Points by Sheraton Oran - Avis" [selected] [ref=f2e191]:
+                - generic [aria-hidden] [ref=f2e193]: Avis
+              - tab "Informations sur Four Points by Sheraton Oran" [ref=f2e195]:
+                - generic [aria-hidden] [ref=f2e197]: À propos
+            - generic [ref=f2e902]:
+              - generic [ref=f2e904]:
+                - list [ref=f2e906]:
+                  - listitem [ref=f2e907]: 23 542 DA
+                  - text: ·
+                  - listitem [ref=f2e908]: Hôtel 4 étoiles
+                - generic [ref=f2e909]: 4–7 déc.
+              - link [ref=f2e913] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f2e914]:
+                  - generic [aria-hidden] [ref=f2e915]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f2e917]:
+              - generic [ref=f2e918]:
+                - heading "Résumé des avis Google" [level=2] [ref=f2e920]
+                - button "Informations" [ref=f2e922] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f2e923]: 
+              - generic [ref=f2e925]:
+                - table [ref=f2e927]:
+                  - rowgroup [ref=f2e928]:
+                    - img "5 étoiles, 1 443 avis" [ref=f2e929]: "5"
+                    - img "4 étoiles, 570 avis" [ref=f2e932]: "4"
+                    - img "3 étoiles, 280 avis" [ref=f2e935]: "3"
+                    - img "2 étoiles, 137 avis" [ref=f2e938]: "2"
+                    - img "1 étoiles, 413 avis" [ref=f2e941]: "1"
+                - generic [ref=f2e944]:
+                  - generic [ref=f2e945]: 3,9
+                  - img "3,9 étoiles" [ref=f2e946]
+                  - generic [ref=f2e952]: 2 843 avis
+              - button "Rédiger un avis" [ref=f2e956] [cursor=pointer]:
+                - generic [ref=f2e957]:
+                  - generic [aria-hidden] [ref=f2e958]: 
+                  - generic [ref=f2e959]: Rédiger un avis
+              - generic [ref=f2e963]:
+                - textbox [active] [ref=f2e1784]: bébé
+                - button "Effacer" [ref=f2e1785] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f2e1786]: 
+              - generic [ref=f2e965]:
+                - button "Tous les avis" [ref=f2e966] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f2e968]: 
+                - button "Avis les plus pertinents" [ref=f2e969] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f2e971]: 
+              - generic [ref=f2e1787]:
+                - generic "Bachir Belkaid" [ref=f2e1788]:
+                  - generic [ref=f2e1790]:
+                    - button "Photo de Bachir Belkaid" [ref=f2e1791]
+                    - generic [ref=f2e1793]:
+                      - button "Bachir Belkaid Local Guide · 21 avis" [ref=f2e1795]:
+                        - generic [ref=f2e1796]: Bachir Belkaid
+                        - generic [ref=f2e1797]: Local Guide · 21 avis
+                      - button "Actions pour l'avis rédigé par Bachir Belkaid" [ref=f2e1798] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f2e1800]: 
+                    - generic [ref=f2e1801]:
+                      - generic [ref=f2e1802]:
+                        - generic [ref=f2e1803]: 2/5
+                        - generic [ref=f2e1804]:
+                          - text: il y a 2 mois sur
+                          - generic [ref=f2e1805]: Google
+                      - generic [ref=f2e1807]:
+                        - generic [ref=f2e1808]: … ne reflète pas du tout un Sheraton. On nous a fait changé de chambre à 22h sans aucune aide (valises + lit bébé), avec notre bébé qui dormait car la climatisation ne fonctionnait pas alors que nous avions averti à 16h. Au lieu de nous …
+                        - button "Voir plus" [ref=f2e1810] [cursor=pointer]: Plus
+                      - generic [ref=f2e1811]:
+                        - button "J'aime" [ref=f2e1812]:
+                          - generic [ref=f2e1813] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1814]: 
+                            - generic [ref=f2e1815]: J'aime
+                        - button "Partager l'avis rédigé par Bachir Belkaid." [ref=f2e1817]:
+                          - generic [ref=f2e1818] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1819]: 
+                            - generic [ref=f2e1820]: Partager
+                      - generic [ref=f2e1821]:
+                        - generic [ref=f2e1822]: Réponse du propriétaire il y a 2 mois
+                        - generic [ref=f2e1823]:
+                          - text: Bonjour Bachir, Nous vous remercions pour votre retour et regrettons sincèrement les …
+                          - button "Voir plus" [ref=f2e1825] [cursor=pointer]: Plus
+                - generic "Tadjana Sanchez" [ref=f2e1829]:
+                  - generic [ref=f2e1831]:
+                    - button "Photo de Tadjana Sanchez" [ref=f2e1832]
+                    - generic [ref=f2e1834]:
+                      - button "Tadjana Sanchez 2 avis" [ref=f2e1836]:
+                        - generic [ref=f2e1837]: Tadjana Sanchez
+                        - generic [ref=f2e1838]: 2 avis
+                      - button "Actions pour l'avis rédigé par Tadjana Sanchez" [ref=f2e1839] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f2e1841]: 
+                    - generic [ref=f2e1842]:
+                      - generic [ref=f2e1843]:
+                        - generic [ref=f2e1844]: 1/5
+                        - generic [ref=f2e1845]:
+                          - text: il y a 8 ans sur
+                          - generic [ref=f2e1846]: Google
+                      - generic [ref=f2e1848]:
+                        - generic [ref=f2e1849]: Ne conviens pas au famille Payer la chambre 150 euro Je demande un lit bébé ou un matelas ya pas Il ya la piscine interdit au enfant d'accord cest pqs grave je veux me poser sur la terrasse devant la piscine avec ma fille le temps que mon …
+                        - button "Voir plus" [ref=f2e1851] [cursor=pointer]: Plus
+                      - generic [ref=f2e1852]:
+                        - button "1 \"J'aime\"" [ref=f2e1853]:
+                          - generic [ref=f2e1854] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1855]: 
+                            - generic [ref=f2e1856]: "1"
+                        - button "Partager l'avis rédigé par Tadjana Sanchez." [ref=f2e1858]:
+                          - generic [ref=f2e1859] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1860]: 
+                            - generic [ref=f2e1861]: Partager
+        - button "Réduire le panneau latéral" [ref=f2e839] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f2e840]: 
+      - generic [ref=f2e844]:
+        - button "Applications Google" [ref=f2e848] [cursor=pointer]
+        - link "Connexion" [ref=f2e852] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FFour%2BPoints%2Bby%2BSheraton%2BOran%2F%4035.716781%2C-0.610165%2C17z%2Fdata%3D!4m11!3m10!1s0xd7e8822e7eeab43%3A0xb8f8e5d31fb1c56d!5m2!4m1!1i2!8m2!3d35.716781!4d-0.610165!9m1!1b1!16s%252Fm%252F0gkzpxf%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f2e855] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f2e857]: 
+          - generic [ref=f2e859] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f2e860]:
+              - generic [aria-hidden] [ref=f2e862]: 
+            - button "Faire un zoom arrière" [ref=f2e863]:
+              - generic [aria-hidden] [ref=f2e865]: 
+        - button "Parcourir les images Street View" [ref=f2e871]
+        - generic [ref=f2e873]:
+          - generic "Carte interactive" [ref=f2e874]
+          - generic [ref=f2e878] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f2e879]: 
+            - generic [ref=f2e880]: Calques
+          - button "Calques" [ref=f2e881] [cursor=pointer]
+      - generic [ref=f2e883]:
+        - contentinfo [ref=f2e886]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f2e887] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f2e888] [cursor=pointer]
+          - button "Confidentialité" [ref=f2e889] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f2e890] [cursor=pointer]
+        - button "100 m" [ref=f2e892] [cursor=pointer]
+  - generic [ref=f2e1319]: Affichage des résultats pour bébé

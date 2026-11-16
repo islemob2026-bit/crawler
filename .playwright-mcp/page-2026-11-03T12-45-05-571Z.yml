@@ -1,0 +1,294 @@
+- generic [ref=f12e1]:
+  - generic "Google Maps" [ref=f12e9]:
+    - generic [ref=f12e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f12e15]
+      - search [ref=f12e20]:
+        - button "Retour" [ref=f12e636] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f12e637]: 
+        - generic [ref=f12e21]:
+          - combobox [ref=f12e23]: City Hotel Algiers
+          - button "Rechercher" [ref=f12e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f12e26]: 
+          - button "Fermer" [ref=f12e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f12e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f12e36]:
+        - generic [ref=f12e39]:
+          - button "Hôtels à proximité" [ref=f12e41] [cursor=pointer]:
+            - generic [ref=f12e42]:
+              - generic [aria-hidden] [ref=f12e44]: 
+              - generic [ref=f12e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f12e47] [cursor=pointer]:
+            - generic [ref=f12e48]:
+              - generic [aria-hidden] [ref=f12e50]: 
+              - generic [ref=f12e51]: Restaurants
+          - button "Activités à découvrir" [ref=f12e53] [cursor=pointer]:
+            - generic [ref=f12e54]:
+              - generic [aria-hidden] [ref=f12e56]: 
+              - generic [ref=f12e57]: Activités à découvrir
+          - button "Bars" [ref=f12e59] [cursor=pointer]:
+            - generic [ref=f12e60]:
+              - generic [aria-hidden] [ref=f12e62]: 
+              - generic [ref=f12e63]: Bars
+          - button "Cafés" [ref=f12e65] [cursor=pointer]:
+            - generic [ref=f12e66]:
+              - generic [aria-hidden] [ref=f12e68]: 
+              - generic [ref=f12e69]: Cafés
+          - button "Pharmacies" [ref=f12e71] [cursor=pointer]:
+            - generic [ref=f12e72]:
+              - generic [aria-hidden] [ref=f12e74]: 
+              - generic [ref=f12e75]: Pharmacies
+          - button "Parkings" [ref=f12e77] [cursor=pointer]:
+            - generic [ref=f12e78]:
+              - generic [aria-hidden] [ref=f12e80]: 
+              - generic [ref=f12e81]: Parkings
+      - generic [ref=f12e82]:
+        - generic [ref=f12e83]:
+          - list [ref=f12e85]:
+            - listitem [ref=f12e86]:
+              - button "Menu" [ref=f12e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e89]: 
+            - listitem [ref=f12e90]:
+              - button "Enregistré" [ref=f12e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e93]: 
+            - listitem [ref=f12e96]:
+              - button "Récents" [ref=f12e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e99]: 
+            - listitem [ref=f12e103]:
+              - button "City Hotel Algiers" [ref=f12e104] [cursor=pointer]
+            - listitem [ref=f12e112]:
+              - button "Obtenir l'appli" [ref=f12e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e115]: 
+          - main "City Hotel Algiers" [ref=f12e122]:
+            - tablist [ref=f12e165]:
+              - tab "City Hotel Algiers - Présentation" [ref=f12e166]:
+                - generic [aria-hidden] [ref=f12e168]: Présentation
+              - tab "Prix pour City Hotel Algiers" [ref=f12e170]:
+                - generic [aria-hidden] [ref=f12e172]: Prix
+              - tab "City Hotel Algiers - Avis" [selected] [ref=f12e174]:
+                - generic [aria-hidden] [ref=f12e176]: Avis
+              - tab "Informations sur City Hotel Algiers" [ref=f12e178]:
+                - generic [aria-hidden] [ref=f12e180]: À propos
+            - generic [ref=f12e639]:
+              - generic [ref=f12e641]:
+                - list [ref=f12e643]:
+                  - listitem [ref=f12e644]: 7 262 DA
+                  - text: ·
+                  - listitem [ref=f12e645]: Hôtel 3 étoiles
+                - generic [ref=f12e646]: 7–8 nov.
+              - link [ref=f12e650] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f12e651]:
+                  - generic [aria-hidden] [ref=f12e652]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f12e654]:
+              - generic [ref=f12e655]:
+                - heading "Résumé des avis Google" [level=2] [ref=f12e657]
+                - button "Informations" [ref=f12e659] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f12e660]: 
+              - generic [ref=f12e662]:
+                - table [ref=f12e664]:
+                  - rowgroup [ref=f12e665]:
+                    - img "5 étoiles, 269 avis" [ref=f12e666]: "5"
+                    - img "4 étoiles, 110 avis" [ref=f12e669]: "4"
+                    - img "3 étoiles, 66 avis" [ref=f12e672]: "3"
+                    - img "2 étoiles, 24 avis" [ref=f12e675]: "2"
+                    - img "1 étoiles, 122 avis" [ref=f12e678]: "1"
+                - generic [ref=f12e681]:
+                  - generic [ref=f12e682]: 3,6
+                  - img "3,6 étoiles" [ref=f12e683]
+                  - generic [ref=f12e689]: 591 avis
+              - button "Rédiger un avis" [ref=f12e693] [cursor=pointer]:
+                - generic [ref=f12e694]:
+                  - generic [aria-hidden] [ref=f12e695]: 
+                  - generic [ref=f12e696]: Rédiger un avis
+              - generic [ref=f12e700]:
+                - textbox [active] [ref=f12e1208]: pas pour
+                - button "Effacer" [ref=f12e1209] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f12e1210]: 
+              - generic [ref=f12e702]:
+                - button "Tous les avis" [ref=f12e703] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f12e705]: 
+                - button "Avis les plus pertinents" [ref=f12e706] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f12e708]: 
+              - generic [ref=f12e1211]:
+                - generic "Idris Saoual" [ref=f12e1212]:
+                  - generic [ref=f12e1214]:
+                    - button "Photo de Idris Saoual" [ref=f12e1215]
+                    - generic [ref=f12e1217]:
+                      - button "Idris Saoual Local Guide · 13 avis · 3 photos" [ref=f12e1219]:
+                        - generic [ref=f12e1220]: Idris Saoual
+                        - generic [ref=f12e1221]: Local Guide · 13 avis · 3 photos
+                      - button "Actions pour l'avis rédigé par Idris Saoual" [ref=f12e1222] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f12e1224]: 
+                    - generic [ref=f12e1225]:
+                      - generic [ref=f12e1226]:
+                        - generic [ref=f12e1227]: 1/5
+                        - generic [ref=f12e1228]:
+                          - text: il y a 2 mois sur
+                          - generic [ref=f12e1229]: Google
+                      - generic [ref=f12e1231]:
+                        - generic [ref=f12e1232]: … sale. Le réceptionniste m’a indiqué qu’il ne la louait plus depuis environ un mois car la clim de cette chambre n’est pas optimale. Il a mis du produit anti-cafards en spray, en attendant une meilleure chambre le lendemain. C’est pas une …
+                        - button "Voir plus" [ref=f12e1234] [cursor=pointer]: Plus
+                      - generic [ref=f12e1235]:
+                        - button "Chambre 104" [ref=f12e1236] [cursor=pointer]
+                        - button "Vidéo" [ref=f12e1237] [cursor=pointer]:
+                          - generic [ref=f12e1238]: 0:10
+                      - generic [ref=f12e1239]:
+                        - button "J'aime" [ref=f12e1240]:
+                          - generic [ref=f12e1241] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1242]: 
+                            - generic [ref=f12e1243]: J'aime
+                        - button "Partager l'avis rédigé par Idris Saoual." [ref=f12e1245]:
+                          - generic [ref=f12e1246] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1247]: 
+                            - generic [ref=f12e1248]: Partager
+                - generic "Abderrahmane Mallem" [ref=f12e1252]:
+                  - generic [ref=f12e1254]:
+                    - button "Photo de Abderrahmane Mallem" [ref=f12e1255]
+                    - generic [ref=f12e1257]:
+                      - button "Abderrahmane Mallem 1 avis" [ref=f12e1259]:
+                        - generic [ref=f12e1260]: Abderrahmane Mallem
+                        - generic [ref=f12e1261]: 1 avis
+                      - button "Actions pour l'avis rédigé par Abderrahmane Mallem" [ref=f12e1262] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f12e1264]: 
+                    - generic [ref=f12e1265]:
+                      - generic [ref=f12e1266]:
+                        - generic [ref=f12e1267]: 1/5
+                        - generic [ref=f12e1268]:
+                          - text: il y a 3 mois sur
+                          - generic [ref=f12e1269]: Google
+                      - generic [ref=f12e1271]:
+                        - generic [ref=f12e1272]: … un incident survenu aujourd’hui, le 31 juillet 2026, aux alentours de 14 h 45, lors d’un appel téléphonique passé à votre établissement. Ayant pour projet de séjourner dans la capitale avec ma famille, composée de trois personnes …
+                        - button "Voir plus" [ref=f12e1274] [cursor=pointer]: Plus
+                      - generic [ref=f12e1275]:
+                        - button "J'aime" [ref=f12e1276]:
+                          - generic [ref=f12e1277] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1278]: 
+                            - generic [ref=f12e1279]: J'aime
+                        - button "Partager l'avis rédigé par Abderrahmane Mallem." [ref=f12e1281]:
+                          - generic [ref=f12e1282] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1283]: 
+                            - generic [ref=f12e1284]: Partager
+                - generic "N S" [ref=f12e1288]:
+                  - generic [ref=f12e1290]:
+                    - button "Photo de N S" [ref=f12e1291]
+                    - generic [ref=f12e1293]:
+                      - button "N S Local Guide · 52 avis" [ref=f12e1295]:
+                        - generic [ref=f12e1296]: N S
+                        - generic [ref=f12e1297]: Local Guide · 52 avis
+                      - button "Actions pour l'avis rédigé par N S" [ref=f12e1298] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f12e1300]: 
+                    - generic [ref=f12e1301]:
+                      - generic [ref=f12e1302]:
+                        - generic [ref=f12e1303]: 1/5
+                        - generic [ref=f12e1304]:
+                          - text: il y a 4 mois sur
+                          - generic [ref=f12e1305]: Google
+                      - generic [ref=f12e1307]:
+                        - generic [ref=f12e1308]: Très déçus par notre séjour dans cet hôtel. Le petit-déjeuner était de mauvaise qualité et ne correspondait pas à nos attentes. La dame chargée du service du petit-déjeuner n’était pas du tout accueillante, ce qui a rendu l’expérience …
+                        - button "Voir plus" [ref=f12e1310] [cursor=pointer]: Plus
+                      - generic [ref=f12e1311]:
+                        - button "J'aime" [ref=f12e1312]:
+                          - generic [ref=f12e1313] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1314]: 
+                            - generic [ref=f12e1315]: J'aime
+                        - button "Partager l'avis rédigé par N S." [ref=f12e1317]:
+                          - generic [ref=f12e1318] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1319]: 
+                            - generic [ref=f12e1320]: Partager
+                - generic "Nems Nems" [ref=f12e1324]:
+                  - generic [ref=f12e1326]:
+                    - button "Photo de Nems Nems" [ref=f12e1327]
+                    - generic [ref=f12e1329]:
+                      - button "Nems Nems 4 avis · 3 photos" [ref=f12e1331]:
+                        - generic [ref=f12e1332]: Nems Nems
+                        - generic [ref=f12e1333]: 4 avis · 3 photos
+                      - button "Actions pour l'avis rédigé par Nems Nems" [ref=f12e1334] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f12e1336]: 
+                    - generic [ref=f12e1337]:
+                      - generic [ref=f12e1338]:
+                        - generic [ref=f12e1339]: 1/5
+                        - generic [ref=f12e1340]:
+                          - text: il y a 5 mois sur
+                          - generic [ref=f12e1341]: Google
+                      - generic [ref=f12e1343]:
+                        - generic [ref=f12e1344]: Hotel horrible, degeulasse. Il n’y a pas de clim soit disant ils n’ont pas les autorisations de l’état pour les allumer a cette periode, la bonne blague!!! L’état de la chambre une catastrophe, de la moisissure sur les murs, des insectes …
+                        - button "Voir plus" [ref=f12e1346] [cursor=pointer]: Plus
+                      - generic [ref=f12e1347]:
+                        - button "J'aime" [ref=f12e1348]:
+                          - generic [ref=f12e1349] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1350]: 
+                            - generic [ref=f12e1351]: J'aime
+                        - button "Partager l'avis rédigé par Nems Nems." [ref=f12e1353]:
+                          - generic [ref=f12e1354] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1355]: 
+                            - generic [ref=f12e1356]: Partager
+                - generic "Wassim Sahafi" [ref=f12e1360]:
+                  - generic [ref=f12e1362]:
+                    - button "Photo de Wassim Sahafi" [ref=f12e1363]
+                    - generic [ref=f12e1365]:
+                      - button "Wassim Sahafi Local Guide · 33 avis · 21 photos" [ref=f12e1367]:
+                        - generic [ref=f12e1368]: Wassim Sahafi
+                        - generic [ref=f12e1369]: Local Guide · 33 avis · 21 photos
+                      - button "Actions pour l'avis rédigé par Wassim Sahafi" [ref=f12e1370] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f12e1372]: 
+                    - generic [ref=f12e1373]:
+                      - generic [ref=f12e1374]:
+                        - generic [ref=f12e1375]: 4/5
+                        - generic [ref=f12e1376]:
+                          - text: il y a 10 mois sur
+                          - generic [ref=f12e1377]: Google
+                      - generic [ref=f12e1379]:
+                        - generic [ref=f12e1380]: … la capitale en terme de rapport qualité/prix. A chaque fois que j'en essaie un autre dans les mêmes tarifs, le standing n'est pas à la hauteur de celui-ci. J'y suis allé avec mes parents en 2023 puis j'y suis retourné en 2025, et je suis …
+                        - button "Voir plus" [ref=f12e1382] [cursor=pointer]: Plus
+                      - generic [ref=f12e1383]:
+                        - button "J'aime" [ref=f12e1384]:
+                          - generic [ref=f12e1385] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1386]: 
+                            - generic [ref=f12e1387]: J'aime
+                        - button "Partager l'avis rédigé par Wassim Sahafi." [ref=f12e1389]:
+                          - generic [ref=f12e1390] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f12e1391]: 
+                            - generic [ref=f12e1392]: Partager
+                      - generic [ref=f12e1393]:
+                        - generic [ref=f12e1394]: Réponse du propriétaire il y a 8 mois
+                        - generic [ref=f12e1395]:
+                          - text: Bonjour, Un immense merci pour votre fidélité et pour ce superbe retour suite à vos séjours en 2023 et 2025. Savoir que vous nous considérez parmi les meilleurs hôtels de la capitale en termes de rapport qualité/prix est une véritable …
+                          - button "Voir plus" [ref=f12e1397] [cursor=pointer]: Plus
+              - button "Voir plus d'avis (586)" [ref=f12e1401]
+              - generic [ref=f12e1406]:
+                - generic [aria-hidden] [ref=f12e1408]: 
+                - generic [ref=f12e1409]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=f12e1410] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=f12e576] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f12e577]: 
+      - generic [ref=f12e581]:
+        - button "Applications Google" [ref=f12e585] [cursor=pointer]
+        - link "Connexion" [ref=f12e589] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FCity%2BHotel%2BAlgiers%2F%4036.7626114%2C3.0564456%2C17z%2Fdata%3D!4m11!3m10!1s0x128fb2603913f341%3A0x91fa04bf5182c1bb!5m2!4m1!1i2!8m2!3d36.7626114!4d3.0564456!9m1!1b1!16s%252Fg%252F11c60573q3%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f12e592] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f12e594]: 
+          - generic [ref=f12e596] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f12e597]:
+              - generic [aria-hidden] [ref=f12e599]: 
+            - button "Faire un zoom arrière" [ref=f12e600]:
+              - generic [aria-hidden] [ref=f12e602]: 
+        - button "Parcourir les images Street View" [ref=f12e608]
+        - generic [ref=f12e610]:
+          - generic "Carte interactive" [ref=f12e611]
+          - generic [ref=f12e615] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f12e616]: 
+            - generic [ref=f12e617]: Calques
+          - button "Calques" [ref=f12e618] [cursor=pointer]
+      - generic [ref=f12e620]:
+        - contentinfo [ref=f12e623]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f12e624] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f12e625] [cursor=pointer]
+          - button "Confidentialité" [ref=f12e626] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f12e627] [cursor=pointer]
+        - button "100 m" [ref=f12e629] [cursor=pointer]
+  - generic [ref=f12e1025]: Affichage des résultats pour pas pour

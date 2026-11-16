@@ -1,0 +1,24 @@
+- generic "Google Maps" [ref=e2]:
+  - generic [ref=e3]:
+    - application "Vue principale" [ref=e8]
+    - generic [ref=e11]:
+      - main [ref=e23]:
+        - generic [ref=e24]:
+          - generic [ref=e30]:
+            - generic:
+              - heading [level=1]
+          - region "- Actions" [ref=e33]:
+            - button "Itinéraires" [ref=e35] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e37]: 
+            - button "Enregistrer" [ref=e40] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e42]: 
+            - button "À proximité" [ref=e45] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e47]: 
+            - button "Envoyer vers un téléphone" [ref=e50] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e52]: 
+            - button "Partager" [ref=e55] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e57]: 
+          - link "À propos de ces données" [ref=e65] [cursor=pointer]:
+            - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=fr
+      - button "Réduire le panneau latéral" [ref=e69] [cursor=pointer]:
+        - generic [aria-hidden] [ref=e70]: 

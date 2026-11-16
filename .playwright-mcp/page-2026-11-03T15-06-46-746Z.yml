@@ -1,0 +1,938 @@
+- generic [active] [ref=f5e1]:
+  - banner [ref=f5e2]:
+    - link [ref=f5e7] [cursor=pointer]:
+      - /url: /entreprise
+      - img "Accueil" [ref=f5e8]
+  - generic:
+    - link "Aller au menu" [ref=f5e9] [cursor=pointer]:
+      - /url: "#horizonatal-menu"
+    - link "Aller au contenu" [ref=f5e10] [cursor=pointer]:
+      - /url: "#middle"
+  - navigation [ref=f5e12]:
+    - generic [ref=f5e13]:
+      - generic: 
+      - generic [ref=f5e15]:
+        - generic "Contact" [ref=f5e16]: 
+        - link "entreprise-auth" [ref=f5e18] [cursor=pointer]:
+          - /url: /entreprise/login
+          - generic [ref=f5e19]: 
+        - button "Toggle navigation" [ref=f5e20] [cursor=pointer]
+      - text:                               
+  - main [ref=f5e26]:
+    - generic [ref=f5e30]:
+      - navigation [ref=f5e32]:
+        - list [ref=f5e33]:
+          - listitem [ref=f5e34]:
+            - link "Accueil" [ref=f5e35] [cursor=pointer]:
+              - /url: /entreprise
+          - listitem [ref=f5e36]:
+            - text: /
+            - link "Recherche avancée" [ref=f5e37] [cursor=pointer]:
+              - /url: "?page=Entreprise.EntrepriseAdvancedSearch&searchAnnCons"
+          - listitem [ref=f5e38]: / Résultat
+      - list [ref=f5e39]:
+        - listitem [ref=f5e40]:
+          - link "" [ref=f5e41] [cursor=pointer]:
+            - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_ctl13
+        - listitem [ref=f5e44]:
+          - link "" [ref=f5e45] [cursor=pointer]:
+            - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_ctl15
+      - text:      
+      - generic [ref=f5e49]:
+        - generic [ref=f5e51]:
+          - heading [level=1]
+          - link "Légende " [ref=f5e53] [cursor=pointer]:
+            - /url: "#"
+            - text: Légende
+            - generic [ref=f5e54]: 
+        - generic [ref=f5e55]:
+          - generic [ref=f5e56]:
+            - strong [ref=f5e59]: "Nombre de résultats : 423"
+            - generic [ref=f5e60]:
+              - generic [ref=f5e61]:
+                - generic [ref=f5e62]: Afficher
+                - combobox "Afficher" [ref=f5e63]:
+                  - option "10" [selected]
+                  - option "20"
+              - generic [ref=f5e64]:
+                - generic [ref=f5e65]: Aller à la page
+                - generic [ref=f5e66]:
+                  - generic [ref=f5e67]: résultats / page
+                  - textbox "résultats / page" [ref=f5e68]: "1"
+                  - generic [ref=f5e69]: / 43
+              - generic [ref=f5e72]:
+                - generic [ref=f5e73]: 
+                - generic [ref=f5e76]: 
+                - link "" [ref=f5e79] [cursor=pointer]:
+                  - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_PagerTop_ctl2
+                - link "" [ref=f5e82] [cursor=pointer]:
+                  - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_PagerTop_ctl3
+          - generic [ref=f5e85]:
+            - generic [ref=f5e87]:
+              - list [ref=f5e90]:
+                - listitem [ref=f5e91]: Procédure
+                - listitem [ref=f5e92]:
+                  - link "Catégorie " [ref=f5e93] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl0
+                    - generic [ref=f5e94]:
+                      - text: Catégorie
+                      - generic [ref=f5e95]: 
+                - listitem [ref=f5e96]:
+                  - link "Publié le " [ref=f5e97] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl1
+                    - generic [ref=f5e98]:
+                      - text: Publié le
+                      - generic [ref=f5e99]: 
+              - list [ref=f5e101]:
+                - listitem [ref=f5e102]:
+                  - link "Référence " [ref=f5e103] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl2
+                    - generic [ref=f5e104]:
+                      - text: Référence
+                      - generic [ref=f5e105]: 
+                  - text: "|"
+                  - link "Intitulé " [ref=f5e106] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl3
+                    - generic [ref=f5e107]:
+                      - text: Intitulé
+                      - generic [ref=f5e108]: 
+                - listitem [ref=f5e109]:
+                  - link "Objet " [ref=f5e110] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl4
+                    - generic [ref=f5e111]:
+                      - text: Objet
+                      - generic [ref=f5e112]: 
+                - listitem [ref=f5e113]:
+                  - link "Organisme " [ref=f5e114] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl5
+                    - generic [ref=f5e115]:
+                      - text: Organisme
+                      - generic [ref=f5e116]: 
+              - link "Date limite de remise des plis " [ref=f5e119] [cursor=pointer]:
+                - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl7
+                - generic [ref=f5e120]:
+                  - text: Date limite de remise des plis
+                  - generic [ref=f5e121]: 
+              - generic [ref=f5e122]: Actions
+            - generic [ref=f5e123]:
+              - generic [ref=f5e126]:
+                - generic [ref=f5e127]: MAPA
+                - generic [ref=f5e129]: Services
+                - generic [ref=f5e130]:
+                  - generic [ref=f5e131]: "3"
+                  - generic [ref=f5e132]:
+                    - generic [ref=f5e133]: Nov.
+                    - generic [ref=f5e134]: "2026"
+              - generic [ref=f5e136]:
+                - generic [ref=f5e138]:
+                  - generic [ref=f5e139]: FCS26-017
+                  - generic [ref=f5e140]: "|"
+                  - generic [ref=f5e141]: PRESTATIONS D’ANALYSES DE BIOLOGIE MEDICALE POUR LES BESOINS DES CENTRES MUNICIPAUX DE SANTE DE LA VILLE DE MONTREUIL
+                - generic [ref=f5e143]:
+                  - strong [ref=f5e145]: "Objet :"
+                  - generic [ref=f5e146]: PRESTATIONS D’ANALYSES DE BIOLOGIE MEDICALE POUR LES BESOINS DES CENTRES MUNICIPAUX DE SANTE DE LA VILLE DE MONTREUIL
+                - generic [ref=f5e148]:
+                  - strong [ref=f5e150]: "Organisme :"
+                  - text: Ville de Montreuil (93100 - Montreuil)
+                - list [ref=f5e152]:
+                  - listitem
+                  - listitem [ref=f5e153]:
+                    - generic [ref=f5e155]:
+                      - generic [aria-hidden] [ref=f5e156]: 
+                      - text: (93) Seine-Saint-Denis
+                  - listitem [ref=f5e157]:
+                    - button [ref=f5e159] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem
+                  - listitem [ref=f5e160]
+                  - listitem
+              - generic [ref=f5e164]:
+                - generic [ref=f5e165]:
+                  - text: 
+                  - generic [ref=f5e166]:
+                    - generic [ref=f5e167]:
+                      - generic [ref=f5e168]: "26"
+                      - generic:
+                        - generic [ref=f5e169]: Nov.
+                        - generic [ref=f5e170]: "2026"
+                    - generic [ref=f5e171]:
+                      - generic [ref=f5e172]: 
+                      - generic "Durée" [ref=f5e173]: 12:00
+                - img "Réponse électronique obligatoire pour cette consultation. Dispositions sur la signature électronique, se référer au RC ou à l'AAC." [ref=f5e175]
+              - list [ref=f5e177]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f5e178]:
+                  - list [ref=f5e180]:
+                    - listitem [ref=f5e181]:
+                      - link "Accéder à la consultation" [ref=f5e182] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/950037?orgAcronyme=d6a
+                        - generic [aria-hidden] [ref=f5e184]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f5e185]:
+                      - link "Tester la configuration de mon poste" [ref=f5e186] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f5e188]: 
+                    - listitem
+                    - listitem [ref=f5e189]:
+                      - link "Ajouter au panier" [ref=f5e190] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f5e192]: 
+                    - listitem
+                - listitem
+            - generic [ref=f5e193]:
+              - generic [ref=f5e196]:
+                - generic [ref=f5e197]: MAPA
+                - generic [ref=f5e199]: Services
+                - generic [ref=f5e200]:
+                  - generic [ref=f5e201]: "3"
+                  - generic [ref=f5e202]:
+                    - generic [ref=f5e203]: Nov.
+                    - generic [ref=f5e204]: "2026"
+                - generic "Organisme" [ref=f5e206]:
+                  - img "Maison de l'emploi et de la formation Grand Paris Sud" [ref=f5e207]
+              - generic [ref=f5e209]:
+                - generic [ref=f5e211]:
+                  - generic [ref=f5e212]: "2600016"
+                  - generic [ref=f5e213]: "|"
+                  - generic [ref=f5e214]: "Opération « TrajectoiR’3.0 : La Gaming house de l’insertion » de la MDEF-GPS"
+                - generic [ref=f5e216]:
+                  - strong [ref=f5e218]: "Objet :"
+                  - generic [ref=f5e219]: La présente consultation a pour objet la réalisation d'actions collectives et individuelles d'accompagnement à l'orientation et à l'emploi intégrant l’usage d’outils numériques et d’intelligence artificielle.
+                - generic [ref=f5e221]:
+                  - strong [ref=f5e223]: "Organisme :"
+                  - text: Maison de l'emploi et de la formation Grand Paris Sud (77550 - Moissy Cramayel)
+                - list [ref=f5e225]:
+                  - listitem
+                  - listitem [ref=f5e226]:
+                    - generic [ref=f5e228]:
+                      - generic [aria-hidden] [ref=f5e229]: 
+                      - text: (77) Seine-et-Marne, (91) Essonne
+                      - button "..." [ref=f5e230] [cursor=pointer]
+                  - listitem [ref=f5e231]:
+                    - button [ref=f5e233] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+              - generic [ref=f5e234]:
+                - generic [ref=f5e235]:
+                  - text: 
+                  - generic [ref=f5e236]:
+                    - generic [ref=f5e237]:
+                      - generic [ref=f5e238]: "20"
+                      - generic:
+                        - generic [ref=f5e239]: Nov.
+                        - generic [ref=f5e240]: "2026"
+                    - generic [ref=f5e241]:
+                      - generic [ref=f5e242]: 
+                      - generic "Durée" [ref=f5e243]: 17:00
+                - img "Réponse électronique non obligatoire pour cette consultation, sans signature électronique." [ref=f5e245]
+              - list [ref=f5e247]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f5e248]:
+                  - list [ref=f5e250]:
+                    - listitem [ref=f5e251]:
+                      - link "Accéder à la consultation" [ref=f5e252] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/950091?orgAcronyme=j9g
+                        - generic [aria-hidden] [ref=f5e254]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f5e255]:
+                      - link "Tester la configuration de mon poste" [ref=f5e256] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f5e258]: 
+                    - listitem
+                    - listitem [ref=f5e259]:
+                      - link "Ajouter au panier" [ref=f5e260] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f5e262]: 
+                    - listitem
+                - listitem
+            - generic [ref=f5e263]:
+              - generic [ref=f5e266]:
+                - generic [ref=f5e267]: AOO
+                - generic [ref=f5e269]: Services
+                - generic [ref=f5e270]:
+                  - generic [ref=f5e271]: "3"
+                  - generic [ref=f5e272]:
+                    - generic [ref=f5e273]: Nov.
+                    - generic [ref=f5e274]: "2026"
+              - generic [ref=f5e276]:
+                - generic [ref=f5e278]:
+                  - generic [ref=f5e279]: "2600056"
+                  - generic [ref=f5e280]: "|"
+                  - generic [ref=f5e281]: Prestation de transport de corps intra et extra muros, conservation de corps, inhumation
+                - generic [ref=f5e283]:
+                  - strong [ref=f5e285]: "Objet :"
+                  - generic [ref=f5e286]: Prestation de transport de corps intra et extra muros, conservation de corps, inhumation
+                - generic [ref=f5e288]:
+                  - strong [ref=f5e290]: "Organisme :"
+                  - text: Groupement Hospitalier de Territoire (GHT) de Guadeloupe (97110 - Pointe-à-Pitre)
+                - list [ref=f5e292]:
+                  - listitem [ref=f5e293]:
+                    - link "3 lots" [ref=f5e295] [cursor=pointer]:
+                      - /url: javascript:popUpOpen('index.php?page=Entreprise.PopUpDetailLots&orgAccronyme=a2x&id=947272&lang=', 'Descriptif des lots - Consultation', 'toolbar=no,menubar=no,resizable=yeslocation=no,width=800,height=275,scrollbars=yes')
+                      - generic [aria-hidden] [ref=f5e296]: 
+                      - text: 3 lots
+                  - listitem [ref=f5e297]:
+                    - generic [ref=f5e299]:
+                      - generic [aria-hidden] [ref=f5e300]: 
+                      - text: GUADELOUPE
+                  - listitem [ref=f5e301]:
+                    - button [ref=f5e303] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem
+                  - listitem [ref=f5e304]
+                  - listitem
+              - generic [ref=f5e308]:
+                - generic [ref=f5e309]:
+                  - text: 
+                  - generic [ref=f5e310]:
+                    - generic [ref=f5e311]:
+                      - generic [ref=f5e312]: "14"
+                      - generic:
+                        - generic [ref=f5e313]: Déc.
+                        - generic [ref=f5e314]: "2026"
+                    - generic [ref=f5e315]:
+                      - generic [ref=f5e316]: 
+                      - generic "Durée" [ref=f5e317]: 17:00
+                - img "Réponse électronique obligatoire pour cette consultation, sans signature électronique." [ref=f5e319]
+              - list [ref=f5e321]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f5e322]:
+                  - list [ref=f5e324]:
+                    - listitem [ref=f5e325]:
+                      - link "Accéder à la consultation" [ref=f5e326] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/947272?orgAcronyme=a2x
+                        - generic [aria-hidden] [ref=f5e328]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f5e329]:
+                      - link "Tester la configuration de mon poste" [ref=f5e330] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f5e332]: 
+                    - listitem
+                    - listitem [ref=f5e333]:
+                      - link "Ajouter au panier" [ref=f5e334] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f5e336]: 
+                    - listitem
+                - listitem
+            - generic [ref=f5e337]:
+              - generic [ref=f5e340]:
+                - generic [ref=f5e341]: AOO
+                - generic [ref=f5e343]: Services
+                - generic [ref=f5e344]:
+                  - generic [ref=f5e345]: "3"
+                  - generic [ref=f5e346]:
+                    - generic [ref=f5e347]: Nov.
+                    - generic [ref=f5e348]: "2026"
+              - generic [ref=f5e350]:
+                - generic [ref=f5e352]:
+                  - generic [ref=f5e353]: FCS26-18
+                  - generic [ref=f5e354]: "|"
+                  - generic [ref=f5e355]: Prestations de location d‘autocars avec chauffeur
+                - generic [ref=f5e357]:
+                  - strong [ref=f5e359]: "Objet :"
+                  - generic [ref=f5e360]: Prestations de location d‘autocars avec chauffeur
+                - generic [ref=f5e362]:
+                  - strong [ref=f5e364]: "Organisme :"
+                  - text: Ville de Montreuil (93100 - Montreuil)
+                - list [ref=f5e366]:
+                  - listitem
+                  - listitem [ref=f5e367]:
+                    - generic [ref=f5e369]:
+                      - generic [aria-hidden] [ref=f5e370]: 
+                      - text: (93) Seine-Saint-Denis
+                  - listitem [ref=f5e371]:
+                    - button [ref=f5e373] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem [ref=f5e374]:
+                    - generic [ref=f5e376]:
+                      - img "DUME standard" [ref=f5e377]
+                      - generic [ref=f5e378]: DUME standard
+                  - listitem
+                  - listitem
+              - generic [ref=f5e379]:
+                - generic [ref=f5e380]:
+                  - text: 
+                  - generic [ref=f5e381]:
+                    - generic [ref=f5e382]:
+                      - generic [ref=f5e383]: "9"
+                      - generic:
+                        - generic [ref=f5e384]: Déc.
+                        - generic [ref=f5e385]: "2026"
+                    - generic [ref=f5e386]:
+                      - generic [ref=f5e387]: 
+                      - generic "Durée" [ref=f5e388]: 12:00
+                - img "Réponse électronique obligatoire pour cette consultation, sans signature électronique." [ref=f5e390]
+              - list [ref=f5e392]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f5e393]:
+                  - list [ref=f5e395]:
+                    - listitem [ref=f5e396]:
+                      - link "Accéder à la consultation" [ref=f5e397] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/950088?orgAcronyme=d6a
+                        - generic [aria-hidden] [ref=f5e399]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f5e400]:
+                      - link "Tester la configuration de mon poste" [ref=f5e401] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f5e403]: 
+                    - listitem
+                    - listitem [ref=f5e404]:
+                      - link "Ajouter au panier" [ref=f5e405] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f5e407]: 
+                    - listitem
+                - listitem
+            - generic [ref=f5e408]:
+              - generic [ref=f5e411]:
+                - generic [ref=f5e412]: MAPA
+                - generic [ref=f5e414]: Services
+                - generic [ref=f5e415]:
+                  - generic [ref=f5e416]: "3"
+                  - generic [ref=f5e417]:
+                    - generic [ref=f5e418]: Nov.
+                    - generic [ref=f5e419]: "2026"
+                - generic:
+                  - link "Organisme":
+                    - /url: http://www.ivry94.fr/
+              - generic [ref=f5e421]:
+                - generic [ref=f5e423]:
+                  - generic [ref=f5e424]: "2600038"
+                  - generic [ref=f5e425]: "|"
+                  - generic [ref=f5e426]: MISSION DE MAÎTRISE D’OEUVRE POUR LE REMPLACEMENT DE TROIS ESCALIERS MECANIQUES A IVRY-SUR-SEINE
+                - generic [ref=f5e428]:
+                  - strong [ref=f5e430]: "Objet :"
+                  - generic [ref=f5e431]: "Le présent marché a pour objet de définir les prestations attendues dans le cadre d’un marché de maîtrise d’œuvre relatif au remplacement des trois (3) escaliers mécaniques suivants, tous situés sur la commune d’Ivry-sur-Seine : - L’escalier mécanique « Marat » – métro mairie d’Ivry - Les deux escaliers mécaniques « Jeanne Hachette » - Centre commercial « Jeanne HACHETTE ». Cette mission est une mission de prestation intellectuelle, au sens de la commande publique, intégrant des prestations d’études, d’ingénierie structurelle, de gestion des risques techniques et de coordination des interventions en milieu occupé ou sensible."
+                - generic [ref=f5e433]:
+                  - strong [ref=f5e435]: "Organisme :"
+                  - text: Ville d'Ivry-sur-Seine (94200 - Ivry-sur-seine cedex)
+                - list [ref=f5e437]:
+                  - listitem
+                  - listitem [ref=f5e438]:
+                    - generic [ref=f5e440]:
+                      - generic [aria-hidden] [ref=f5e441]: 
+                      - text: (94) Val-de-Marne
+                  - listitem [ref=f5e442]:
+                    - button [ref=f5e444] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem [ref=f5e445]:
+                    - generic [ref=f5e447]:
+                      - img "DUME défini par l'acheteur" [ref=f5e448]
+                      - generic [ref=f5e449]: DUME défini par l'acheteur
+                  - listitem [ref=f5e450]
+                  - listitem
+              - generic [ref=f5e454]:
+                - generic [ref=f5e455]:
+                  - text: 
+                  - generic [ref=f5e456]:
+                    - generic [ref=f5e457]:
+                      - generic [ref=f5e458]: "4"
+                      - generic:
+                        - generic [ref=f5e459]: Déc.
+                        - generic [ref=f5e460]: "2026"
+                    - generic [ref=f5e461]:
+                      - generic [ref=f5e462]: 
+                      - generic "Durée" [ref=f5e463]: 14:00
+                - img "Réponse électronique obligatoire pour cette consultation. Dispositions sur la signature électronique, se référer au RC ou à l'AAC." [ref=f5e465]
+              - list [ref=f5e467]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f5e468]:
+                  - list [ref=f5e470]:
+                    - listitem [ref=f5e471]:
+                      - link "Accéder à la consultation" [ref=f5e472] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/950044?orgAcronyme=j4z
+                        - generic [aria-hidden] [ref=f5e474]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f5e475]:
+                      - link "Tester la configuration de mon poste" [ref=f5e476] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f5e478]: 
+                    - listitem
+                    - listitem [ref=f5e479]:
+                      - link "Ajouter au panier" [ref=f5e480] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f5e482]: 
+                    - listitem
+                - listitem
+            - generic [ref=f5e483]:
+              - generic [ref=f5e486]:
+                - generic [ref=f5e487]: MAPA
+                - generic [ref=f5e489]: Fournitures
+                - generic [ref=f5e490]:
+                  - generic [ref=f5e491]: "3"
+                  - generic [ref=f5e492]:
+                    - generic [ref=f5e493]: Nov.
+                    - generic [ref=f5e494]: "2026"
+                - generic:
+                  - link "Organisme":
+                    - /url: http://www.fresnes94.fr/
+              - generic [ref=f5e496]:
+                - generic [ref=f5e498]:
+                  - generic [ref=f5e499]: "26030"
+                  - generic [ref=f5e500]: "|"
+                  - generic [ref=f5e501]: fourniture et livraison d’uniformes et équipements de protection pour le service de la police municipale.
+                - generic [ref=f5e503]:
+                  - strong [ref=f5e505]: "Objet :"
+                  - generic [ref=f5e506]: fourniture et livraison d’uniformes et d'équipements de protection pour la police municipale.
+                - generic [ref=f5e508]:
+                  - strong [ref=f5e510]: "Organisme :"
+                  - text: Ville de Fresnes (94260 - FRESNES)
+                - list [ref=f5e512]:
+                  - listitem
+                  - listitem [ref=f5e513]:
+                    - generic [ref=f5e515]:
+                      - generic [aria-hidden] [ref=f5e516]: 
+                      - text: (94) Val-de-Marne
+                  - listitem [ref=f5e517]:
+                    - button [ref=f5e519] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem [ref=f5e520]:
+                    - generic [ref=f5e522]:
+                      - img "DUME défini par l'acheteur" [ref=f5e523]
+                      - generic [ref=f5e524]: DUME défini par l'acheteur
+                  - listitem [ref=f5e525]
+                  - listitem
+              - generic [ref=f5e529]:
+                - generic [ref=f5e530]:
+                  - text: 
+                  - generic [ref=f5e531]:
+                    - generic [ref=f5e532]:
+                      - generic [ref=f5e533]: "30"
+                      - generic:
+                        - generic [ref=f5e534]: Nov.
+                        - generic [ref=f5e535]: "2026"
+                    - generic [ref=f5e536]:
+                      - generic [ref=f5e537]: 
+                      - generic "Durée" [ref=f5e538]: 12:00
+                - img "Réponse électronique non obligatoire pour cette consultation, sans signature électronique." [ref=f5e540]
+              - list [ref=f5e542]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f5e543]:
+                  - list [ref=f5e545]:
+                    - listitem [ref=f5e546]:
+                      - link "Accéder à la consultation" [ref=f5e547] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/947795?orgAcronyme=d5f
+                        - generic [aria-hidden] [ref=f5e549]: 
+                    - listitem [ref=f5e550]:
+                      - link "Télécharger le RC" [ref=f5e551] [cursor=pointer]:
+                        - /url: /index.php?page=Entreprise.EntrepriseDownloadReglement&id=OTQ3Nzk1&orgAcronyme=d5f
+                        - strong [aria-hidden] [ref=f5e553]: RC
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f5e554]:
+                      - link "Tester la configuration de mon poste" [ref=f5e555] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f5e557]: 
+                    - listitem
+                    - listitem [ref=f5e558]:
+                      - link "Ajouter au panier" [ref=f5e559] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f5e561]: 
+                    - listitem
+                - listitem
+            - generic [ref=f5e562]:
+              - generic [ref=f5e565]:
+                - generic [ref=f5e566]: AOO
+                - generic [ref=f5e568]: Services
+                - generic [ref=f5e569]:
+                  - generic [ref=f5e570]: "3"
+                  - generic [ref=f5e571]:
+                    - generic [ref=f5e572]: Nov.
+                    - generic [ref=f5e573]: "2026"
+                - link [ref=f5e575] [cursor=pointer]:
+                  - /url: https://www.habitat77.net/
+                  - img "SEML HABITAT 77" [ref=f5e576]
+              - generic [ref=f5e578]:
+                - generic [ref=f5e580]:
+                  - generic [ref=f5e581]: 2026-32
+                  - generic [ref=f5e582]: "|"
+                  - generic [ref=f5e583]: PRESTATIONS DE RÉALISATION DE DIAGNOSTICS IMMOBILIERS, D’AUDITS ÉNERGÉTIQUE ET DE REPÉRAGES AMIANTE PORTANT SUR LE PATRIMOINE
+                - generic [ref=f5e585]:
+                  - strong [ref=f5e587]: "Objet :"
+                  - generic [ref=f5e588]: PRESTATIONS DE RÉALISATION DE DIAGNOSTICS IMMOBILIERS, D’AUDITS ÉNERGÉTIQUE ET DE REPÉRAGES AMIANTE PORTANT SUR LE PATRIMOINE IMMOBILIER D’HABITAT 77
+                - generic [ref=f5e590]:
+                  - strong [ref=f5e592]: "Organisme :"
+                  - text: SEML HABITAT 77 (77000 - MELUN)
+                - list [ref=f5e594]:
+                  - listitem [ref=f5e595]:
+                    - link "3 lots" [ref=f5e597] [cursor=pointer]:
+                      - /url: javascript:popUpOpen('index.php?page=Entreprise.PopUpDetailLots&orgAccronyme=c0u&id=950034&lang=', 'Descriptif des lots - Consultation', 'toolbar=no,menubar=no,resizable=yeslocation=no,width=800,height=275,scrollbars=yes')
+                      - generic [aria-hidden] [ref=f5e598]: 
+                      - text: 3 lots
+                  - listitem [ref=f5e599]:
+                    - generic [ref=f5e601]:
+                      - generic [aria-hidden] [ref=f5e602]: 
+                      - text: (77) Seine-et-Marne
+                  - listitem [ref=f5e603]:
+                    - button [ref=f5e605] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem [ref=f5e606]:
+                    - generic [ref=f5e608]:
+                      - img "DUME défini par l'acheteur" [ref=f5e609]
+                      - generic [ref=f5e610]: DUME défini par l'acheteur
+                  - listitem [ref=f5e611]
+                  - listitem
+              - generic [ref=f5e617]:
+                - generic [ref=f5e618]:
+                  - text: 
+                  - generic [ref=f5e619]:
+                    - generic [ref=f5e620]:
+                      - generic [ref=f5e621]: "7"
+                      - generic:
+                        - generic [ref=f5e622]: Déc.
+                        - generic [ref=f5e623]: "2026"
+                    - generic [ref=f5e624]:
+                      - generic [ref=f5e625]: 
+                      - generic "Durée" [ref=f5e626]: 10:00
+                - img "Réponse électronique obligatoire pour cette consultation. Dispositions sur la signature électronique, se référer au RC ou à l'AAC." [ref=f5e628]
+              - list [ref=f5e630]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f5e631]:
+                  - list [ref=f5e633]:
+                    - listitem [ref=f5e634]:
+                      - link "Accéder à la consultation" [ref=f5e635] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/950034?orgAcronyme=c0u
+                        - generic [aria-hidden] [ref=f5e637]: 
+                    - listitem [ref=f5e638]:
+                      - link "Télécharger le RC" [ref=f5e639] [cursor=pointer]:
+                        - /url: /index.php?page=Entreprise.EntrepriseDownloadReglement&id=OTUwMDM0&orgAcronyme=c0u
+                        - strong [aria-hidden] [ref=f5e641]: RC
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f5e642]:
+                      - link "Tester la configuration de mon poste" [ref=f5e643] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f5e645]: 
+                    - listitem
+                    - listitem [ref=f5e646]:
+                      - link "Ajouter au panier" [ref=f5e647] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f5e649]: 
+                    - listitem
+                - listitem
+            - generic [ref=f5e650]:
+              - generic [ref=f5e653]:
+                - generic [ref=f5e654]: MAPA
+                - generic [ref=f5e656]: Fournitures
+                - generic [ref=f5e657]:
+                  - generic [ref=f5e658]: "3"
+                  - generic [ref=f5e659]:
+                    - generic [ref=f5e660]: Nov.
+                    - generic [ref=f5e661]: "2026"
+              - generic [ref=f5e663]:
+                - generic [ref=f5e665]:
+                  - generic [ref=f5e666]: "2600126"
+                  - generic [ref=f5e667]: "|"
+                  - generic [ref=f5e668]: Fourniture et installation d’un écran LED
+                - generic [ref=f5e670]:
+                  - strong [ref=f5e672]: "Objet :"
+                  - generic [ref=f5e673]: La SEMMARIS souhaite remplacer l’écran LED du hall d’entrée du siège de la SEMMARIS installé en 2018 par la société CHARVET DIGITAL.
+                - generic [ref=f5e675]:
+                  - strong [ref=f5e677]: "Organisme :"
+                  - text: SEMMARIS (94550 - Chevilly-Larue)
+                - list [ref=f5e679]:
+                  - listitem
+                  - listitem [ref=f5e680]:
+                    - generic [ref=f5e682]:
+                      - generic [aria-hidden] [ref=f5e683]: 
+                      - text: (94) Val-de-Marne
+                  - listitem [ref=f5e684]:
+                    - button [ref=f5e686] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+              - generic [ref=f5e687]:
+                - generic [ref=f5e688]:
+                  - text: 
+                  - generic [ref=f5e689]:
+                    - generic [ref=f5e690]:
+                      - generic [ref=f5e691]: "25"
+                      - generic:
+                        - generic [ref=f5e692]: Nov.
+                        - generic [ref=f5e693]: "2026"
+                    - generic [ref=f5e694]:
+                      - generic [ref=f5e695]: 
+                      - generic "Durée" [ref=f5e696]: 12:00
+                - img "Réponse électronique non obligatoire pour cette consultation, sans signature électronique." [ref=f5e698]
+              - list [ref=f5e700]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f5e701]:
+                  - list [ref=f5e703]:
+                    - listitem [ref=f5e704]:
+                      - link "Accéder à la consultation" [ref=f5e705] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/950065?orgAcronyme=y2p
+                        - generic [aria-hidden] [ref=f5e707]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f5e708]:
+                      - link "Tester la configuration de mon poste" [ref=f5e709] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f5e711]: 
+                    - listitem
+                    - listitem [ref=f5e712]:
+                      - link "Ajouter au panier" [ref=f5e713] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f5e715]: 
+                    - listitem
+                - listitem
+            - generic [ref=f5e716]:
+              - generic [ref=f5e719]:
+                - generic [ref=f5e720]: MAPA
+                - generic [ref=f5e722]: Travaux
+                - generic [ref=f5e723]:
+                  - generic [ref=f5e724]: "3"
+                  - generic [ref=f5e725]:
+                    - generic [ref=f5e726]: Nov.
+                    - generic [ref=f5e727]: "2026"
+                - link [ref=f5e729] [cursor=pointer]:
+                  - /url: https://www.habitat77.net/
+                  - img "SEML HABITAT 77" [ref=f5e730]
+              - generic [ref=f5e732]:
+                - generic [ref=f5e734]:
+                  - generic [ref=f5e735]: 2026-34
+                  - generic [ref=f5e736]: "|"
+                  - generic [ref=f5e737]: TRAVAUX DE REMPLACEMENT DU RESEAU DE CHAUFFAGE PAR LE SOL-RESIDENCE ORLY PARC-LAGNY SUR MARNE POUR LE PATRIMOINE DE HABITAT 77 LOT UNIQUE
+                - generic [ref=f5e739]:
+                  - strong [ref=f5e741]: "Objet :"
+                  - generic [ref=f5e742]: Le marché est un marché de travaux, qui a pour objet de définir les spécifications techniques, les conditions de mise en œuvre et les exigences de qualité applicables aux travaux de remplacement du réseau enterré de chauffage desservant la Résidence Orly Parc à Lagny-sur-Marne (77400).
+                - generic [ref=f5e744]:
+                  - strong [ref=f5e746]: "Organisme :"
+                  - text: SEML HABITAT 77 (77000 - MELUN)
+                - list [ref=f5e748]:
+                  - listitem
+                  - listitem [ref=f5e749]:
+                    - generic [ref=f5e751]:
+                      - generic [aria-hidden] [ref=f5e752]: 
+                      - text: (77) Seine-et-Marne
+                  - listitem [ref=f5e753]:
+                    - button [ref=f5e755] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem [ref=f5e756]:
+                    - generic [ref=f5e758]:
+                      - img "DUME défini par l'acheteur" [ref=f5e759]
+                      - generic [ref=f5e760]: DUME défini par l'acheteur
+                  - listitem [ref=f5e761]
+                  - listitem
+              - generic [ref=f5e767]:
+                - generic [ref=f5e768]:
+                  - text: 
+                  - generic [ref=f5e769]:
+                    - generic [ref=f5e770]:
+                      - generic [ref=f5e771]: "25"
+                      - generic:
+                        - generic [ref=f5e772]: Nov.
+                        - generic [ref=f5e773]: "2026"
+                    - generic [ref=f5e774]:
+                      - generic [ref=f5e775]: 
+                      - generic "Durée" [ref=f5e776]: 12:00
+                - img "Réponse électronique obligatoire pour cette consultation, sans signature électronique." [ref=f5e778]
+              - list [ref=f5e780]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f5e781]:
+                  - list [ref=f5e783]:
+                    - listitem [ref=f5e784]:
+                      - link "Accéder à la consultation" [ref=f5e785] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/950023?orgAcronyme=c0u
+                        - generic [aria-hidden] [ref=f5e787]: 
+                    - listitem [ref=f5e788]:
+                      - link "Télécharger le RC" [ref=f5e789] [cursor=pointer]:
+                        - /url: /index.php?page=Entreprise.EntrepriseDownloadReglement&id=OTUwMDIz&orgAcronyme=c0u
+                        - strong [aria-hidden] [ref=f5e791]: RC
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f5e792]:
+                      - link "Tester la configuration de mon poste" [ref=f5e793] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f5e795]: 
+                    - listitem
+                    - listitem [ref=f5e796]:
+                      - link "Ajouter au panier" [ref=f5e797] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f5e799]: 
+                    - listitem
+                - listitem
+            - generic [ref=f5e800]:
+              - generic [ref=f5e803]:
+                - generic [ref=f5e804]: MAPA
+                - generic [ref=f5e806]: Services
+                - generic [ref=f5e807]:
+                  - generic [ref=f5e808]: "3"
+                  - generic [ref=f5e809]:
+                    - generic [ref=f5e810]: Nov.
+                    - generic [ref=f5e811]: "2026"
+                - generic:
+                  - link "Organisme":
+                    - /url: www.epinay-sur-seine.fr
+              - generic [ref=f5e813]:
+                - generic [ref=f5e815]:
+                  - generic [ref=f5e816]: "260022"
+                  - generic [ref=f5e817]: "|"
+                  - generic [ref=f5e818]: Prestation de séjours en centre de vacances à destination des enfants âgés de 4-6 ans et des jeunes âgés de 15-17 ans pour la commune
+                - generic [ref=f5e820]:
+                  - strong [ref=f5e822]: "Objet :"
+                  - generic [ref=f5e823]: "L’accord-cadre a pour objet la prestation d'organisation de séjours périscolaires en centre de vacances à destination des enfants âgés de 4-6 ans et des jeunes âgés de 15-17 ans pour la commune d'Epinay-sur-Seine.Il est composé des deux lots suivants :- Lot n° 1 « Séjours en centre de vacances pour les enfants de 4 à 6 ans »- Lot n° 2 « Séjours en centre de vacances pour les jeunes de 15 à 17 ans »Lieu du service gestionnaire : Direction de l’Enfance sise 1, rue Mulot 93800 Epinay-sur-Seine.Le marché s’exécutera à compter de la période estivale 2027."
+                - generic [ref=f5e825]:
+                  - strong [ref=f5e827]: "Organisme :"
+                  - text: Ville d' Épinay-sur-Seine (93800 - Épinay-sur-Seine)
+                - list [ref=f5e829]:
+                  - listitem [ref=f5e830]:
+                    - link "2 lots" [ref=f5e832] [cursor=pointer]:
+                      - /url: javascript:popUpOpen('index.php?page=Entreprise.PopUpDetailLots&orgAccronyme=h5j&id=950040&lang=', 'Descriptif des lots - Consultation', 'toolbar=no,menubar=no,resizable=yeslocation=no,width=800,height=275,scrollbars=yes')
+                      - generic [aria-hidden] [ref=f5e833]: 
+                      - text: 2 lots
+                  - listitem [ref=f5e834]:
+                    - generic [ref=f5e836]:
+                      - generic [aria-hidden] [ref=f5e837]: 
+                      - text: (93) Seine-Saint-Denis
+                  - listitem [ref=f5e838]:
+                    - button [ref=f5e840] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+              - generic [ref=f5e841]:
+                - generic [ref=f5e842]:
+                  - text: 
+                  - generic [ref=f5e843]:
+                    - generic [ref=f5e844]:
+                      - generic [ref=f5e845]: "26"
+                      - generic:
+                        - generic [ref=f5e846]: Nov.
+                        - generic [ref=f5e847]: "2026"
+                    - generic [ref=f5e848]:
+                      - generic [ref=f5e849]: 
+                      - generic "Durée" [ref=f5e850]: 11:00
+                - img "Réponse électronique obligatoire pour cette consultation. Dispositions sur la signature électronique, se référer au RC ou à l'AAC." [ref=f5e852]
+              - list [ref=f5e854]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f5e855]:
+                  - list [ref=f5e857]:
+                    - listitem [ref=f5e858]:
+                      - link "Accéder à la consultation" [ref=f5e859] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/950040?orgAcronyme=h5j
+                        - generic [aria-hidden] [ref=f5e861]: 
+                    - listitem [ref=f5e862]:
+                      - link "Télécharger le RC" [ref=f5e863] [cursor=pointer]:
+                        - /url: /index.php?page=Entreprise.EntrepriseDownloadReglement&id=OTUwMDQw&orgAcronyme=h5j
+                        - strong [aria-hidden] [ref=f5e865]: RC
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f5e866]:
+                      - link "Tester la configuration de mon poste" [ref=f5e867] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f5e869]: 
+                    - listitem
+                    - listitem [ref=f5e870]:
+                      - link "Ajouter au panier" [ref=f5e871] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f5e873]: 
+                    - listitem
+                - listitem
+          - generic [ref=f5e875]:
+            - generic [ref=f5e876]:
+              - generic [ref=f5e877]: Afficher
+              - combobox "Afficher" [ref=f5e878]:
+                - option "10" [selected]
+                - option "20"
+            - generic [ref=f5e879]:
+              - generic [ref=f5e880]: Aller à la page
+              - generic [ref=f5e881]:
+                - generic [ref=f5e882]: résultats / page
+                - textbox "résultats / page" [ref=f5e883]: "1"
+                - generic [ref=f5e884]: / 43
+            - generic [ref=f5e887]:
+              - generic [ref=f5e888]: 
+              - generic [ref=f5e891]: 
+              - link "" [ref=f5e894] [cursor=pointer]:
+                - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_PagerBottom_ctl2
+              - link "" [ref=f5e897] [cursor=pointer]:
+                - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_PagerBottom_ctl3
+  - contentinfo [ref=f5e901]:
+    - generic [ref=f5e903]:
+      - list [ref=f5e905]:
+        - listitem [ref=f5e906]:
+          - link "Mentions légales" [ref=f5e907] [cursor=pointer]:
+            - /url: /entreprise/footer/info-site
+        - listitem [ref=f5e908]:
+          - link "Conditions d'utilisation" [ref=f5e909] [cursor=pointer]:
+            - /url: /entreprise/footer/conditions-utilisation
+        - listitem [ref=f5e910]:
+          - link "Pré-requis techniques" [ref=f5e911] [cursor=pointer]:
+            - /url: /entreprise/footer/prerequis-techniques
+        - listitem [ref=f5e912]:
+          - link "Accessibilité" [ref=f5e913] [cursor=pointer]:
+            - /url: /entreprise/footer/accessibilite
+        - listitem [ref=f5e914]:
+          - link "Autorités de certification européennes" [ref=f5e915] [cursor=pointer]:
+            - /url: /entreprise/footer/info-acrgs
+      - generic [ref=f5e916]:
+        - link [ref=f5e918] [cursor=pointer]:
+          - /url: /language/en
+          - button "en" [ref=f5e919]
+        - link [ref=f5e921] [cursor=pointer]:
+          - /url: /language
+          - button "fr" [ref=f5e922]
+  - img "chat icon" [ref=f5e924] [cursor=pointer]

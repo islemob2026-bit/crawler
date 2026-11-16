@@ -1,0 +1,863 @@
+- generic [active] [ref=f4e1]:
+  - banner [ref=f4e2]:
+    - link [ref=f4e7] [cursor=pointer]:
+      - /url: /entreprise
+      - img "Accueil" [ref=f4e8]
+  - generic:
+    - link "Aller au menu" [ref=f4e9] [cursor=pointer]:
+      - /url: "#horizonatal-menu"
+    - link "Aller au contenu" [ref=f4e10] [cursor=pointer]:
+      - /url: "#middle"
+  - navigation [ref=f4e12]:
+    - generic [ref=f4e13]:
+      - generic: 
+      - generic [ref=f4e15]:
+        - generic "Contact" [ref=f4e16]: 
+        - link "entreprise-auth" [ref=f4e18] [cursor=pointer]:
+          - /url: /entreprise/login
+          - generic [ref=f4e19]: 
+        - button "Toggle navigation" [ref=f4e20] [cursor=pointer]
+      - text:                               
+  - main [ref=f4e26]:
+    - generic [ref=f4e30]:
+      - navigation [ref=f4e32]:
+        - list [ref=f4e33]:
+          - listitem [ref=f4e34]:
+            - link "Accueil" [ref=f4e35] [cursor=pointer]:
+              - /url: /entreprise
+          - listitem [ref=f4e36]:
+            - text: /
+            - link "Recherche avancée" [ref=f4e37] [cursor=pointer]:
+              - /url: "?page=Entreprise.EntrepriseAdvancedSearch&searchAnnCons"
+          - listitem [ref=f4e38]: / Résultat
+      - list [ref=f4e39]:
+        - listitem [ref=f4e40]:
+          - link "" [ref=f4e41] [cursor=pointer]:
+            - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_ctl13
+        - listitem [ref=f4e44]:
+          - link "" [ref=f4e45] [cursor=pointer]:
+            - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_ctl15
+      - text:      
+      - generic [ref=f4e49]:
+        - generic [ref=f4e51]:
+          - heading [level=1]
+          - link "Légende " [ref=f4e53] [cursor=pointer]:
+            - /url: "#"
+            - text: Légende
+            - generic [ref=f4e54]: 
+        - generic [ref=f4e55]:
+          - generic [ref=f4e56]:
+            - strong [ref=f4e59]: "Nombre de résultats : 423"
+            - generic [ref=f4e60]:
+              - generic [ref=f4e61]:
+                - generic [ref=f4e62]: Afficher
+                - combobox "Afficher" [ref=f4e63]:
+                  - option "10" [selected]
+                  - option "20"
+              - generic [ref=f4e64]:
+                - generic [ref=f4e65]: Aller à la page
+                - generic [ref=f4e66]:
+                  - generic [ref=f4e67]: résultats / page
+                  - textbox "résultats / page" [ref=f4e68]: "1"
+                  - generic [ref=f4e69]: / 43
+              - generic [ref=f4e72]:
+                - generic [ref=f4e73]: 
+                - generic [ref=f4e76]: 
+                - link "" [ref=f4e79] [cursor=pointer]:
+                  - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_PagerTop_ctl2
+                - link "" [ref=f4e82] [cursor=pointer]:
+                  - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_PagerTop_ctl3
+          - generic [ref=f4e85]:
+            - generic [ref=f4e87]:
+              - list [ref=f4e90]:
+                - listitem [ref=f4e91]: Procédure
+                - listitem [ref=f4e92]:
+                  - link "Catégorie " [ref=f4e93] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl0
+                    - generic [ref=f4e94]:
+                      - text: Catégorie
+                      - generic [ref=f4e95]: 
+                - listitem [ref=f4e96]:
+                  - link "Publié le " [ref=f4e97] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl1
+                    - generic [ref=f4e98]:
+                      - text: Publié le
+                      - generic [ref=f4e99]: 
+              - list [ref=f4e101]:
+                - listitem [ref=f4e102]:
+                  - link "Référence " [ref=f4e103] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl2
+                    - generic [ref=f4e104]:
+                      - text: Référence
+                      - generic [ref=f4e105]: 
+                  - text: "|"
+                  - link "Intitulé " [ref=f4e106] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl3
+                    - generic [ref=f4e107]:
+                      - text: Intitulé
+                      - generic [ref=f4e108]: 
+                - listitem [ref=f4e109]:
+                  - link "Objet " [ref=f4e110] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl4
+                    - generic [ref=f4e111]:
+                      - text: Objet
+                      - generic [ref=f4e112]: 
+                - listitem [ref=f4e113]:
+                  - link "Organisme " [ref=f4e114] [cursor=pointer]:
+                    - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl5
+                    - generic [ref=f4e115]:
+                      - text: Organisme
+                      - generic [ref=f4e116]: 
+              - link "Date limite de remise des plis " [ref=f4e119] [cursor=pointer]:
+                - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_tableauResultSearch_ctl0_ctl7
+                - generic [ref=f4e120]:
+                  - text: Date limite de remise des plis
+                  - generic [ref=f4e121]: 
+              - generic [ref=f4e122]: Actions
+            - generic [ref=f4e123]:
+              - generic [ref=f4e126]:
+                - generic [ref=f4e127]: MAPA
+                - generic [ref=f4e129]: Services
+                - generic [ref=f4e130]:
+                  - generic [ref=f4e131]: "29"
+                  - generic [ref=f4e132]:
+                    - generic [ref=f4e133]: Mars
+                    - generic [ref=f4e134]: "2013"
+              - generic [ref=f4e136]:
+                - generic [ref=f4e138]:
+                  - generic [ref=f4e139]: Marchés 2012
+                  - generic [ref=f4e140]: "|"
+                  - generic [ref=f4e141]: Marchés enregistrés en 2012
+                - generic [ref=f4e143]:
+                  - strong [ref=f4e145]: "Objet :"
+                  - generic [ref=f4e146]: Marchés enregistrés en 2012
+                - generic [ref=f4e148]:
+                  - strong [ref=f4e150]: "Organisme :"
+                  - text: Autres collectivités de plateformes partenaires (93000 - Bobigny)
+                - list [ref=f4e152]:
+                  - listitem
+                  - listitem [ref=f4e153]:
+                    - generic [ref=f4e155]:
+                      - generic [aria-hidden] [ref=f4e156]: 
+                      - text: (93) Seine-Saint-Denis
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+              - generic [ref=f4e157]:
+                - generic [ref=f4e158]:
+                  - text: 
+                  - generic [ref=f4e159]:
+                    - generic [ref=f4e160]:
+                      - generic [ref=f4e161]: "31"
+                      - generic:
+                        - generic [ref=f4e162]: Déc.
+                        - generic [ref=f4e163]: "2030"
+                    - generic [ref=f4e164]:
+                      - generic [ref=f4e165]: 
+                      - generic "Durée" [ref=f4e166]: 23:45
+                - img "Réponse électronique non obligatoire pour cette consultation, sans signature électronique." [ref=f4e168]
+              - list [ref=f4e170]:
+                - text:  
+                - listitem
+                - text: 
+                - listitem [ref=f4e171]:
+                  - list [ref=f4e173]:
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f4e174]:
+                      - link "Accéder à la consultation du Profil Acheteur (lien externe)" [ref=f4e175] [cursor=pointer]:
+                        - /url: /redir.php?url=aHR0cHM6Ly93d3cuYWNoYXQtaG9waXRhbC5jb20veG1hcmNoZXMvYW5vbnltZS92aWV3VVJMLmRvP2RhdGE9MTY1RTBFMzA4NjIwMkY1MTYyODk3OEY3RDdGRkE5RTI5NUE5QzA0RjU1QTZDOTFGQkI5NUEwNkVENkM2MDgwNDAyQUNGNERCODBEQkUzNjg5QjBFOUZCMTUzQjNDNzc3
+                        - generic [aria-hidden] [ref=f4e177]: 
+                    - listitem
+                    - listitem
+                    - listitem: 
+                    - listitem
+                    - listitem [ref=f4e178]:
+                      - link "Ajouter au panier" [ref=f4e179] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f4e181]: 
+                    - listitem
+                - listitem
+            - generic [ref=f4e182]:
+              - generic [ref=f4e185]:
+                - generic [ref=f4e186]: MAPA
+                - generic [ref=f4e188]: Services
+                - generic [ref=f4e189]:
+                  - generic [ref=f4e190]: "29"
+                  - generic [ref=f4e191]:
+                    - generic [ref=f4e192]: Mars
+                    - generic [ref=f4e193]: "2013"
+              - generic [ref=f4e195]:
+                - generic [ref=f4e197]:
+                  - generic [ref=f4e198]: Marchés 2012
+                  - generic [ref=f4e199]: "|"
+                  - generic [ref=f4e200]: Marchés enregistrés en 2012
+                - generic [ref=f4e202]:
+                  - strong [ref=f4e204]: "Objet :"
+                  - generic [ref=f4e205]: Marchés enregistrés en 2012
+                - generic [ref=f4e207]:
+                  - strong [ref=f4e209]: "Organisme :"
+                  - text: Autres collectivités de plateformes partenaires (93000 - Bobigny)
+                - list [ref=f4e211]:
+                  - listitem
+                  - listitem [ref=f4e212]:
+                    - generic [ref=f4e214]:
+                      - generic [aria-hidden] [ref=f4e215]: 
+                      - text: (93) Seine-Saint-Denis
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+              - generic [ref=f4e216]:
+                - generic [ref=f4e217]:
+                  - text: 
+                  - generic [ref=f4e218]:
+                    - generic [ref=f4e219]:
+                      - generic [ref=f4e220]: "31"
+                      - generic:
+                        - generic [ref=f4e221]: Déc.
+                        - generic [ref=f4e222]: "2030"
+                    - generic [ref=f4e223]:
+                      - generic [ref=f4e224]: 
+                      - generic "Durée" [ref=f4e225]: 23:45
+                - img "Réponse électronique non obligatoire pour cette consultation, sans signature électronique." [ref=f4e227]
+              - list [ref=f4e229]:
+                - text:  
+                - listitem
+                - text: 
+                - listitem [ref=f4e230]:
+                  - list [ref=f4e232]:
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f4e233]:
+                      - link "Accéder à la consultation du Profil Acheteur (lien externe)" [ref=f4e234] [cursor=pointer]:
+                        - /url: /redir.php?url=aHR0cHM6Ly93d3cuYWNoYXQtaG9waXRhbC5jb20veG1hcmNoZXMvYW5vbnltZS92aWV3VVJMLmRvP2RhdGE9MTY1RTBFMzA4NjIwMkY1MTYyODk3OEY3RDdGRkE5RTI5NUE5QzA0RjU1QTZDOTFGQkI5NUEwNkVENkM2MDgwNDAyQUNGNERCODBEQkUzNjg5QjBFOUZCMTUzQjNDNzc3
+                        - generic [aria-hidden] [ref=f4e236]: 
+                    - listitem
+                    - listitem
+                    - listitem: 
+                    - listitem
+                    - listitem [ref=f4e237]:
+                      - link "Ajouter au panier" [ref=f4e238] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f4e240]: 
+                    - listitem
+                - listitem
+            - generic [ref=f4e241]:
+              - generic [ref=f4e244]:
+                - generic [ref=f4e245]: MAPA
+                - generic [ref=f4e247]: Services
+                - generic [ref=f4e248]:
+                  - generic [ref=f4e249]: "29"
+                  - generic [ref=f4e250]:
+                    - generic [ref=f4e251]: Mars
+                    - generic [ref=f4e252]: "2013"
+              - generic [ref=f4e254]:
+                - generic [ref=f4e256]:
+                  - generic [ref=f4e257]: Marchés 2012
+                  - generic [ref=f4e258]: "|"
+                  - generic [ref=f4e259]: Marchés enregistrés en 2012
+                - generic [ref=f4e261]:
+                  - strong [ref=f4e263]: "Objet :"
+                  - generic [ref=f4e264]: Marchés enregistrés en 2012
+                - generic [ref=f4e266]:
+                  - strong [ref=f4e268]: "Organisme :"
+                  - text: Autres collectivités de plateformes partenaires (93000 - Bobigny)
+                - list [ref=f4e270]:
+                  - listitem
+                  - listitem [ref=f4e271]:
+                    - generic [ref=f4e273]:
+                      - generic [aria-hidden] [ref=f4e274]: 
+                      - text: (93) Seine-Saint-Denis
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+              - generic [ref=f4e275]:
+                - generic [ref=f4e276]:
+                  - text: 
+                  - generic [ref=f4e277]:
+                    - generic [ref=f4e278]:
+                      - generic [ref=f4e279]: "31"
+                      - generic:
+                        - generic [ref=f4e280]: Déc.
+                        - generic [ref=f4e281]: "2030"
+                    - generic [ref=f4e282]:
+                      - generic [ref=f4e283]: 
+                      - generic "Durée" [ref=f4e284]: 23:45
+                - img "Réponse électronique non obligatoire pour cette consultation, sans signature électronique." [ref=f4e286]
+              - list [ref=f4e288]:
+                - text:  
+                - listitem
+                - text: 
+                - listitem [ref=f4e289]:
+                  - list [ref=f4e291]:
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f4e292]:
+                      - link "Accéder à la consultation du Profil Acheteur (lien externe)" [ref=f4e293] [cursor=pointer]:
+                        - /url: /redir.php?url=aHR0cHM6Ly93d3cuYWNoYXQtaG9waXRhbC5jb20veG1hcmNoZXMvYW5vbnltZS92aWV3VVJMLmRvP2RhdGE9MTY1RTBFMzA4NjIwMkY1MTYyODk3OEY3RDdGRkE5RTI5NUE5QzA0RjU1QTZDOTFGQkI5NUEwNkVENkM2MDgwNDAyQUNGNERCODBEQkUzNjg5QjBFOUZCMTUzQjNDNzc3
+                        - generic [aria-hidden] [ref=f4e295]: 
+                    - listitem
+                    - listitem
+                    - listitem: 
+                    - listitem
+                    - listitem [ref=f4e296]:
+                      - link "Ajouter au panier" [ref=f4e297] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f4e299]: 
+                    - listitem
+                - listitem
+            - generic [ref=f4e300]:
+              - generic [ref=f4e303]:
+                - generic [ref=f4e304]: MAPA
+                - generic [ref=f4e306]: Services
+                - generic [ref=f4e307]:
+                  - generic [ref=f4e308]: "31"
+                  - generic [ref=f4e309]:
+                    - generic [ref=f4e310]: Mars
+                    - generic [ref=f4e311]: "2014"
+              - generic [ref=f4e313]:
+                - generic [ref=f4e315]:
+                  - generic [ref=f4e316]: marchés 2013
+                  - generic [ref=f4e317]: "|"
+                  - generic [ref=f4e318]: marchés enregistrée en 2013
+                - generic [ref=f4e320]:
+                  - strong [ref=f4e322]: "Objet :"
+                  - generic [ref=f4e323]: marchés enregistrée en 2013
+                - generic [ref=f4e325]:
+                  - strong [ref=f4e327]: "Organisme :"
+                  - text: Autres collectivités de plateformes partenaires (93000 - Bobigny)
+                - list [ref=f4e329]:
+                  - listitem
+                  - listitem [ref=f4e330]:
+                    - generic [ref=f4e332]:
+                      - generic [aria-hidden] [ref=f4e333]: 
+                      - text: (93) Seine-Saint-Denis
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+              - generic [ref=f4e334]:
+                - generic [ref=f4e335]:
+                  - text: 
+                  - generic [ref=f4e336]:
+                    - generic [ref=f4e337]:
+                      - generic [ref=f4e338]: "31"
+                      - generic:
+                        - generic [ref=f4e339]: Déc.
+                        - generic [ref=f4e340]: "2030"
+                    - generic [ref=f4e341]:
+                      - generic [ref=f4e342]: 
+                      - generic "Durée" [ref=f4e343]: 23:45
+                - img "Réponse électronique non obligatoire pour cette consultation, sans signature électronique." [ref=f4e345]
+              - list [ref=f4e347]:
+                - text:  
+                - listitem
+                - text: 
+                - listitem [ref=f4e348]:
+                  - list [ref=f4e350]:
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f4e351]:
+                      - link "Accéder à la consultation du Profil Acheteur (lien externe)" [ref=f4e352] [cursor=pointer]:
+                        - /url: /redir.php?url=aHR0cHM6Ly93d3cuYWNoYXQtaG9waXRhbC5jb20veG1hcmNoZXMvYW5vbnltZS92aWV3VVJMLmRvP2RhdGE9MTY1RTBFMzA4NjIwMkY1MTYyODk3OEY3RDdGRkE5RTI5NUE5QzA0RjU1QTZDOTFGMUM4OUM3MThEQ0M0RDM1RDAyQUNGNERCODBEQkUzNjg5QjBFOUZCMTUzQjNDNzc3
+                        - generic [aria-hidden] [ref=f4e354]: 
+                    - listitem
+                    - listitem
+                    - listitem: 
+                    - listitem
+                    - listitem [ref=f4e355]:
+                      - link "Ajouter au panier" [ref=f4e356] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f4e358]: 
+                    - listitem
+                - listitem
+            - generic [ref=f4e359]:
+              - generic [ref=f4e362]:
+                - generic [ref=f4e363]: MAPA
+                - generic [ref=f4e365]: Services
+                - generic [ref=f4e366]:
+                  - generic [ref=f4e367]: "31"
+                  - generic [ref=f4e368]:
+                    - generic [ref=f4e369]: Mars
+                    - generic [ref=f4e370]: "2014"
+              - generic [ref=f4e372]:
+                - generic [ref=f4e374]:
+                  - generic [ref=f4e375]: marchés 2013
+                  - generic [ref=f4e376]: "|"
+                  - generic [ref=f4e377]: marchés enregistrée en 2013
+                - generic [ref=f4e379]:
+                  - strong [ref=f4e381]: "Objet :"
+                  - generic [ref=f4e382]: marchés enregistrée en 2013
+                - generic [ref=f4e384]:
+                  - strong [ref=f4e386]: "Organisme :"
+                  - text: Autres collectivités de plateformes partenaires (93000 - Bobigny)
+                - list [ref=f4e388]:
+                  - listitem
+                  - listitem [ref=f4e389]:
+                    - generic [ref=f4e391]:
+                      - generic [aria-hidden] [ref=f4e392]: 
+                      - text: (93) Seine-Saint-Denis
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+              - generic [ref=f4e393]:
+                - generic [ref=f4e394]:
+                  - text: 
+                  - generic [ref=f4e395]:
+                    - generic [ref=f4e396]:
+                      - generic [ref=f4e397]: "31"
+                      - generic:
+                        - generic [ref=f4e398]: Déc.
+                        - generic [ref=f4e399]: "2030"
+                    - generic [ref=f4e400]:
+                      - generic [ref=f4e401]: 
+                      - generic "Durée" [ref=f4e402]: 23:45
+                - img "Réponse électronique non obligatoire pour cette consultation, sans signature électronique." [ref=f4e404]
+              - list [ref=f4e406]:
+                - text:  
+                - listitem
+                - text: 
+                - listitem [ref=f4e407]:
+                  - list [ref=f4e409]:
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f4e410]:
+                      - link "Accéder à la consultation du Profil Acheteur (lien externe)" [ref=f4e411] [cursor=pointer]:
+                        - /url: /redir.php?url=aHR0cHM6Ly93d3cuYWNoYXQtaG9waXRhbC5jb20veG1hcmNoZXMvYW5vbnltZS92aWV3VVJMLmRvP2RhdGE9MTY1RTBFMzA4NjIwMkY1MTYyODk3OEY3RDdGRkE5RTI5NUE5QzA0RjU1QTZDOTFGMUM4OUM3MThEQ0M0RDM1RDAyQUNGNERCODBEQkUzNjg5QjBFOUZCMTUzQjNDNzc3
+                        - generic [aria-hidden] [ref=f4e413]: 
+                    - listitem
+                    - listitem
+                    - listitem: 
+                    - listitem
+                    - listitem [ref=f4e414]:
+                      - link "Ajouter au panier" [ref=f4e415] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f4e417]: 
+                    - listitem
+                - listitem
+            - generic [ref=f4e418]:
+              - generic [ref=f4e421]:
+                - generic [ref=f4e422]: MAPA
+                - generic [ref=f4e424]: Services
+                - generic [ref=f4e425]:
+                  - generic [ref=f4e426]: "31"
+                  - generic [ref=f4e427]:
+                    - generic [ref=f4e428]: Mars
+                    - generic [ref=f4e429]: "2014"
+              - generic [ref=f4e431]:
+                - generic [ref=f4e433]:
+                  - generic [ref=f4e434]: marchés 2013
+                  - generic [ref=f4e435]: "|"
+                  - generic [ref=f4e436]: march?s enregistr?e en 2013
+                - generic [ref=f4e438]:
+                  - strong [ref=f4e440]: "Objet :"
+                  - generic [ref=f4e441]: march?s enregistr?e en 2013
+                - generic [ref=f4e443]:
+                  - strong [ref=f4e445]: "Organisme :"
+                  - text: Autres collectivités de plateformes partenaires (93000 - Bobigny)
+                - list [ref=f4e447]:
+                  - listitem
+                  - listitem [ref=f4e448]:
+                    - generic [ref=f4e450]:
+                      - generic [aria-hidden] [ref=f4e451]: 
+                      - text: (75) Paris, (77) Seine-et-Marne
+                      - button "..." [ref=f4e452] [cursor=pointer]
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+              - generic [ref=f4e453]:
+                - generic [ref=f4e454]:
+                  - text: 
+                  - generic [ref=f4e455]:
+                    - generic [ref=f4e456]:
+                      - generic [ref=f4e457]: "31"
+                      - generic:
+                        - generic [ref=f4e458]: Déc.
+                        - generic [ref=f4e459]: "2030"
+                    - generic [ref=f4e460]:
+                      - generic [ref=f4e461]: 
+                      - generic "Durée" [ref=f4e462]: 23:45
+                - img "Réponse électronique non obligatoire pour cette consultation, sans signature électronique." [ref=f4e464]
+              - list [ref=f4e466]:
+                - text:  
+                - listitem
+                - text: 
+                - listitem [ref=f4e467]:
+                  - list [ref=f4e469]:
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f4e470]:
+                      - link "Accéder à la consultation du Profil Acheteur (lien externe)" [ref=f4e471] [cursor=pointer]:
+                        - /url: /redir.php?url=aHR0cHM6Ly9hY2hhdC1ob3BpdGFsLm9tbmlrbGVzLmNvbS94bWFyY2hlcy9hbm9ueW1lL3ZpZXdVUkwuZG8/ZGF0YT0xNjVFMEUzMDg2MjAyRjUxNjI4OTc4RjdEN0ZGQTlFMjk1QTlDMDRGNTVBNkM5MUYxQzg5QzcxOERDQzREMzVEMDJBQ0Y0REI4MERCRTM2ODlCMEU5RkIxNTNCM0M3Nzc=
+                        - generic [aria-hidden] [ref=f4e473]: 
+                    - listitem
+                    - listitem
+                    - listitem: 
+                    - listitem
+                    - listitem [ref=f4e474]:
+                      - link "Ajouter au panier" [ref=f4e475] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f4e477]: 
+                    - listitem
+                - listitem
+            - generic [ref=f4e478]:
+              - generic [ref=f4e481]:
+                - generic [ref=f4e482]: MAPA
+                - generic [ref=f4e484]: Services
+                - generic [ref=f4e485]:
+                  - generic [ref=f4e486]: "25"
+                  - generic [ref=f4e487]:
+                    - generic [ref=f4e488]: Avril
+                    - generic [ref=f4e489]: "2016"
+              - generic [ref=f4e491]:
+                - generic [ref=f4e493]:
+                  - generic [ref=f4e494]: article 133 -2015-travaux
+                  - generic [ref=f4e495]: "|"
+                  - generic [ref=f4e496]: Article 133 du CMP - Liste des march?s de travaux de l'ann?e 2015. en compl?ment de celles publi?es pour les march?s de fournitures et
+                - generic [ref=f4e498]:
+                  - strong [ref=f4e500]: "Objet :"
+                  - generic [ref=f4e501]: Article 133 du CMP - Liste des march?s de travaux de l'ann?e 2015. en compl?ment de celles publi?es pour les march?s de fournitures et services 2015
+                - generic [ref=f4e503]:
+                  - strong [ref=f4e505]: "Organisme :"
+                  - text: Autres collectivités de plateformes partenaires (93000 - Bobigny)
+                - list [ref=f4e507]:
+                  - listitem
+                  - listitem [ref=f4e508]:
+                    - generic [ref=f4e510]:
+                      - generic [aria-hidden] [ref=f4e511]: 
+                      - text: (75) Paris, (77) Seine-et-Marne
+                      - button "..." [ref=f4e512] [cursor=pointer]
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+              - generic [ref=f4e513]:
+                - generic [ref=f4e514]:
+                  - text: 
+                  - generic [ref=f4e515]:
+                    - generic [ref=f4e516]:
+                      - generic [ref=f4e517]: "31"
+                      - generic:
+                        - generic [ref=f4e518]: Déc.
+                        - generic [ref=f4e519]: "2040"
+                    - generic [ref=f4e520]:
+                      - generic [ref=f4e521]: 
+                      - generic "Durée" [ref=f4e522]: 23:45
+                - img "Réponse électronique non obligatoire pour cette consultation, sans signature électronique." [ref=f4e524]
+              - list [ref=f4e526]:
+                - text:  
+                - listitem
+                - text: 
+                - listitem [ref=f4e527]:
+                  - list [ref=f4e529]:
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f4e530]:
+                      - link "Accéder à la consultation du Profil Acheteur (lien externe)" [ref=f4e531] [cursor=pointer]:
+                        - /url: /redir.php?url=aHR0cHM6Ly9hY2hhdC1ob3BpdGFsLm9tbmlrbGVzLmNvbS94bWFyY2hlcy9hbm9ueW1lL3ZpZXdVUkwuZG8/ZGF0YT0xNjVFMEUzMDg2MjAyRjUxNjI4OTc4RjdEN0ZGQTlFMjU0NUQ5NTk3NDUxNjhBODc5QkVBNTQzM0Q4MTY5QTY2MDJBQ0Y0REI4MERCRTM2ODlCMEU5RkIxNTNCM0M3Nzc=
+                        - generic [aria-hidden] [ref=f4e533]: 
+                    - listitem
+                    - listitem
+                    - listitem: 
+                    - listitem
+                    - listitem [ref=f4e534]:
+                      - link "Ajouter au panier" [ref=f4e535] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f4e537]: 
+                    - listitem
+                - listitem
+            - generic [ref=f4e538]:
+              - generic [ref=f4e541]:
+                - generic [ref=f4e542]: MAPA
+                - generic [ref=f4e544]: Travaux
+                - generic [ref=f4e545]:
+                  - generic [ref=f4e546]: "21"
+                  - generic [ref=f4e547]:
+                    - generic [ref=f4e548]: Juin
+                    - generic [ref=f4e549]: "2018"
+                - link [ref=f4e551] [cursor=pointer]:
+                  - /url: https://www.habitat77.net/
+                  - img "SEML HABITAT 77" [ref=f4e552]
+              - generic [ref=f4e554]:
+                - generic [ref=f4e556]:
+                  - generic [ref=f4e557]: "1800024"
+                  - generic [ref=f4e558]: "|"
+                  - generic [ref=f4e559]: ENTRAINEMENT A LA REPONSE ELECTRONIQUE
+                - generic [ref=f4e561]:
+                  - strong [ref=f4e563]: "Objet :"
+                  - generic [ref=f4e564]: ENTRAINEMENT A LA REPONSE ELECTRONIQUE
+                - generic [ref=f4e566]:
+                  - strong [ref=f4e568]: "Organisme :"
+                  - text: SEML HABITAT 77 (77000 - MELUN)
+                - list [ref=f4e570]:
+                  - listitem
+                  - listitem [ref=f4e571]:
+                    - generic [ref=f4e573]:
+                      - generic [aria-hidden] [ref=f4e574]: 
+                      - text: (77) Seine-et-Marne
+                  - listitem [ref=f4e575]:
+                    - button [ref=f4e577] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem [ref=f4e578]:
+                    - generic [ref=f4e580]:
+                      - img "DUME défini par l'acheteur" [ref=f4e581]
+                      - generic [ref=f4e582]: DUME défini par l'acheteur
+                  - listitem
+                  - listitem
+              - generic [ref=f4e583]:
+                - generic [ref=f4e584]:
+                  - text: 
+                  - generic [ref=f4e585]:
+                    - generic [ref=f4e586]:
+                      - generic [ref=f4e587]: "31"
+                      - generic:
+                        - generic [ref=f4e588]: Déc.
+                        - generic [ref=f4e589]: "2030"
+                    - generic [ref=f4e590]:
+                      - generic [ref=f4e591]: 
+                      - generic "Durée" [ref=f4e592]: 12:00
+                - img "Réponse électronique obligatoire pour cette consultation, sans signature électronique." [ref=f4e594]
+              - list [ref=f4e596]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f4e597]:
+                  - list [ref=f4e599]:
+                    - listitem [ref=f4e600]:
+                      - link "Accéder à la consultation" [ref=f4e601] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/699761?orgAcronyme=c0u
+                        - generic [aria-hidden] [ref=f4e603]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f4e604]:
+                      - link "Tester la configuration de mon poste" [ref=f4e605] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f4e607]: 
+                    - listitem
+                    - listitem [ref=f4e608]:
+                      - link "Ajouter au panier" [ref=f4e609] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f4e611]: 
+                    - listitem
+                - listitem
+            - generic [ref=f4e612]:
+              - generic [ref=f4e615]:
+                - generic [ref=f4e616]: SAD-A
+                - generic [ref=f4e618]: Fournitures
+                - generic [ref=f4e619]:
+                  - generic [ref=f4e620]: "25"
+                  - generic [ref=f4e621]:
+                    - generic [ref=f4e622]: Janv.
+                    - generic [ref=f4e623]: "2021"
+                - generic "Organisme" [ref=f4e625]:
+                  - img "UGAP" [ref=f4e626]
+              - generic [ref=f4e628]:
+                - generic [ref=f4e630]:
+                  - generic [ref=f4e631]: 19U059
+                  - generic [ref=f4e632]: "|"
+                  - generic [ref=f4e633]: Dispositifs médicaux stériles et non stériles, instrumentation, consommables biomédicaux et prestations annexes
+                - generic [ref=f4e635]:
+                  - strong [ref=f4e637]: "Objet :"
+                  - generic [ref=f4e638]: Dispositifs médicaux stériles et non stériles, instrumentation, consommables biomédicaux et prestations annexes
+                - generic [ref=f4e640]:
+                  - strong [ref=f4e642]: "Organisme :"
+                  - text: UGAP (77420 - CHAMPS-SUR-MARNE)
+                - list [ref=f4e644]:
+                  - listitem [ref=f4e645]:
+                    - link "13 lots" [ref=f4e647] [cursor=pointer]:
+                      - /url: javascript:popUpOpen('index.php?page=Entreprise.PopUpDetailLots&orgAccronyme=a2w&id=767312&lang=', 'Descriptif des lots - Consultation', 'toolbar=no,menubar=no,resizable=yeslocation=no,width=800,height=275,scrollbars=yes')
+                      - generic [aria-hidden] [ref=f4e648]: 
+                      - text: 13 lots
+                  - listitem [ref=f4e649]:
+                    - generic [ref=f4e651]:
+                      - generic [aria-hidden] [ref=f4e652]: 
+                      - text: (67) Bas-Rhin, (68) Haut-Rhin
+                      - button "..." [ref=f4e653] [cursor=pointer]
+                  - listitem [ref=f4e654]:
+                    - button [ref=f4e656] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem
+                  - listitem
+                  - listitem
+              - generic [ref=f4e657]:
+                - generic [ref=f4e658]:
+                  - text: 
+                  - generic [ref=f4e659]:
+                    - generic [ref=f4e660]:
+                      - generic [ref=f4e661]: "30"
+                      - generic:
+                        - generic [ref=f4e662]: Sept.
+                        - generic [ref=f4e663]: "2030"
+                    - generic [ref=f4e664]:
+                      - generic [ref=f4e665]: 
+                      - generic "Durée" [ref=f4e666]: 11:00
+                - img "Réponse électronique obligatoire pour cette consultation. Dispositions sur la signature électronique, se référer au RC ou à l'AAC." [ref=f4e668]
+              - list [ref=f4e670]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f4e671]:
+                  - list [ref=f4e673]:
+                    - listitem [ref=f4e674]:
+                      - link "Accéder à la consultation" [ref=f4e675] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/767312?orgAcronyme=a2w
+                        - generic [aria-hidden] [ref=f4e677]: 
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f4e678]:
+                      - link "Tester la configuration de mon poste" [ref=f4e679] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f4e681]: 
+                    - listitem
+                    - listitem [ref=f4e682]:
+                      - link "Ajouter au panier" [ref=f4e683] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f4e685]: 
+                    - listitem
+                - listitem
+            - generic [ref=f4e686]:
+              - generic [ref=f4e689]:
+                - generic [ref=f4e690]: SAD-A
+                - generic [ref=f4e692]: Fournitures
+                - generic [ref=f4e693]:
+                  - generic [ref=f4e694]: "15"
+                  - generic [ref=f4e695]:
+                    - generic [ref=f4e696]: Avril
+                    - generic [ref=f4e697]: "2022"
+                - generic "Organisme" [ref=f4e699]:
+                  - img "RESAH" [ref=f4e700]
+              - generic [ref=f4e702]:
+                - generic [ref=f4e704]:
+                  - generic [ref=f4e705]: 2022-048-000-000
+                  - generic [ref=f4e706]: "|"
+                  - generic [ref=f4e707]: Fourniture de dispositifs médicaux implantables, non implantables stériles, consommables d'équipement stériles et prestations
+                - generic [ref=f4e709]:
+                  - strong [ref=f4e711]: "Objet :"
+                  - generic [ref=f4e712]: Le Système d’acquisition dynamique vise à la conclusion de Marchés spécifiques portant sur la fourniture de dispositifs médicaux implantables, non implantables stériles, consommables d’équipement stériles, et prestations associées.
+                - generic [ref=f4e714]:
+                  - strong [ref=f4e716]: "Organisme :"
+                  - text: RESAH (75012 - Paris)
+                - list [ref=f4e718]:
+                  - listitem
+                  - listitem [ref=f4e719]:
+                    - generic [ref=f4e721]:
+                      - generic [aria-hidden] [ref=f4e722]: 
+                      - text: (67) Bas-Rhin, (68) Haut-Rhin
+                      - button "..." [ref=f4e723] [cursor=pointer]
+                  - listitem [ref=f4e724]:
+                    - button [ref=f4e726] [cursor=pointer]
+                    - text: 
+                  - listitem
+                  - listitem [ref=f4e727]:
+                    - generic [ref=f4e729]:
+                      - img "DUME défini par l'acheteur" [ref=f4e730]
+                      - generic [ref=f4e731]: DUME défini par l'acheteur
+                  - listitem
+                  - listitem
+              - generic [ref=f4e732]:
+                - generic [ref=f4e733]:
+                  - text: 
+                  - generic [ref=f4e734]:
+                    - generic [ref=f4e735]:
+                      - generic [ref=f4e736]: "31"
+                      - generic:
+                        - generic [ref=f4e737]: Déc.
+                        - generic [ref=f4e738]: "2026"
+                    - generic [ref=f4e739]:
+                      - generic [ref=f4e740]: 
+                      - generic "Durée" [ref=f4e741]: 12:00
+                - img "Réponse électronique non obligatoire pour cette consultation, sans signature électronique." [ref=f4e743]
+              - list [ref=f4e745]:
+                - text: 
+                - listitem
+                - text: 
+                - listitem [ref=f4e746]:
+                  - list [ref=f4e748]:
+                    - listitem [ref=f4e749]:
+                      - link "Accéder à la consultation" [ref=f4e750] [cursor=pointer]:
+                        - /url: https://marches.maximilien.fr/entreprise/consultation/807623?orgAcronyme=a0z
+                        - generic [aria-hidden] [ref=f4e752]: 
+                    - listitem [ref=f4e753]:
+                      - link "Télécharger le RC" [ref=f4e754] [cursor=pointer]:
+                        - /url: /index.php?page=Entreprise.EntrepriseDownloadReglement&id=ODA3NjIz&orgAcronyme=a0z
+                        - strong [aria-hidden] [ref=f4e756]: RC
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem
+                    - listitem [ref=f4e757]:
+                      - link "Tester la configuration de mon poste" [ref=f4e758] [cursor=pointer]:
+                        - /url: /index.php/entreprise/footer/diagnostic-poste
+                        - generic [aria-hidden] [ref=f4e760]: 
+                    - listitem
+                    - listitem [ref=f4e761]:
+                      - link "Ajouter au panier" [ref=f4e762] [cursor=pointer]:
+                        - /url: index.php?page=Entreprise.EntrepriseHome&goto=%3Fpage%3DEntreprise.EntrepriseAccueilAuthentifie
+                        - generic [aria-hidden] [ref=f4e764]: 
+                    - listitem
+                - listitem
+          - generic [ref=f4e766]:
+            - generic [ref=f4e767]:
+              - generic [ref=f4e768]: Afficher
+              - combobox "Afficher" [ref=f4e769]:
+                - option "10" [selected]
+                - option "20"
+            - generic [ref=f4e770]:
+              - generic [ref=f4e771]: Aller à la page
+              - generic [ref=f4e772]:
+                - generic [ref=f4e773]: résultats / page
+                - textbox "résultats / page" [ref=f4e774]: "1"
+                - generic [ref=f4e775]: / 43
+            - generic [ref=f4e778]:
+              - generic [ref=f4e779]: 
+              - generic [ref=f4e782]: 
+              - link "" [ref=f4e785] [cursor=pointer]:
+                - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_PagerBottom_ctl2
+              - link "" [ref=f4e788] [cursor=pointer]:
+                - /url: javascript:;//ctl0_CONTENU_PAGE_resultSearch_PagerBottom_ctl3
+  - contentinfo [ref=f4e792]:
+    - generic [ref=f4e794]:
+      - list [ref=f4e796]:
+        - listitem [ref=f4e797]:
+          - link "Mentions légales" [ref=f4e798] [cursor=pointer]:
+            - /url: /entreprise/footer/info-site
+        - listitem [ref=f4e799]:
+          - link "Conditions d'utilisation" [ref=f4e800] [cursor=pointer]:
+            - /url: /entreprise/footer/conditions-utilisation
+        - listitem [ref=f4e801]:
+          - link "Pré-requis techniques" [ref=f4e802] [cursor=pointer]:
+            - /url: /entreprise/footer/prerequis-techniques
+        - listitem [ref=f4e803]:
+          - link "Accessibilité" [ref=f4e804] [cursor=pointer]:
+            - /url: /entreprise/footer/accessibilite
+        - listitem [ref=f4e805]:
+          - link "Autorités de certification européennes" [ref=f4e806] [cursor=pointer]:
+            - /url: /entreprise/footer/info-acrgs
+      - generic [ref=f4e807]:
+        - link [ref=f4e809] [cursor=pointer]:
+          - /url: /language/en
+          - button "en" [ref=f4e810]
+        - link [ref=f4e812] [cursor=pointer]:
+          - /url: /language
+          - button "fr" [ref=f4e813]
+  - img "chat icon" [ref=f4e815] [cursor=pointer]

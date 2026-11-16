@@ -1,0 +1,146 @@
+- generic [ref=f12e1]:
+  - generic "Google Maps" [ref=f12e9]:
+    - generic [ref=f12e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f12e15]
+      - search [ref=f12e20]:
+        - button "Retour" [ref=f12e636] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f12e637]: 
+        - generic [ref=f12e21]:
+          - combobox [ref=f12e23]: City Hotel Algiers
+          - button "Rechercher" [ref=f12e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f12e26]: 
+          - button "Fermer" [ref=f12e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f12e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f12e36]:
+        - generic [ref=f12e39]:
+          - button "Hôtels à proximité" [ref=f12e41] [cursor=pointer]:
+            - generic [ref=f12e42]:
+              - generic [aria-hidden] [ref=f12e44]: 
+              - generic [ref=f12e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f12e47] [cursor=pointer]:
+            - generic [ref=f12e48]:
+              - generic [aria-hidden] [ref=f12e50]: 
+              - generic [ref=f12e51]: Restaurants
+          - button "Activités à découvrir" [ref=f12e53] [cursor=pointer]:
+            - generic [ref=f12e54]:
+              - generic [aria-hidden] [ref=f12e56]: 
+              - generic [ref=f12e57]: Activités à découvrir
+          - button "Bars" [ref=f12e59] [cursor=pointer]:
+            - generic [ref=f12e60]:
+              - generic [aria-hidden] [ref=f12e62]: 
+              - generic [ref=f12e63]: Bars
+          - button "Cafés" [ref=f12e65] [cursor=pointer]:
+            - generic [ref=f12e66]:
+              - generic [aria-hidden] [ref=f12e68]: 
+              - generic [ref=f12e69]: Cafés
+          - button "Pharmacies" [ref=f12e71] [cursor=pointer]:
+            - generic [ref=f12e72]:
+              - generic [aria-hidden] [ref=f12e74]: 
+              - generic [ref=f12e75]: Pharmacies
+          - button "Parkings" [ref=f12e77] [cursor=pointer]:
+            - generic [ref=f12e78]:
+              - generic [aria-hidden] [ref=f12e80]: 
+              - generic [ref=f12e81]: Parkings
+      - generic [ref=f12e82]:
+        - generic [ref=f12e83]:
+          - list [ref=f12e85]:
+            - listitem [ref=f12e86]:
+              - button "Menu" [ref=f12e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e89]: 
+            - listitem [ref=f12e90]:
+              - button "Enregistré" [ref=f12e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e93]: 
+            - listitem [ref=f12e96]:
+              - button "Récents" [ref=f12e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e99]: 
+            - listitem [ref=f12e103]:
+              - button "City Hotel Algiers" [ref=f12e104] [cursor=pointer]
+            - listitem [ref=f12e112]:
+              - button "Obtenir l'appli" [ref=f12e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f12e115]: 
+          - main "City Hotel Algiers" [ref=f12e122]:
+            - tablist [ref=f12e165]:
+              - tab "City Hotel Algiers - Présentation" [ref=f12e166]:
+                - generic [aria-hidden] [ref=f12e168]: Présentation
+              - tab "Prix pour City Hotel Algiers" [ref=f12e170]:
+                - generic [aria-hidden] [ref=f12e172]: Prix
+              - tab "City Hotel Algiers - Avis" [selected] [ref=f12e174]:
+                - generic [aria-hidden] [ref=f12e176]: Avis
+              - tab "Informations sur City Hotel Algiers" [ref=f12e178]:
+                - generic [aria-hidden] [ref=f12e180]: À propos
+            - generic [ref=f12e639]:
+              - generic [ref=f12e641]:
+                - list [ref=f12e643]:
+                  - listitem [ref=f12e644]: 7 262 DA
+                  - text: ·
+                  - listitem [ref=f12e645]: Hôtel 3 étoiles
+                - generic [ref=f12e646]: 7–8 nov.
+              - link [ref=f12e650] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f12e651]:
+                  - generic [aria-hidden] [ref=f12e652]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f12e654]:
+              - generic [ref=f12e655]:
+                - heading "Résumé des avis Google" [level=2] [ref=f12e657]
+                - button "Informations" [ref=f12e659] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f12e660]: 
+              - generic [ref=f12e662]:
+                - table [ref=f12e664]:
+                  - rowgroup [ref=f12e665]:
+                    - img "5 étoiles, 269 avis" [ref=f12e666]: "5"
+                    - img "4 étoiles, 110 avis" [ref=f12e669]: "4"
+                    - img "3 étoiles, 66 avis" [ref=f12e672]: "3"
+                    - img "2 étoiles, 24 avis" [ref=f12e675]: "2"
+                    - img "1 étoiles, 122 avis" [ref=f12e678]: "1"
+                - generic [ref=f12e681]:
+                  - generic [ref=f12e682]: 3,6
+                  - img "3,6 étoiles" [ref=f12e683]
+                  - generic [ref=f12e689]: 591 avis
+              - button "Rédiger un avis" [ref=f12e693] [cursor=pointer]:
+                - generic [ref=f12e694]:
+                  - generic [aria-hidden] [ref=f12e695]: 
+                  - generic [ref=f12e696]: Rédiger un avis
+              - generic [ref=f12e700]:
+                - textbox [active] [ref=f12e1593]: enfant
+                - button "Effacer" [ref=f12e1594] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f12e1595]: 
+              - generic [ref=f12e702]:
+                - button "Tous les avis" [ref=f12e703] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f12e705]: 
+                - button "Avis les plus pertinents" [ref=f12e706] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f12e708]: 
+              - generic [ref=f12e1597]:
+                - generic [ref=f12e1598]: Aucun avis ne mentionne "enfant"
+                - button "Afficher tous les avis" [ref=f12e1601] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=f12e576] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f12e577]: 
+      - generic [ref=f12e581]:
+        - button "Applications Google" [ref=f12e585] [cursor=pointer]
+        - link "Connexion" [ref=f12e589] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FCity%2BHotel%2BAlgiers%2F%4036.7626114%2C3.0564456%2C17z%2Fdata%3D!4m11!3m10!1s0x128fb2603913f341%3A0x91fa04bf5182c1bb!5m2!4m1!1i2!8m2!3d36.7626114!4d3.0564456!9m1!1b1!16s%252Fg%252F11c60573q3%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f12e592] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f12e594]: 
+          - generic [ref=f12e596] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f12e597]:
+              - generic [aria-hidden] [ref=f12e599]: 
+            - button "Faire un zoom arrière" [ref=f12e600]:
+              - generic [aria-hidden] [ref=f12e602]: 
+        - button "Parcourir les images Street View" [ref=f12e608]
+        - generic [ref=f12e610]:
+          - generic "Carte interactive" [ref=f12e611]
+          - generic [ref=f12e615] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f12e616]: 
+            - generic [ref=f12e617]: Calques
+          - button "Calques" [ref=f12e618] [cursor=pointer]
+      - generic [ref=f12e620]:
+        - contentinfo [ref=f12e623]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f12e624] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f12e625] [cursor=pointer]
+          - button "Confidentialité" [ref=f12e626] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f12e627] [cursor=pointer]
+        - button "100 m" [ref=f12e629] [cursor=pointer]
+  - generic [ref=f12e1025]: Affichage des résultats pour enfant

@@ -1,0 +1,399 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e5]:
+    - navigation [ref=f3e472]
+    - navigation [ref=f3e475]
+    - banner [ref=f3e6]:
+      - generic [ref=f3e8]:
+        - button "القائمة" [ref=f3e9] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f3e10]: 󰍜
+        - link [ref=f3e12] [cursor=pointer]:
+          - /url: /
+          - img "واد كنيس" [ref=f3e13]
+        - generic [ref=f3e18]:
+          - textbox "أدخل بحثك هنا" [ref=f3e20]
+          - text: 󰅖
+          - button "بحث" [ref=f3e22] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f3e23]: 󰍉
+        - generic [ref=f3e24]:
+          - button "سلة المشتريات" [ref=f3e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f3e27]: 󰄐
+          - button "إضافة إعلان" [ref=f3e29] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f3e30]: 󰐙
+          - link "تسجيل الدخول" [ref=f3e31] [cursor=pointer]:
+            - /url: /auth/login
+            - generic [aria-hidden] [ref=f3e32]: 󰀄
+    - main [ref=f3e33]:
+      - generic [ref=f3e476]:
+        - generic [ref=f3e481]:
+          - link "algomat" [ref=f3e485] [cursor=pointer]:
+            - /url: https://www.ouedkniss.com/store/10141/algomat
+            - img "Slide Listing - ALGOMAT" [ref=f3e487]
+          - generic [ref=f3e490]:
+            - insertion [ref=f3e492]:
+              - iframe [ref=f3e494]
+            - link [ref=f3e495] [cursor=pointer]:
+              - /url: https://okn.is/oQmt9l
+              - img "DESKTOP_LISTING_SQUARE" [ref=f3e497]
+        - generic [ref=f3e542]:
+          - generic [ref=f3e544]:
+            - generic [aria-hidden] [ref=f3e546]: 󰉁
+            - heading "إشهار" [level=2] [ref=f3e548]
+          - generic [ref=f3e552]:
+            - insertion [ref=f3e554]:
+              - iframe [ref=f3e556]:
+                - generic [ref=f15e1]:
+                  - generic:
+                    - link:
+                      - /url: https://insight.adsrvr.org/track/clk?imp=ba88bc6b-740b-4797-9135-246b506e6c5d&ag=f3runem&sfe=1d21517d&sig=RjdWCSMqxSyQOAiu6Xv8Wv2HFY31KJ_fYiSNg1g99ks.&crid=74ns4s0n&cf=10748678&fq=0&t=1&td_s=www.ouedkniss.com&rcats=&mste=&mfld=2&mssi=&mfsi=&sv=google&uhow=61&agsa=&wp=aunRfQAJ2poIuNTdADsBzvMsLFlYQkUEBu5JNA&rgz=16059&dt=PC&osf=Windows&os=Windows11&br=Chrome&svpid=pub-5241829053163588&rlangs=ar&mlang=&did=&rcxt=Other&tmpc=22.99000000000001&vrtd=&osi=&osv=&daid=&dnr=0&vpb=&crrelr=&npt=&cc=3~KLUv_WPYfRZoGgJ1DQD0D2u8iLoLdJdHEZE1JGtQbmxdQgdmM3J1bmVtSI3s2w1QhoaQBVoINzRuczRzMG5gjLS2G291ZWRrbmlzZkZfWC1jcnU5cHRBN2UxMjVNYkM0PQUiCU91ZWQAhP77jOHrBBgeZ2VjazNod9AC-p-MA_02oIukhdvr3D8KMjY4NTeB7Ojhr8uXzbwBELn8kRZCT0s5SlN5RzRGV2NWVm90WHZNMDBkYS9zXxFvNKkFjAc9aOIs1KUfTRj1n08RowrZUDzINoH8zPup6FoYJAYIwcfBx0JPC6gTPMgTPNATAP0TJQaRP4AUAaAUALAUALgUAMgUAOoU8BSRAbIVANgVADP8GAHD8AfCcDfgR9E2r0vknqFDqAVIrVbuZTahs-xnQcznB3nVWoXuaZHQHtUQlXV0hVuJA_Xb8QFmsSlLlheMKILgMBZxlaLpSaPWdlwwhWq65LiP00ENOl1SK8VuA0J3rsaMRWTe6i7Qu4Z4zZm5KOtQPsKQyrWWhUudS1DsRhkfwRFVGZqxLG-TSy_qoJzrRkrD33BiVV4FzZ0VpPxsh2h5zDyEbizKtjQs&dur=2~KLUv_SMNLtZUXWUAACAHHiQ-AQBWPk0MCA..&durs=f2ZnlQ&bdc=96&fpa=573&pcm=3&ict=Unknown&said=BOK9JSyG4FWcVVotXvM02A&auct=1&tail=1&r=https://adclick.g.doubleclick.net/aclk%3Fsa%3DL%26ai%3DCtYSTfdHpapq1J92p4_UPzoPskQG-p-f2dPb-j45XwI23ARABIJrvridgDcgBCagDAcgDAqoE2wFP0McwhJtoxO26L-NFLuCw5HaAacQuVMRg87BuXEUc1MygHOa5PC5IRPuSRvb-r4MZQiHUffjNYdEeTm3zw8S8H9JnWZp92qd8tuIVrNyL2EVK9r6u5crLCqceWrHen7C0Uwjk2xnX6UfL-iXmf-cbwyww6fgMrr0kCLnDD0VoA6um3t1yk2SA3UbV9O-HE-_QgQUBWTogXo5ZV3jD8Q9W6YdoLgUaGFziZTGD4lztB084Rrcll-Jd2ItrASvrzV2XWcbyvJY-e4wvHbCAicQ4RVclUagWPnieipOABqyx9ZiEvYv8uQGgBiGoB5PYsQKoB5TYsQKoB5XYsQKoB6nrsQKoB6a-G6gHltgbqAeqm7ECqAf_nrECqAffn7ECqAf-6LECqAetvrECqAe_07EC2AcA0ggwCIBhEAEyCIqCgICAgIAIOg-AQIDAgICAgKiAAqiDgBhIvf3BOljlj8nG5OuXA2AA-gsCCAGADAGqDQJEWuoNEwip7M3G5OuXAxXd1LgIHc4BOxKIDgnQFQGAFwGyFxAYDCoKODcwNDUxODQ2OFABqhgXCVXjpZsEwMJAEgo4NzA0NTE4NDY4GAE%26num%3D1%26sig%3DAOD64_1lQS14c28rRJUQ8BV7nX7rUI9rSw%26adurl%3Dhttps://netshort.onelink.me/XC68?pid=thetradedesk_int&af_siteid=www.ouedkniss.com&c=geck3hw&af_c_id=geck3hw&af_adset_id=f3runem&af_ad_id=74ns4s0n&af_click_lookback=7d&clickid=ba88bc6b-740b-4797-9135-246b506e6c5d&idfa=&advertising_id=&android_id=&af_sig=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJ0aGV0cmFkZWRlc2tfaW50IiwiYXVkIjpbImNsaWNrIl0sInZlciI6InYxIiwiaWF0IjoxNzkzNzA4NDEzLCJleHAiOjE3OTM3MTIwMTMsImp0aSI6ImJhODhiYzZiLTc0MGItNDc5Ny05MTM1LTI0NmI1MDZlNmM1ZCIsInN1YiI6IlhDNjgiLCJwYXJhbXMiOnsicGlkIjoidGhldHJhZGVkZXNrX2ludCIsImMiOiJnZWNrM2h3IiwiYWZfc2l0ZWlkIjoid3d3Lm91ZWRrbmlzcy5jb20ifX0.7L0Iv6q2JvlOzPzFZpLt5CtSSfzhd_uQpE1Biuc6F2I
+            - link [ref=f3e557] [cursor=pointer]:
+              - /url: https://okn.is/g6v6VW
+              - img "DESKTOP_LISTING_HEADER" [ref=f3e559]
+        - generic [ref=f3e561]:
+          - generic [ref=f3e563]:
+            - heading [level=2] [ref=f3e571]:
+              - heading "سيارات و مركبات" [level=1] [ref=f3e572]
+            - generic [ref=f3e576]:
+              - textbox "البحث في هذه الفئة" [ref=f3e578]
+              - text: 󰅖
+              - generic [ref=f3e579]:
+                - button "بحث" [disabled]:
+                  - generic [aria-hidden]: 󰍉
+            - generic [ref=f3e582]:
+              - button "تخصيص" [ref=f3e583] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f3e584]: 󰘮
+                - text: تخصيص
+              - button "ترتيب" [ref=f3e585] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f3e586]: 󰅀
+                - text: ترتيب
+          - generic [ref=f3e589]:
+            - generic [ref=f3e592]:
+              - generic [aria-hidden] [ref=f3e594]: 󰓎
+              - heading "إعلانات مميزة" [level=2] [ref=f3e596]
+            - generic [ref=f3e606]:
+              - generic [ref=f3e608]:
+                - generic [aria-hidden] [ref=f3e610]: 󰓜
+                - heading "المتاجر" [level=2] [ref=f3e612]
+              - generic [ref=f3e615]:
+                - generic [ref=f3e617]:
+                  - link "AUTO PLUS Vente de véhicules Neuf est occasion multi marque بوزريعة, الجزائر 19 إعلان Image" [ref=f3e618] [cursor=pointer]:
+                    - /url: /store/341/auto-plus/
+                    - generic [ref=f3e623]:
+                      - generic [ref=f3e624]:
+                        - heading "AUTO PLUS" [level=3] [ref=f3e626]
+                        - generic [ref=f3e627]: Vente de véhicules Neuf est occasion multi marque
+                        - generic [ref=f3e628]:
+                          - generic [ref=f3e629]:
+                            - generic [aria-hidden] [ref=f3e630]: 󰍎
+                            - text: بوزريعة, الجزائر
+                          - generic [ref=f3e631]:
+                            - generic [aria-hidden] [ref=f3e632]: 󰓜
+                            - text: 19 إعلان
+                      - img "Image" [ref=f3e635]
+                  - generic [ref=f3e636]:
+                    - separator [ref=f3e637]
+                    - generic [ref=f3e638]:
+                      - button "اتصال" [ref=f3e639] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f3e640]: 󰏲
+                      - button "اشترك" [ref=f3e644] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f3e645]: 󰂞
+                        - text: اشترك
+                - generic [ref=f3e647]:
+                  - link "Auto focus Achat vente location vehicule Polissage / lustrage / protection ce... درارية, الجزائر 7 إعلان Image" [ref=f3e648] [cursor=pointer]:
+                    - /url: /store/26710/auto-focus/
+                    - generic [ref=f3e653]:
+                      - generic [ref=f3e654]:
+                        - heading "Auto focus" [level=3] [ref=f3e656]
+                        - generic [ref=f3e657]: Achat vente location vehicule Polissage / lustrage / protection ce...
+                        - generic [ref=f3e658]:
+                          - generic [ref=f3e659]:
+                            - generic [aria-hidden] [ref=f3e660]: 󰍎
+                            - text: درارية, الجزائر
+                          - generic [ref=f3e661]:
+                            - generic [aria-hidden] [ref=f3e662]: 󰓜
+                            - text: 7 إعلان
+                      - img "Image" [ref=f3e665]
+                  - generic [ref=f3e666]:
+                    - separator [ref=f3e667]
+                    - generic [ref=f3e668]:
+                      - button "اتصال" [ref=f3e669] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f3e670]: 󰏲
+                      - button "اشترك" [ref=f3e674] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f3e675]: 󰂞
+                        - text: اشترك
+                - generic [ref=f3e677]:
+                  - link "CHM AUTOMOTIVE Chez CHM, nous vous proposons les meilleures marques de voitures à ... شراقة, الجزائر 53 إعلان Image" [ref=f3e678] [cursor=pointer]:
+                    - /url: /store/31276/chm-automotive/
+                    - generic [ref=f3e683]:
+                      - generic [ref=f3e684]:
+                        - heading "CHM AUTOMOTIVE" [level=3] [ref=f3e686]
+                        - generic [ref=f3e687]: Chez CHM, nous vous proposons les meilleures marques de voitures à ...
+                        - generic [ref=f3e688]:
+                          - generic [ref=f3e689]:
+                            - generic [aria-hidden] [ref=f3e690]: 󰍎
+                            - text: شراقة, الجزائر
+                          - generic [ref=f3e691]:
+                            - generic [aria-hidden] [ref=f3e692]: 󰓜
+                            - text: 53 إعلان
+                      - img "Image" [ref=f3e695]
+                  - generic [ref=f3e696]:
+                    - separator [ref=f3e697]
+                    - generic [ref=f3e698]:
+                      - button "اتصال" [ref=f3e699] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f3e700]: 󰏲
+                      - button "اشترك" [ref=f3e704] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f3e705]: 󰂞
+                        - text: اشترك
+                - generic [ref=f3e707]:
+                  - link "RAIS CAR Vente et achat de véhicule الرويبة, الجزائر 15 إعلان Image" [ref=f3e708] [cursor=pointer]:
+                    - /url: /store/40157/rais-car/
+                    - generic [ref=f3e713]:
+                      - generic [ref=f3e714]:
+                        - heading "RAIS CAR" [level=3] [ref=f3e716]
+                        - generic [ref=f3e717]: Vente et achat de véhicule
+                        - generic [ref=f3e718]:
+                          - generic [ref=f3e719]:
+                            - generic [aria-hidden] [ref=f3e720]: 󰍎
+                            - text: الرويبة, الجزائر
+                          - generic [ref=f3e721]:
+                            - generic [aria-hidden] [ref=f3e722]: 󰓜
+                            - text: 15 إعلان
+                      - img "Image" [ref=f3e725]
+                  - generic [ref=f3e726]:
+                    - separator [ref=f3e727]
+                    - generic [ref=f3e728]:
+                      - button "اتصال" [ref=f3e729] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f3e730]: 󰏲
+                      - button "اشترك" [ref=f3e734] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f3e735]: 󰂞
+                        - text: اشترك
+                - generic [ref=f3e737]:
+                  - link "MD AUTO Concessionnaire automobile spécialisé dans VENTE ACHAT REPRIS بيع ... عين بنيان, الجزائر 27 إعلان Image" [ref=f3e738] [cursor=pointer]:
+                    - /url: /store/32293/md-auto/
+                    - generic [ref=f3e743]:
+                      - generic [ref=f3e744]:
+                        - heading "MD AUTO" [level=3] [ref=f3e746]
+                        - generic [ref=f3e747]: Concessionnaire automobile spécialisé dans VENTE ACHAT REPRIS بيع ...
+                        - generic [ref=f3e748]:
+                          - generic [ref=f3e749]:
+                            - generic [aria-hidden] [ref=f3e750]: 󰍎
+                            - text: عين بنيان, الجزائر
+                          - generic [ref=f3e751]:
+                            - generic [aria-hidden] [ref=f3e752]: 󰓜
+                            - text: 27 إعلان
+                      - img "Image" [ref=f3e755]
+                  - generic [ref=f3e756]:
+                    - separator [ref=f3e757]
+                    - generic [ref=f3e758]:
+                      - button "اتصال" [ref=f3e759] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f3e760]: 󰏲
+                      - button "اشترك" [ref=f3e764] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f3e765]: 󰂞
+                        - text: اشترك
+            - generic [ref=f3e795]:
+              - generic [aria-hidden] [ref=f3e797]: 󰃦
+              - heading "إعلانات" [level=2] [ref=f3e799]
+            - generic [ref=f3e801]:
+              - generic [ref=f3e805]:
+                - link "سيارات-mg-mg5-2026-comfort-أولاد-موسى-بومرداس-الجزائر تعليق تسجيل إعجاب إعلانات محفوظة مشاركة MG MG5 2026 Comfort 1.5 Ess 128CH - 180DVVT بنزين يدوية أولاد موسى, 35 5 ثواني" [ref=f3e806] [cursor=pointer]:
+                  - /url: /%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-mg-mg5-2026-comfort-%D8%A3%D9%88%D9%84%D8%A7%D8%AF-%D9%85%D9%88%D8%B3%D9%89-%D8%A8%D9%88%D9%85%D8%B1%D8%AF%D8%A7%D8%B3-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-d58418334
+                  - img "سيارات-mg-mg5-2026-comfort-أولاد-موسى-بومرداس-الجزائر" [ref=f3e809]
+                  - generic [ref=f3e810]:
+                    - generic [ref=f3e811]:
+                      - button "تعليق" [ref=f3e812]:
+                        - generic [aria-hidden] [ref=f3e813]: 󰆂
+                      - button "تسجيل إعجاب" [ref=f3e814]:
+                        - generic [aria-hidden] [ref=f3e816]: 󱢠
+                      - button "إعلانات محفوظة" [ref=f3e817]:
+                        - generic [aria-hidden] [ref=f3e818]: 󰃃
+                      - button "مشاركة" [ref=f3e820]:
+                        - generic [aria-hidden] [ref=f3e821]: 󰒗
+                    - generic [ref=f3e822]:
+                      - heading "MG MG5 2026 Comfort" [level=3] [ref=f3e823]
+                      - generic [ref=f3e824]: 1.5 Ess 128CH - 180DVVT
+                      - generic [ref=f3e826]: بنزين
+                      - generic [ref=f3e828]: يدوية
+                      - generic [ref=f3e830]:
+                        - generic [aria-hidden] [ref=f3e831]: 󰍎
+                        - text: أولاد موسى, 35
+                      - generic [ref=f3e832]:
+                        - generic [aria-hidden] [ref=f3e833]: 󰚰
+                        - text: 5 ثواني
+                - link "Image chakib auto" [ref=f3e835] [cursor=pointer]:
+                  - /url: /store/27670/chakib-auto/
+                  - img "Image" [ref=f3e837]
+                  - generic [ref=f3e838]: chakib auto
+                - generic [ref=f3e839]:
+                  - separator [ref=f3e840]
+                  - generic [ref=f3e841]:
+                    - button "إتصال" [ref=f3e842] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f3e843]: 󰏲
+                    - button "رسالة" [ref=f3e846] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f3e847]: 󰍪
+              - generic [ref=f3e852]:
+                - link "سيارات-geely-coolray-2026-battle-أولاد-موسى-بومرداس-الجزائر تعليق تسجيل إعجاب إعلانات محفوظة مشاركة Geely Coolray 2026 Battle 1.5 Turbo 181 ch بنزين أوتوكانيكية أولاد موسى, 35 12 ثانية" [ref=f3e853] [cursor=pointer]:
+                  - /url: /%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-geely-coolray-2026-battle-%D8%A3%D9%88%D9%84%D8%A7%D8%AF-%D9%85%D9%88%D8%B3%D9%89-%D8%A8%D9%88%D9%85%D8%B1%D8%AF%D8%A7%D8%B3-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-d58324704
+                  - img "سيارات-geely-coolray-2026-battle-أولاد-موسى-بومرداس-الجزائر" [ref=f3e856]
+                  - generic [ref=f3e857]:
+                    - generic [ref=f3e858]:
+                      - button "تعليق" [ref=f3e859]:
+                        - generic [aria-hidden] [ref=f3e860]: 󰆂
+                      - button "تسجيل إعجاب" [ref=f3e861]:
+                        - generic [aria-hidden] [ref=f3e863]: 󱢠
+                      - button "إعلانات محفوظة" [ref=f3e864]:
+                        - generic [aria-hidden] [ref=f3e865]: 󰃃
+                      - button "مشاركة" [ref=f3e867]:
+                        - generic [aria-hidden] [ref=f3e868]: 󰒗
+                    - generic [ref=f3e869]:
+                      - heading "Geely Coolray 2026 Battle" [level=3] [ref=f3e870]
+                      - generic [ref=f3e871]: 1.5 Turbo 181 ch
+                      - generic [ref=f3e873]: بنزين
+                      - generic [ref=f3e875]: أوتوكانيكية
+                      - generic [ref=f3e877]:
+                        - generic [aria-hidden] [ref=f3e878]: 󰍎
+                        - text: أولاد موسى, 35
+                      - generic [ref=f3e879]:
+                        - generic [aria-hidden] [ref=f3e880]: 󰚰
+                        - text: 12 ثانية
+                - link "Image chakib auto" [ref=f3e882] [cursor=pointer]:
+                  - /url: /store/27670/chakib-auto/
+                  - img "Image" [ref=f3e884]
+                  - generic [ref=f3e885]: chakib auto
+                - generic [ref=f3e886]:
+                  - separator [ref=f3e887]
+                  - generic [ref=f3e888]:
+                    - button "إتصال" [ref=f3e889] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f3e890]: 󰏲
+                    - button "رسالة" [ref=f3e893] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f3e894]: 󰍪
+              - generic [ref=f3e899]:
+                - 'link "Image Previous Next تعليق تسجيل إعجاب: 2 إعلانات محفوظة مشاركة Seat Arona 2024 FR 1.0 110CH بنزين 15300كم يدوية المحمدية, 16 دقيقة واحدة" [ref=f3e900] [cursor=pointer]':
+                  - /url: /%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-seat-arona-2024-fr-%D8%A7%D9%84%D9%85%D8%AD%D9%85%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-d57270915
+                  - generic [ref=f3e902]:
+                    - img "Image" [ref=f3e905]
+                    - generic [ref=f3e907]:
+                      - button [ref=f3e908]
+                      - button [ref=f3e910]
+                      - button [ref=f3e912]
+                      - button [ref=f3e914]
+                    - button "Previous" [disabled] [ref=f3e916]:
+                      - generic [aria-hidden] [ref=f3e917]: 󰅁
+                    - button "Next" [ref=f3e918]:
+                      - generic [aria-hidden] [ref=f3e919]: 󰅂
+                  - generic [ref=f3e920]:
+                    - generic [ref=f3e921]:
+                      - button "تعليق" [ref=f3e922]:
+                        - generic [aria-hidden] [ref=f3e923]: 󰆂
+                      - 'button "تسجيل إعجاب: 2" [ref=f3e924]':
+                        - generic [ref=f3e925]:
+                          - generic [aria-hidden] [ref=f3e926]: 󱢠
+                          - generic [ref=f3e927]: "2"
+                      - button "إعلانات محفوظة" [ref=f3e928]:
+                        - generic [aria-hidden] [ref=f3e929]: 󰃃
+                      - button "مشاركة" [ref=f3e931]:
+                        - generic [aria-hidden] [ref=f3e932]: 󰒗
+                    - generic [ref=f3e933]:
+                      - heading "Seat Arona 2024 FR" [level=3] [ref=f3e934]
+                      - generic [ref=f3e935]: 1.0 110CH
+                      - generic [ref=f3e937]: بنزين
+                      - generic [ref=f3e939]: 15300كم
+                      - generic [ref=f3e941]: يدوية
+                      - generic [ref=f3e943]:
+                        - generic [aria-hidden] [ref=f3e944]: 󰍎
+                        - text: المحمدية, 16
+                      - generic [ref=f3e945]:
+                        - generic [aria-hidden] [ref=f3e946]: 󰚰
+                        - text: دقيقة واحدة
+                - generic [ref=f3e947]:
+                  - separator [ref=f3e948]
+                  - generic [ref=f3e949]:
+                    - button "إتصال" [ref=f3e950] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f3e951]: 󰏲
+                    - button "رسالة" [ref=f3e954] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f3e955]: 󰍪
+              - generic [ref=f3e960]:
+                - 'link "Image Previous Next تعليق تسجيل إعجاب: 2 إعلانات محفوظة مشاركة MG MG5 2026 Mexico 330 مليون 1.5 MPI بنزين يدوية المحمدية, 16 دقيقة واحدة" [ref=f3e961] [cursor=pointer]':
+                  - /url: /%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-mg-mg5-2026-mexico-%D8%A7%D9%84%D9%85%D8%AD%D9%85%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-d57423609
+                  - generic [ref=f3e963]:
+                    - img "Image" [ref=f3e966]
+                    - generic [ref=f3e968]:
+                      - button [ref=f3e969]
+                      - button [ref=f3e971]
+                      - button [ref=f3e973]
+                      - button [ref=f3e975]
+                    - button "Previous" [disabled] [ref=f3e977]:
+                      - generic [aria-hidden] [ref=f3e978]: 󰅁
+                    - button "Next" [ref=f3e979]:
+                      - generic [aria-hidden] [ref=f3e980]: 󰅂
+                  - generic [ref=f3e981]:
+                    - generic [ref=f3e982]:
+                      - button "تعليق" [ref=f3e983]:
+                        - generic [aria-hidden] [ref=f3e984]: 󰆂
+                      - 'button "تسجيل إعجاب: 2" [ref=f3e985]':
+                        - generic [ref=f3e986]:
+                          - generic [aria-hidden] [ref=f3e987]: 󱢠
+                          - generic [ref=f3e988]: "2"
+                      - button "إعلانات محفوظة" [ref=f3e989]:
+                        - generic [aria-hidden] [ref=f3e990]: 󰃃
+                      - button "مشاركة" [ref=f3e992]:
+                        - generic [aria-hidden] [ref=f3e993]: 󰒗
+                    - generic [ref=f3e994]:
+                      - heading "MG MG5 2026 Mexico" [level=3] [ref=f3e995]
+                      - generic [ref=f3e998]:
+                        - generic [ref=f3e999]: "330"
+                        - generic [ref=f3e1000]: مليون
+                      - generic [ref=f3e1001]: 1.5 MPI
+                      - generic [ref=f3e1003]: بنزين
+                      - generic [ref=f3e1005]: يدوية
+                      - generic [ref=f3e1007]:
+                        - generic [aria-hidden] [ref=f3e1008]: 󰍎
+                        - text: المحمدية, 16
+                      - generic [ref=f3e1009]:
+                        - generic [aria-hidden] [ref=f3e1010]: 󰚰
+                        - text: دقيقة واحدة
+                - generic [ref=f3e1011]:
+                  - separator [ref=f3e1012]
+                  - generic [ref=f3e1013]:
+                    - button "إتصال" [ref=f3e1014] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f3e1015]: 󰏲
+                    - button "رسالة" [ref=f3e1018] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f3e1019]: 󰍪
+            - generic [ref=f3e1033]:
+              - generic [ref=f3e1035]:
+                - generic [aria-hidden] [ref=f3e1037]: 󰉁
+                - heading "إشهار" [level=2] [ref=f3e1039]
+              - link [ref=f3e1043] [cursor=pointer]:
+                - /url: https://okn.is/dRRi2O
+                - img "DESKTOP_LISTING_FEED" [ref=f3e1045]
+            - navigation "الإنتقال بين الصفحات" [ref=f3e1050]:
+              - list [ref=f3e1051]:
+                - listitem [ref=f3e1052]:
+                  - button "الصفحة السابقة" [disabled]:
+                    - generic:
+                      - generic [aria-hidden]: 󰅂
+                - listitem [ref=f3e1053]:
+                  - button "1 الصفحة الحالية رقمها" [ref=f3e1054] [cursor=pointer]:
+                    - generic [ref=f3e1055]: "1"
+                - listitem [ref=f3e1056]:
+                  - button "2 انتقل إلى الصفحة" [ref=f3e1057] [cursor=pointer]:
+                    - generic [ref=f3e1058]: "2"
+                - listitem [ref=f3e1059]:
+                  - button "3 انتقل إلى الصفحة" [ref=f3e1060] [cursor=pointer]:
+                    - generic [ref=f3e1061]: "3"
+                - listitem [ref=f3e1062]:
+                  - button "4 انتقل إلى الصفحة" [ref=f3e1063] [cursor=pointer]:
+                    - generic [ref=f3e1064]: "4"
+                - listitem [ref=f3e1065]:
+                  - button "5 انتقل إلى الصفحة" [ref=f3e1066] [cursor=pointer]:
+                    - generic [ref=f3e1067]: "5"
+                - listitem [ref=f3e1068]:
+                  - button "..." [disabled]
+                - listitem [ref=f3e1069]:
+                  - button "6245 انتقل إلى الصفحة" [ref=f3e1070] [cursor=pointer]:
+                    - generic [ref=f3e1071]: 6,245
+                - listitem [ref=f3e1072]:
+                  - button "الصفحة التالية" [ref=f3e1073] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f3e1075]: 󰅁
+  - generic:
+    - tooltip "إضافة إعلان"
+    - dialog "صفحة كاملة"
+    - dialog "Flash"

@@ -1,0 +1,293 @@
+- generic [ref=f10e1]:
+  - generic "Google Maps" [ref=f10e9]:
+    - generic [ref=f10e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f10e15]
+      - search [ref=f10e20]:
+        - button "Retour" [ref=f10e828] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f10e829]: 
+        - generic [ref=f10e21]:
+          - combobox [ref=f10e23]: Hôtel Marriott Algiers Bab Ezzouar
+          - button "Rechercher" [ref=f10e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f10e26]: 
+          - button "Fermer" [ref=f10e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f10e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f10e36]:
+        - generic [ref=f10e39]:
+          - button "Hôtels à proximité" [ref=f10e41] [cursor=pointer]:
+            - generic [ref=f10e42]:
+              - generic [aria-hidden] [ref=f10e44]: 
+              - generic [ref=f10e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f10e47] [cursor=pointer]:
+            - generic [ref=f10e48]:
+              - generic [aria-hidden] [ref=f10e50]: 
+              - generic [ref=f10e51]: Restaurants
+          - button "Activités à découvrir" [ref=f10e53] [cursor=pointer]:
+            - generic [ref=f10e54]:
+              - generic [aria-hidden] [ref=f10e56]: 
+              - generic [ref=f10e57]: Activités à découvrir
+          - button "Bars" [ref=f10e59] [cursor=pointer]:
+            - generic [ref=f10e60]:
+              - generic [aria-hidden] [ref=f10e62]: 
+              - generic [ref=f10e63]: Bars
+          - button "Cafés" [ref=f10e65] [cursor=pointer]:
+            - generic [ref=f10e66]:
+              - generic [aria-hidden] [ref=f10e68]: 
+              - generic [ref=f10e69]: Cafés
+          - button "Pharmacies" [ref=f10e71] [cursor=pointer]:
+            - generic [ref=f10e72]:
+              - generic [aria-hidden] [ref=f10e74]: 
+              - generic [ref=f10e75]: Pharmacies
+          - button "Parkings" [ref=f10e77] [cursor=pointer]:
+            - generic [ref=f10e78]:
+              - generic [aria-hidden] [ref=f10e80]: 
+              - generic [ref=f10e81]: Parkings
+      - generic [ref=f10e82]:
+        - generic [ref=f10e83]:
+          - list [ref=f10e85]:
+            - listitem [ref=f10e86]:
+              - button "Menu" [ref=f10e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f10e89]: 
+            - listitem [ref=f10e90]:
+              - button "Enregistré" [ref=f10e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f10e93]: 
+            - listitem [ref=f10e96]:
+              - button "Récents" [ref=f10e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f10e99]: 
+            - listitem [ref=f10e103]:
+              - button "Hôtel Marriott Algiers Bab Ezzouar" [ref=f10e104] [cursor=pointer]
+            - listitem [ref=f10e112]:
+              - button "Obtenir l'appli" [ref=f10e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f10e115]: 
+          - main "Hôtel Marriott Algiers Bab Ezzouar" [ref=f10e122]:
+            - tablist [ref=f10e165]:
+              - tab "Hôtel Marriott Algiers Bab Ezzouar - Présentation" [ref=f10e166]:
+                - generic [aria-hidden] [ref=f10e168]: Présentation
+              - tab "Prix pour Hôtel Marriott Algiers Bab Ezzouar" [ref=f10e170]:
+                - generic [aria-hidden] [ref=f10e172]: Prix
+              - tab "Hôtel Marriott Algiers Bab Ezzouar - Avis" [selected] [ref=f10e174]:
+                - generic [aria-hidden] [ref=f10e176]: Avis
+              - tab "Informations sur Hôtel Marriott Algiers Bab Ezzouar" [ref=f10e178]:
+                - generic [aria-hidden] [ref=f10e180]: À propos
+            - generic [ref=f10e831]:
+              - generic [ref=f10e833]:
+                - list [ref=f10e835]:
+                  - listitem [ref=f10e836]: 39 562 DA
+                  - text: ·
+                  - listitem [ref=f10e837]: Hôtel 5 étoiles
+                - generic [ref=f10e838]: 5–6 nov.
+              - link [ref=f10e842] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f10e843]:
+                  - generic [aria-hidden] [ref=f10e844]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f10e846]:
+              - generic [ref=f10e847]:
+                - heading "Résumé des avis Google" [level=2] [ref=f10e849]
+                - button "Informations" [ref=f10e851] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f10e852]: 
+              - generic [ref=f10e854]:
+                - table [ref=f10e856]:
+                  - rowgroup [ref=f10e857]:
+                    - img "5 étoiles, 1 315 avis" [ref=f10e858]: "5"
+                    - img "4 étoiles, 258 avis" [ref=f10e861]: "4"
+                    - img "3 étoiles, 119 avis" [ref=f10e864]: "3"
+                    - img "2 étoiles, 59 avis" [ref=f10e867]: "2"
+                    - img "1 étoiles, 248 avis" [ref=f10e870]: "1"
+                - generic [ref=f10e873]:
+                  - generic [ref=f10e874]: 4,2
+                  - img "4,2 étoiles" [ref=f10e875]
+                  - generic [ref=f10e881]: 1 999 avis
+              - button "Rédiger un avis" [ref=f10e885] [cursor=pointer]:
+                - generic [ref=f10e886]:
+                  - generic [aria-hidden] [ref=f10e887]: 
+                  - generic [ref=f10e888]: Rédiger un avis
+              - generic [ref=f10e892]:
+                - textbox "Rechercher dans les avis" [active] [ref=f10e1300]
+                - generic [aria-hidden]: Rechercher dans les avis
+              - generic [ref=f10e894]:
+                - button "Tous les avis" [ref=f10e895] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f10e897]: 
+                - button "Avis les plus pertinents" [ref=f10e898] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f10e900]: 
+              - generic [ref=f10e1102]:
+                - generic "merabet imene" [ref=f10e1301]:
+                  - generic [ref=f10e1303]:
+                    - button "Photo de merabet imene" [ref=f10e1304]
+                    - generic [ref=f10e1306]:
+                      - button "merabet imene Local Guide · 12 avis · 1 photo" [ref=f10e1308]:
+                        - generic [ref=f10e1309]: merabet imene
+                        - generic [ref=f10e1310]: Local Guide · 12 avis · 1 photo
+                      - button "Actions pour l'avis rédigé par merabet imene" [ref=f10e1311] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f10e1313]: 
+                    - generic [ref=f10e1314]:
+                      - generic [ref=f10e1315]:
+                        - generic [ref=f10e1316]: 4/5
+                        - generic [ref=f10e1317]:
+                          - text: il y a 6 mois sur
+                          - generic [ref=f10e1318]: Google
+                      - generic [ref=f10e1320]:
+                        - text: "J’ai passé un séjour agréable dans cet hôtel. Un point particulièrement positif : le service de nettoyage service HK et spécialement Mme Nour , qui était impeccable. Les chambres étaient toujours très …"
+                        - button "Voir plus" [ref=f10e1322] [cursor=pointer]: Plus
+                      - generic [ref=f10e1323]:
+                        - button "J'aime" [ref=f10e1324]:
+                          - generic [ref=f10e1325] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f10e1326]: 
+                            - generic [ref=f10e1327]: J'aime
+                        - button "Partager l'avis rédigé par merabet imene." [ref=f10e1329]:
+                          - generic [ref=f10e1330] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f10e1331]: 
+                            - generic [ref=f10e1332]: Partager
+                      - generic [ref=f10e1333]:
+                        - generic [ref=f10e1334]: Réponse du propriétaire il y a 6 mois
+                        - generic [ref=f10e1335]:
+                          - text: Cher Imene, Nous vous remercions d’avoir pris le temps de partager votre retour. Nous sommes ravis que la qualité du service de notre équipe housekeeping ait contribué …
+                          - button "Voir plus" [ref=f10e1337] [cursor=pointer]: Plus
+                - generic "Kenza Mecheddou" [ref=f10e1341]:
+                  - generic [ref=f10e1343]:
+                    - button "Photo de Kenza Mecheddou" [ref=f10e1344]
+                    - generic [ref=f10e1346]:
+                      - button "Kenza Mecheddou 3 avis" [ref=f10e1348]:
+                        - generic [ref=f10e1349]: Kenza Mecheddou
+                        - generic [ref=f10e1350]: 3 avis
+                      - button "Actions pour l'avis rédigé par Kenza Mecheddou" [ref=f10e1351] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f10e1353]: 
+                    - generic [ref=f10e1354]:
+                      - generic [ref=f10e1355]:
+                        - generic [ref=f10e1356]: 1/5
+                        - generic [ref=f10e1357]:
+                          - text: il y a une semaine sur
+                          - generic [ref=f10e1358]: Google
+                        - generic [ref=f10e1359]: Nouveau
+                      - generic [ref=f10e1361]:
+                        - text: Nous sommes extrêmement déçus par l’organisation de notre mariage au Marriott. Malgré les nombreuses séances de travail en amont et les engagements pris par …
+                        - button "Voir plus" [ref=f10e1363] [cursor=pointer]: Plus
+                      - generic [ref=f10e1364]:
+                        - button "J'aime" [ref=f10e1365]:
+                          - generic [ref=f10e1366] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f10e1367]: 
+                            - generic [ref=f10e1368]: J'aime
+                        - button "Partager l'avis rédigé par Kenza Mecheddou." [ref=f10e1370]:
+                          - generic [ref=f10e1371] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f10e1372]: 
+                            - generic [ref=f10e1373]: Partager
+                      - generic [ref=f10e1374]:
+                        - generic [ref=f10e1375]: Réponse du propriétaire il y a une semaine
+                        - generic [ref=f10e1376]:
+                          - text: Bonjour Kenza, Merci d’avoir pris le temps de partager votre expérience. Nous sommes sincèrement désolés d’apprendre que votre mariage n’a pas répondu à vos attentes et que …
+                          - button "Voir plus" [ref=f10e1378] [cursor=pointer]: Plus
+                - generic "Bouhak Mounir" [ref=f10e1382]:
+                  - generic [ref=f10e1384]:
+                    - button "Photo de Bouhak Mounir" [ref=f10e1385]
+                    - generic [ref=f10e1387]:
+                      - button "Bouhak Mounir 7 avis" [ref=f10e1389]:
+                        - generic [ref=f10e1390]: Bouhak Mounir
+                        - generic [ref=f10e1391]: 7 avis
+                      - button "Actions pour l'avis rédigé par Bouhak Mounir" [ref=f10e1392] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f10e1394]: 
+                    - generic [ref=f10e1395]:
+                      - generic [ref=f10e1396]:
+                        - generic [ref=f10e1397]: 1/5
+                        - generic [ref=f10e1398]:
+                          - text: il y a 2 mois sur
+                          - generic [ref=f10e1399]: Google
+                      - generic [ref=f10e1401]:
+                        - text: Très déçus de notre séjour dans cet hôtel entre parenthèses 5 étoiles surtout que nous l’avions choisi spécialement pour notre nuit de noces. …
+                        - button "Voir plus" [ref=f10e1403] [cursor=pointer]: Plus
+                      - generic [ref=f10e1404]:
+                        - button "J'aime" [ref=f10e1405]:
+                          - generic [ref=f10e1406] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f10e1407]: 
+                            - generic [ref=f10e1408]: J'aime
+                        - button "Partager l'avis rédigé par Bouhak Mounir." [ref=f10e1410]:
+                          - generic [ref=f10e1411] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f10e1412]: 
+                            - generic [ref=f10e1413]: Partager
+                      - generic [ref=f10e1414]:
+                        - generic [ref=f10e1415]: Réponse du propriétaire il y a 2 mois
+                        - generic [ref=f10e1416]:
+                          - text: Cher Mounir, Merci d’avoir pris le temps de partager votre expérience. Nous sommes …
+                          - button "Voir plus" [ref=f10e1418] [cursor=pointer]: Plus
+                - generic "582aminal" [ref=f10e1422]:
+                  - generic [ref=f10e1424]:
+                    - button "Photo de 582aminal" [ref=f10e1425]
+                    - button "582aminal" [ref=f10e1429]
+                    - generic [ref=f10e1431]:
+                      - generic [ref=f10e1432]:
+                        - generic [ref=f10e1433]: 2/5
+                        - generic [ref=f10e1434]:
+                          - text: il y a 2 mois sur
+                          - generic [ref=f10e1435]: Tripadvisor
+                      - generic [ref=f10e1437]:
+                        - text: Malgré le fait que nous soyons des clients réguliers de cet hôtel, nous constatons malheureusement que certains problèmes persistent à chacune de nos visites.||Tout d’abord, l’attente à la réception est interminable, notamment lors de …
+                        - button "En savoir plus sur Tripadvisor" [ref=f10e1439] [cursor=pointer]
+                - generic "Mones Nimri" [ref=f10e1443]:
+                  - generic [ref=f10e1445]:
+                    - button "Photo de Mones Nimri" [ref=f10e1446]
+                    - generic [ref=f10e1448]:
+                      - button "Mones Nimri Local Guide · 16 avis · 174 photos" [ref=f10e1450]:
+                        - generic [ref=f10e1451]: Mones Nimri
+                        - generic [ref=f10e1452]: Local Guide · 16 avis · 174 photos
+                      - button "Actions pour l'avis rédigé par Mones Nimri" [ref=f10e1453] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f10e1455]: 
+                    - generic [ref=f10e1456]:
+                      - generic [ref=f10e1457]:
+                        - generic [ref=f10e1458]: 5/5
+                        - generic [ref=f10e1459]:
+                          - text: Modifié il y a 3 mois sur
+                          - generic [ref=f10e1460]: Google
+                      - generic [ref=f10e1462]:
+                        - text: J’ai passé un excellent séjour au Marriott Hotel Bab Ezzouar à Alger. L’hôtel offre un niveau de confort remarquable, avec des chambres élégantes, une propreté irréprochable, un personnel accueillant et une atmosphère raffinée. C’est une …
+                        - button "Voir plus" [ref=f10e1464] [cursor=pointer]: Plus
+                      - button "Vidéo" [ref=f10e1466] [cursor=pointer]:
+                        - generic [ref=f10e1467]: 0:19
+                      - generic [ref=f10e1468]:
+                        - button "1 \"J'aime\"" [ref=f10e1469]:
+                          - generic [ref=f10e1470] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f10e1471]: 
+                            - generic [ref=f10e1472]: "1"
+                        - button "Partager l'avis rédigé par Mones Nimri." [ref=f10e1474]:
+                          - generic [ref=f10e1475] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f10e1476]: 
+                            - generic [ref=f10e1477]: Partager
+                      - generic [ref=f10e1478]:
+                        - generic [ref=f10e1479]: Réponse du propriétaire il y a 2 mois
+                        - generic [ref=f10e1480]:
+                          - text: Cher Mones, Merci d’avoir pris le temps de partager ce merveilleux retour. Nous sommes ravis …
+                          - button "Voir plus" [ref=f10e1482] [cursor=pointer]: Plus
+              - button "Voir plus d'avis (1 994)" [ref=f10e1486]
+              - generic [ref=f10e1491]:
+                - generic [aria-hidden] [ref=f10e1493]: 
+                - generic [ref=f10e1494]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=f10e1495] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=f10e768] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f10e769]: 
+      - generic [ref=f10e773]:
+        - button "Applications Google" [ref=f10e777] [cursor=pointer]
+        - link "Connexion" [ref=f10e781] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FH%25C3%25B4tel%2BMarriott%2BAlgiers%2BBab%2BEzzouar%2F%4036.7126325%2C3.194152%2C17z%2Fdata%3D!4m11!3m10!1s0x128e51941a455765%3A0xab87bfbe1948c1f4!5m2!4m1!1i2!8m2!3d36.7126325!4d3.194152!9m1!1b1!16s%252Fg%252F12llrpfxf%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f10e784] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f10e786]: 
+          - generic [ref=f10e788] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f10e789]:
+              - generic [aria-hidden] [ref=f10e791]: 
+            - button "Faire un zoom arrière" [ref=f10e792]:
+              - generic [aria-hidden] [ref=f10e794]: 
+        - button "Parcourir les images Street View" [ref=f10e800]
+        - generic [ref=f10e802]:
+          - generic "Carte interactive" [ref=f10e803]
+          - generic [ref=f10e807] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f10e808]: 
+            - generic [ref=f10e809]: Calques
+          - button "Calques" [ref=f10e810] [cursor=pointer]
+      - generic [ref=f10e812]:
+        - contentinfo [ref=f10e815]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f10e816] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f10e817] [cursor=pointer]
+          - button "Confidentialité" [ref=f10e818] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f10e819] [cursor=pointer]
+        - button "100 m" [ref=f10e821] [cursor=pointer]
+  - generic [ref=f10e1299]: Recherche effacée

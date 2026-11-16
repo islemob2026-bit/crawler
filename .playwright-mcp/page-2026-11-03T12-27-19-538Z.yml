@@ -1,0 +1,244 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link [ref=e4] [cursor=pointer]:
+      - /url: ../../help/terms_maps/
+      - img "Google" [ref=e5]
+  - main [ref=e6]:
+    - navigation [ref=e7]:
+      - list [ref=e8]:
+        - listitem [ref=e9]:
+          - link "Google Maps" [ref=e10] [cursor=pointer]:
+            - /url: https://maps.google.com/maps
+        - listitem [ref=e11]:
+          - link "Help Center" [ref=e12] [cursor=pointer]:
+            - /url: https://maps.google.com/support/
+        - listitem [ref=e13]:
+          - link "Geo Permissions" [ref=e14] [cursor=pointer]:
+            - /url: https://www.google.com/permissions/geoguidelines.html
+        - listitem [ref=e15]:
+          - link "Terms of Service":
+            - /url: /help/terms_maps/
+          - list [ref=e16]:
+            - listitem [ref=e17]:
+              - link "Legal Notices" [ref=e18] [cursor=pointer]:
+                - /url: /help/legalnotices_maps/
+            - listitem [ref=e19]:
+              - link "Photos and Videos Policy" [ref=e20] [cursor=pointer]:
+                - /url: https://www.support.google.com/contributionpolicy/answer/7422880
+            - listitem [ref=e21]:
+              - link "Legal Notices for Business Listings" [ref=e22] [cursor=pointer]:
+                - /url: /help/attribution_maps/
+        - listitem [ref=e23]:
+          - link "Terms Maps Earth" [ref=e24] [cursor=pointer]:
+            - /url: /help/terms_maps-earth/
+    - article [ref=e25]:
+      - paragraph [ref=e27]:
+        - text: The Google Earth Additional Terms of Service are now available
+        - link "here" [ref=e28] [cursor=pointer]:
+          - /url: ../terms_maps-earth/
+        - text: effective June 5, 2025
+      - heading "Google Maps End User Additional Terms of Service" [level=1] [ref=e29]
+      - paragraph [ref=e30]: "Last Modified: January 27, 2026"
+      - paragraph [ref=e31]:
+        - text: By using Google Maps, or any third party products or services that integrate Google Maps Platform Services, you, as an end user, must accept (1) the
+        - link "Google Terms of Service" [ref=e32] [cursor=pointer]:
+          - /url: https://policies.google.com/terms
+        - text: ", and (2) these Google Maps Additional Terms of Service (the “"
+        - strong [ref=e33]: Maps Additional Terms
+        - text: ”). The Maps Additional Terms incorporate by reference the
+        - link "Legal Notices for Google Maps/Google Earth and Google Maps/Google Earth APIs." [ref=e34] [cursor=pointer]:
+          - /url: ../legalnotices_maps/
+      - paragraph [ref=e35]:
+        - text: Please read each of these documents carefully. Together, these documents are known as the “
+        - strong [ref=e36]: Terms
+        - text: ”. They establish what you can expect from us as you use our services, and what we expect from you.
+      - paragraph [ref=e37]:
+        - text: If you use the merchant-only features in Google Maps to manage your Business Profile then the Google Business Profile Terms at
+        - link "https://support.google.com/business/answer/9292476" [ref=e38] [cursor=pointer]:
+          - /url: https://support.google.com/business/answer/9292476
+        - text: apply to that use.
+      - paragraph [ref=e39]:
+        - text: We encourage you to read
+        - link "our Privacy Policy." [ref=e40] [cursor=pointer]:
+          - /url: https://policies.google.com/privacy
+        - text: It explains what information we collect, why we collect it, and how you can
+        - link "update, manage, export, and delete your information" [ref=e41] [cursor=pointer]:
+          - /url: https://account.google.com
+        - text: .
+      - list [ref=e42]:
+        - listitem [ref=e43]:
+          - paragraph [ref=e44]:
+            - strong [ref=e45]: License.
+            - text: As long as you follow these Terms, the
+            - link "Google Terms of Service" [ref=e46] [cursor=pointer]:
+              - /url: https://policies.google.com/terms
+            - text: "give you a license to use Google Maps, including features that allow you to:"
+          - list [ref=e47]:
+            - listitem [ref=e48]:
+              - paragraph [ref=e49]: view and annotate maps;
+            - listitem [ref=e50]:
+              - paragraph [ref=e51]: create KML files and map layers; and
+            - listitem [ref=e52]:
+              - paragraph [ref=e53]: publicly display content with proper attribution online, in video, and in print.
+          - paragraph [ref=e54]:
+            - text: For more details about specific things that you’re permitted to do with Google Maps, please see the
+            - link "Using Google Maps, Google Earth, and Street View" [ref=e55] [cursor=pointer]:
+              - /url: https://www.google.com/permissions/geoguidelines/
+            - text: permissions page.
+        - listitem [ref=e56]:
+          - paragraph [ref=e57]:
+            - strong [ref=e58]: Prohibited Conduct.
+            - text: "Your compliance with this Section 2 is a condition of your license to use Google Maps. When using Google Maps, you may not (or allow those acting on your behalf to):"
+          - list [ref=e59]:
+            - listitem [ref=e60]:
+              - paragraph [ref=e61]: redistribute or sell any part of Google Maps or create a new product or service based on Google Maps;
+            - listitem [ref=e62]:
+              - paragraph [ref=e63]:
+                - text: copy the content (unless you are otherwise permitted to do so by the
+                - link "Using Google Maps, Google Earth, and Street View" [ref=e64] [cursor=pointer]:
+                  - /url: https://www.google.com/permissions/geoguidelines/
+                - text: permissions page or applicable intellectual property law, including "fair use");
+            - listitem [ref=e65]:
+              - paragraph [ref=e66]: mass download or create bulk feeds of the content (or let anyone else do so);
+            - listitem [ref=e67]:
+              - paragraph [ref=e68]: use Google Maps to create or augment any other mapping-related dataset (including a mapping or navigation dataset, business listings database, mailing list, or telemarketing list) for use in a service that is a substitute for, or a substantially similar service to, Google Maps; or
+            - listitem [ref=e69]:
+              - paragraph [ref=e70]: use any part of Google Maps with other people's products or services for or in connection with real-time navigation or autonomous vehicle control, except through a specific Google-provided feature such as Android Auto.
+        - listitem [ref=e71]:
+          - paragraph [ref=e72]:
+            - strong [ref=e73]: Actual Conditions; Assumption of Risk.
+            - text: When you use Google Maps map data, traffic, directions, and other content, you may find that actual conditions differ from the map results and content, so exercise your independent judgment and use Google Maps at your own risk. You’re responsible at all times for your conduct and its consequences.
+        - listitem [ref=e74]:
+          - paragraph [ref=e75]:
+            - strong [ref=e76]: Your Content in Google Maps.
+            - text: Content you upload, submit, store, send, or receive through Google Maps is subject to Google’s
+            - link "Terms of Service" [ref=e77] [cursor=pointer]:
+              - /url: https://policies.google.com/terms
+            - text: ", including the license in the section called"
+            - link "“Permission to use your content”" [ref=e78] [cursor=pointer]:
+              - /url: https://policies.google.com/terms/update#toc-permission
+            - text: . However, content that remains exclusively local to your device (such as a locally-stored KML file) is not uploaded or submitted to Google, and is therefore not subject to that license.
+        - listitem [ref=e79]:
+          - paragraph [ref=e80]:
+            - strong [ref=e81]: Government End Users.
+            - text: "If you’re using Google Maps as a representative of a government entity, the following terms apply:"
+          - list [ref=e82]:
+            - listitem [ref=e83]:
+              - paragraph [ref=e84]:
+                - strong [ref=e85]: Governing Law.
+              - list [ref=e86]:
+                - listitem [ref=e87]:
+                  - paragraph [ref=e88]: For city or state government entities in the United States and European Union, the Google Terms of Service section regarding governing law and venue will not apply.
+                - listitem [ref=e89]:
+                  - paragraph [ref=e90]: "For United States federal government entities, the Google Terms of Service section regarding governing law and venue is replaced with the following:"
+                  - paragraph [ref=e91]: "“These Terms will be governed by and interpreted and enforced in accordance with the laws of the United States of America without reference to conflict of laws. Solely to the extent permitted by federal law: (A) the laws of the State of California (excluding California’s conflict of laws rules) will apply in the absence of applicable federal law; and (B) any dispute arising out of or relating to these Terms or Google Maps will be litigated exclusively in the federal courts of Santa Clara County, California, and the parties consent to personal jurisdiction in those courts.”"
+              - paragraph
+            - listitem [ref=e92]:
+              - paragraph [ref=e93]:
+                - strong [ref=e94]: U.S. Government Restricted Rights.
+                - text: All access or use of Google Maps by or for the United States federal government is subject to the "U.S. Government Restricted Rights" section in the
+                - link "Google Maps/Google Earth Legal Notices" [ref=e95] [cursor=pointer]:
+                  - /url: ../legalnotices_maps/
+                - text: .
+  - contentinfo [ref=e96]:
+    - generic [ref=e97]:
+      - link "Google" [ref=e99] [cursor=pointer]:
+        - /url: ../../help/terms_maps/
+      - list [ref=e102]:
+        - listitem [ref=e103]:
+          - link "About Google" [ref=e104] [cursor=pointer]:
+            - /url: https://about.google/
+        - listitem [ref=e105]:
+          - link "Privacy" [ref=e106] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy
+        - listitem [ref=e107]:
+          - link "Terms" [ref=e108] [cursor=pointer]:
+            - /url: https://policies.google.com/terms
+      - list [ref=e109]:
+        - listitem [ref=e110]:
+          - generic [ref=e111]: Change language or region
+          - combobox "Change language or region" [ref=e112]:
+            - option "Afrikaans"
+            - option "Akan"
+            - option "English" [selected]
+            - option "English (Australia)"
+            - option "አማርኛ"
+            - option "العربية"
+            - option "অসমীয়া"
+            - option "Azerbaijani"
+            - option "беларуская"
+            - option "български"
+            - option "বাংলা"
+            - option "bosanski"
+            - option "català"
+            - option "čeština"
+            - option "dansk"
+            - option "Deutsch"
+            - option "Ελληνικά"
+            - option "English (United Kingdom)"
+            - option "español (Latinoamérica)"
+            - option "español"
+            - option "eesti"
+            - option "euskara"
+            - option "فارسی"
+            - option "suomi"
+            - option "Filipino"
+            - option "français (Canada)"
+            - option "français"
+            - option "Gaeilge"
+            - option "galego"
+            - option "ગુજરાતી"
+            - option "हिन्दी"
+            - option "hrvatski"
+            - option "magyar"
+            - option "Armenian"
+            - option "Indonesia"
+            - option "íslenska"
+            - option "italiano"
+            - option "עברית (ישראל)"
+            - option "日本語"
+            - option "Georgian"
+            - option "Kazakh"
+            - option "ខ្មែរ"
+            - option "ಕನ್ನಡ"
+            - option "한국어"
+            - option "Kyrgyz"
+            - option "Lao"
+            - option "lietuvių"
+            - option "latviešu"
+            - option "Macedonian"
+            - option "മലയാളം"
+            - option "Mongolian"
+            - option "मराठी"
+            - option "Melayu"
+            - option "Malti"
+            - option "Burmese"
+            - option "नेपाली"
+            - option "Nederlands"
+            - option "norsk bokmål (Norge)"
+            - option "ଓଡ଼ିଆ"
+            - option "Punjabi"
+            - option "polski"
+            - option "português (Brasil)"
+            - option "português (Portugal)"
+            - option "română"
+            - option "русский"
+            - option "සිංහල"
+            - option "slovenčina"
+            - option "slovenščina"
+            - option "Albanian"
+            - option "српски"
+            - option "svenska"
+            - option "Kiswahili"
+            - option "தமிழ்"
+            - option "Telugu"
+            - option "ไทย"
+            - option "Türkçe"
+            - option "українська"
+            - option "اردو"
+            - option "Uzbek"
+            - option "Tiếng Việt"
+            - option "中文 (简体)"
+            - option "中文"
+            - option "中文 (繁體)"
+            - option "isiZulu"

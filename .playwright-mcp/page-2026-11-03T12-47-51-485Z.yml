@@ -1,0 +1,276 @@
+- generic [ref=f16e1]:
+  - generic "Google Maps" [ref=f16e9]:
+    - generic [ref=f16e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f16e15]
+      - search [ref=f16e20]:
+        - button "Retour" [ref=f16e710] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f16e711]: 
+        - generic [ref=f16e21]:
+          - combobox [ref=f16e23]: Hyatt Regency Algiers Airport
+          - button "Rechercher" [ref=f16e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f16e26]: 
+          - button "Fermer" [ref=f16e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f16e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f16e36]:
+        - generic [ref=f16e39]:
+          - button "Hôtels à proximité" [ref=f16e41] [cursor=pointer]:
+            - generic [ref=f16e42]:
+              - generic [aria-hidden] [ref=f16e44]: 
+              - generic [ref=f16e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f16e47] [cursor=pointer]:
+            - generic [ref=f16e48]:
+              - generic [aria-hidden] [ref=f16e50]: 
+              - generic [ref=f16e51]: Restaurants
+          - button "Activités à découvrir" [ref=f16e53] [cursor=pointer]:
+            - generic [ref=f16e54]:
+              - generic [aria-hidden] [ref=f16e56]: 
+              - generic [ref=f16e57]: Activités à découvrir
+          - button "Bars" [ref=f16e59] [cursor=pointer]:
+            - generic [ref=f16e60]:
+              - generic [aria-hidden] [ref=f16e62]: 
+              - generic [ref=f16e63]: Bars
+          - button "Cafés" [ref=f16e65] [cursor=pointer]:
+            - generic [ref=f16e66]:
+              - generic [aria-hidden] [ref=f16e68]: 
+              - generic [ref=f16e69]: Cafés
+          - button "Pharmacies" [ref=f16e71] [cursor=pointer]:
+            - generic [ref=f16e72]:
+              - generic [aria-hidden] [ref=f16e74]: 
+              - generic [ref=f16e75]: Pharmacies
+          - button "Parkings" [ref=f16e77] [cursor=pointer]:
+            - generic [ref=f16e78]:
+              - generic [aria-hidden] [ref=f16e80]: 
+              - generic [ref=f16e81]: Parkings
+      - generic [ref=f16e82]:
+        - generic [ref=f16e83]:
+          - list [ref=f16e85]:
+            - listitem [ref=f16e86]:
+              - button "Menu" [ref=f16e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f16e89]: 
+            - listitem [ref=f16e90]:
+              - button "Enregistré" [ref=f16e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f16e93]: 
+            - listitem [ref=f16e96]:
+              - button "Récents" [ref=f16e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f16e99]: 
+            - listitem [ref=f16e103]:
+              - button "Hyatt Regency Algiers Airport" [ref=f16e104] [cursor=pointer]
+            - listitem [ref=f16e112]:
+              - button "Obtenir l'appli" [ref=f16e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f16e115]: 
+          - main "Hyatt Regency Algiers Airport" [ref=f16e122]:
+            - tablist [ref=f16e167]:
+              - tab "Hyatt Regency Algiers Airport - Présentation" [ref=f16e168]:
+                - generic [aria-hidden] [ref=f16e170]: Présentation
+              - tab "Prix pour Hyatt Regency Algiers Airport" [ref=f16e172]:
+                - generic [aria-hidden] [ref=f16e174]: Prix
+              - tab "Hyatt Regency Algiers Airport - Avis" [selected] [ref=f16e176]:
+                - generic [aria-hidden] [ref=f16e178]: Avis
+              - tab "Informations sur Hyatt Regency Algiers Airport" [ref=f16e180]:
+                - generic [aria-hidden] [ref=f16e182]: À propos
+            - generic [ref=f16e713]:
+              - generic [ref=f16e715]:
+                - list [ref=f16e717]:
+                  - listitem [ref=f16e718]: 24 966 DA
+                  - text: ·
+                  - listitem [ref=f16e719]: Hôtel 4 étoiles
+                - generic [ref=f16e720]: 9–10 févr.
+              - link [ref=f16e724] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f16e725]:
+                  - generic [aria-hidden] [ref=f16e726]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f16e728]:
+              - generic [ref=f16e729]:
+                - heading "Résumé des avis Google" [level=2] [ref=f16e731]
+                - button "Informations" [ref=f16e733] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f16e734]: 
+              - generic [ref=f16e736]:
+                - table [ref=f16e738]:
+                  - rowgroup [ref=f16e739]:
+                    - img "5 étoiles, 1 854 avis" [ref=f16e740]: "5"
+                    - img "4 étoiles, 373 avis" [ref=f16e743]: "4"
+                    - img "3 étoiles, 100 avis" [ref=f16e746]: "3"
+                    - img "2 étoiles, 42 avis" [ref=f16e749]: "2"
+                    - img "1 étoiles, 187 avis" [ref=f16e752]: "1"
+                - generic [ref=f16e755]:
+                  - generic [ref=f16e756]: 4,4
+                  - img "4,4 étoiles" [ref=f16e757]
+                  - generic [ref=f16e763]: 2 556 avis
+              - button "Rédiger un avis" [ref=f16e767] [cursor=pointer]:
+                - generic [ref=f16e768]:
+                  - generic [aria-hidden] [ref=f16e769]: 
+                  - generic [ref=f16e770]: Rédiger un avis
+              - generic [ref=f16e774]:
+                - textbox "Rechercher dans les avis" [active] [ref=f16e1527]
+                - generic [aria-hidden]: Rechercher dans les avis
+              - generic [ref=f16e776]:
+                - button "Tous les avis" [ref=f16e777] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f16e779]: 
+                - button "Avis les plus pertinents" [ref=f16e780] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f16e782]: 
+              - generic [ref=f16e1325]:
+                - generic "Mohamed Benouaret" [ref=f16e1528]:
+                  - generic [ref=f16e1530]:
+                    - button "Photo de Mohamed Benouaret" [ref=f16e1531]
+                    - generic [ref=f16e1533]:
+                      - button "Mohamed Benouaret 1 avis" [ref=f16e1535]:
+                        - generic [ref=f16e1536]: Mohamed Benouaret
+                        - generic [ref=f16e1537]: 1 avis
+                      - button "Actions pour l'avis rédigé par Mohamed Benouaret" [ref=f16e1538] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f16e1540]: 
+                    - generic [ref=f16e1541]:
+                      - generic [ref=f16e1542]:
+                        - generic [ref=f16e1543]: 5/5
+                        - generic [ref=f16e1544]:
+                          - text: il y a 3 semaines sur
+                          - generic [ref=f16e1545]: Google
+                        - generic [ref=f16e1546]: Nouveau
+                      - generic [ref=f16e1548]:
+                        - text: J’ai passé un excellent séjour au Hyatt Regency. L’accueil était remarquable, la chambre 221 très spacieuse, avec un très grand lit et deux canapés très confortables. Tout était réuni pour passer un agréable moment. …
+                        - button "Voir plus" [ref=f16e1550] [cursor=pointer]: Plus
+                      - generic [ref=f16e1551]:
+                        - button "J'aime" [ref=f16e1552]:
+                          - generic [ref=f16e1553] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f16e1554]: 
+                            - generic [ref=f16e1555]: J'aime
+                        - button "Partager l'avis rédigé par Mohamed Benouaret." [ref=f16e1557]:
+                          - generic [ref=f16e1558] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f16e1559]: 
+                            - generic [ref=f16e1560]: Partager
+                - generic "Navigate11736720117" [ref=f16e1564]:
+                  - generic [ref=f16e1566]:
+                    - button "Photo de Navigate11736720117" [ref=f16e1567]
+                    - button "Navigate11736720117" [ref=f16e1571]
+                    - generic [ref=f16e1573]:
+                      - generic [ref=f16e1574]:
+                        - generic [ref=f16e1575]: 3/5
+                        - generic [ref=f16e1576]:
+                          - text: il y a 2 mois sur
+                          - generic [ref=f16e1577]: Tripadvisor
+                      - generic [ref=f16e1579]:
+                        - text: "Séjour d'une nuit dans une chambre Deluxe. Mobilier détérioré, prises et lampes de chevet non fonctionnelles, sol poussiéreux et nécessaire de bain indisponible. Le personnel de la réception est nonchalant et pas du tout accueillant : nous …"
+                        - button "En savoir plus sur Tripadvisor" [ref=f16e1581] [cursor=pointer]
+                - generic "Nanou" [ref=f16e1585]:
+                  - generic [ref=f16e1587]:
+                    - button "Photo de Nanou" [ref=f16e1588]
+                    - generic [ref=f16e1590]:
+                      - button "Nanou Local Guide · 12 avis · 6 photos" [ref=f16e1592]:
+                        - generic [ref=f16e1593]: Nanou
+                        - generic [ref=f16e1594]: Local Guide · 12 avis · 6 photos
+                      - button "Actions pour l'avis rédigé par Nanou" [ref=f16e1595] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f16e1597]: 
+                    - generic [ref=f16e1598]:
+                      - generic [ref=f16e1599]:
+                        - generic [ref=f16e1600]: 4/5
+                        - generic [ref=f16e1601]:
+                          - text: il y a 2 mois sur
+                          - generic [ref=f16e1602]: Google
+                      - generic [ref=f16e1604]:
+                        - text: ⭐⭐⭐⭐⭐ Nous avons séjourné avec nos 3 enfants qui ont profité comme il se doit de la …
+                        - button "Voir plus" [ref=f16e1606] [cursor=pointer]: Plus
+                      - generic [ref=f16e1607]:
+                        - button "J'aime" [ref=f16e1608]:
+                          - generic [ref=f16e1609] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f16e1610]: 
+                            - generic [ref=f16e1611]: J'aime
+                        - button "Partager l'avis rédigé par Nanou." [ref=f16e1613]:
+                          - generic [ref=f16e1614] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f16e1615]: 
+                            - generic [ref=f16e1616]: Partager
+                - generic "linda badr" [ref=f16e1620]:
+                  - generic [ref=f16e1622]:
+                    - button "Photo de linda badr" [ref=f16e1623]
+                    - generic [ref=f16e1625]:
+                      - button "linda badr 3 avis · 1 photo" [ref=f16e1627]:
+                        - generic [ref=f16e1628]: linda badr
+                        - generic [ref=f16e1629]: 3 avis · 1 photo
+                      - button "Actions pour l'avis rédigé par linda badr" [ref=f16e1630] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f16e1632]: 
+                    - generic [ref=f16e1633]:
+                      - generic [ref=f16e1634]:
+                        - generic [ref=f16e1635]: 5/5
+                        - generic [ref=f16e1636]:
+                          - text: il y a 3 semaines sur
+                          - generic [ref=f16e1637]: Google
+                        - generic [ref=f16e1638]: Nouveau
+                      - generic [ref=f16e1640]:
+                        - text: Je tiens à adresser mes sincères remerciements à Naziha, réceptionniste au Hyatt Regency Alger, pour son accueil chaleureux, son professionnalisme, sa gentillesse et sa disponibilité. …
+                        - button "Voir plus" [ref=f16e1642] [cursor=pointer]: Plus
+                      - generic [ref=f16e1643]:
+                        - button "J'aime" [ref=f16e1644]:
+                          - generic [ref=f16e1645] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f16e1646]: 
+                            - generic [ref=f16e1647]: J'aime
+                        - button "Partager l'avis rédigé par linda badr." [ref=f16e1649]:
+                          - generic [ref=f16e1650] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f16e1651]: 
+                            - generic [ref=f16e1652]: Partager
+                - generic "hamed meflahi" [ref=f16e1656]:
+                  - generic [ref=f16e1658]:
+                    - button "Photo de hamed meflahi" [ref=f16e1659]
+                    - generic [ref=f16e1661]:
+                      - button "hamed meflahi 7 avis" [ref=f16e1663]:
+                        - generic [ref=f16e1664]: hamed meflahi
+                        - generic [ref=f16e1665]: 7 avis
+                      - button "Actions pour l'avis rédigé par hamed meflahi" [ref=f16e1666] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f16e1668]: 
+                    - generic [ref=f16e1669]:
+                      - generic [ref=f16e1670]:
+                        - generic [ref=f16e1671]: 1/5
+                        - generic [ref=f16e1672]:
+                          - text: il y a une semaine sur
+                          - generic [ref=f16e1673]: Google
+                        - generic [ref=f16e1674]: Nouveau
+                      - generic [ref=f16e1676]:
+                        - text: ⭐ Un service client qui n’est pas à la hauteur d’un établissement cinq étoiles Je suis particulièrement déçu par le manque de réactivité et de …
+                        - button "Voir plus" [ref=f16e1678] [cursor=pointer]: Plus
+                      - generic [ref=f16e1679]:
+                        - button "J'aime" [ref=f16e1680]:
+                          - generic [ref=f16e1681] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f16e1682]: 
+                            - generic [ref=f16e1683]: J'aime
+                        - button "Partager l'avis rédigé par hamed meflahi." [ref=f16e1685]:
+                          - generic [ref=f16e1686] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f16e1687]: 
+                            - generic [ref=f16e1688]: Partager
+              - button "Voir plus d'avis (2 551)" [ref=f16e1692]
+              - generic [ref=f16e1697]:
+                - generic [aria-hidden] [ref=f16e1699]: 
+                - generic [ref=f16e1700]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=f16e1701] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=f16e646] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f16e647]: 
+      - generic [ref=f16e651]:
+        - button "Applications Google" [ref=f16e655] [cursor=pointer]
+        - link "Connexion" [ref=f16e659] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FHyatt%2BRegency%2BAlgiers%2BAirport%2F%4036.7042939%2C3.2054075%2C17z%2Fdata%3D!4m11!3m10!1s0x128e51a501e40221%3A0xa1c67b8a177ec9ba!5m2!4m1!1i2!8m2!3d36.7042939!4d3.2054075!9m1!1b1!16s%252Fg%252F11f10f1gnc%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f16e662] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f16e664]: 
+          - generic [ref=f16e666] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f16e667]:
+              - generic [aria-hidden] [ref=f16e669]: 
+            - button "Faire un zoom arrière" [ref=f16e670]:
+              - generic [aria-hidden] [ref=f16e672]: 
+        - generic [ref=f16e676]:
+          - button "Parcourir les images Street View" [ref=f16e678]
+          - button "Street View" [ref=f16e680] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f16e683]: 
+        - generic [ref=f16e684]:
+          - generic "Carte interactive" [ref=f16e685]
+          - generic [ref=f16e689] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f16e690]: 
+            - generic [ref=f16e691]: Calques
+          - button "Calques" [ref=f16e692] [cursor=pointer]
+      - generic [ref=f16e694]:
+        - contentinfo [ref=f16e697]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f16e698] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f16e699] [cursor=pointer]
+          - button "Confidentialité" [ref=f16e700] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f16e701] [cursor=pointer]
+        - button "100 m" [ref=f16e703] [cursor=pointer]
+  - generic [ref=f16e1146]: Recherche effacée

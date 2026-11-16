@@ -1,0 +1,274 @@
+- generic "Google Maps" [ref=f18e9]:
+  - generic [ref=f18e3]:
+    - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f18e15]
+    - search [ref=f18e20]:
+      - button "Retour" [ref=f18e882] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f18e883]: 
+      - generic [ref=f18e21]:
+        - combobox [ref=f18e23]: Sofitel Algiers Hamma Garden
+        - button "Rechercher" [ref=f18e25] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f18e26]: 
+        - button "Fermer" [ref=f18e28] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f18e29]: 
+    - region "Options de recherche disponibles pour cette zone" [ref=f18e36]:
+      - generic [ref=f18e39]:
+        - button "Hôtels à proximité" [ref=f18e41] [cursor=pointer]:
+          - generic [ref=f18e42]:
+            - generic [aria-hidden] [ref=f18e44]: 
+            - generic [ref=f18e45]: Hôtels à proximité
+        - button "Restaurants" [ref=f18e47] [cursor=pointer]:
+          - generic [ref=f18e48]:
+            - generic [aria-hidden] [ref=f18e50]: 
+            - generic [ref=f18e51]: Restaurants
+        - button "Activités à découvrir" [ref=f18e53] [cursor=pointer]:
+          - generic [ref=f18e54]:
+            - generic [aria-hidden] [ref=f18e56]: 
+            - generic [ref=f18e57]: Activités à découvrir
+        - button "Bars" [ref=f18e59] [cursor=pointer]:
+          - generic [ref=f18e60]:
+            - generic [aria-hidden] [ref=f18e62]: 
+            - generic [ref=f18e63]: Bars
+        - button "Cafés" [ref=f18e65] [cursor=pointer]:
+          - generic [ref=f18e66]:
+            - generic [aria-hidden] [ref=f18e68]: 
+            - generic [ref=f18e69]: Cafés
+        - button "Pharmacies" [ref=f18e71] [cursor=pointer]:
+          - generic [ref=f18e72]:
+            - generic [aria-hidden] [ref=f18e74]: 
+            - generic [ref=f18e75]: Pharmacies
+        - button "Parkings" [ref=f18e77] [cursor=pointer]:
+          - generic [ref=f18e78]:
+            - generic [aria-hidden] [ref=f18e80]: 
+            - generic [ref=f18e81]: Parkings
+    - generic [ref=f18e82]:
+      - generic [ref=f18e83]:
+        - list [ref=f18e85]:
+          - listitem [ref=f18e86]:
+            - button "Menu" [ref=f18e87] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f18e89]: 
+          - listitem [ref=f18e90]:
+            - button "Enregistré" [ref=f18e91] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f18e93]: 
+          - listitem [ref=f18e96]:
+            - button "Récents" [ref=f18e97] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f18e99]: 
+          - listitem [ref=f18e103]:
+            - button "Sofitel Algiers Hamma Garden" [ref=f18e104] [cursor=pointer]
+          - listitem [ref=f18e112]:
+            - button "Obtenir l'appli" [ref=f18e113] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f18e115]: 
+        - main "Sofitel Algiers Hamma Garden" [ref=f18e122]:
+          - tablist [ref=f18e167]:
+            - tab "Sofitel Algiers Hamma Garden - Présentation" [ref=f18e168]:
+              - generic [aria-hidden] [ref=f18e170]: Présentation
+            - tab "Prix pour Sofitel Algiers Hamma Garden" [ref=f18e172]:
+              - generic [aria-hidden] [ref=f18e174]: Prix
+            - tab "Sofitel Algiers Hamma Garden - Avis" [active] [selected] [ref=f18e176]:
+              - generic [aria-hidden] [ref=f18e178]: Avis
+            - tab "Informations sur Sofitel Algiers Hamma Garden" [ref=f18e180]:
+              - generic [aria-hidden] [ref=f18e182]: À propos
+          - generic [ref=f18e885]:
+            - generic [ref=f18e887]:
+              - list [ref=f18e889]:
+                - listitem [ref=f18e890]: 24 160 DA
+                - text: ·
+                - listitem [ref=f18e891]: Hôtel 5 étoiles
+              - generic [ref=f18e892]: 9–10 févr.
+            - link [ref=f18e896] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f18e897]:
+                - generic [aria-hidden] [ref=f18e898]: 
+                - text: Vérifier la disponibilité
+          - generic [ref=f18e900]:
+            - generic [ref=f18e901]:
+              - heading "Résumé des avis Google" [level=2] [ref=f18e903]
+              - button "Informations" [ref=f18e905] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e906]: 
+            - generic [ref=f18e908]:
+              - table [ref=f18e910]:
+                - rowgroup [ref=f18e911]:
+                  - img "5 étoiles, 3 206 avis" [ref=f18e912]: "5"
+                  - img "4 étoiles, 780 avis" [ref=f18e915]: "4"
+                  - img "3 étoiles, 341 avis" [ref=f18e918]: "3"
+                  - img "2 étoiles, 111 avis" [ref=f18e921]: "2"
+                  - img "1 étoiles, 383 avis" [ref=f18e924]: "1"
+              - generic [ref=f18e927]:
+                - generic [ref=f18e928]: 4,3
+                - img "4,3 étoiles" [ref=f18e929]
+                - generic [ref=f18e935]: 4 821 avis
+            - button "Rédiger un avis" [ref=f18e939] [cursor=pointer]:
+              - generic [ref=f18e940]:
+                - generic [aria-hidden] [ref=f18e941]: 
+                - generic [ref=f18e942]: Rédiger un avis
+            - generic [ref=f18e946]:
+              - textbox "Rechercher dans les avis" [ref=f18e947]
+              - generic [aria-hidden]: Rechercher dans les avis
+            - generic [ref=f18e948]:
+              - button "Tous les avis" [ref=f18e949] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e951]: 
+              - button "Avis les plus pertinents" [ref=f18e952] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e954]: 
+            - generic [ref=f18e957]:
+              - generic "558samiak" [ref=f18e958]:
+                - generic [ref=f18e960]:
+                  - button "Photo de 558samiak" [ref=f18e961]
+                  - button "558samiak" [ref=f18e965]
+                  - generic [ref=f18e967]:
+                    - generic [ref=f18e968]:
+                      - generic [ref=f18e969]: 5/5
+                      - generic [ref=f18e970]:
+                        - text: il y a un mois sur
+                        - generic [ref=f18e971]: Tripadvisor
+                    - generic [ref=f18e973]:
+                      - text: Très beau séjour au Sofitel Alger, avec un accueil particulièrement chaleureux. Une mention spéciale à Mehdi, dont l’accueil a été très agréable, avec beaucoup de douceur et d’attention. Moustapha mérite également d’être souligné pour son …
+                      - button "En savoir plus sur Tripadvisor" [ref=f18e975] [cursor=pointer]
+              - generic "Hamana D." [ref=f18e979]:
+                - generic [ref=f18e981]:
+                  - button "Photo de Hamana D." [ref=f18e982]
+                  - button "Hamana D." [ref=f18e986]
+                  - generic [ref=f18e988]:
+                    - generic [ref=f18e989]:
+                      - generic [ref=f18e990]: 4,5/5
+                      - generic [ref=f18e991]:
+                        - text: il y a 3 mois sur
+                        - generic [ref=f18e992]: all.accor.com
+                    - generic [ref=f18e993]: Personnel très accueillant, professionnel, serviable et gentil surtout Amine et Hakim de la réception , hôtel et chambres propres
+                    - generic [ref=f18e995]: Visité en juillet
+              - generic "Nora Blkd" [ref=f18e999]:
+                - generic [ref=f18e1001]:
+                  - button "Photo de Nora Blkd" [ref=f18e1002]
+                  - generic [ref=f18e1004]:
+                    - button "Nora Blkd 10 avis · 4 photos" [ref=f18e1006]:
+                      - generic [ref=f18e1007]: Nora Blkd
+                      - generic [ref=f18e1008]: 10 avis · 4 photos
+                    - button "Actions pour l'avis rédigé par Nora Blkd" [ref=f18e1009] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f18e1011]: 
+                  - generic [ref=f18e1012]:
+                    - generic [ref=f18e1013]:
+                      - generic [ref=f18e1014]: 5/5
+                      - generic [ref=f18e1015]:
+                        - text: il y a une semaine sur
+                        - generic [ref=f18e1016]: Google
+                      - generic [ref=f18e1017]: Nouveau
+                    - generic [ref=f18e1019]:
+                      - text: Nous avons choisi de séjourner au Sofitel cette année encore. C’est devenu un véritable point de chute pour mes sœurs et moi à Alger et nous ne savons plus séjourner autre part. Nous sommes toujours chaleureusement accueillies et …
+                      - button "Voir plus" [ref=f18e1021] [cursor=pointer]: Plus
+                    - generic [ref=f18e1022]:
+                      - button "J'aime" [ref=f18e1023]:
+                        - generic [ref=f18e1024] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f18e1025]: 
+                          - generic [ref=f18e1026]: J'aime
+                      - button "Partager l'avis rédigé par Nora Blkd." [ref=f18e1028]:
+                        - generic [ref=f18e1029] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f18e1030]: 
+                          - generic [ref=f18e1031]: Partager
+                    - generic [ref=f18e1032]:
+                      - generic [ref=f18e1033]: Réponse du propriétaire il y a une semaine
+                      - generic [ref=f18e1034]:
+                        - text: Chère Madame Nora, Nous vous remercions chaleureusement pour votre magnifique témoignage et pour …
+                        - button "Voir plus" [ref=f18e1036] [cursor=pointer]: Plus
+              - generic "Nadia K" [ref=f18e1040]:
+                - generic [ref=f18e1042]:
+                  - button "Photo de Nadia K" [ref=f18e1043]
+                  - generic [ref=f18e1045]:
+                    - button "Nadia K 11 avis · 1 photo" [ref=f18e1047]:
+                      - generic [ref=f18e1048]: Nadia K
+                      - generic [ref=f18e1049]: 11 avis · 1 photo
+                    - button "Actions pour l'avis rédigé par Nadia K" [ref=f18e1050] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f18e1052]: 
+                  - generic [ref=f18e1053]:
+                    - generic [ref=f18e1054]:
+                      - generic [ref=f18e1055]: 5/5
+                      - generic [ref=f18e1056]:
+                        - text: il y a 3 semaines sur
+                        - generic [ref=f18e1057]: Google
+                      - generic [ref=f18e1058]: Nouveau
+                    - generic [ref=f18e1060]:
+                      - text: Un hôtel très accueillant, où l’on se sent immédiatement bien grâce à un personnel agréable, souriant et toujours prêt à rendre service ! Un grand merci aux jeunes femmes qui s’occupent des œufs et des crêpes au …
+                      - button "Voir plus" [ref=f18e1062] [cursor=pointer]: Plus
+                    - generic [ref=f18e1063]:
+                      - button "J'aime" [ref=f18e1064]:
+                        - generic [ref=f18e1065] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f18e1066]: 
+                          - generic [ref=f18e1067]: J'aime
+                      - button "Partager l'avis rédigé par Nadia K." [ref=f18e1069]:
+                        - generic [ref=f18e1070] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f18e1071]: 
+                          - generic [ref=f18e1072]: Partager
+                    - generic [ref=f18e1073]:
+                      - generic [ref=f18e1074]: Réponse du propriétaire il y a 3 semaines
+                      - generic [ref=f18e1075]:
+                        - text: Nous tenons à vous remercier sincèrement pour l'excellente note attribuée à notre Sofitel Algiers Hamma Garden. Nous sommes ravis de constater que votre expérience a été à la hauteur de vos attentes. …
+                        - button "Voir plus" [ref=f18e1077] [cursor=pointer]: Plus
+              - generic "Sonia R." [ref=f18e1081]:
+                - generic [ref=f18e1083]:
+                  - button "Photo de Sonia R." [ref=f18e1084]
+                  - generic [ref=f18e1086]:
+                    - button "Sonia R. 5 avis" [ref=f18e1088]:
+                      - generic [ref=f18e1089]: Sonia R.
+                      - generic [ref=f18e1090]: 5 avis
+                    - button "Actions pour l'avis rédigé par Sonia R." [ref=f18e1091] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f18e1093]: 
+                  - generic [ref=f18e1094]:
+                    - generic [ref=f18e1095]:
+                      - generic [ref=f18e1096]: 5/5
+                      - generic [ref=f18e1097]:
+                        - text: Modifié il y a une semaine sur
+                        - generic [ref=f18e1098]: Google
+                      - generic [ref=f18e1099]: Nouveau
+                    - generic [ref=f18e1101]:
+                      - text: Très bel hôtel, personnel accueillant et aux petits soins. Mention spéciale pour Amel et Widad. …
+                      - button "Voir plus" [ref=f18e1103] [cursor=pointer]: Plus
+                    - generic [ref=f18e1104]:
+                      - button "J'aime" [ref=f18e1105]:
+                        - generic [ref=f18e1106] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f18e1107]: 
+                          - generic [ref=f18e1108]: J'aime
+                      - button "Partager l'avis rédigé par Sonia R.." [ref=f18e1110]:
+                        - generic [ref=f18e1111] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f18e1112]: 
+                          - generic [ref=f18e1113]: Partager
+                    - generic [ref=f18e1114]:
+                      - generic [ref=f18e1115]: Réponse du propriétaire il y a 3 semaines
+                      - generic [ref=f18e1116]:
+                        - text: Nous tenons à vous remercier sincèrement pour l'excellente note attribuée à notre Sofitel Algiers Hamma Garden. Nous sommes ravis de constater que votre expérience a été à la hauteur de vos attentes. …
+                        - button "Voir plus" [ref=f18e1118] [cursor=pointer]: Plus
+            - button "Voir plus d'avis (4 816)" [ref=f18e1122]
+            - generic [ref=f18e1127]:
+              - generic [aria-hidden] [ref=f18e1129]: 
+              - generic [ref=f18e1130]:
+                - text: Vous voyez un affichage limité de Google Maps.
+                - button "Voir plus" [ref=f18e1131] [cursor=pointer]
+      - button "Réduire le panneau latéral" [ref=f18e818] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f18e819]: 
+    - generic [ref=f18e823]:
+      - button "Applications Google" [ref=f18e827] [cursor=pointer]
+      - link "Connexion" [ref=f18e831] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FSofitel%2BAlgiers%2BHamma%2BGarden%2F%4036.7505228%2C3.0725569%2C17z%2Fdata%3D!4m11!3m10!1s0x128fb28be0db0863%3A0x7c8ea0ca3200f8ad!5m2!4m1!1i2!8m2!3d36.7505228!4d3.0725569!9m1!1b1!16s%252Fm%252F0gk_5k7%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Afficher votre position" [ref=f18e834] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f18e836]: 
+        - generic [ref=f18e838] [cursor=pointer]:
+          - button "Faire un zoom avant" [ref=f18e839]:
+            - generic [aria-hidden] [ref=f18e841]: 
+          - button "Faire un zoom arrière" [ref=f18e842]:
+            - generic [aria-hidden] [ref=f18e844]: 
+      - generic [ref=f18e848]:
+        - button "Parcourir les images Street View" [ref=f18e850]
+        - button "Street View" [ref=f18e852] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f18e855]: 
+      - generic [ref=f18e856]:
+        - generic "Carte interactive" [ref=f18e857]
+        - generic [ref=f18e861] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f18e862]: 
+          - generic [ref=f18e863]: Calques
+        - button "Calques" [ref=f18e864] [cursor=pointer]
+    - generic [ref=f18e866]:
+      - contentinfo [ref=f18e869]:
+        - text: Données cartographiques ©2026
+        - button "Algérie" [ref=f18e870] [cursor=pointer]
+        - button "Conditions d'utilisation" [ref=f18e871] [cursor=pointer]
+        - button "Confidentialité" [ref=f18e872] [cursor=pointer]
+        - button "Envoyer des commentaires sur le produit" [ref=f18e873] [cursor=pointer]
+      - button "100 m" [ref=f18e875] [cursor=pointer]

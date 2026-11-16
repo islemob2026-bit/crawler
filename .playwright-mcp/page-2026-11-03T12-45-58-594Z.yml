@@ -1,0 +1,269 @@
+- generic "Google Maps" [ref=f14e9]:
+  - generic [ref=f14e3]:
+    - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f14e15]
+    - search [ref=f14e20]:
+      - button "Retour" [ref=f14e725] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f14e726]: 
+      - generic [ref=f14e21]:
+        - combobox [ref=f14e23]: Hotel Best Night - Bab Ezzouar
+        - button "Rechercher" [ref=f14e25] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f14e26]: 
+        - button "Fermer" [ref=f14e28] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f14e29]: 
+    - region "Options de recherche disponibles pour cette zone" [ref=f14e36]:
+      - generic [ref=f14e39]:
+        - button "Hôtels à proximité" [ref=f14e41] [cursor=pointer]:
+          - generic [ref=f14e42]:
+            - generic [aria-hidden] [ref=f14e44]: 
+            - generic [ref=f14e45]: Hôtels à proximité
+        - button "Restaurants" [ref=f14e47] [cursor=pointer]:
+          - generic [ref=f14e48]:
+            - generic [aria-hidden] [ref=f14e50]: 
+            - generic [ref=f14e51]: Restaurants
+        - button "Activités à découvrir" [ref=f14e53] [cursor=pointer]:
+          - generic [ref=f14e54]:
+            - generic [aria-hidden] [ref=f14e56]: 
+            - generic [ref=f14e57]: Activités à découvrir
+        - button "Bars" [ref=f14e59] [cursor=pointer]:
+          - generic [ref=f14e60]:
+            - generic [aria-hidden] [ref=f14e62]: 
+            - generic [ref=f14e63]: Bars
+        - button "Cafés" [ref=f14e65] [cursor=pointer]:
+          - generic [ref=f14e66]:
+            - generic [aria-hidden] [ref=f14e68]: 
+            - generic [ref=f14e69]: Cafés
+        - button "Pharmacies" [ref=f14e71] [cursor=pointer]:
+          - generic [ref=f14e72]:
+            - generic [aria-hidden] [ref=f14e74]: 
+            - generic [ref=f14e75]: Pharmacies
+        - button "Parkings" [ref=f14e77] [cursor=pointer]:
+          - generic [ref=f14e78]:
+            - generic [aria-hidden] [ref=f14e80]: 
+            - generic [ref=f14e81]: Parkings
+    - generic [ref=f14e82]:
+      - generic [ref=f14e83]:
+        - list [ref=f14e85]:
+          - listitem [ref=f14e86]:
+            - button "Menu" [ref=f14e87] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f14e89]: 
+          - listitem [ref=f14e90]:
+            - button "Enregistré" [ref=f14e91] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f14e93]: 
+          - listitem [ref=f14e96]:
+            - button "Récents" [ref=f14e97] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f14e99]: 
+          - listitem [ref=f14e103]:
+            - button "Hotel Best Night - Bab Ezzouar" [ref=f14e104] [cursor=pointer]
+          - listitem [ref=f14e112]:
+            - button "Obtenir l'appli" [ref=f14e113] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f14e115]: 
+        - main "Hotel Best Night - Bab Ezzouar" [ref=f14e122]:
+          - tablist [ref=f14e165]:
+            - tab "Hotel Best Night - Bab Ezzouar - Présentation" [ref=f14e166]:
+              - generic [aria-hidden] [ref=f14e168]: Présentation
+            - tab "Prix pour Hotel Best Night - Bab Ezzouar" [ref=f14e170]:
+              - generic [aria-hidden] [ref=f14e172]: Prix
+            - tab "Hotel Best Night - Bab Ezzouar - Avis" [active] [selected] [ref=f14e174]:
+              - generic [aria-hidden] [ref=f14e176]: Avis
+            - tab "Informations sur Hotel Best Night - Bab Ezzouar" [ref=f14e178]:
+              - generic [aria-hidden] [ref=f14e180]: À propos
+          - generic [ref=f14e728]:
+            - generic [ref=f14e730]:
+              - list [ref=f14e732]:
+                - listitem [ref=f14e733]: 11 554 DA
+                - text: ·
+                - listitem [ref=f14e734]: Hôtel 3 étoiles
+              - generic [ref=f14e735]: 6–7 nov.
+            - link [ref=f14e739] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f14e740]:
+                - generic [aria-hidden] [ref=f14e741]: 
+                - text: Vérifier la disponibilité
+          - generic [ref=f14e743]:
+            - generic [ref=f14e744]:
+              - heading "Résumé des avis Google" [level=2] [ref=f14e746]
+              - button "Informations" [ref=f14e748] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e749]: 
+            - generic [ref=f14e751]:
+              - table [ref=f14e753]:
+                - rowgroup [ref=f14e754]:
+                  - img "5 étoiles, 1 251 avis" [ref=f14e755]: "5"
+                  - img "4 étoiles, 202 avis" [ref=f14e758]: "4"
+                  - img "3 étoiles, 132 avis" [ref=f14e761]: "3"
+                  - img "2 étoiles, 40 avis" [ref=f14e764]: "2"
+                  - img "1 étoiles, 156 avis" [ref=f14e767]: "1"
+              - generic [ref=f14e770]:
+                - generic [ref=f14e771]: 4,3
+                - img "4,3 étoiles" [ref=f14e772]
+                - generic [ref=f14e778]: 1 781 avis
+            - button "Rédiger un avis" [ref=f14e782] [cursor=pointer]:
+              - generic [ref=f14e783]:
+                - generic [aria-hidden] [ref=f14e784]: 
+                - generic [ref=f14e785]: Rédiger un avis
+            - generic [ref=f14e789]:
+              - textbox "Rechercher dans les avis" [ref=f14e790]
+              - generic [aria-hidden]: Rechercher dans les avis
+            - generic [ref=f14e791]:
+              - button "Tous les avis" [ref=f14e792] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e794]: 
+              - button "Avis les plus pertinents" [ref=f14e795] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f14e797]: 
+            - generic [ref=f14e800]:
+              - generic "Dana Dana" [ref=f14e801]:
+                - generic [ref=f14e803]:
+                  - button "Photo de Dana Dana" [ref=f14e804]
+                  - generic [ref=f14e806]:
+                    - button "Dana Dana Local Guide · 15 avis" [ref=f14e808]:
+                      - generic [ref=f14e809]: Dana Dana
+                      - generic [ref=f14e810]: Local Guide · 15 avis
+                    - button "Actions pour l'avis rédigé par Dana Dana" [ref=f14e811] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f14e813]: 
+                  - generic [ref=f14e814]:
+                    - generic [ref=f14e815]:
+                      - generic [ref=f14e816]: 1/5
+                      - generic [ref=f14e817]:
+                        - text: il y a 3 mois sur
+                        - generic [ref=f14e818]: Google
+                    - generic [ref=f14e820]:
+                      - text: Par apport le prix c'est pas juste , une nuit en environ 45€ et que après quand tu rentre dans le hall de hotel et vers l'ascenseur et le restaurant tu trouve des cafards,la propreté catastrophique. …
+                      - button "Voir plus" [ref=f14e822] [cursor=pointer]: Plus
+                    - generic [ref=f14e823]:
+                      - button "J'aime" [ref=f14e824]:
+                        - generic [ref=f14e825] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f14e826]: 
+                          - generic [ref=f14e827]: J'aime
+                      - button "Partager l'avis rédigé par Dana Dana." [ref=f14e829]:
+                        - generic [ref=f14e830] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f14e831]: 
+                          - generic [ref=f14e832]: Partager
+              - generic "derridja" [ref=f14e836]:
+                - generic [ref=f14e838]:
+                  - button "Photo de derridja" [ref=f14e839]
+                  - button "derridja" [ref=f14e843]
+                  - generic [ref=f14e845]:
+                    - generic [ref=f14e846]:
+                      - generic [ref=f14e847]: 1/5
+                      - generic [ref=f14e848]:
+                        - text: il y a un an sur
+                        - generic [ref=f14e849]: Tripadvisor
+                    - generic [ref=f14e851]:
+                      - text: Nous avons séjourné à l'hôtel Best Night à Bab Ezzouar, Alger, et nous avons été très déçus. Après 3 h de temps passé dans la chambre nous avons constaté que le plafond de la salle de bain était moisi et les serviettes étaient sales. À la …
+                      - button "En savoir plus sur Tripadvisor" [ref=f14e853] [cursor=pointer]
+              - generic "Yacob Dj." [ref=f14e857]:
+                - generic [ref=f14e859]:
+                  - button "Photo de Yacob Dj." [ref=f14e860]
+                  - generic [ref=f14e862]:
+                    - button "Yacob Dj. 8 avis · 2 photos" [ref=f14e864]:
+                      - generic [ref=f14e865]: Yacob Dj.
+                      - generic [ref=f14e866]: 8 avis · 2 photos
+                    - button "Actions pour l'avis rédigé par Yacob Dj." [ref=f14e867] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f14e869]: 
+                  - generic [ref=f14e870]:
+                    - generic [ref=f14e871]:
+                      - generic [ref=f14e872]: 1/5
+                      - generic [ref=f14e873]:
+                        - text: il y a 3 mois sur
+                        - generic [ref=f14e874]: Google
+                    - generic [ref=f14e876]:
+                      - text: Expérience catastrophique – À éviter absolument Nous avions réservé une chambre familiale deux mois à l'avance pour garantir notre séjour. Mon frère s'est même déplacé physiquement à l'hôtel pour confirmer la …
+                      - button "Voir plus" [ref=f14e878] [cursor=pointer]: Plus
+                    - generic [ref=f14e879]:
+                      - button "1 \"J'aime\"" [ref=f14e880]:
+                        - generic [ref=f14e881] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f14e882]: 
+                          - generic [ref=f14e883]: "1"
+                      - button "Partager l'avis rédigé par Yacob Dj.." [ref=f14e885]:
+                        - generic [ref=f14e886] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f14e887]: 
+                          - generic [ref=f14e888]: Partager
+              - generic "Louisa Gada" [ref=f14e892]:
+                - generic [ref=f14e894]:
+                  - button "Photo de Louisa Gada" [ref=f14e895]
+                  - generic [ref=f14e897]:
+                    - button "Louisa Gada 1 avis · 2 photos" [ref=f14e899]:
+                      - generic [ref=f14e900]: Louisa Gada
+                      - generic [ref=f14e901]: 1 avis · 2 photos
+                    - button "Actions pour l'avis rédigé par Louisa Gada" [ref=f14e902] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f14e904]: 
+                  - generic [ref=f14e905]:
+                    - generic [ref=f14e906]:
+                      - generic [ref=f14e907]: 1/5
+                      - generic [ref=f14e908]:
+                        - text: il y a 2 semaines sur
+                        - generic [ref=f14e909]: Google
+                      - generic [ref=f14e910]: Nouveau
+                    - generic [ref=f14e912]:
+                      - text: Une catastrophe, j'avais fait ma réservation la veille d'une chambre double confort, en arrivant le jour du check in après on un long trajet de 600km, on a payé à la réception la totalité 28000da pour 2 nuitée, à notre grande surprise on …
+                      - button "Voir plus" [ref=f14e914] [cursor=pointer]: Plus
+                    - generic [ref=f14e915]:
+                      - button "J'aime" [ref=f14e916]:
+                        - generic [ref=f14e917] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f14e918]: 
+                          - generic [ref=f14e919]: J'aime
+                      - button "Partager l'avis rédigé par Louisa Gada." [ref=f14e921]:
+                        - generic [ref=f14e922] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f14e923]: 
+                          - generic [ref=f14e924]: Partager
+              - generic "sofiane sayah" [ref=f14e928]:
+                - generic [ref=f14e930]:
+                  - button "Photo de sofiane sayah" [ref=f14e931]
+                  - generic [ref=f14e933]:
+                    - button "sofiane sayah 1 avis" [ref=f14e935]:
+                      - generic [ref=f14e936]: sofiane sayah
+                      - generic [ref=f14e937]: 1 avis
+                    - button "Actions pour l'avis rédigé par sofiane sayah" [ref=f14e938] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f14e940]: 
+                  - generic [ref=f14e941]:
+                    - generic [ref=f14e942]:
+                      - generic [ref=f14e943]: 1/5
+                      - generic [ref=f14e944]:
+                        - text: il y a un mois sur
+                        - generic [ref=f14e945]: Google
+                    - generic [ref=f14e947]:
+                      - text: NUL !!!! Quand j'ai vu que des bons avis j'ai bien compris que les avis ne sont pas vérifiés et n'importe qui peut poster un avis j'ai réservé une chambre familiale lit double je rentre dans la chambre je trouve 2 lit séparés le mec me dit …
+                      - button "Voir plus" [ref=f14e949] [cursor=pointer]: Plus
+                    - generic [ref=f14e950]:
+                      - button "J'aime" [ref=f14e951]:
+                        - generic [ref=f14e952] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f14e953]: 
+                          - generic [ref=f14e954]: J'aime
+                      - button "Partager l'avis rédigé par sofiane sayah." [ref=f14e956]:
+                        - generic [ref=f14e957] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f14e958]: 
+                          - generic [ref=f14e959]: Partager
+            - button "Voir plus d'avis (1 776)" [ref=f14e963]
+            - generic [ref=f14e968]:
+              - generic [aria-hidden] [ref=f14e970]: 
+              - generic [ref=f14e971]:
+                - text: Vous voyez un affichage limité de Google Maps.
+                - button "Voir plus" [ref=f14e972] [cursor=pointer]
+      - button "Réduire le panneau latéral" [ref=f14e665] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f14e666]: 
+    - generic [ref=f14e670]:
+      - button "Applications Google" [ref=f14e674] [cursor=pointer]
+      - link "Connexion" [ref=f14e678] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FHotel%2BBest%2BNight%2B-%2BBab%2BEzzouar%2F%4036.7244284%2C3.1706173%2C17z%2Fdata%3D!4m11!3m10!1s0x128e521bcdecec8d%3A0xd61df57da15fbfc2!5m2!4m1!1i2!8m2!3d36.7244284!4d3.1706173!9m1!1b1!16s%252Fg%252F11b6_fgfdc%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Afficher votre position" [ref=f14e681] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f14e683]: 
+        - generic [ref=f14e685] [cursor=pointer]:
+          - button "Faire un zoom avant" [ref=f14e686]:
+            - generic [aria-hidden] [ref=f14e688]: 
+          - button "Faire un zoom arrière" [ref=f14e689]:
+            - generic [aria-hidden] [ref=f14e691]: 
+      - button "Parcourir les images Street View" [ref=f14e697]
+      - generic [ref=f14e699]:
+        - generic "Carte interactive" [ref=f14e700]
+        - generic [ref=f14e704] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f14e705]: 
+          - generic [ref=f14e706]: Calques
+        - button "Calques" [ref=f14e707] [cursor=pointer]
+    - generic [ref=f14e709]:
+      - contentinfo [ref=f14e712]:
+        - text: Données cartographiques ©2026
+        - button "Algérie" [ref=f14e713] [cursor=pointer]
+        - button "Conditions d'utilisation" [ref=f14e714] [cursor=pointer]
+        - button "Confidentialité" [ref=f14e715] [cursor=pointer]
+        - button "Envoyer des commentaires sur le produit" [ref=f14e716] [cursor=pointer]
+      - button "100 m" [ref=f14e718] [cursor=pointer]

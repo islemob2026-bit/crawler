@@ -1,0 +1,271 @@
+- generic [ref=f2e1]:
+  - generic "Google Maps" [ref=f2e9]:
+    - generic [ref=f2e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f2e15]
+      - search [ref=f2e20]:
+        - button "Retour" [ref=f2e899] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f2e900]: 
+        - generic [ref=f2e21]:
+          - combobox [ref=f2e23]: Four Points by Sheraton Oran
+          - button "Rechercher" [ref=f2e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f2e26]: 
+          - button "Fermer" [ref=f2e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f2e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f2e36]:
+        - generic [ref=f2e39]:
+          - button "Hôtels à proximité" [ref=f2e41] [cursor=pointer]:
+            - generic [ref=f2e42]:
+              - generic [aria-hidden] [ref=f2e44]: 
+              - generic [ref=f2e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f2e47] [cursor=pointer]:
+            - generic [ref=f2e48]:
+              - generic [aria-hidden] [ref=f2e50]: 
+              - generic [ref=f2e51]: Restaurants
+          - button "Activités à découvrir" [ref=f2e53] [cursor=pointer]:
+            - generic [ref=f2e54]:
+              - generic [aria-hidden] [ref=f2e56]: 
+              - generic [ref=f2e57]: Activités à découvrir
+          - button "Bars" [ref=f2e59] [cursor=pointer]:
+            - generic [ref=f2e60]:
+              - generic [aria-hidden] [ref=f2e62]: 
+              - generic [ref=f2e63]: Bars
+          - button "Cafés" [ref=f2e65] [cursor=pointer]:
+            - generic [ref=f2e66]:
+              - generic [aria-hidden] [ref=f2e68]: 
+              - generic [ref=f2e69]: Cafés
+          - button "Pharmacies" [ref=f2e71] [cursor=pointer]:
+            - generic [ref=f2e72]:
+              - generic [aria-hidden] [ref=f2e74]: 
+              - generic [ref=f2e75]: Pharmacies
+          - button "Parkings" [ref=f2e77] [cursor=pointer]:
+            - generic [ref=f2e78]:
+              - generic [aria-hidden] [ref=f2e80]: 
+              - generic [ref=f2e81]: Parkings
+      - generic [ref=f2e82]:
+        - generic [ref=f2e83]:
+          - list [ref=f2e85]:
+            - listitem [ref=f2e86]:
+              - button "Menu" [ref=f2e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e89]: 
+            - listitem [ref=f2e90]:
+              - button "Enregistré" [ref=f2e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e93]: 
+            - listitem [ref=f2e96]:
+              - button "Récents" [ref=f2e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e99]: 
+            - listitem [ref=f2e103]:
+              - button "Four Points by Sheraton Oran" [ref=f2e104] [cursor=pointer]
+            - listitem [ref=f2e112]:
+              - button "Obtenir l'appli" [ref=f2e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e115]: 
+          - main "Four Points by Sheraton Oran" [ref=f2e122]:
+            - tablist [ref=f2e182]:
+              - tab "Four Points by Sheraton Oran - Présentation" [ref=f2e183]:
+                - generic [aria-hidden] [ref=f2e185]: Présentation
+              - tab "Prix pour Four Points by Sheraton Oran" [ref=f2e187]:
+                - generic [aria-hidden] [ref=f2e189]: Prix
+              - tab "Four Points by Sheraton Oran - Avis" [selected] [ref=f2e191]:
+                - generic [aria-hidden] [ref=f2e193]: Avis
+              - tab "Informations sur Four Points by Sheraton Oran" [ref=f2e195]:
+                - generic [aria-hidden] [ref=f2e197]: À propos
+            - generic [ref=f2e902]:
+              - generic [ref=f2e904]:
+                - list [ref=f2e906]:
+                  - listitem [ref=f2e907]: 23 542 DA
+                  - text: ·
+                  - listitem [ref=f2e908]: Hôtel 4 étoiles
+                - generic [ref=f2e909]: 4–7 déc.
+              - link [ref=f2e913] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f2e914]:
+                  - generic [aria-hidden] [ref=f2e915]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f2e917]:
+              - generic [ref=f2e918]:
+                - heading "Résumé des avis Google" [level=2] [ref=f2e920]
+                - button "Informations" [ref=f2e922] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f2e923]: 
+              - generic [ref=f2e925]:
+                - table [ref=f2e927]:
+                  - rowgroup [ref=f2e928]:
+                    - img "5 étoiles, 1 443 avis" [ref=f2e929]: "5"
+                    - img "4 étoiles, 570 avis" [ref=f2e932]: "4"
+                    - img "3 étoiles, 280 avis" [ref=f2e935]: "3"
+                    - img "2 étoiles, 137 avis" [ref=f2e938]: "2"
+                    - img "1 étoiles, 413 avis" [ref=f2e941]: "1"
+                - generic [ref=f2e944]:
+                  - generic [ref=f2e945]: 3,9
+                  - img "3,9 étoiles" [ref=f2e946]
+                  - generic [ref=f2e952]: 2 843 avis
+              - button "Rédiger un avis" [ref=f2e956] [cursor=pointer]:
+                - generic [ref=f2e957]:
+                  - generic [aria-hidden] [ref=f2e958]: 
+                  - generic [ref=f2e959]: Rédiger un avis
+              - generic [ref=f2e963]:
+                - textbox [active] [ref=f2e1139]: famille
+                - button "Effacer" [ref=f2e1140] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f2e1141]: 
+              - generic [ref=f2e965]:
+                - button "Tous les avis" [ref=f2e966] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f2e968]: 
+                - button "Avis les plus pertinents" [ref=f2e969] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f2e971]: 
+              - generic [ref=f2e1142]:
+                - generic "671brahimh" [ref=f2e1143]:
+                  - generic [ref=f2e1145]:
+                    - button "Photo de 671brahimh" [ref=f2e1146]
+                    - button "671brahimh" [ref=f2e1150]
+                    - generic [ref=f2e1152]:
+                      - generic [ref=f2e1153]:
+                        - generic [ref=f2e1154]: 1/5
+                        - generic [ref=f2e1155]:
+                          - text: il y a 2 mois sur
+                          - generic [ref=f2e1156]: Tripadvisor
+                      - generic [ref=f2e1158]:
+                        - generic [ref=f2e1159]: … valises du coffre, de nous garer dans le parking souterrain, puis de remonter à la réception avec toute notre famille et nos affaires.||Et c’est seulement quelques minutes plus tard, alors que nous pensions pouvoir enfin nous installer, …
+                        - button "En savoir plus sur Tripadvisor" [ref=f2e1161] [cursor=pointer]
+                - generic "Sirine H&M" [ref=f2e1165]:
+                  - generic [ref=f2e1167]:
+                    - button "Photo de Sirine H&M" [ref=f2e1168]
+                    - generic [ref=f2e1170]:
+                      - button "Sirine H&M 9 avis" [ref=f2e1172]:
+                        - generic [ref=f2e1173]: Sirine H&M
+                        - generic [ref=f2e1174]: 9 avis
+                      - button "Actions pour l'avis rédigé par Sirine H&M" [ref=f2e1175] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f2e1177]: 
+                    - generic [ref=f2e1178]:
+                      - generic [ref=f2e1179]:
+                        - generic [ref=f2e1180]: 1/5
+                        - generic [ref=f2e1181]:
+                          - text: il y a un an sur
+                          - generic [ref=f2e1182]: Google
+                      - generic [ref=f2e1184]:
+                        - generic [ref=f2e1185]: … chambre est horrible, une odeur d’humidité et de tabac froid. Et enfin la piscine aurait été super, mais ne venez pas en famille, l’exposition d’alcool fort sur le bar de la piscine, il faudrait un minimum de respect dans un pays musulman.
+                        - button "Voir plus" [ref=f2e1187] [cursor=pointer]: Plus
+                      - generic [ref=f2e1188]:
+                        - button "J'aime" [ref=f2e1189]:
+                          - generic [ref=f2e1190] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1191]: 
+                            - generic [ref=f2e1192]: J'aime
+                        - button "Partager l'avis rédigé par Sirine H&M." [ref=f2e1194]:
+                          - generic [ref=f2e1195] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1196]: 
+                            - generic [ref=f2e1197]: Partager
+                - generic "Myriam Baalali Medj" [ref=f2e1201]:
+                  - generic [ref=f2e1203]:
+                    - button "Photo de Myriam Baalali Medj" [ref=f2e1204]
+                    - generic [ref=f2e1206]:
+                      - button "Myriam Baalali Medj Local Guide · 16 avis" [ref=f2e1208]:
+                        - generic [ref=f2e1209]: Myriam Baalali Medj
+                        - generic [ref=f2e1210]: Local Guide · 16 avis
+                      - button "Actions pour l'avis rédigé par Myriam Baalali Medj" [ref=f2e1211] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f2e1213]: 
+                    - generic [ref=f2e1214]:
+                      - generic [ref=f2e1215]:
+                        - generic [ref=f2e1216]: 2/5
+                        - generic [ref=f2e1217]:
+                          - text: il y a un an sur
+                          - generic [ref=f2e1218]: Google
+                      - generic [ref=f2e1220]:
+                        - generic [ref=f2e1221]: J’ai séjourné en famille dans cet hôtel qui de l’extérieur est jolie. Le personnel est vraiment hyper accueillant et agréable. Mais si vous y allez en famille je ne le conseille pas. Les chambres ne sont pas adapté aux familles avec des …
+                        - button "Voir plus" [ref=f2e1223] [cursor=pointer]: Plus
+                      - generic [ref=f2e1224]:
+                        - button "J'aime" [ref=f2e1225]:
+                          - generic [ref=f2e1226] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1227]: 
+                            - generic [ref=f2e1228]: J'aime
+                        - button "Partager l'avis rédigé par Myriam Baalali Medj." [ref=f2e1230]:
+                          - generic [ref=f2e1231] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1232]: 
+                            - generic [ref=f2e1233]: Partager
+                - generic "boualem chouiref" [ref=f2e1237]:
+                  - generic [ref=f2e1239]:
+                    - button "Photo de boualem chouiref" [ref=f2e1240]
+                    - generic [ref=f2e1242]:
+                      - button "boualem chouiref Local Guide · 52 avis · 1 photo" [ref=f2e1244]:
+                        - generic [ref=f2e1245]: boualem chouiref
+                        - generic [ref=f2e1246]: Local Guide · 52 avis · 1 photo
+                      - button "Actions pour l'avis rédigé par boualem chouiref" [ref=f2e1247] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f2e1249]: 
+                    - generic [ref=f2e1250]:
+                      - generic [ref=f2e1251]:
+                        - generic [ref=f2e1252]: 1/5
+                        - generic [ref=f2e1253]:
+                          - text: il y a un an sur
+                          - generic [ref=f2e1254]: Google
+                      - generic [ref=f2e1256]:
+                        - generic [ref=f2e1257]: "… de plage et aucun souci. Ce soir, même tenue, même intention : dîner tranquillement avec deux femmes de ma famille, voilées. Bizarrement, cette fois-ci on me refuse l’entrée. La seule différence ? Leur présence. Apparemment, les femmes …"
+                        - button "Voir plus" [ref=f2e1259] [cursor=pointer]: Plus
+                      - generic [ref=f2e1260]:
+                        - button "J'aime" [ref=f2e1261]:
+                          - generic [ref=f2e1262] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1263]: 
+                            - generic [ref=f2e1264]: J'aime
+                        - button "Partager l'avis rédigé par boualem chouiref." [ref=f2e1266]:
+                          - generic [ref=f2e1267] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1268]: 
+                            - generic [ref=f2e1269]: Partager
+                - generic "Amel MANSOURI" [ref=f2e1273]:
+                  - generic [ref=f2e1275]:
+                    - button "Photo de Amel MANSOURI" [ref=f2e1276]
+                    - generic [ref=f2e1278]:
+                      - button "Amel MANSOURI 10 avis · 3 photos" [ref=f2e1280]:
+                        - generic [ref=f2e1281]: Amel MANSOURI
+                        - generic [ref=f2e1282]: 10 avis · 3 photos
+                      - button "Actions pour l'avis rédigé par Amel MANSOURI" [ref=f2e1283] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f2e1285]: 
+                    - generic [ref=f2e1286]:
+                      - generic [ref=f2e1287]:
+                        - generic [ref=f2e1288]: 5/5
+                        - generic [ref=f2e1289]:
+                          - text: il y a un an sur
+                          - generic [ref=f2e1290]: Google
+                      - generic [ref=f2e1292]:
+                        - generic [ref=f2e1293]: … illuminé mon quotidien. Vous ne vous contentez pas d’héberger, vous créez une atmosphère chaleureuse où l’on se sent comme en famille, et cela n’a pas de prix. Un merci tout particulier à Wahiba et Rayan, dont la bonne humeur, l’attention …
+                        - button "Voir plus" [ref=f2e1295] [cursor=pointer]: Plus
+                      - generic [ref=f2e1296]:
+                        - button "J'aime" [ref=f2e1297]:
+                          - generic [ref=f2e1298] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1299]: 
+                            - generic [ref=f2e1300]: J'aime
+                        - button "Partager l'avis rédigé par Amel MANSOURI." [ref=f2e1302]:
+                          - generic [ref=f2e1303] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1304]: 
+                            - generic [ref=f2e1305]: Partager
+              - button "Voir plus d'avis (2 838)" [ref=f2e1309]
+              - generic [ref=f2e1314]:
+                - generic [aria-hidden] [ref=f2e1316]: 
+                - generic [ref=f2e1317]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=f2e1318] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=f2e839] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f2e840]: 
+      - generic [ref=f2e844]:
+        - button "Applications Google" [ref=f2e848] [cursor=pointer]
+        - link "Connexion" [ref=f2e852] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FFour%2BPoints%2Bby%2BSheraton%2BOran%2F%4035.716781%2C-0.610165%2C17z%2Fdata%3D!4m11!3m10!1s0xd7e8822e7eeab43%3A0xb8f8e5d31fb1c56d!5m2!4m1!1i2!8m2!3d35.716781!4d-0.610165!9m1!1b1!16s%252Fm%252F0gkzpxf%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f2e855] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f2e857]: 
+          - generic [ref=f2e859] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f2e860]:
+              - generic [aria-hidden] [ref=f2e862]: 
+            - button "Faire un zoom arrière" [ref=f2e863]:
+              - generic [aria-hidden] [ref=f2e865]: 
+        - button "Parcourir les images Street View" [ref=f2e871]
+        - generic [ref=f2e873]:
+          - generic "Carte interactive" [ref=f2e874]
+          - generic [ref=f2e878] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f2e879]: 
+            - generic [ref=f2e880]: Calques
+          - button "Calques" [ref=f2e881] [cursor=pointer]
+      - generic [ref=f2e883]:
+        - contentinfo [ref=f2e886]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f2e887] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f2e888] [cursor=pointer]
+          - button "Confidentialité" [ref=f2e889] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f2e890] [cursor=pointer]
+        - button "100 m" [ref=f2e892] [cursor=pointer]
+  - generic [ref=f2e1319]: Affichage des résultats pour famille

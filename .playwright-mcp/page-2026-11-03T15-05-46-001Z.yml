@@ -1,0 +1,160 @@
+- generic [active] [ref=e1]:
+  - link "Accès au contenu" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - generic [ref=e4]: Plateforme de la commande publique en Île-de-France
+    - generic [ref=e9]:
+      - link "GIP Maximilien":
+        - /url: https://www.maximilien.fr
+        - img "GIP Maximilien" [ref=e10] [cursor=pointer]
+      - button "Menu" [ref=e11] [cursor=pointer]
+  - main [ref=e16]:
+    - generic [ref=e17]:
+      - generic [ref=e21]:
+        - generic [ref=e23]:
+          - heading [level=1]
+          - paragraph [ref=e24]: Être accompagné pour développer ses pratiques numériques et ses achats responsables
+        - generic [ref=e26]:
+          - generic [ref=e29]:
+            - heading "Vous êtes un acheteur public" [level=2] [ref=e30]
+            - generic [ref=e31]:
+              - paragraph [ref=e32]: "Dématérialiser toute la chaîne de vos achats grâce à un bouquet de services innovants et sécurisés :"
+              - link "En savoir plus" [ref=e33] [cursor=pointer]:
+                - /url: /service-aux-acheteurs/
+            - link "ADHÉRER AU GIP MAXIMILIEN" [ref=e34] [cursor=pointer]:
+              - /url: /Nous-connaitre/adherer/
+          - list:
+            - listitem [ref=e38]:
+              - button "Pastell Pastell" [ref=e39] [cursor=pointer]:
+                - img "Pastell" [ref=e40]
+                - generic [ref=e41]: Pastell
+            - listitem [ref=e42]:
+              - button "MPE MPE" [ref=e43] [cursor=pointer]:
+                - img "MPE" [ref=e44]
+                - generic [ref=e45]: MPE
+            - listitem [ref=e46]:
+              - button "EXEC EXEC" [ref=e47] [cursor=pointer]:
+                - img "EXEC" [ref=e48]
+                - generic [ref=e49]: EXEC
+            - listitem [ref=e50]:
+              - button "DCE DCE" [ref=e51] [cursor=pointer]:
+                - img "DCE" [ref=e52]
+                - generic [ref=e53]: DCE
+            - listitem [ref=e54]:
+              - button "idelibre idelibre" [ref=e55] [cursor=pointer]:
+                - img "idelibre" [ref=e56]
+                - generic [ref=e57]: idelibre
+            - listitem [ref=e58]:
+              - button "Transfert de compétences Transfert de compétences" [ref=e59] [cursor=pointer]:
+                - img "Transfert de compétences" [ref=e60]
+                - generic [ref=e61]: Transfert de compétences
+            - listitem [ref=e62]:
+              - button "NUKEMA NUKEMA" [ref=e63] [cursor=pointer]:
+                - img "NUKEMA" [ref=e64]
+                - generic [ref=e65]: NUKEMA
+            - listitem [ref=e66]:
+              - button "Hélios Hélios" [ref=e67] [cursor=pointer]:
+                - img "Hélios" [ref=e68]
+                - generic [ref=e69]: Hélios
+            - listitem [ref=e70]:
+              - button "Actes Actes" [ref=e71] [cursor=pointer]:
+                - img "Actes" [ref=e72]
+                - generic [ref=e73]: Actes
+            - listitem [ref=e74]:
+              - button "iparapheur iparapheur" [ref=e75] [cursor=pointer]:
+                - img "iparapheur" [ref=e76]
+                - generic [ref=e77]: iparapheur
+        - generic [ref=e78]:
+          - generic [ref=e81]:
+            - heading "Vous êtes une entreprise" [level=2] [ref=e82]
+            - paragraph [ref=e83]:
+              - text: "Découvrir la plateforme, créer un compte et faire de la veille :"
+              - link "En savoir plus" [ref=e84] [cursor=pointer]:
+                - /url: /espace-entreprises/
+            - link "Accéder aux avis de marchés publics" [ref=e85] [cursor=pointer]:
+              - /url: https://marches.maximilien.fr/entreprise
+          - generic [ref=e91]:
+            - heading "Vous êtes intéressé par les achats responsables" [level=2] [ref=e92]
+            - paragraph [ref=e93]: Le GIP Maximilien coordonne le réseau des achats responsables sur des aspects sociaux et environnementaux
+            - link "En savoir plus" [ref=e94] [cursor=pointer]:
+              - /url: /achats-responsables/
+      - generic [ref=e101]:
+        - generic [ref=e102]: Service public innovant
+        - generic [ref=e105]: Accompagnement à la conduite du changement
+        - generic [ref=e108]: Services interopérables
+    - generic [ref=e111]:
+      - heading "Actualités" [level=2] [ref=e112]
+      - generic [ref=e113]:
+        - article [ref=e115]:
+          - 'img "Entreprises : participez au webinaire \"90 minutes pour comprendre la commande publique\"" [ref=e117]'
+          - generic [ref=e118]:
+            - time [ref=e120]: Le 29-10-2026
+            - heading [level=2] [ref=e121]:
+              - 'link "Entreprises : participez au webinaire \"90 minutes pour comprendre la commande publique\"" [ref=e122] [cursor=pointer]':
+                - /url: https://www.maximilien.fr/actualites/entreprises-participez-au-webinaire-90-minutes-pour-comprendre-la-commande-publique-1008/
+          - generic [ref=e123]: En savoir plus
+        - generic [ref=e128]:
+          - article [ref=e129]:
+            - img "Agenda de novembre" [ref=e132]
+            - generic [ref=e133]:
+              - generic [ref=e134]:
+                - time [ref=e136]: Le 28-10-2026
+                - heading [level=2] [ref=e137]:
+                  - link "Agenda de novembre" [ref=e138] [cursor=pointer]:
+                    - /url: https://www.maximilien.fr/actualites/agenda-1004/
+                - generic [ref=e139]: "Webinaires, fresque des achats publics durables et événements extérieurs : retrouvez nos rendez-vous du mois de novembre !"
+              - generic [ref=e140]: En savoir plus
+          - article [ref=e145]:
+            - img "Retour sur la Convention d’affaires ESS Sud Yvelines" [ref=e148]
+            - generic [ref=e149]:
+              - generic [ref=e150]:
+                - time [ref=e152]: Le 21-10-2026
+                - heading [level=2] [ref=e153]:
+                  - link "Retour sur la Convention d’affaires ESS Sud Yvelines" [ref=e154] [cursor=pointer]:
+                    - /url: https://www.maximilien.fr/actualites/retour-sur-la-convention-d-affaires-ess-sud-yvelines-997/
+                - generic [ref=e155]: Vous étiez nombreux à participer à la Convention d’affaires ESS Sud Yvelines ! Le 15 octobre dernier, à Trappes, cette rencontre a rassemblé entreprises, structures de l'ESS, collect...
+              - generic [ref=e156]: En savoir plus
+      - link "Voir toutes les actualités" [ref=e161] [cursor=pointer]:
+        - /url: https://www.maximilien.fr/actualites/
+  - contentinfo [ref=e162]:
+    - generic [ref=e164]:
+      - generic [ref=e165]: Restons connectés
+      - list [ref=e166]:
+        - listitem [ref=e167]:
+          - link "YouTube" [ref=e168] [cursor=pointer]:
+            - /url: https://www.youtube.com/channel/UCwb3NVWK2-CYuTzZcfDIicg
+        - listitem [ref=e172]:
+          - link "LinkedIn" [ref=e173] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/gip-maximilien/
+      - link "Nous contacter" [ref=e177] [cursor=pointer]:
+        - /url: https://www.maximilien.fr/contact/
+    - generic [ref=e181]:
+      - generic [ref=e182]:
+        - generic [ref=e183]: "Les membres fondateurs :"
+        - generic [ref=e186]: "Projets soutenus par :"
+      - navigation [ref=e189]:
+        - list [ref=e190]:
+          - listitem [ref=e191]:
+            - link "Recrutements" [ref=e192] [cursor=pointer]:
+              - /url: https://www.maximilien.fr/recrutement/
+          - listitem [ref=e193]:
+            - link "Marchés publics" [ref=e194] [cursor=pointer]:
+              - /url: https://www.maximilien.fr/les-marches-publics-du-gip/
+          - listitem [ref=e195]:
+            - link "Plateforme Maximilien" [ref=e196] [cursor=pointer]:
+              - /url: https://www.maximilien.fr/plateforme-maximilien/
+          - listitem [ref=e197]:
+            - link "Mentions légales" [ref=e198] [cursor=pointer]:
+              - /url: https://www.maximilien.fr/mentions-legales/
+          - listitem [ref=e199]:
+            - link "Données personnelles" [ref=e200] [cursor=pointer]:
+              - /url: https://www.maximilien.fr/donnees-personnelles/
+          - listitem [ref=e201]:
+            - link "Accessibilité" [ref=e202] [cursor=pointer]:
+              - /url: https://www.maximilien.fr/accessibilite/
+          - listitem [ref=e203]:
+            - link "English Version" [ref=e204] [cursor=pointer]:
+              - /url: https://www.maximilien.fr/english-version/
+          - listitem [ref=e205]:
+            - link "Plan du site" [ref=e206] [cursor=pointer]:
+              - /url: https://www.maximilien.fr/plan-du-site/

@@ -1,0 +1,262 @@
+- generic [ref=f2e1]:
+  - generic "Google Maps" [ref=f2e9]:
+    - generic [ref=f2e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f2e15]
+      - search [ref=f2e20]:
+        - button "Retour" [ref=f2e899] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f2e900]: 
+        - generic [ref=f2e21]:
+          - combobox [ref=f2e23]: Four Points by Sheraton Oran
+          - button "Rechercher" [ref=f2e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f2e26]: 
+          - button "Fermer" [ref=f2e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f2e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f2e36]:
+        - generic [ref=f2e39]:
+          - button "Hôtels à proximité" [ref=f2e41] [cursor=pointer]:
+            - generic [ref=f2e42]:
+              - generic [aria-hidden] [ref=f2e44]: 
+              - generic [ref=f2e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f2e47] [cursor=pointer]:
+            - generic [ref=f2e48]:
+              - generic [aria-hidden] [ref=f2e50]: 
+              - generic [ref=f2e51]: Restaurants
+          - button "Activités à découvrir" [ref=f2e53] [cursor=pointer]:
+            - generic [ref=f2e54]:
+              - generic [aria-hidden] [ref=f2e56]: 
+              - generic [ref=f2e57]: Activités à découvrir
+          - button "Bars" [ref=f2e59] [cursor=pointer]:
+            - generic [ref=f2e60]:
+              - generic [aria-hidden] [ref=f2e62]: 
+              - generic [ref=f2e63]: Bars
+          - button "Cafés" [ref=f2e65] [cursor=pointer]:
+            - generic [ref=f2e66]:
+              - generic [aria-hidden] [ref=f2e68]: 
+              - generic [ref=f2e69]: Cafés
+          - button "Pharmacies" [ref=f2e71] [cursor=pointer]:
+            - generic [ref=f2e72]:
+              - generic [aria-hidden] [ref=f2e74]: 
+              - generic [ref=f2e75]: Pharmacies
+          - button "Parkings" [ref=f2e77] [cursor=pointer]:
+            - generic [ref=f2e78]:
+              - generic [aria-hidden] [ref=f2e80]: 
+              - generic [ref=f2e81]: Parkings
+      - generic [ref=f2e82]:
+        - generic [ref=f2e83]:
+          - list [ref=f2e85]:
+            - listitem [ref=f2e86]:
+              - button "Menu" [ref=f2e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e89]: 
+            - listitem [ref=f2e90]:
+              - button "Enregistré" [ref=f2e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e93]: 
+            - listitem [ref=f2e96]:
+              - button "Récents" [ref=f2e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e99]: 
+            - listitem [ref=f2e103]:
+              - button "Four Points by Sheraton Oran" [ref=f2e104] [cursor=pointer]
+            - listitem [ref=f2e112]:
+              - button "Obtenir l'appli" [ref=f2e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f2e115]: 
+          - main "Four Points by Sheraton Oran" [ref=f2e122]:
+            - tablist [ref=f2e182]:
+              - tab "Four Points by Sheraton Oran - Présentation" [ref=f2e183]:
+                - generic [aria-hidden] [ref=f2e185]: Présentation
+              - tab "Prix pour Four Points by Sheraton Oran" [ref=f2e187]:
+                - generic [aria-hidden] [ref=f2e189]: Prix
+              - tab "Four Points by Sheraton Oran - Avis" [selected] [ref=f2e191]:
+                - generic [aria-hidden] [ref=f2e193]: Avis
+              - tab "Informations sur Four Points by Sheraton Oran" [ref=f2e195]:
+                - generic [aria-hidden] [ref=f2e197]: À propos
+            - generic [ref=f2e902]:
+              - generic [ref=f2e904]:
+                - list [ref=f2e906]:
+                  - listitem [ref=f2e907]: 23 542 DA
+                  - text: ·
+                  - listitem [ref=f2e908]: Hôtel 4 étoiles
+                - generic [ref=f2e909]: 4–7 déc.
+              - link [ref=f2e913] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f2e914]:
+                  - generic [aria-hidden] [ref=f2e915]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f2e917]:
+              - generic [ref=f2e918]:
+                - heading "Résumé des avis Google" [level=2] [ref=f2e920]
+                - button "Informations" [ref=f2e922] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f2e923]: 
+              - generic [ref=f2e925]:
+                - table [ref=f2e927]:
+                  - rowgroup [ref=f2e928]:
+                    - img "5 étoiles, 1 443 avis" [ref=f2e929]: "5"
+                    - img "4 étoiles, 570 avis" [ref=f2e932]: "4"
+                    - img "3 étoiles, 280 avis" [ref=f2e935]: "3"
+                    - img "2 étoiles, 137 avis" [ref=f2e938]: "2"
+                    - img "1 étoiles, 413 avis" [ref=f2e941]: "1"
+                - generic [ref=f2e944]:
+                  - generic [ref=f2e945]: 3,9
+                  - img "3,9 étoiles" [ref=f2e946]
+                  - generic [ref=f2e952]: 2 843 avis
+              - button "Rédiger un avis" [ref=f2e956] [cursor=pointer]:
+                - generic [ref=f2e957]:
+                  - generic [aria-hidden] [ref=f2e958]: 
+                  - generic [ref=f2e959]: Rédiger un avis
+              - generic [ref=f2e963]:
+                - textbox "Rechercher dans les avis" [active] [ref=f2e1320]
+                - generic [aria-hidden]: Rechercher dans les avis
+              - generic [ref=f2e965]:
+                - button "Tous les avis" [ref=f2e966] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f2e968]: 
+                - button "Avis les plus pertinents" [ref=f2e969] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f2e971]: 
+              - generic [ref=f2e1142]:
+                - generic "640sihemb" [ref=f2e1321]:
+                  - generic [ref=f2e1323]:
+                    - button "Photo de 640sihemb" [ref=f2e1324]
+                    - button "640sihemb" [ref=f2e1328]
+                    - generic [ref=f2e1330]:
+                      - generic [ref=f2e1331]:
+                        - generic [ref=f2e1332]: 5/5
+                        - generic [ref=f2e1333]:
+                          - text: il y a 2 mois sur
+                          - generic [ref=f2e1334]: Tripadvisor
+                      - generic [ref=f2e1336]:
+                        - text: J’ai séjourné dans cet hôtel pour un déplacement professionnel et il a parfaitement répondu à mes attentes. Chambre spacieuse, propre, literie confortable avec tous les équipements nécessaires pour travailler (bureau, bonne …
+                        - button "En savoir plus sur Tripadvisor" [ref=f2e1338] [cursor=pointer]
+                - generic "KAD" [ref=f2e1342]:
+                  - generic [ref=f2e1344]:
+                    - button "Photo de KAD" [ref=f2e1345]
+                    - generic [ref=f2e1347]:
+                      - button "KAD 3 avis" [ref=f2e1349]:
+                        - generic [ref=f2e1350]: KAD
+                        - generic [ref=f2e1351]: 3 avis
+                      - button "Actions pour l'avis rédigé par KAD" [ref=f2e1352] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f2e1354]: 
+                    - generic [ref=f2e1355]:
+                      - generic [ref=f2e1356]:
+                        - generic [ref=f2e1357]: 5/5
+                        - generic [ref=f2e1358]:
+                          - text: Modifié il y a 3 semaines sur
+                          - generic [ref=f2e1359]: Google
+                      - generic [ref=f2e1361]:
+                        - text: Je recommande vivement cet hôtel, aussi bien pour la qualité de ses prestations que pour l’accueil exceptionnel de son personnel. …
+                        - button "Voir plus" [ref=f2e1363] [cursor=pointer]: Plus
+                      - generic [ref=f2e1364]:
+                        - button "J'aime" [ref=f2e1365]:
+                          - generic [ref=f2e1366] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1367]: 
+                            - generic [ref=f2e1368]: J'aime
+                        - button "Partager l'avis rédigé par KAD." [ref=f2e1370]:
+                          - generic [ref=f2e1371] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1372]: 
+                            - generic [ref=f2e1373]: Partager
+                - generic "HLazhar25" [ref=f2e1377]:
+                  - generic [ref=f2e1379]:
+                    - button "Photo de HLazhar25" [ref=f2e1380]
+                    - button "HLazhar25" [ref=f2e1384]
+                    - generic [ref=f2e1386]:
+                      - generic [ref=f2e1387]:
+                        - generic [ref=f2e1388]: 2/5
+                        - generic [ref=f2e1389]:
+                          - text: il y a 4 ans sur
+                          - generic [ref=f2e1390]: Four Points by Sheraton Oran
+                      - generic [ref=f2e1392]:
+                        - text: Sheraton four n'est plus le sheraton des années 2017 et 2018. Personnel incompétent qui manquent de sens de communication.. Avec aucun respect au client. …
+                        - button "En savoir plus sur Four Points by Sheraton Oran" [ref=f2e1394] [cursor=pointer]
+                - generic "Lyes Bedroune" [ref=f2e1398]:
+                  - generic [ref=f2e1400]:
+                    - button "Photo de Lyes Bedroune" [ref=f2e1401]
+                    - generic [ref=f2e1403]:
+                      - button "Lyes Bedroune 1 avis" [ref=f2e1405]:
+                        - generic [ref=f2e1406]: Lyes Bedroune
+                        - generic [ref=f2e1407]: 1 avis
+                      - button "Actions pour l'avis rédigé par Lyes Bedroune" [ref=f2e1408] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f2e1410]: 
+                    - generic [ref=f2e1411]:
+                      - generic [ref=f2e1412]:
+                        - generic [ref=f2e1413]: 5/5
+                        - generic [ref=f2e1414]:
+                          - text: il y a un mois sur
+                          - generic [ref=f2e1415]: Google
+                      - generic [ref=f2e1417]:
+                        - text: Je recommande cet hôtel pour son accueil et la qualité de son service. J’ai beaucoup apprécié la gentillesse du personnel, notamment Kenza à l’accueil, …
+                        - button "Voir plus" [ref=f2e1419] [cursor=pointer]: Plus
+                      - generic [ref=f2e1420]:
+                        - button "J'aime" [ref=f2e1421]:
+                          - generic [ref=f2e1422] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1423]: 
+                            - generic [ref=f2e1424]: J'aime
+                        - button "Partager l'avis rédigé par Lyes Bedroune." [ref=f2e1426]:
+                          - generic [ref=f2e1427] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1428]: 
+                            - generic [ref=f2e1429]: Partager
+                      - generic [ref=f2e1430]:
+                        - generic [ref=f2e1431]: Réponse du propriétaire il y a un mois
+                        - generic [ref=f2e1432]:
+                          - text: Bonjour Lyes, Lire un tel retour sur Kenza, Yacine et Soumia fait le plus grand bonheur de …
+                          - button "Voir plus" [ref=f2e1434] [cursor=pointer]: Plus
+                - generic "Nassim Merioua" [ref=f2e1438]:
+                  - generic [ref=f2e1440]:
+                    - button "Photo de Nassim Merioua" [ref=f2e1441]
+                    - generic [ref=f2e1443]:
+                      - button "Nassim Merioua 5 avis · 1 photo" [ref=f2e1445]:
+                        - generic [ref=f2e1446]: Nassim Merioua
+                        - generic [ref=f2e1447]: 5 avis · 1 photo
+                      - button "Actions pour l'avis rédigé par Nassim Merioua" [ref=f2e1448] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f2e1450]: 
+                    - generic [ref=f2e1451]:
+                      - generic [ref=f2e1452]:
+                        - generic [ref=f2e1453]: 5/5
+                        - generic [ref=f2e1454]:
+                          - text: il y a un mois sur
+                          - generic [ref=f2e1455]: Google
+                      - generic [ref=f2e1457]:
+                        - text: Superbe expérience ! Le personnel est très sympathique, accueillant et attentionné. Mention spéciale à Yacine et Soumaya pour leur gentillesse, leur douceur et leur amabilité tout au long de notre séjour. …
+                        - button "Voir plus" [ref=f2e1459] [cursor=pointer]: Plus
+                      - button "Photo 1 dans l'avis rédigé par Nassim Merioua" [ref=f2e1461] [cursor=pointer]
+                      - generic [ref=f2e1462]:
+                        - button "J'aime" [ref=f2e1463]:
+                          - generic [ref=f2e1464] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1465]: 
+                            - generic [ref=f2e1466]: J'aime
+                        - button "Partager l'avis rédigé par Nassim Merioua." [ref=f2e1468]:
+                          - generic [ref=f2e1469] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f2e1470]: 
+                            - generic [ref=f2e1471]: Partager
+              - button "Voir plus d'avis (2 838)" [ref=f2e1475]
+              - generic [ref=f2e1480]:
+                - generic [aria-hidden] [ref=f2e1482]: 
+                - generic [ref=f2e1483]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=f2e1484] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=f2e839] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f2e840]: 
+      - generic [ref=f2e844]:
+        - button "Applications Google" [ref=f2e848] [cursor=pointer]
+        - link "Connexion" [ref=f2e852] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FFour%2BPoints%2Bby%2BSheraton%2BOran%2F%4035.716781%2C-0.610165%2C17z%2Fdata%3D!4m11!3m10!1s0xd7e8822e7eeab43%3A0xb8f8e5d31fb1c56d!5m2!4m1!1i2!8m2!3d35.716781!4d-0.610165!9m1!1b1!16s%252Fm%252F0gkzpxf%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f2e855] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f2e857]: 
+          - generic [ref=f2e859] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f2e860]:
+              - generic [aria-hidden] [ref=f2e862]: 
+            - button "Faire un zoom arrière" [ref=f2e863]:
+              - generic [aria-hidden] [ref=f2e865]: 
+        - button "Parcourir les images Street View" [ref=f2e871]
+        - generic [ref=f2e873]:
+          - generic "Carte interactive" [ref=f2e874]
+          - generic [ref=f2e878] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f2e879]: 
+            - generic [ref=f2e880]: Calques
+          - button "Calques" [ref=f2e881] [cursor=pointer]
+      - generic [ref=f2e883]:
+        - contentinfo [ref=f2e886]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f2e887] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f2e888] [cursor=pointer]
+          - button "Confidentialité" [ref=f2e889] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f2e890] [cursor=pointer]
+        - button "100 m" [ref=f2e892] [cursor=pointer]
+  - generic [ref=f2e1319]: Recherche effacée

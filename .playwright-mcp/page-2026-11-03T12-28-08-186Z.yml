@@ -1,0 +1,282 @@
+- generic "Google Maps" [ref=e9]:
+  - menu "Trier par" [ref=e346]:
+    - generic [ref=e347]:
+      - menuitemradio "Pertinence" [active] [ref=e348] [cursor=pointer]
+      - menuitemradio "Note" [ref=e351] [cursor=pointer]
+  - generic [ref=e3]:
+    - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=e10]
+    - search [ref=e15]:
+      - generic [ref=e16]:
+        - combobox [ref=e18]: hotels in Oran
+        - button "Rechercher" [ref=e20] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e21]: 
+        - button "Fermer" [ref=e23] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e24]: 
+    - region "Filtres disponibles pour cette recherche" [ref=e260]:
+      - generic [ref=e263]:
+        - radiogroup "Changer de type d'hébergement" [ref=e265]:
+          - button "Hôtels" [pressed] [ref=e266] [cursor=pointer]:
+            - generic [ref=e267]:
+              - generic [aria-hidden] [ref=e268]: 
+              - generic [ref=e269]: Hôtels
+          - button "Locations de vacances" [ref=e270] [cursor=pointer]:
+            - generic [ref=e271]:
+              - generic [aria-hidden] [ref=e272]: 
+              - generic [ref=e273]: Locations de vacances
+        - button "Note des clients" [ref=e275] [cursor=pointer]:
+          - generic [ref=e276]:
+            - generic [aria-hidden] [ref=e277]: 
+            - generic [ref=e278]: Note des clients
+            - generic [aria-hidden] [ref=e279]: 
+        - button "Chaînes" [ref=e281] [cursor=pointer]:
+          - generic [ref=e282]:
+            - generic [aria-hidden] [ref=e283]: 
+            - generic [ref=e284]: Chaînes
+            - generic [aria-hidden] [ref=e285]: 
+        - button "Équipements" [ref=e287] [cursor=pointer]:
+          - generic [ref=e288]:
+            - generic [aria-hidden] [ref=e289]: 
+            - generic [ref=e290]: Équipements
+            - generic [aria-hidden] [ref=e291]: 
+        - button "Catégorie d'hôtel" [ref=e293] [cursor=pointer]:
+          - generic [ref=e294]:
+            - generic [aria-hidden] [ref=e295]: 
+            - generic [ref=e296]: Catégorie d'hôtel
+            - generic [aria-hidden] [ref=e297]: 
+        - button "Annulation gratuite" [ref=e299] [cursor=pointer]
+        - button "Tous les filtres" [ref=e303] [cursor=pointer]:
+          - generic [ref=e304]:
+            - generic [aria-hidden] [ref=e305]: 
+            - generic [ref=e306]: Tous les filtres
+      - button "Page suivante" [ref=e307] [cursor=pointer]:
+        - generic [aria-hidden] [ref=e308]: 
+    - generic [ref=e25]:
+      - generic [ref=e26]:
+        - list [ref=e28]:
+          - listitem [ref=e29]:
+            - button "Menu" [ref=e30] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e32]: 
+          - listitem [ref=e33]:
+            - button "Enregistré" [ref=e34] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e36]: 
+          - listitem [ref=e39]:
+            - button "Récents" [disabled] [ref=e40]:
+              - generic [aria-hidden] [ref=e42]: 
+          - listitem [ref=e46]:
+            - button "Obtenir l'appli" [ref=e47] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e49]: 
+        - main [ref=e56]:
+          - generic [ref=e57]:
+            - generic [ref=e58]:
+              - group "Du mercredi 11 novembre au jeudi 12 novembre" [ref=e59]:
+                - generic [ref=e60]:
+                  - generic [aria-hidden] [ref=e61]: 
+                  - generic [ref=e63] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=e64]: mer. 11 nov.
+                    - generic [ref=e65]:
+                      - button "Arriver un jour plus tôt" [ref=e66]:
+                        - generic [aria-hidden] [ref=e67]: 
+                      - button "Arriver un jour plus tard" [ref=e68]:
+                        - generic [aria-hidden] [ref=e69]: 
+                - generic [ref=e72] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e73]: jeu. 12 nov.
+                  - generic [ref=e74]:
+                    - button "Partir un jour plus tôt" [disabled] [ref=e75]:
+                      - generic [aria-hidden] [ref=e76]: 
+                    - button "Partir un jour plus tard" [ref=e77]:
+                      - generic [aria-hidden] [ref=e78]: 
+              - region "Invités" [ref=e79]:
+                - button "2 clients" [ref=e80] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e81]: 
+                  - text: "2"
+                  - generic [aria-hidden] [ref=e82]: 
+            - region "Prix par nuit" [ref=e83]:
+              - generic [aria-hidden] [ref=e89]: din0 – din38 k+
+              - group "de din0 à din38 k" [ref=e92] [cursor=pointer]:
+                - generic [ref=e93]:
+                  - slider "Prix minimal"
+                  - slider "Prix maximal"
+          - generic [ref=e100]:
+            - feed "Résultats pour \"hotels in Oran\"" [ref=e101]:
+              - generic [ref=e102]:
+                - generic [ref=e104]:
+                  - heading "Résultats" [level=1] [ref=e105]
+                  - button "En savoir plus sur la mention légale concernant les avis publics sur Google Maps" [ref=e109]:
+                    - generic [aria-hidden] [ref=e113]: 
+                - generic [ref=e115]:
+                  - button "Trier par" [ref=e117] [cursor=pointer]:
+                    - generic [ref=e118]:
+                      - generic [ref=e119]: Trier par
+                      - generic [aria-hidden] [ref=e120]: 
+                  - button "Partager" [ref=e122]:
+                    - generic [ref=e123] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=e124]: 
+                      - generic [ref=e125]: Partager
+              - article [ref=e127]:
+                - link "Le Méridien Hôtel & Convention center" [ref=e128] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Le+M%C3%A9ridien+H%C3%B4tel+%26+Convention+center/data=!4m10!3m9!1s0xd7e62baccc2bd33:0x4f243c20bf8254a8!5m2!4m1!1i2!8m2!3d35.726489!4d-0.591931!16s%2Fg%2F1tp09h6c!19sChIJM73CzLpifg0RqFSCvyA8JE8?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsorisé" [level=1]:
+                        - button "Pourquoi cette annonce ?" [ref=e130] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=e131]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Le Méridien Hôtel & Convention center
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4,1 étoiles 2 365 avis": 4,1(2 365)
+                            - generic: Hôtel 5 étoiles
+                    - generic: 33 082 DA
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Piscine disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Piscine
+                          - img "Parking gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Parking gratuit
+                          - img "Wi-Fi gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Wi-Fi gratuit
+                          - img "Climatisation disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Climatisation
+                  - link "Annonce·33 082 DA/nuit le 11 nov. - 12·Wi-Fi gratuit·Visiter le site·Le Méridien Oran Hotel & Convention Centre" [ref=e136] [cursor=pointer]:
+                    - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiT9aSa5uuXAxUGkFAGHR4bHCoYACICCAEQAhoCZGc&co=1&ase=2&gclid=EAIaIQobChMIk_WkmubrlwMVBpBQBh0eGxwqEA0YASABEgINUfD_BwE&cid=CAASygHkaKQBKMCR2KRbAn3A2zUi41UAv1HK2O67SaMz8kAk7SH8aEpHXuhhLsAth9dR26iZzScD0897EUO6l2pz1lFQcBTJ3yr2XUiarVs9eLAF01BJhulxe4GbkMwpfHOogpgFayZ1Rm847MMvCmZc54yCI2YoQy6hM0aDoDwsdSzGsqcd55I6Z_m-Saj6orlYvpW59SinGzFlyqpNHE7ZqTRCbpbdnj3JlEiRRMtLeK5k_w0O9n3_J2lHTm7O2RajUvLgWaOcMpXCN7NK&cce=2&category=acrcp_v1_32&sig=AOD64_19ocaet6mAVYeU4s8u2bco3E-ncg&adurl=&nis=5
+                    - generic [ref=e138]:
+                      - generic [ref=e141]:
+                        - generic [ref=e142]: 33 082 DA/nuit le 11 nov. - 12
+                        - generic [ref=e144]: Wi-Fi gratuit
+                      - generic [ref=e145]: Visiter le site
+              - article [ref=e150]:
+                - link "Four Points by Sheraton Oran" [ref=e151] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Four+Points+by+Sheraton+Oran/data=!4m10!3m9!1s0xd7e8822a4f7634b:0xb8f8e5d31fb1c56d!5m2!4m1!1i2!8m2!3d35.716781!4d-0.610165!16s%2Fm%2F0gkzpxf!19sChIJS2P3pCKIfg0RbcWxH9Pl-Lg?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - heading "Sponsorisé" [level=1]:
+                        - button "Pourquoi cette annonce ?" [ref=e153] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=e154]: 
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Four Points by Sheraton Oran
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "3,9 étoiles 2 843 avis": 3,9(2 843)
+                            - generic: Hôtel 4 étoiles
+                    - generic: 26 942 DA
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Piscine disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Piscine
+                          - img "Parking gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Parking gratuit
+                          - img "Wi-Fi gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Wi-Fi gratuit
+                          - img "Climatisation disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Climatisation
+                  - link "Annonce·26 942 DA/nuit le 11 nov. - 12·Wi-Fi gratuit·Visiter le site·Four Points by Sheraton Oran" [ref=e159] [cursor=pointer]:
+                    - /url: https://www.google.com/aclk?sa=L&ai=DChsSEwiT9aSa5uuXAxUGkFAGHR4bHCoYACICCAEQAxoCZGc&co=1&ase=2&gclid=EAIaIQobChMIk_WkmubrlwMVBpBQBh0eGxwqEA0YAiABEgLyN_D_BwE&cid=CAASygHkaKQBKMCR2KRbAn3A2zUi41UAv1HK2O67SaMz8kAk7SH8aEpHXuhhLsAth9dR26iZzScD0897EUO6l2pz1lFQcBTJ3yr2XUiarVs9eLAF01BJhulxe4GbkMwpfHOogpgFayZ1Rm847MMvCmZc54yCI2YoQy6hM0aDoDwsdSzGsqcd55I6Z_m-Saj6orlYvpW59SinGzFlyqpNHE7ZqTRCbpbdnj3JlEiRRMtLeK5k_w0O9n3_J2lHTm7O2RajUvLgWaOcMpXCN7NK&cce=2&category=acrcp_v1_32&sig=AOD64_0CcBtXGXzoGqy5jArd_7tcSUwa8g&adurl=&nis=5
+                    - generic [ref=e161]:
+                      - generic [ref=e164]:
+                        - generic [ref=e165]: 26 942 DA/nuit le 11 nov. - 12
+                        - generic [ref=e167]: Wi-Fi gratuit
+                      - generic [ref=e168]: Visiter le site
+              - article [ref=e173]:
+                - link "Colombe hotel Oran" [ref=e174] [cursor=pointer]:
+                  - /url: https://www.google.com/maps/place/Colombe+hotel+Oran/data=!4m10!3m9!1s0xd7e885791194cfb:0xf1d573fe6d671ea7!5m2!4m1!1i2!8m2!3d35.6937079!4d-0.630017!16s%2Fg%2F1thby0dd!19sChIJ-0wZkVeIfg0Rpx5nbf5z1fE?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic: Colombe hotel Oran
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - img "4,4 étoiles 640 avis": 4,4(640)
+                            - generic:
+                              - generic: Hôtel 3 étoiles
+                              - generic: Hôtel simple, restaurant, Wi-Fi gratuit
+                    - generic: 7 068 DA
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - img "Petit-déjeuner inclus disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Petit-déjeuner inclus
+                          - img "Wi-Fi gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Wi-Fi gratuit
+                          - img "Parking gratuit disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Parking gratuit
+                          - img "Climatisation disponible":
+                            - generic [aria-hidden]: 
+                            - generic: Climatisation
+                    - generic:
+                      - generic: SUPER AFFAIRE
+                      - generic: 27 % de moins que le prix habituel
+              - generic [ref=e210]:
+                - generic [aria-hidden] [ref=e212]: 
+                - generic [ref=e213]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=e214] [cursor=pointer]
+            - generic [ref=e219]:
+              - text: À propos des tarifs
+              - link "À propos des tarifs" [ref=e220] [cursor=pointer]:
+                - /url: https://support.google.com/websearch/answer/6276008
+                - generic [aria-hidden] [ref=e221]: 
+            - checkbox "Mettre à jour les résultats lors du déplacement de la carte" [ref=e223] [cursor=pointer]:
+              - generic [aria-hidden] [ref=e225]: 
+              - text: Mettre à jour les résultats lors du déplacement de la carte
+      - button "Réduire le panneau latéral" [ref=e227] [cursor=pointer]:
+        - generic [aria-hidden] [ref=e228]: 
+    - generic [ref=e233]:
+      - button "Applications Google" [ref=e237] [cursor=pointer]
+      - link "Connexion" [ref=e241] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fsearch%2Fhotels%2Bin%2BOran%2F%4035.7022541%2C-0.6107301%2C13z%2Fdata%3D!3m1!4b1%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic [ref=e309]:
+      - generic:
+        - button "Afficher votre position" [ref=e312] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e314]: 
+        - generic [ref=e316] [cursor=pointer]:
+          - button "Faire un zoom avant" [ref=e317]:
+            - generic [aria-hidden] [ref=e319]: 
+          - button "Faire un zoom arrière" [ref=e320]:
+            - generic [aria-hidden] [ref=e322]: 
+      - button "Parcourir les images Street View" [ref=e328]
+      - generic [ref=e334]:
+        - generic "Carte interactive" [ref=e335]
+        - generic [ref=e339] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e340]: 
+          - generic [ref=e341]: Calques
+        - button "Calques" [ref=e342] [cursor=pointer]
+    - generic [ref=e246]:
+      - contentinfo [ref=e249]:
+        - text: Données cartographiques ©2026
+        - button "Algérie" [ref=e250] [cursor=pointer]
+        - button "Conditions d'utilisation" [ref=e251] [cursor=pointer]
+        - button "Confidentialité" [ref=e252] [cursor=pointer]
+        - button "Envoyer des commentaires sur le produit" [ref=e253] [cursor=pointer]
+      - button "1 km" [ref=e344] [cursor=pointer]

@@ -1,0 +1,308 @@
+- generic [ref=f18e1]:
+  - generic "Google Maps" [ref=f18e9]:
+    - generic [ref=f18e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f18e15]
+      - search [ref=f18e20]:
+        - button "Retour" [ref=f18e882] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f18e883]: 
+        - generic [ref=f18e21]:
+          - combobox [ref=f18e23]: Sofitel Algiers Hamma Garden
+          - button "Rechercher" [ref=f18e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f18e26]: 
+          - button "Fermer" [ref=f18e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f18e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f18e36]:
+        - generic [ref=f18e39]:
+          - button "Hôtels à proximité" [ref=f18e41] [cursor=pointer]:
+            - generic [ref=f18e42]:
+              - generic [aria-hidden] [ref=f18e44]: 
+              - generic [ref=f18e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f18e47] [cursor=pointer]:
+            - generic [ref=f18e48]:
+              - generic [aria-hidden] [ref=f18e50]: 
+              - generic [ref=f18e51]: Restaurants
+          - button "Activités à découvrir" [ref=f18e53] [cursor=pointer]:
+            - generic [ref=f18e54]:
+              - generic [aria-hidden] [ref=f18e56]: 
+              - generic [ref=f18e57]: Activités à découvrir
+          - button "Bars" [ref=f18e59] [cursor=pointer]:
+            - generic [ref=f18e60]:
+              - generic [aria-hidden] [ref=f18e62]: 
+              - generic [ref=f18e63]: Bars
+          - button "Cafés" [ref=f18e65] [cursor=pointer]:
+            - generic [ref=f18e66]:
+              - generic [aria-hidden] [ref=f18e68]: 
+              - generic [ref=f18e69]: Cafés
+          - button "Pharmacies" [ref=f18e71] [cursor=pointer]:
+            - generic [ref=f18e72]:
+              - generic [aria-hidden] [ref=f18e74]: 
+              - generic [ref=f18e75]: Pharmacies
+          - button "Parkings" [ref=f18e77] [cursor=pointer]:
+            - generic [ref=f18e78]:
+              - generic [aria-hidden] [ref=f18e80]: 
+              - generic [ref=f18e81]: Parkings
+      - generic [ref=f18e82]:
+        - generic [ref=f18e83]:
+          - list [ref=f18e85]:
+            - listitem [ref=f18e86]:
+              - button "Menu" [ref=f18e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e89]: 
+            - listitem [ref=f18e90]:
+              - button "Enregistré" [ref=f18e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e93]: 
+            - listitem [ref=f18e96]:
+              - button "Récents" [ref=f18e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e99]: 
+            - listitem [ref=f18e103]:
+              - button "Sofitel Algiers Hamma Garden" [ref=f18e104] [cursor=pointer]
+            - listitem [ref=f18e112]:
+              - button "Obtenir l'appli" [ref=f18e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e115]: 
+          - main "Sofitel Algiers Hamma Garden" [ref=f18e122]:
+            - tablist [ref=f18e167]:
+              - tab "Sofitel Algiers Hamma Garden - Présentation" [ref=f18e168]:
+                - generic [aria-hidden] [ref=f18e170]: Présentation
+              - tab "Prix pour Sofitel Algiers Hamma Garden" [ref=f18e172]:
+                - generic [aria-hidden] [ref=f18e174]: Prix
+              - tab "Sofitel Algiers Hamma Garden - Avis" [selected] [ref=f18e176]:
+                - generic [aria-hidden] [ref=f18e178]: Avis
+              - tab "Informations sur Sofitel Algiers Hamma Garden" [ref=f18e180]:
+                - generic [aria-hidden] [ref=f18e182]: À propos
+            - generic [ref=f18e885]:
+              - generic [ref=f18e887]:
+                - list [ref=f18e889]:
+                  - listitem [ref=f18e890]: 24 160 DA
+                  - text: ·
+                  - listitem [ref=f18e891]: Hôtel 5 étoiles
+                - generic [ref=f18e892]: 9–10 févr.
+              - link [ref=f18e896] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f18e897]:
+                  - generic [aria-hidden] [ref=f18e898]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f18e900]:
+              - generic [ref=f18e901]:
+                - heading "Résumé des avis Google" [level=2] [ref=f18e903]
+                - button "Informations" [ref=f18e905] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f18e906]: 
+              - generic [ref=f18e908]:
+                - table [ref=f18e910]:
+                  - rowgroup [ref=f18e911]:
+                    - img "5 étoiles, 3 206 avis" [ref=f18e912]: "5"
+                    - img "4 étoiles, 780 avis" [ref=f18e915]: "4"
+                    - img "3 étoiles, 341 avis" [ref=f18e918]: "3"
+                    - img "2 étoiles, 111 avis" [ref=f18e921]: "2"
+                    - img "1 étoiles, 383 avis" [ref=f18e924]: "1"
+                - generic [ref=f18e927]:
+                  - generic [ref=f18e928]: 4,3
+                  - img "4,3 étoiles" [ref=f18e929]
+                  - generic [ref=f18e935]: 4 821 avis
+              - button "Rédiger un avis" [ref=f18e939] [cursor=pointer]:
+                - generic [ref=f18e940]:
+                  - generic [aria-hidden] [ref=f18e941]: 
+                  - generic [ref=f18e942]: Rédiger un avis
+              - generic [ref=f18e946]:
+                - textbox [active] [ref=f18e1925]: enfant
+                - button "Effacer" [ref=f18e1926] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f18e1927]: 
+              - generic [ref=f18e948]:
+                - button "Tous les avis" [ref=f18e949] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f18e951]: 
+                - button "Avis les plus pertinents" [ref=f18e952] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f18e954]: 
+              - generic [ref=f18e1928]:
+                - generic "Nounou Baya" [ref=f18e1929]:
+                  - generic [ref=f18e1931]:
+                    - button "Photo de Nounou Baya" [ref=f18e1932]
+                    - generic [ref=f18e1934]:
+                      - button "Nounou Baya Local Guide · 18 avis · 3 photos" [ref=f18e1936]:
+                        - generic [ref=f18e1937]: Nounou Baya
+                        - generic [ref=f18e1938]: Local Guide · 18 avis · 3 photos
+                      - button "Actions pour l'avis rédigé par Nounou Baya" [ref=f18e1939] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f18e1941]: 
+                    - generic [ref=f18e1942]:
+                      - generic [ref=f18e1943]:
+                        - generic [ref=f18e1944]: 1/5
+                        - generic [ref=f18e1945]:
+                          - text: il y a 3 mois sur
+                          - generic [ref=f18e1946]: Google
+                      - generic [ref=f18e1948]:
+                        - generic [ref=f18e1949]: … dans la chambre, totalement incohérente avec le standing attendu d’un Sofitel. Nous avions demandé un couchage pour notre enfant à 15h. Malgré plusieurs relances, il ne nous a été livré qu’à 23h30. Plus de huit heures d’attente …
+                        - button "Voir plus" [ref=f18e1951] [cursor=pointer]: Plus
+                      - generic [ref=f18e1952]:
+                        - button "J'aime" [ref=f18e1953]:
+                          - generic [ref=f18e1954] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e1955]: 
+                            - generic [ref=f18e1956]: J'aime
+                        - button "Partager l'avis rédigé par Nounou Baya." [ref=f18e1958]:
+                          - generic [ref=f18e1959] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e1960]: 
+                            - generic [ref=f18e1961]: Partager
+                      - generic [ref=f18e1962]:
+                        - generic [ref=f18e1963]: Réponse du propriétaire il y a 3 mois
+                        - generic [ref=f18e1964]:
+                          - text: Chère Madame Baya, Nous sommes navrés de lire que votre séjour n'ait pas été aussi plaisant qu'il …
+                          - button "Voir plus" [ref=f18e1966] [cursor=pointer]: Plus
+                - generic "Jasmine San" [ref=f18e1970]:
+                  - generic [ref=f18e1972]:
+                    - button "Photo de Jasmine San" [ref=f18e1973]
+                    - generic [ref=f18e1975]:
+                      - button "Jasmine San Local Guide · 55 avis · 2 photos" [ref=f18e1977]:
+                        - generic [ref=f18e1978]: Jasmine San
+                        - generic [ref=f18e1979]: Local Guide · 55 avis · 2 photos
+                      - button "Actions pour l'avis rédigé par Jasmine San" [ref=f18e1980] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f18e1982]: 
+                    - generic [ref=f18e1983]:
+                      - generic [ref=f18e1984]:
+                        - generic [ref=f18e1985]: 1/5
+                        - generic [ref=f18e1986]:
+                          - text: il y a 4 mois sur
+                          - generic [ref=f18e1987]: Google
+                      - generic [ref=f18e1989]:
+                        - generic [ref=f18e1990]: Malheureusement, cet hôtel n'est pas du tout adapté pour un séjour en famille avec enfants, piscine beaucoup trop froide. Mon enfant n'avait pieds nulle part ( alors qu'il a 5 ans ) de plus, je trouve ça Inadmissible qu'on ne puisse pas …
+                        - button "Voir plus" [ref=f18e1992] [cursor=pointer]: Plus
+                      - generic [ref=f18e1993]:
+                        - button "J'aime" [ref=f18e1994]:
+                          - generic [ref=f18e1995] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e1996]: 
+                            - generic [ref=f18e1997]: J'aime
+                        - button "Partager l'avis rédigé par Jasmine San." [ref=f18e1999]:
+                          - generic [ref=f18e2000] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e2001]: 
+                            - generic [ref=f18e2002]: Partager
+                - generic "Hakim Kherbouche" [ref=f18e2006]:
+                  - generic [ref=f18e2008]:
+                    - button "Photo de Hakim Kherbouche" [ref=f18e2009]
+                    - generic [ref=f18e2011]:
+                      - button "Hakim Kherbouche Local Guide · 47 avis · 25 photos" [ref=f18e2013]:
+                        - generic [ref=f18e2014]: Hakim Kherbouche
+                        - generic [ref=f18e2015]: Local Guide · 47 avis · 25 photos
+                      - button "Actions pour l'avis rédigé par Hakim Kherbouche" [ref=f18e2016] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f18e2018]: 
+                    - generic [ref=f18e2019]:
+                      - generic [ref=f18e2020]:
+                        - generic [ref=f18e2021]: 4/5
+                        - generic [ref=f18e2022]:
+                          - text: il y a 2 ans sur
+                          - generic [ref=f18e2023]: Google
+                      - generic [ref=f18e2025]:
+                        - generic [ref=f18e2026]: … sauna aussi . Le Bar de la piscine est un peu cher comparé au reste de la ville ( ça c'est normal) mais il y a tt ce qu'il faut en cas de faim rapide d'un enfant. Salle de sport top aussi. Bref j'ai passé un super moment en famille là bas.
+                        - button "Voir plus" [ref=f18e2028] [cursor=pointer]: Plus
+                      - generic [ref=f18e2029]:
+                        - button "J'aime" [ref=f18e2030]:
+                          - generic [ref=f18e2031] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e2032]: 
+                            - generic [ref=f18e2033]: J'aime
+                        - button "Partager l'avis rédigé par Hakim Kherbouche." [ref=f18e2035]:
+                          - generic [ref=f18e2036] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e2037]: 
+                            - generic [ref=f18e2038]: Partager
+                      - generic [ref=f18e2039]:
+                        - generic [ref=f18e2040]: Réponse du propriétaire il y a 2 ans
+                        - generic [ref=f18e2041]:
+                          - text: Cher monsieur Kherbouche, Un grand merci pour votre magnifique retour et pour avoir choisi de séjourner …
+                          - button "Voir plus" [ref=f18e2043] [cursor=pointer]: Plus
+                - generic "Mohammed Mimouni" [ref=f18e2047]:
+                  - generic [ref=f18e2049]:
+                    - button "Photo de Mohammed Mimouni" [ref=f18e2050]
+                    - generic [ref=f18e2052]:
+                      - button "Mohammed Mimouni 5 avis" [ref=f18e2054]:
+                        - generic [ref=f18e2055]: Mohammed Mimouni
+                        - generic [ref=f18e2056]: 5 avis
+                      - button "Actions pour l'avis rédigé par Mohammed Mimouni" [ref=f18e2057] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f18e2059]: 
+                    - generic [ref=f18e2060]:
+                      - generic [ref=f18e2061]:
+                        - generic [ref=f18e2062]: 3/5
+                        - generic [ref=f18e2063]:
+                          - text: il y a 2 ans sur
+                          - generic [ref=f18e2064]: Google
+                      - generic [ref=f18e2066]:
+                        - generic [ref=f18e2067]: … améliorer par rapport à un 5 étoiles. Je trouve que le petit déjeuner est trop cher 3000da surtout pour un enfant de 6ans , j'estime qu'ils doivent améliorer leur systèmes réservation en incluant le petit dej. La piscine un tout petit …
+                        - button "Voir plus" [ref=f18e2069] [cursor=pointer]: Plus
+                      - generic [ref=f18e2070]:
+                        - button "1 \"J'aime\"" [ref=f18e2071]:
+                          - generic [ref=f18e2072] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e2073]: 
+                            - generic [ref=f18e2074]: "1"
+                        - button "Partager l'avis rédigé par Mohammed Mimouni." [ref=f18e2076]:
+                          - generic [ref=f18e2077] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e2078]: 
+                            - generic [ref=f18e2079]: Partager
+                      - generic [ref=f18e2080]:
+                        - generic [ref=f18e2081]: Réponse du propriétaire il y a 2 ans
+                        - generic [ref=f18e2082]:
+                          - text: Cher Monsieur Mimouni, Nous vous remercions votre retour constructif. Nous apprécions sincèrement que …
+                          - button "Voir plus" [ref=f18e2084] [cursor=pointer]: Plus
+                - generic "Tsoy tsoy" [ref=f18e2088]:
+                  - generic [ref=f18e2090]:
+                    - button "Photo de Tsoy tsoy" [ref=f18e2091]
+                    - generic [ref=f18e2093]:
+                      - button "Tsoy tsoy Local Guide · 49 avis" [ref=f18e2095]:
+                        - generic [ref=f18e2096]: Tsoy tsoy
+                        - generic [ref=f18e2097]: Local Guide · 49 avis
+                      - button "Actions pour l'avis rédigé par Tsoy tsoy" [ref=f18e2098] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f18e2100]: 
+                    - generic [ref=f18e2101]:
+                      - generic [ref=f18e2102]:
+                        - generic [ref=f18e2103]: 2/5
+                        - generic [ref=f18e2104]:
+                          - text: Modifié il y a 3 ans sur
+                          - generic [ref=f18e2105]: Google
+                      - generic [ref=f18e2107]:
+                        - generic [ref=f18e2108]: Check in très long, 45 min. Nous avions demandé un lit enfant supplémentaire, le lit n'y était pas, après 4 rappels, nous l'avons eu. La piscine est vétuste, les transats abîmés et sales. Les Terrasses sont sales. L'hôtel est finalement …
+                        - button "Voir plus" [ref=f18e2110] [cursor=pointer]: Plus
+                      - generic [ref=f18e2111]:
+                        - button "2 \"J'aime\"" [ref=f18e2112]:
+                          - generic [ref=f18e2113] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e2114]: 
+                            - generic [ref=f18e2115]: "2"
+                        - button "Partager l'avis rédigé par Tsoy tsoy." [ref=f18e2117]:
+                          - generic [ref=f18e2118] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f18e2119]: 
+                            - generic [ref=f18e2120]: Partager
+                      - generic [ref=f18e2121]:
+                        - generic [ref=f18e2122]: Réponse du propriétaire il y a 3 ans
+                        - generic [ref=f18e2123]:
+                          - text: Soyez certain que vos commentaires ont bien été pris en sérieuse considération et qu'ils nous aideront à améliorer la qualité de nos services. Merci encore pour la courtoisie de votre temps, et malgré les imperfections vécues durant votre …
+                          - button "Voir plus" [ref=f18e2125] [cursor=pointer]: Plus
+              - button "Voir plus d'avis (4 816)" [ref=f18e2129]
+              - generic [ref=f18e2134]:
+                - generic [aria-hidden] [ref=f18e2136]: 
+                - generic [ref=f18e2137]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=f18e2138] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=f18e818] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f18e819]: 
+      - generic [ref=f18e823]:
+        - button "Applications Google" [ref=f18e827] [cursor=pointer]
+        - link "Connexion" [ref=f18e831] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FSofitel%2BAlgiers%2BHamma%2BGarden%2F%4036.7505228%2C3.0725569%2C17z%2Fdata%3D!4m11!3m10!1s0x128fb28be0db0863%3A0x7c8ea0ca3200f8ad!5m2!4m1!1i2!8m2!3d36.7505228!4d3.0725569!9m1!1b1!16s%252Fm%252F0gk_5k7%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f18e834] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f18e836]: 
+          - generic [ref=f18e838] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f18e839]:
+              - generic [aria-hidden] [ref=f18e841]: 
+            - button "Faire un zoom arrière" [ref=f18e842]:
+              - generic [aria-hidden] [ref=f18e844]: 
+        - generic [ref=f18e848]:
+          - button "Parcourir les images Street View" [ref=f18e850]
+          - button "Street View" [ref=f18e852] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f18e855]: 
+        - generic [ref=f18e856]:
+          - generic "Carte interactive" [ref=f18e857]
+          - generic [ref=f18e861] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f18e862]: 
+            - generic [ref=f18e863]: Calques
+          - button "Calques" [ref=f18e864] [cursor=pointer]
+      - generic [ref=f18e866]:
+        - contentinfo [ref=f18e869]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f18e870] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f18e871] [cursor=pointer]
+          - button "Confidentialité" [ref=f18e872] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f18e873] [cursor=pointer]
+        - button "100 m" [ref=f18e875] [cursor=pointer]
+  - generic [ref=f18e1346]: Affichage des résultats pour enfant

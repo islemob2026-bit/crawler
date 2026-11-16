@@ -1,0 +1,225 @@
+- generic [ref=e1]:
+  - generic "Google Maps" [ref=e2]:
+    - generic [ref=e8]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=e13]
+      - search [ref=e19]:
+        - button "Retour" [ref=e855] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e856]: 
+        - generic [ref=e20]:
+          - combobox [ref=e22]: Le Méridien Hôtel & Convention center
+          - button "Rechercher" [ref=e24] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e25]: 
+          - button "Fermer" [ref=e27] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e28]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=e730]:
+        - generic [ref=e733]:
+          - button "Hôtels à proximité" [ref=e735] [cursor=pointer]:
+            - generic [ref=e736]:
+              - generic [aria-hidden] [ref=e738]: 
+              - generic [ref=e739]: Hôtels à proximité
+          - button "Restaurants" [ref=e741] [cursor=pointer]:
+            - generic [ref=e742]:
+              - generic [aria-hidden] [ref=e744]: 
+              - generic [ref=e745]: Restaurants
+          - button "Activités à découvrir" [ref=e747] [cursor=pointer]:
+            - generic [ref=e748]:
+              - generic [aria-hidden] [ref=e750]: 
+              - generic [ref=e751]: Activités à découvrir
+          - button "Bars" [ref=e753] [cursor=pointer]:
+            - generic [ref=e754]:
+              - generic [aria-hidden] [ref=e756]: 
+              - generic [ref=e757]: Bars
+          - button "Cafés" [ref=e759] [cursor=pointer]:
+            - generic [ref=e760]:
+              - generic [aria-hidden] [ref=e762]: 
+              - generic [ref=e763]: Cafés
+          - button "Pharmacies" [ref=e765] [cursor=pointer]:
+            - generic [ref=e766]:
+              - generic [aria-hidden] [ref=e768]: 
+              - generic [ref=e769]: Pharmacies
+          - button "Parkings" [ref=e771] [cursor=pointer]:
+            - generic [ref=e772]:
+              - generic [aria-hidden] [ref=e774]: 
+              - generic [ref=e775]: Parkings
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - list [ref=e32]:
+            - listitem [ref=e33]:
+              - button "Menu" [ref=e34] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e36]: 
+            - listitem [ref=e37]:
+              - button "Enregistré" [ref=e38] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e40]: 
+            - listitem [ref=e43]:
+              - button "Récents" [ref=e44] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e46]: 
+            - listitem [ref=e962]:
+              - button "Le Méridien Hôtel & Convention center" [ref=e963] [cursor=pointer]
+            - listitem [ref=e50]:
+              - button "Obtenir l'appli" [ref=e51] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e53]: 
+          - main "Le Méridien Hôtel & Convention center" [ref=e60]:
+            - tablist [ref=e120]:
+              - tab "Le Méridien Hôtel & Convention center - Présentation" [ref=e121]:
+                - generic [aria-hidden] [ref=e123]: Présentation
+              - tab "Prix pour Le Méridien Hôtel & Convention center" [ref=e125]:
+                - generic [aria-hidden] [ref=e127]: Prix
+              - tab "Le Méridien Hôtel & Convention center - Avis" [selected] [ref=e129]:
+                - generic [aria-hidden] [ref=e131]: Avis
+              - tab "Informations sur Le Méridien Hôtel & Convention center" [ref=e133]:
+                - generic [aria-hidden] [ref=e135]: À propos
+            - generic [ref=e858]:
+              - generic [ref=e860]:
+                - list [ref=e862]:
+                  - listitem [ref=e863]: 50 230 DA
+                  - text: ·
+                  - listitem [ref=e864]: Hôtel 5 étoiles
+                - generic [ref=e865]: 28–29 janv.
+              - link [ref=e869] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e870]:
+                  - generic [aria-hidden] [ref=e871]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=e873]:
+              - generic [ref=e874]:
+                - heading "Résumé des avis Google" [level=2] [ref=e876]
+                - button "Informations" [ref=e878] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e879]: 
+              - generic [ref=e881]:
+                - table [ref=e883]:
+                  - rowgroup [ref=e884]:
+                    - img "5 étoiles, 1 335 avis" [ref=e885]: "5"
+                    - img "4 étoiles, 504 avis" [ref=e888]: "4"
+                    - img "3 étoiles, 195 avis" [ref=e891]: "3"
+                    - img "2 étoiles, 95 avis" [ref=e894]: "2"
+                    - img "1 étoiles, 237 avis" [ref=e897]: "1"
+                - generic [ref=e900]:
+                  - generic [ref=e901]: 4,1
+                  - img "4,1 étoiles" [ref=e902]
+                  - generic [ref=e908]: 2 366 avis
+              - button "Rédiger un avis" [ref=e912] [cursor=pointer]:
+                - generic [ref=e913]:
+                  - generic [aria-hidden] [ref=e914]: 
+                  - generic [ref=e915]: Rédiger un avis
+              - generic [ref=e919]:
+                - textbox [active] [ref=e2513]: pas adapté
+                - button "Effacer" [ref=e2514] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e2515]: 
+              - generic [ref=e921]:
+                - button "Tous les avis" [ref=e922] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e924]: 
+                - button "Avis les moins favorables" [ref=e985] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e927]: 
+              - generic [ref=e2516]:
+                - generic "rolex 06" [ref=e2517]:
+                  - generic [ref=e2519]:
+                    - button "Photo de rolex 06" [ref=e2520]
+                    - generic [ref=e2522]:
+                      - button "rolex 06 Local Guide · 30 avis · 6 photos" [ref=e2524]:
+                        - generic [ref=e2525]: rolex 06
+                        - generic [ref=e2526]: Local Guide · 30 avis · 6 photos
+                      - button "Actions pour l'avis rédigé par rolex 06" [ref=e2527] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=e2529]: 
+                    - generic [ref=e2530]:
+                      - generic [ref=e2531]:
+                        - generic [ref=e2532]: 1/5
+                        - generic [ref=e2533]:
+                          - text: il y a 2 ans sur
+                          - generic [ref=e2534]: Google
+                      - generic [ref=e2536]:
+                        - generic [ref=e2537]: Vraiment déçu déjà au moment de la réservation la personne qui m’a répondu au téléphone était à peine agressif et pas dû tout sympa , le service GRH vous pouvez faire mieux et recruter un personnel adapté à ce poste , c’est un hôtel 5* …
+                        - button "Voir plus" [ref=e2539] [cursor=pointer]: Plus
+                      - generic [ref=e2540]:
+                        - button "J'aime" [ref=e2541]:
+                          - generic [ref=e2542] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e2543]: 
+                            - generic [ref=e2544]: J'aime
+                        - button "Partager l'avis rédigé par rolex 06." [ref=e2546]:
+                          - generic [ref=e2547] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e2548]: 
+                            - generic [ref=e2549]: Partager
+                - generic "Wari21" [ref=e2553]:
+                  - generic [ref=e2555]:
+                    - button "Photo de Wari21" [ref=e2556]
+                    - button "Wari21" [ref=e2560]
+                    - generic [ref=e2562]:
+                      - generic [ref=e2563]:
+                        - generic [ref=e2564]: 3/5
+                        - generic [ref=e2565]:
+                          - text: il y a 8 ans sur
+                          - generic [ref=e2566]: Le Méridien Oran Hotel & Convention Centre
+                      - generic [ref=e2568]:
+                        - generic [ref=e2569]: Le personnel n’est pas du tout adapté à un hôtel possédant 5 étoiles. Aucun respect ,les femmes de chambre rentrent sans frapper à la porte. Le personnel à la réception vous regarde avec un air méprisant . Beaucoup de choses à …
+                        - button "En savoir plus sur Le Méridien Oran Hotel & Convention Centre" [ref=e2571] [cursor=pointer]
+                - generic "Leila" [ref=e2575]:
+                  - generic [ref=e2577]:
+                    - button "Photo de Leila" [ref=e2578]
+                    - generic [ref=e2580]:
+                      - button "Leila Local Guide · 258 avis · 2 848 photos" [ref=e2582]:
+                        - generic [ref=e2583]: Leila
+                        - generic [ref=e2584]: Local Guide · 258 avis · 2 848 photos
+                      - button "Actions pour l'avis rédigé par Leila" [ref=e2585] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=e2587]: 
+                    - generic [ref=e2588]:
+                      - generic [ref=e2589]:
+                        - generic [ref=e2590]: 5/5
+                        - generic [ref=e2591]:
+                          - text: Modifié il y a 5 ans sur
+                          - generic [ref=e2592]: Google
+                      - generic [ref=e2594]:
+                        - generic [ref=e2595]: … et la ville ( oran by night pour les amateurs de photos) connexion internet gratuite, parking gratuit adapté aux personnes handicapées, boutiques différentes, magnifique spa pour différentes prestations de remise en forme. Très belle …
+                        - button "Voir plus" [ref=e2597] [cursor=pointer]: Plus
+                      - generic [ref=e2598]:
+                        - button "Photo 1 dans l'avis rédigé par Leila" [ref=e2599] [cursor=pointer]
+                        - button "Photo 2 dans l'avis rédigé par Leila" [ref=e2600] [cursor=pointer]
+                        - button "View from le MERIDIEN" [ref=e2601] [cursor=pointer]
+                        - button "24 autres photos dans l'avis rédigé par Leila" [ref=e2602] [cursor=pointer]:
+                          - generic [ref=e2603]: + 24
+                      - generic [ref=e2604]:
+                        - button "9 \"J'aime\"" [ref=e2605]:
+                          - generic [ref=e2606] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e2607]: 
+                            - generic [ref=e2608]: "9"
+                        - button "Partager l'avis rédigé par Leila." [ref=e2610]:
+                          - generic [ref=e2611] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e2612]: 
+                            - generic [ref=e2613]: Partager
+                      - generic [ref=e2614]:
+                        - generic [ref=e2615]: Réponse du propriétaire il y a 7 ans
+                        - generic [ref=e2616]:
+                          - text: Cher May Lam, Nous vous remercions d'avoir pris le temps de partager votre expérience à …
+                          - button "Voir plus" [ref=e2618] [cursor=pointer]: Plus
+        - button "Réduire le panneau latéral" [ref=e721] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e722]: 
+      - generic [ref=e792]:
+        - button "Applications Google" [ref=e796] [cursor=pointer]
+        - link "Connexion" [ref=e800] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FLe%2BM%25C3%25A9ridien%2BH%25C3%25B4tel%2B%2526%2BConvention%2Bcenter%2F%4035.7245902%2C-0.5813477%2C14.67z%2Fdata%3D!4m11!3m10!1s0xd7e88570d76d9cb%3A0x4f243c20bf8254a8!5m2!4m1!1i2!8m2!3d35.7264888!4d-0.5919311!9m1!1b1!16s%252Fg%252F1tp09h6c%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=e804] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e806]: 
+          - generic [ref=e808] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=e809]:
+              - generic [aria-hidden] [ref=e811]: 
+            - button "Faire un zoom arrière" [ref=e812]:
+              - generic [aria-hidden] [ref=e814]: 
+        - generic [ref=e818]:
+          - button "Parcourir les images Street View" [ref=e820]
+          - button "Street View" [ref=e822] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e825]: 
+        - generic [ref=e830]:
+          - generic "Carte interactive" [ref=e831]
+          - generic [ref=e835] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e836]: 
+            - generic [ref=e837]: Calques
+          - button "Calques" [ref=e838] [cursor=pointer]
+      - generic [ref=e840]:
+        - contentinfo [ref=e843]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=e844] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=e845] [cursor=pointer]
+          - button "Confidentialité" [ref=e846] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=e847] [cursor=pointer]
+        - button "500 m" [ref=e970] [cursor=pointer]
+  - generic [ref=e1164]: Affichage des résultats pour pas adapté

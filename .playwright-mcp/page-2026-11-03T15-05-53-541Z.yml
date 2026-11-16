@@ -1,0 +1,234 @@
+- generic [active] [ref=f2e1]:
+  - banner [ref=f2e2]:
+    - link [ref=f2e7] [cursor=pointer]:
+      - /url: /entreprise
+      - img "Accueil" [ref=f2e8]
+  - generic:
+    - link "Aller au menu" [ref=f2e9] [cursor=pointer]:
+      - /url: "#horizonatal-menu"
+    - link "Aller au contenu" [ref=f2e10] [cursor=pointer]:
+      - /url: "#middle"
+  - navigation [ref=f2e12]:
+    - generic [ref=f2e13]:
+      - generic: 
+      - generic [ref=f2e15]:
+        - generic "Contact" [ref=f2e16]: 
+        - link "entreprise-auth" [ref=f2e18] [cursor=pointer]:
+          - /url: /entreprise/login
+          - generic [ref=f2e19]: 
+        - button "Toggle navigation" [ref=f2e20] [cursor=pointer]
+      - text:                               
+  - generic [ref=f2e25]:
+    - generic [ref=f2e26]:
+      - generic [ref=f2e28]:
+        - generic [ref=f2e30]:
+          - paragraph [ref=f2e31]:
+            - code [ref=f2e32]:
+              - generic [ref=f2e33]:
+                - text: "Assistance technique:"
+                - strong [ref=f2e34]: 01 53 43 05 44
+          - paragraph [ref=f2e35]: "------------------------------------------- Guides video-------------------------------------------------------------------------------"
+          - paragraph [ref=f2e36]:
+            - strong [ref=f2e37]: "Videos de présentation:"
+            - link "https://www.maximilien.fr/espace-entreprises/guides/" [ref=f2e38] [cursor=pointer]:
+              - /url: https://www.maximilien.fr/espace-entreprises/guides/
+          - paragraph [ref=f2e39]: "------------------------------------------- Webinaires -------------------------------------------------------------------------------"
+          - paragraph [ref=f2e40]: Le GIP Maximilien organise prochainement un webinaire de présentation de la commande publique et de l'utilisation des outils de la salle des marchés
+          - paragraph [ref=f2e41]:
+            - link "Formulaire d'inscription - Session du 7 décembre 2026" [ref=f2e42] [cursor=pointer]:
+              - /url: https://forms.gle/fgM9CzB8YrXDDbPa8
+            - link "Formulaire d'inscription - Session du 16 novembre 2026" [ref=f2e43] [cursor=pointer]:
+              - /url: https://forms.gle/DjpcnwqxJ3w56ABn8
+          - paragraph [ref=f2e44]: "------------------------------------------ Espace documentaire - Coffre-fort Entreprise ----------------------------------------------------"
+          - paragraph [ref=f2e45]:
+            - text: "Afin de vous assurer que votre profil Entreprise est à jour lors de vos prochaines réponses et prochains dépôts, nous vous suggérons de vérifier la conformité des vos documents au sein de votre espace dédié (Espace documentaire - Coffre-fort Entreprise) :"
+            - link "https://marches.maximilien.fr/?page=Entreprise.EntrepriseEspaceDocumentaire" [ref=f2e46] [cursor=pointer]:
+              - /url: https://marches.maximilien.fr/?page=Entreprise.EntrepriseEspaceDocumentaire
+          - paragraph [ref=f2e47]: "------------------------------------------- Actualités --------------------------------------------------------------------------------------"
+          - paragraph [ref=f2e48]:
+            - text: "Dernière version du Guide « très pratique » de la dématérialisation des marchés publics vient d'être publiée sur le site de la Direction des affaires juridiques. Il se compose de deux volets, l'un à destination des opérateurs économiques :"
+            - link "https://www.economie.gouv.fr/daj/nouvelle-edition-des-guides-tres-pratiques-de-la-dematerialisation-des-marches-publics" [ref=f2e49] [cursor=pointer]:
+              - /url: https://www.economie.gouv.fr/daj/nouvelle-edition-des-guides-tres-pratiques-de-la-dematerialisation-des-marches-publics
+          - paragraph [ref=f2e50]
+          - paragraph [ref=f2e51]
+          - paragraph [ref=f2e52]:
+            - text: "En cas de problème de connexion avec votre compte utilisateur, n’hésitez pas à utiliser la procédure de mot de passe perdu :"
+            - link "https://socle.maximilien.fr/user/regeneratepassword" [ref=f2e53] [cursor=pointer]:
+              - /url: https://socle.maximilien.fr/user/regeneratepassword
+          - paragraph [ref=f2e54]
+          - paragraph [ref=f2e55]:
+            - generic [ref=f2e56]: "En cas de difficulté pour répondre à un message:"
+          - paragraph [ref=f2e57]:
+            - generic [ref=f2e58]: "- nous vous invitons à vider votre cache de navigation puis de retenter."
+          - paragraph [ref=f2e59]:
+            - generic [ref=f2e60]: "- nous vous invitons à retirer les caractères spéciaux contenus dans les noms de fichier (é, ', è, etc)"
+        - link "" [ref=f2e62] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f2e64]:
+        - heading "Bienvenue sur le PORTAIL D'AVIS MAXIMILIEN" [level=1] [ref=f2e65]
+        - text: Vous souhaitez accéder aux marchés publics franciliens ?
+    - generic [ref=f2e69]:
+      - heading "RECHERCHE RAPIDE" [level=2] [ref=f2e70]
+      - paragraph [ref=f2e71]: Retrouvez rapidement les marchés correspondant à vos critères de recherche en précisant le lieu d'exécution (en sélectionnant un ou plusieurs départements sur la carte ci-dessous), et/ou la catégorie principale, et/ou le mot clé de votre choix
+      - generic [ref=f2e72]:
+        - img "Carte lieux d'exécution" [ref=f2e77]:
+          - generic [ref=f2e78] [cursor=pointer]
+          - generic [ref=f2e79] [cursor=pointer]
+          - generic [ref=f2e80] [cursor=pointer]
+          - generic [ref=f2e81] [cursor=pointer]
+          - generic [ref=f2e82] [cursor=pointer]
+          - generic [ref=f2e83] [cursor=pointer]
+          - generic [ref=f2e84] [cursor=pointer]
+          - generic [ref=f2e85] [cursor=pointer]
+        - generic [ref=f2e86]:
+          - generic [ref=f2e88]:
+            - generic [ref=f2e89]: "Catégorie principale:"
+            - combobox "Catégorie principale" [ref=f2e90]:
+              - option "--- Toutes les catégories ---" [selected]
+              - option "Travaux"
+              - option "Fournitures"
+              - option "Services"
+          - generic [ref=f2e92]:
+            - generic [ref=f2e93]: Mots clés
+            - text: ":"
+            - textbox "Mots clés" [ref=f2e94]
+          - button "Lancer la recherche" [ref=f2e96] [cursor=pointer]
+          - list [ref=f2e97]:
+            - listitem [ref=f2e98]:
+              - link " Recherche avancée" [ref=f2e99] [cursor=pointer]:
+                - /url: /?page=Entreprise.EntrepriseAdvancedSearch&searchAnnCons
+                - generic [ref=f2e100]: 
+                - text: Recherche avancée
+            - listitem [ref=f2e101]:
+              - link " Rechercher une procédure restreinte" [ref=f2e102] [cursor=pointer]:
+                - /url: /?page=Entreprise.EntrepriseAdvancedSearch&searchAnnCons&type=restreinte
+                - generic [ref=f2e103]: 
+                - text: Rechercher une procédure restreinte
+            - listitem [ref=f2e104]:
+              - link " Voir toutes les consultations" [ref=f2e105] [cursor=pointer]:
+                - /url: /?page=Entreprise.EntrepriseAdvancedSearch&AllCons
+                - generic [ref=f2e106]: 
+                - text: Voir toutes les consultations
+            - listitem [ref=f2e107]:
+              - link " Rechercher d'autres annonces" [ref=f2e108] [cursor=pointer]:
+                - /url: /?page=Entreprise.EntrepriseAdvancedSearch&AllAnn
+                - generic [ref=f2e109]: 
+                - text: Rechercher d'autres annonces
+    - generic [ref=f2e111]:
+      - generic [ref=f2e114]:
+        - heading " Services" [level=2] [ref=f2e116]:
+          - generic [ref=f2e117]: 
+          - text: Services
+        - list [ref=f2e119]:
+          - listitem [ref=f2e120]:
+            - strong [ref=f2e121]:
+              - link [ref=f2e122] [cursor=pointer]:
+                - /url: /?page=entreprise.EntrepriseGestionAlertes
+                - generic [ref=f2e123]:
+                  - text: 
+                  - generic [aria-hidden] [ref=f2e124]: 
+                  - text: Recherche des avis de marchés
+            - generic [ref=f2e125]: en Ile-de-France (information, consultations en cours, attribution)
+          - listitem [ref=f2e126]:
+            - link "Service d'alertes" [ref=f2e127] [cursor=pointer]:
+              - /url: "?page=Entreprise.EntrepriseGestionRecherches"
+              - text: 
+              - generic [aria-hidden] [ref=f2e128]: 
+              - text: Service d'alertes
+            - generic [ref=f2e129]: Quotidiennes ou hebdomadaires pour être informé de tout nouveau marché selon vos critères
+          - listitem [ref=f2e130]:
+            - link "Gestion de panier" [ref=f2e131] [cursor=pointer]:
+              - /url: "?page=Entreprise.EntrepriseAdvancedSearch&panierEntreprise"
+              - text: 
+              - generic [aria-hidden] [ref=f2e132]: 
+              - text: Gestion de panier
+            - generic [ref=f2e133]: Suivez et gérez vos annonces depuis votre panier
+          - listitem [ref=f2e134]:
+            - strong [ref=f2e135]:
+              - link [ref=f2e136] [cursor=pointer]:
+                - /url: /?page=entreprise.EntrepriseRechercherListeMarches&search
+                - generic [ref=f2e137]:
+                  - text: 
+                  - generic [aria-hidden] [ref=f2e138]: 
+                  - text: Données essentielles des marchés conclus
+      - generic [ref=f2e141]:
+        - heading " Outils de signature" [level=2] [ref=f2e143]:
+          - generic [ref=f2e144]: 
+          - text: Outils de signature
+        - list [ref=f2e146]:
+          - listitem [ref=f2e147]:
+            - link "Signer un document" [ref=f2e148] [cursor=pointer]:
+              - /url: entreprise/signer-document
+              - text: 
+              - generic [aria-hidden] [ref=f2e149]: 
+              - text: Signer un document
+          - listitem [ref=f2e150]:
+            - link "Vérifier la signature" [ref=f2e151] [cursor=pointer]:
+              - /url: /entreprise/verification-signature
+              - text: 
+              - generic [aria-hidden] [ref=f2e152]: 
+              - text: Vérifier la signature
+      - generic [ref=f2e155]:
+        - heading " Aide" [level=2] [ref=f2e157]:
+          - generic [ref=f2e158]: 
+          - text: Aide
+        - list [ref=f2e160]:
+          - listitem [ref=f2e161]:
+            - link "Guides Utilisateur et Auto-formation" [ref=f2e162] [cursor=pointer]:
+              - /url: "?page=Entreprise.EntrepriseGuide"
+              - text: 
+              - generic [aria-hidden] [ref=f2e163]: 
+              - text: Guides Utilisateur et Auto-formation
+          - listitem [ref=f2e164]:
+            - link "Assistance" [ref=f2e165] [cursor=pointer]:
+              - /url: entreprise/aide/assistance-telephonique
+              - text: 
+              - generic [aria-hidden] [ref=f2e166]: 
+              - text: Assistance
+          - listitem [ref=f2e167]:
+            - link "Tester ma configuration" [ref=f2e168] [cursor=pointer]:
+              - /url: entreprise/footer/diagnostic-poste
+              - text: 
+              - generic [aria-hidden] [ref=f2e169]: 
+              - text: Tester ma configuration
+          - listitem [ref=f2e170]:
+            - link "Consultation de test" [ref=f2e171] [cursor=pointer]:
+              - /url: "?page=Entreprise.EntrepriseAdvancedSearch&AllCons&orgTest"
+              - text: 
+              - generic [aria-hidden] [ref=f2e172]: 
+              - text: Consultation de test
+          - listitem [ref=f2e173]:
+            - link [ref=f2e174] [cursor=pointer]:
+              - /url: /?page=Entreprise.AutresOutils
+              - generic [ref=f2e175]:
+                - text: 
+                - generic [aria-hidden] [ref=f2e176]: 
+                - text: Outils informatiques
+  - contentinfo [ref=f2e178]:
+    - generic [ref=f2e180]:
+      - list [ref=f2e182]:
+        - listitem [ref=f2e183]:
+          - link "Mentions légales" [ref=f2e184] [cursor=pointer]:
+            - /url: /entreprise/footer/info-site
+        - listitem [ref=f2e185]:
+          - link "Conditions d'utilisation" [ref=f2e186] [cursor=pointer]:
+            - /url: /entreprise/footer/conditions-utilisation
+        - listitem [ref=f2e187]:
+          - link "Pré-requis techniques" [ref=f2e188] [cursor=pointer]:
+            - /url: /entreprise/footer/prerequis-techniques
+        - listitem [ref=f2e189]:
+          - link "Accessibilité" [ref=f2e190] [cursor=pointer]:
+            - /url: /entreprise/footer/accessibilite
+        - listitem [ref=f2e191]:
+          - link "Autorités de certification européennes" [ref=f2e192] [cursor=pointer]:
+            - /url: /entreprise/footer/info-acrgs
+      - generic [ref=f2e193]:
+        - link [ref=f2e195] [cursor=pointer]:
+          - /url: /language/en
+          - button "en" [ref=f2e196]
+        - link [ref=f2e198] [cursor=pointer]:
+          - /url: /language
+          - button "fr" [ref=f2e199]
+  - link "" [ref=f2e203] [cursor=pointer]:
+    - /url: "#"
+  - img "chat icon" [ref=f2e201] [cursor=pointer]

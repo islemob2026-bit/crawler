@@ -1,0 +1,448 @@
+- generic "Google Maps" [ref=f18e9]:
+  - dialog [ref=f18e10]:
+    - generic [ref=f18e13]:
+      - generic [aria-hidden] [ref=f18e14]: 
+      - text: Indiquez vos dates pour afficher les meilleurs prix
+  - generic [ref=f18e3]:
+    - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f18e15]
+    - search [ref=f18e20]:
+      - generic [ref=f18e21]:
+        - combobox [ref=f18e23]: Sofitel Algiers Hamma Garden
+        - button "Rechercher" [ref=f18e25] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f18e26]: 
+        - button "Fermer" [ref=f18e28] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f18e29]: 
+    - region "Options de recherche disponibles pour cette zone" [ref=f18e36]:
+      - generic [ref=f18e39]:
+        - button "Hôtels à proximité" [ref=f18e41] [cursor=pointer]:
+          - generic [ref=f18e42]:
+            - generic [aria-hidden] [ref=f18e44]: 
+            - generic [ref=f18e45]: Hôtels à proximité
+        - button "Restaurants" [ref=f18e47] [cursor=pointer]:
+          - generic [ref=f18e48]:
+            - generic [aria-hidden] [ref=f18e50]: 
+            - generic [ref=f18e51]: Restaurants
+        - button "Activités à découvrir" [ref=f18e53] [cursor=pointer]:
+          - generic [ref=f18e54]:
+            - generic [aria-hidden] [ref=f18e56]: 
+            - generic [ref=f18e57]: Activités à découvrir
+        - button "Bars" [ref=f18e59] [cursor=pointer]:
+          - generic [ref=f18e60]:
+            - generic [aria-hidden] [ref=f18e62]: 
+            - generic [ref=f18e63]: Bars
+        - button "Cafés" [ref=f18e65] [cursor=pointer]:
+          - generic [ref=f18e66]:
+            - generic [aria-hidden] [ref=f18e68]: 
+            - generic [ref=f18e69]: Cafés
+        - button "Pharmacies" [ref=f18e71] [cursor=pointer]:
+          - generic [ref=f18e72]:
+            - generic [aria-hidden] [ref=f18e74]: 
+            - generic [ref=f18e75]: Pharmacies
+        - button "Parkings" [ref=f18e77] [cursor=pointer]:
+          - generic [ref=f18e78]:
+            - generic [aria-hidden] [ref=f18e80]: 
+            - generic [ref=f18e81]: Parkings
+    - generic [ref=f18e82]:
+      - generic [ref=f18e83]:
+        - list [ref=f18e85]:
+          - listitem [ref=f18e86]:
+            - button "Menu" [ref=f18e87] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f18e89]: 
+          - listitem [ref=f18e90]:
+            - button "Enregistré" [ref=f18e91] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f18e93]: 
+          - listitem [ref=f18e96]:
+            - button "Récents" [ref=f18e97] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f18e99]: 
+          - listitem [ref=f18e103]:
+            - button "Sofitel Algiers Hamma Garden" [ref=f18e104] [cursor=pointer]
+          - listitem [ref=f18e112]:
+            - button "Obtenir l'appli" [ref=f18e113] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f18e115]: 
+        - main "Sofitel Algiers Hamma Garden" [ref=f18e122]:
+          - generic [ref=f18e123]:
+            - generic [ref=f18e124]:
+              - button "Photo de Sofitel Algiers Hamma Garden" [ref=f18e126] [cursor=pointer]
+              - button "OFFRE SPÉCIALE·À partir de 24 160 DA par nuit.·20 % de moins que le prix habituel" [ref=f18e129] [cursor=pointer]:
+                - generic [ref=f18e130]:
+                  - generic [ref=f18e131]: 20 % de moins que le prix habituel
+                  - generic [ref=f18e132]:
+                    - generic [ref=f18e133]: OFFRE SPÉCIALE
+                    - generic [ref=f18e135]: 24 160 DA
+              - button "Voir les photos" [ref=f18e136] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e137]: 
+            - generic [ref=f18e141]:
+              - heading "Sofitel Algiers Hamma Garden" [level=1] [ref=f18e143]
+              - heading "فُندق سُوفيتال" [level=2] [ref=f18e144]
+              - generic [ref=f18e148]:
+                - generic [ref=f18e149]:
+                  - generic [ref=f18e150]:
+                    - text: 4,3
+                    - img "4,3 étoiles" [ref=f18e151]
+                  - img "4 821 avis" [ref=f18e159]: (4 821)
+                - generic [ref=f18e162]:
+                  - text: ·
+                  - generic [ref=f18e163]: Hôtel 5 étoiles
+            - tablist [ref=f18e167]:
+              - tab "Sofitel Algiers Hamma Garden - Présentation" [selected] [ref=f18e168]:
+                - generic [aria-hidden] [ref=f18e170]: Présentation
+              - tab "Prix pour Sofitel Algiers Hamma Garden" [ref=f18e172]:
+                - generic [aria-hidden] [ref=f18e174]: Prix
+              - tab "Sofitel Algiers Hamma Garden - Avis" [ref=f18e176]:
+                - generic [aria-hidden] [ref=f18e178]: Avis
+              - tab "Informations sur Sofitel Algiers Hamma Garden" [ref=f18e180]:
+                - generic [aria-hidden] [ref=f18e182]: À propos
+            - region "Sofitel Algiers Hamma Garden - Actions" [ref=f18e184]:
+              - button "Itinéraires" [ref=f18e186] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e188]: 
+              - button "Enregistrer" [ref=f18e191] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e193]: 
+              - button "À proximité" [ref=f18e196] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e198]: 
+              - button "Partager" [ref=f18e201] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e203]: 
+            - link [ref=f18e207] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f18e208]:
+                - generic [aria-hidden] [ref=f18e209]: 
+                - text: Vérifier la disponibilité
+            - generic [ref=f18e212]:
+              - generic [ref=f18e214]:
+                - heading "Comparer les prix" [level=2] [ref=f18e215]
+                - generic [ref=f18e217]:
+                  - generic [ref=f18e218]: Annulation gratuite uniquement
+                  - checkbox "Annulation gratuite uniquement" [ref=f18e219]:
+                    - generic [aria-hidden] [ref=f18e220]: 
+                    - checkbox "Annulation gratuite uniquement" [ref=f18e221] [cursor=pointer]
+              - generic [ref=f18e222]:
+                - group "Arrivée/Départ" [ref=f18e223]:
+                  - group "Du mardi 9 février au mercredi 10 février" [active] [ref=f18e225]:
+                    - generic [ref=f18e227] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f18e228]: mar. 9 févr.
+                      - generic [ref=f18e229]:
+                        - button "Arriver un jour plus tôt" [ref=f18e230]:
+                          - generic [aria-hidden] [ref=f18e231]: 
+                        - button "Arriver un jour plus tard" [ref=f18e232]:
+                          - generic [aria-hidden] [ref=f18e233]: 
+                    - generic [ref=f18e235] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f18e236]: mer. 10 févr.
+                      - generic [ref=f18e237]:
+                        - button "Partir un jour plus tôt" [disabled] [ref=f18e238]:
+                          - generic [aria-hidden] [ref=f18e239]: 
+                        - button "Partir un jour plus tard" [ref=f18e240]:
+                          - generic [aria-hidden] [ref=f18e241]: 
+                - group "Invités" [ref=f18e242]:
+                  - generic [aria-hidden] [ref=f18e243]: 
+                  - button "2 clients" [ref=f18e244] [cursor=pointer]:
+                    - text: "2"
+                    - generic [aria-hidden] [ref=f18e245]: 
+              - generic [ref=f18e249]:
+                - heading "Toutes les options" [level=2] [ref=f18e252]
+                - generic [ref=f18e253]:
+                  - button "Sofitel Algiers Hamma Garden Obtenir le prix Site officiel Obtenez entre 5 et 10 % de réduction en vous inscrivant gratuitement" [ref=f18e259] [cursor=pointer]:
+                    - generic [ref=f18e260]:
+                      - generic [ref=f18e261]:
+                        - generic [ref=f18e262]: Sofitel Algiers Hamma Garden
+                        - generic [ref=f18e264]:
+                          - generic [aria-hidden] [ref=f18e265]: 26 850 DA
+                          - generic [ref=f18e266]: Obtenir le prix
+                          - generic [aria-hidden] [ref=f18e267]: 
+                      - generic [ref=f18e268]:
+                        - generic [ref=f18e270]:
+                          - generic [aria-hidden] [ref=f18e271]: 
+                          - generic [ref=f18e272]: Site officiel
+                        - generic [ref=f18e273]: Obtenez entre 5 et 10 % de réduction en vous inscrivant gratuitement
+                  - button "Trip.com 24 160 DA Wi-Fi gratuit · Parking gratuit" [ref=f18e279] [cursor=pointer]:
+                    - generic [ref=f18e280]:
+                      - generic [ref=f18e281]:
+                        - generic [ref=f18e282]: Trip.com
+                        - generic [ref=f18e284]:
+                          - generic [ref=f18e285]: 24 160 DA
+                          - generic [aria-hidden] [ref=f18e286]: 
+                      - generic [ref=f18e287]: Wi-Fi gratuit · Parking gratuit
+                  - button "Plus de prix à partir de 26 297 DA" [ref=f18e291]
+            - region "Sofitel Algiers Hamma Garden - Informations" [ref=f18e297]:
+              - generic [ref=f18e298]:
+                - 'button "Adresse: 172 Rue Hassiba Ben Bouali, Algiers 16015" [ref=f18e299] [cursor=pointer]':
+                  - generic [ref=f18e300]:
+                    - generic [aria-hidden] [ref=f18e302]: 
+                    - generic [ref=f18e303]: 172 Rue Hassiba Ben Bouali, Algiers 16015
+                - button "Copier l'adresse" [ref=f18e307] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f18e309]: 
+              - generic [ref=f18e310]:
+                - 'link "Site Web: sofitel.accor.com" [ref=f18e311] [cursor=pointer]':
+                  - /url: http://sofitel.accor.com/hotels/1540?merchantid=seo-maps-DZ-1540&sourceid=aw-cen&utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps&utm_term=Sofitel-Launch
+                  - generic [ref=f18e312]:
+                    - generic [aria-hidden] [ref=f18e314]: 
+                    - generic [ref=f18e315]: sofitel.accor.com
+                - generic [ref=f18e317]:
+                  - link "Accéder au site Web" [ref=f18e319] [cursor=pointer]:
+                    - /url: http://sofitel.accor.com/hotels/1540?merchantid=seo-maps-DZ-1540&sourceid=aw-cen&utm_source=google+Maps&utm_medium=seo+maps&utm_campaign=seo+maps&utm_term=Sofitel-Launch
+                    - generic [aria-hidden] [ref=f18e321]: 
+                  - button "Copier le site Web" [ref=f18e323] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f18e325]: 
+              - generic [ref=f18e326]:
+                - 'button "Numéro de téléphone: 021 68 52 10" [ref=f18e327] [cursor=pointer]':
+                  - generic [ref=f18e328]:
+                    - generic [aria-hidden] [ref=f18e330]: 
+                    - generic [ref=f18e331]: 021 68 52 10
+                - generic [ref=f18e333]:
+                  - button "Copier le numéro de téléphone" [ref=f18e335] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f18e337]: 
+                  - link "Composer le numéro de téléphone" [ref=f18e339] [cursor=pointer]:
+                    - /url: tel:021685210
+                    - generic [aria-hidden] [ref=f18e341]: 
+              - generic [ref=f18e342]:
+                - 'button "Plus code: Q32F+62 Belouizdad" [ref=f18e343] [cursor=pointer]':
+                  - generic [ref=f18e344]:
+                    - generic [aria-hidden] [ref=f18e346]: 
+                    - generic [ref=f18e347]: Q32F+62 Belouizdad
+                - generic [ref=f18e349]:
+                  - button "Copier le plus code" [ref=f18e351] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f18e353]: 
+                  - button "En savoir plus sur les plus codes" [ref=f18e355] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f18e357]: 
+              - generic [ref=f18e359]:
+                - generic [aria-hidden] [ref=f18e361]: 
+                - generic [ref=f18e362]: "Heure d'arrivée : 3:00 PMHeure de départ : 12:00 PM"
+            - button "Suggérer une modification" [ref=f18e367] [cursor=pointer]:
+              - generic [ref=f18e368]:
+                - generic [aria-hidden] [ref=f18e369]: 
+                - generic [ref=f18e370]: Suggérer une modification
+            - heading "Photos" [level=2] [ref=f18e374]
+            - generic [ref=f18e375]:
+              - button "Street View 1" [ref=f18e377] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e382]: 
+              - button "Street View 2" [ref=f18e384] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e389]: 
+              - button "4969 photos" [ref=f18e391] [cursor=pointer]
+            - button "Ajouter des photos/vidéos" [ref=f18e399] [cursor=pointer]:
+              - generic [ref=f18e400]:
+                - generic [aria-hidden] [ref=f18e401]: 
+                - generic [ref=f18e402]: Ajouter des photos/vidéos
+            - generic [ref=f18e405]:
+              - heading "À cette adresse" [level=2] [ref=f18e407]
+              - article [ref=f18e409]:
+                - button "EL MORDJANE" [ref=f18e410] [cursor=pointer]
+                - generic [ref=f18e416] [cursor=pointer]:
+                  - generic [ref=f18e417]: EL MORDJANE
+                  - img "4,4 étoiles 49 avis" [ref=f18e422]: 4,4(49)
+                  - generic [ref=f18e428]:
+                    - generic [ref=f18e429]: Restaurant
+                    - generic [ref=f18e431]: Fermé · Ouvre à 19:00
+              - article [ref=f18e435]:
+                - button "Nest Academy" [ref=f18e436] [cursor=pointer]
+                - generic [ref=f18e442] [cursor=pointer]:
+                  - generic [ref=f18e443]: Nest Academy
+                  - img "4,9 étoiles 22 avis" [ref=f18e448]: 4,9(22)
+                  - generic [ref=f18e454]:
+                    - generic [ref=f18e455]: Établissement d'enseignement supérieur
+                    - generic [ref=f18e457]: Ouvert · Ferme à 04:00
+              - article [ref=f18e461]:
+                - button "Restaurant Ô92" [ref=f18e462] [cursor=pointer]
+                - generic [ref=f18e468] [cursor=pointer]:
+                  - generic [ref=f18e469]: Restaurant Ô92
+                  - img "4,6 étoiles 21 avis" [ref=f18e474]: 4,6(21)
+                  - generic [ref=f18e480]:
+                    - generic [ref=f18e481]: Restaurant
+                    - generic [ref=f18e483]: Fermé · Ouvre à 19:00
+              - article [ref=f18e487]:
+                - button "LE DIFA" [ref=f18e488] [cursor=pointer]
+                - generic [ref=f18e494] [cursor=pointer]:
+                  - generic [ref=f18e495]: LE DIFA
+                  - img "4,8 étoiles 18 avis" [ref=f18e500]: 4,8(18)
+                  - generic [ref=f18e506]: Restaurant
+              - button "Tout afficher" [ref=f18e512]
+            - heading "Hôtels similaires à proximité" [level=2] [ref=f18e518]
+            - region "Hôtels similaires à proximité" [ref=f18e519]:
+              - generic [ref=f18e522]:
+                - link "Hotel El Djazair - Ex St George·13 938 DA·4,1 étoiles·2 501 avis·Autre hôtel 5 étoiles, 10 222 DA moins cher·À 2,4 km" [ref=f18e523] [cursor=pointer]:
+                  - generic [ref=f18e524]: 13 938 DA
+                  - generic [ref=f18e527]:
+                    - generic [ref=f18e528]: Hotel El Djazair - Ex St George
+                    - img "4,1 étoiles 2 501 avis" [ref=f18e532]: 4,1(2 501)
+                    - generic [ref=f18e534]: Autre hôtel 5 étoiles, 10 222 DA moins cher
+                    - generic [ref=f18e535]: À 2,4 km
+                - link "Lamaraz Hotels·25 000 DA·4,2 étoiles·1 685 avis·petit-déjeuner inclus·À 2,3 km" [ref=f18e536] [cursor=pointer]:
+                  - generic [ref=f18e537]: 25 000 DA
+                  - generic [ref=f18e540]:
+                    - generic [ref=f18e541]: Lamaraz Hotels
+                    - img "4,2 étoiles 1 685 avis" [ref=f18e545]: 4,2(1 685)
+                    - generic [ref=f18e547]: petit-déjeuner inclus
+                    - generic [ref=f18e548]: À 2,3 km
+                - link "Hôtel El Aurassi·14 046 DA·4,1 étoiles·3 933 avis·Autre hôtel 5 étoiles, 10 114 DA moins cher·À 3,5 km" [ref=f18e549] [cursor=pointer]:
+                  - generic [ref=f18e550]: 14 046 DA
+                  - generic [ref=f18e553]:
+                    - generic [ref=f18e554]: Hôtel El Aurassi
+                    - img "4,1 étoiles 3 933 avis" [ref=f18e558]: 4,1(3 933)
+                    - generic [ref=f18e560]: Autre hôtel 5 étoiles, 10 114 DA moins cher
+                    - generic [ref=f18e561]: À 3,5 km
+                - link "AZ Hôtels Vieux Kouba·13 330 DA·3,9 étoiles·1 294 avis·Hôtel 4 étoiles, 10 829 DA moins cher·À 2,5 km" [ref=f18e562] [cursor=pointer]:
+                  - generic [ref=f18e563]: 13 330 DA
+                  - generic [ref=f18e566]:
+                    - generic [ref=f18e567]: AZ Hôtels Vieux Kouba
+                    - img "3,9 étoiles 1 294 avis" [ref=f18e571]: 3,9(1 294)
+                    - generic [ref=f18e573]: Hôtel 4 étoiles, 10 829 DA moins cher
+                    - generic [ref=f18e574]: À 2,5 km
+                - link "Soltane Hotel·15 743 DA·3,9 étoiles·523 avis·Hôtel 4 étoiles, 8 417 DA moins cher·À 2 km" [ref=f18e575] [cursor=pointer]:
+                  - generic [ref=f18e576]: 15 743 DA
+                  - generic [ref=f18e579]:
+                    - generic [ref=f18e580]: Soltane Hotel
+                    - img "3,9 étoiles 523 avis" [ref=f18e584]: 3,9(523)
+                    - generic [ref=f18e586]: Hôtel 4 étoiles, 8 417 DA moins cher
+                    - generic [ref=f18e587]: À 2 km
+                - link "Hôtel Sidi Yahia·11 458 DA·4,0 étoiles·342 avis·Hôtel 4 étoiles, 12 702 DA moins cher·À 3,4 km" [ref=f18e588] [cursor=pointer]:
+                  - generic [ref=f18e589]: 11 458 DA
+                  - generic [ref=f18e592]:
+                    - generic [ref=f18e593]: Hôtel Sidi Yahia
+                    - img "4,0 étoiles 342 avis" [ref=f18e597]: 4,0(342)
+                    - generic [ref=f18e599]: Hôtel 4 étoiles, 12 702 DA moins cher
+                    - generic [ref=f18e600]: À 3,4 km
+                - link "AZ Hôtels Kouba·4,0 étoiles·847 avis·petit-déjeuner inclus·À 2,2 km" [ref=f18e601] [cursor=pointer]:
+                  - generic [ref=f18e604]:
+                    - generic [ref=f18e605]: AZ Hôtels Kouba
+                    - img "4,0 étoiles 847 avis" [ref=f18e609]: 4,0(847)
+                    - generic [ref=f18e611]: petit-déjeuner inclus
+                    - generic [ref=f18e612]: À 2,2 km
+                - link "New Day Hotel·4,1 étoiles·1 232 avis·petit-déjeuner inclus·À 2 km" [ref=f18e613] [cursor=pointer]:
+                  - generic [ref=f18e616]:
+                    - generic [ref=f18e617]: New Day Hotel
+                    - img "4,1 étoiles 1 232 avis" [ref=f18e621]: 4,1(1 232)
+                    - generic [ref=f18e623]: petit-déjeuner inclus
+                    - generic [ref=f18e624]: À 2 km
+                - link "Africa Nova Hotel - Hussein Day·3,8 étoiles·199 avis·petit-déjeuner inclus·À 2,9 km" [ref=f18e625] [cursor=pointer]:
+                  - generic [ref=f18e628]:
+                    - generic [ref=f18e629]: Africa Nova Hotel - Hussein Day
+                    - img "3,8 étoiles 199 avis" [ref=f18e633]: 3,8(199)
+                    - generic [ref=f18e635]: petit-déjeuner inclus
+                    - generic [ref=f18e636]: À 2,9 km
+                - link "Hôtel Dar Diaf·3,9 étoiles·237 avis·À 1,9 km" [ref=f18e637] [cursor=pointer]:
+                  - generic [ref=f18e640]:
+                    - generic [ref=f18e641]: Hôtel Dar Diaf
+                    - img "3,9 étoiles 237 avis" [ref=f18e645]: 3,9(237)
+                    - generic [ref=f18e647]: À 1,9 km
+            - button "Afficher d'autres hôtels à proximité" [ref=f18e652]
+            - heading "Informations sur l'hôtel" [level=2] [ref=f18e658]
+            - generic [ref=f18e659]:
+              - text: Cet hôtel sophistiqué se trouve à 6 minutes à pied du jardin d'essai du Hamma, à 2 km du musée national des Beaux-Arts d'Alger et à 5 km de la mosquée Ketchaoua.
+              - button "Plus d'informations sur cet hôtel" [ref=f18e660] [cursor=pointer]: Plus
+            - generic [ref=f18e663]:
+              - img "Wi-Fi gratuit disponible" [ref=f18e664]:
+                - generic [aria-hidden] [ref=f18e665]: 
+                - generic [ref=f18e666]: Wi-Fi gratuit
+              - img "Petit déjeuner payant disponible" [ref=f18e667]:
+                - generic [aria-hidden] [ref=f18e668]: 
+                - generic [ref=f18e669]: Petit déjeuner payant
+              - img "Parking gratuit disponible" [ref=f18e670]:
+                - generic [aria-hidden] [ref=f18e671]: 
+                - generic [ref=f18e672]: Parking gratuit
+              - img "Accès handicapés disponible" [ref=f18e673]:
+                - generic [aria-hidden] [ref=f18e674]: 
+                - generic [ref=f18e675]: Accès handicapés
+              - img "Pisc. intérieure et extérieure disponible" [ref=f18e676]:
+                - generic [aria-hidden] [ref=f18e677]: 
+                - generic [ref=f18e678]: Pisc. intérieure et extérieure
+              - img "Climatisation disponible" [ref=f18e679]:
+                - generic [aria-hidden] [ref=f18e680]: 
+                - generic [ref=f18e681]: Climatisation
+            - button "Afficher plus d'équipements" [ref=f18e685]:
+              - generic [ref=f18e686] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e687]: 
+                - generic [ref=f18e688]: Afficher plus d'équipements
+            - generic [ref=f18e691]:
+              - heading "Résumé des avis Google" [level=2] [ref=f18e692]
+              - button "Plus d'informations sur le résumé des avis" [ref=f18e693] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e694]: 
+            - generic [ref=f18e696] [cursor=pointer]:
+              - table [ref=f18e698]:
+                - rowgroup [ref=f18e699]:
+                  - img "5 étoiles, 3 206 avis" [ref=f18e700]: "5"
+                  - img "4 étoiles, 780 avis" [ref=f18e703]: "4"
+                  - img "3 étoiles, 341 avis" [ref=f18e706]: "3"
+                  - img "2 étoiles, 111 avis" [ref=f18e709]: "2"
+                  - img "1 étoiles, 383 avis" [ref=f18e712]: "1"
+              - generic [ref=f18e715]:
+                - generic [ref=f18e716]: 4,3
+                - img "4,3 étoiles" [ref=f18e717]
+                - button "4 821 avis" [ref=f18e723]
+            - button "Rédiger un avis" [ref=f18e729] [cursor=pointer]:
+              - generic [ref=f18e730]:
+                - generic [aria-hidden] [ref=f18e731]: 
+                - generic [ref=f18e732]: Rédiger un avis
+            - generic [ref=f18e735]:
+              - heading "Tous les avis" [level=2] [ref=f18e737]
+              - button "Rechercher dans les avis" [ref=f18e739] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f18e741]: 
+            - generic [ref=f18e745]:
+              - generic [ref=f18e747]:
+                - generic [ref=f18e748]: Tripadvisor
+                - generic [ref=f18e751]:
+                  - generic [ref=f18e752]: 4,4/5
+                  - generic [aria-hidden] [ref=f18e753]: ·
+                  - generic [ref=f18e754]: 2 170 avis
+                - generic [ref=f18e755]: 449zainn, il y a 2 semaines
+                - generic [ref=f18e757]: Une mention toute particulière à Madame Hiba la préparatrice des crêpes C’est une personne adorable, toujours souriante, passionnée par son travail …
+                - link "Afficher plus sur Tripadvisor" [ref=f18e760] [cursor=pointer]:
+                  - /url: https://www.tripadvisor.fr/ShowUserReviews-g293718-d1124165-r1082053876?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=DZ&supul=fr
+              - generic [ref=f18e763]:
+                - generic [ref=f18e764]: Tripadvisor
+                - generic [ref=f18e767]:
+                  - generic [ref=f18e768]: 4,4/5
+                  - generic [aria-hidden] [ref=f18e769]: ·
+                  - generic [ref=f18e770]: 2 167 avis
+                - generic [ref=f18e771]: Curious40524231273, il y a un mois
+                - generic [ref=f18e773]: Chambre propre |Lobby très grand
+                - link "Afficher plus sur Tripadvisor" [ref=f18e776] [cursor=pointer]:
+                  - /url: https://www.tripadvisor.fr/ShowUserReviews-g293718-d1124165-r1079607916?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=DZ&supul=fr
+              - generic [ref=f18e779]:
+                - generic [ref=f18e780]: all.accor.com
+                - generic [ref=f18e783]:
+                  - generic [ref=f18e784]: 3,9/5
+                  - generic [aria-hidden] [ref=f18e785]: ·
+                  - generic [ref=f18e786]: 1 204 avis
+                - generic [ref=f18e787]: Hamana D., il y a 3 mois
+                - generic [ref=f18e789]: Personnel très accueillant, professionnel, serviable et gentil surtout Amine et Hakim de la réception , hôtel et chambres propres
+                - generic [ref=f18e791]: Visité en juillet
+                - link "Afficher plus sur all.accor.com" [ref=f18e794] [cursor=pointer]:
+                  - /url: https://go.trustyou.com/book/a4f8c757-ab34-49d9-9564-d136af03e82a?review_id=55d2553a-ded3-40c7-a495-0083c491cfc5&checkin_day=15&checkin_month=11&checkin_year=2026&checkout_day=16&checkout_month=11&checkout_year=2026&user_language=fr&user_country=DZ&user_device=desktop&user_currency=DZD&google_site=mapresults&num_adults=
+            - button "Plus d'avis (4 818)" [ref=f18e800]
+            - link "À propos de ces données" [ref=f18e807] [cursor=pointer]:
+              - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=fr
+            - generic [ref=f18e812]:
+              - generic [aria-hidden] [ref=f18e814]: 
+              - generic [ref=f18e815]:
+                - text: Vous voyez un affichage limité de Google Maps.
+                - button "Voir plus" [ref=f18e816] [cursor=pointer]
+      - button "Réduire le panneau latéral" [ref=f18e818] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f18e819]: 
+    - generic [ref=f18e823]:
+      - button "Applications Google" [ref=f18e827] [cursor=pointer]
+      - link "Connexion" [ref=f18e831] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FSofitel%2BAlgiers%2BHamma%2BGarden%2F%4036.7505228%2C3.0725569%2C17z%2Fdata%3D!3m1!4b1!4m9!3m8!1s0x128fb28be0db0863%3A0x7c8ea0ca3200f8ad!5m2!4m1!1i2!8m2!3d36.7505228!4d3.0725569!16s%252Fm%252F0gk_5k7%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Afficher votre position" [ref=f18e834] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f18e836]: 
+        - generic [ref=f18e838] [cursor=pointer]:
+          - button "Faire un zoom avant" [ref=f18e839]:
+            - generic [aria-hidden] [ref=f18e841]: 
+          - button "Faire un zoom arrière" [ref=f18e842]:
+            - generic [aria-hidden] [ref=f18e844]: 
+      - generic [ref=f18e848]:
+        - button "Parcourir les images Street View" [ref=f18e850]
+        - button "Street View" [ref=f18e852] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f18e855]: 
+      - generic [ref=f18e856]:
+        - generic "Carte interactive" [ref=f18e857]
+        - generic [ref=f18e861] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f18e862]: 
+          - generic [ref=f18e863]: Calques
+        - button "Calques" [ref=f18e864] [cursor=pointer]
+    - generic [ref=f18e866]:
+      - contentinfo [ref=f18e869]:
+        - text: Données cartographiques ©2026
+        - button "Algérie" [ref=f18e870] [cursor=pointer]
+        - button "Conditions d'utilisation" [ref=f18e871] [cursor=pointer]
+        - button "Confidentialité" [ref=f18e872] [cursor=pointer]
+        - button "Envoyer des commentaires sur le produit" [ref=f18e873] [cursor=pointer]
+      - button "100 m" [ref=f18e875] [cursor=pointer]

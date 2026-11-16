@@ -1,0 +1,298 @@
+- generic [ref=f4e1]:
+  - generic "Google Maps" [ref=f4e9]:
+    - generic [ref=f4e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f4e15]
+      - search [ref=f4e20]:
+        - button "Retour" [ref=f4e704] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f4e705]: 
+        - generic [ref=f4e21]:
+          - combobox [ref=f4e23]: Colombe hotel Oran
+          - button "Rechercher" [ref=f4e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f4e26]: 
+          - button "Fermer" [ref=f4e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f4e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f4e36]:
+        - generic [ref=f4e39]:
+          - button "Hôtels à proximité" [ref=f4e41] [cursor=pointer]:
+            - generic [ref=f4e42]:
+              - generic [aria-hidden] [ref=f4e44]: 
+              - generic [ref=f4e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f4e47] [cursor=pointer]:
+            - generic [ref=f4e48]:
+              - generic [aria-hidden] [ref=f4e50]: 
+              - generic [ref=f4e51]: Restaurants
+          - button "Activités à découvrir" [ref=f4e53] [cursor=pointer]:
+            - generic [ref=f4e54]:
+              - generic [aria-hidden] [ref=f4e56]: 
+              - generic [ref=f4e57]: Activités à découvrir
+          - button "Bars" [ref=f4e59] [cursor=pointer]:
+            - generic [ref=f4e60]:
+              - generic [aria-hidden] [ref=f4e62]: 
+              - generic [ref=f4e63]: Bars
+          - button "Cafés" [ref=f4e65] [cursor=pointer]:
+            - generic [ref=f4e66]:
+              - generic [aria-hidden] [ref=f4e68]: 
+              - generic [ref=f4e69]: Cafés
+          - button "Pharmacies" [ref=f4e71] [cursor=pointer]:
+            - generic [ref=f4e72]:
+              - generic [aria-hidden] [ref=f4e74]: 
+              - generic [ref=f4e75]: Pharmacies
+          - button "Parkings" [ref=f4e77] [cursor=pointer]:
+            - generic [ref=f4e78]:
+              - generic [aria-hidden] [ref=f4e80]: 
+              - generic [ref=f4e81]: Parkings
+      - generic [ref=f4e82]:
+        - generic [ref=f4e83]:
+          - list [ref=f4e85]:
+            - listitem [ref=f4e86]:
+              - button "Menu" [ref=f4e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e89]: 
+            - listitem [ref=f4e90]:
+              - button "Enregistré" [ref=f4e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e93]: 
+            - listitem [ref=f4e96]:
+              - button "Récents" [ref=f4e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e99]: 
+            - listitem [ref=f4e103]:
+              - button "Colombe hotel Oran" [ref=f4e104] [cursor=pointer]
+            - listitem [ref=f4e112]:
+              - button "Obtenir l'appli" [ref=f4e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e115]: 
+          - main "Colombe hotel Oran" [ref=f4e122]:
+            - tablist [ref=f4e167]:
+              - tab "Colombe hotel Oran - Présentation" [ref=f4e168]:
+                - generic [aria-hidden] [ref=f4e170]: Présentation
+              - tab "Prix pour Colombe hotel Oran" [ref=f4e172]:
+                - generic [aria-hidden] [ref=f4e174]: Prix
+              - tab "Colombe hotel Oran - Avis" [selected] [ref=f4e176]:
+                - generic [aria-hidden] [ref=f4e178]: Avis
+              - tab "Informations sur Colombe hotel Oran" [ref=f4e180]:
+                - generic [aria-hidden] [ref=f4e182]: À propos
+            - generic [ref=f4e707]:
+              - generic [ref=f4e709]:
+                - list [ref=f4e711]:
+                  - listitem [ref=f4e712]: 7 068 DA
+                  - text: ·
+                  - listitem [ref=f4e713]: Hôtel 3 étoiles
+                - generic [ref=f4e714]: 11–12 nov.
+              - link [ref=f4e718] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f4e719]:
+                  - generic [aria-hidden] [ref=f4e720]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f4e722]:
+              - generic [ref=f4e723]:
+                - heading "Résumé des avis Google" [level=2] [ref=f4e725]
+                - button "Informations" [ref=f4e727] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f4e728]: 
+              - generic [ref=f4e730]:
+                - table [ref=f4e732]:
+                  - rowgroup [ref=f4e733]:
+                    - img "5 étoiles, 467 avis" [ref=f4e734]: "5"
+                    - img "4 étoiles, 77 avis" [ref=f4e737]: "4"
+                    - img "3 étoiles, 33 avis" [ref=f4e740]: "3"
+                    - img "2 étoiles, 28 avis" [ref=f4e743]: "2"
+                    - img "1 étoiles, 35 avis" [ref=f4e746]: "1"
+                - generic [ref=f4e749]:
+                  - generic [ref=f4e750]: 4,4
+                  - img "4,4 étoiles" [ref=f4e751]
+                  - generic [ref=f4e757]: 640 avis
+              - button "Rédiger un avis" [ref=f4e761] [cursor=pointer]:
+                - generic [ref=f4e762]:
+                  - generic [aria-hidden] [ref=f4e763]: 
+                  - generic [ref=f4e764]: Rédiger un avis
+              - generic [ref=f4e768]:
+                - textbox "Rechercher dans les avis" [active] [ref=f4e1414]
+                - generic [aria-hidden]: Rechercher dans les avis
+              - generic [ref=f4e770]:
+                - button "Tous les avis" [ref=f4e771] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f4e773]: 
+                - button "Avis les plus pertinents" [ref=f4e774] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f4e776]: 
+              - generic [ref=f4e1408]:
+                - generic "abdel malek" [ref=f4e1415]:
+                  - generic [ref=f4e1417]:
+                    - button "Photo de abdel malek" [ref=f4e1418]
+                    - generic [ref=f4e1420]:
+                      - button "abdel malek 5 avis" [ref=f4e1422]:
+                        - generic [ref=f4e1423]: abdel malek
+                        - generic [ref=f4e1424]: 5 avis
+                      - button "Actions pour l'avis rédigé par abdel malek" [ref=f4e1425] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f4e1427]: 
+                    - generic [ref=f4e1428]:
+                      - generic [ref=f4e1429]:
+                        - generic [ref=f4e1430]: 5/5
+                        - generic [ref=f4e1431]:
+                          - text: il y a 2 mois sur
+                          - generic [ref=f4e1432]: Google
+                      - generic [ref=f4e1434]:
+                        - text: Excellent séjour ! ⭐⭐⭐⭐⭐ Un grand merci à Oussama pour son accueil chaleureux, sa gentillesse et son …
+                        - button "Voir plus" [ref=f4e1436] [cursor=pointer]: Plus
+                      - generic [ref=f4e1437]:
+                        - button "J'aime" [ref=f4e1438]:
+                          - generic [ref=f4e1439] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1440]: 
+                            - generic [ref=f4e1441]: J'aime
+                        - button "Partager l'avis rédigé par abdel malek." [ref=f4e1443]:
+                          - generic [ref=f4e1444] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1445]: 
+                            - generic [ref=f4e1446]: Partager
+                      - generic [ref=f4e1447]:
+                        - generic [ref=f4e1448]: Réponse du propriétaire il y a 2 mois
+                        - generic [ref=f4e1449]:
+                          - text: Cher Abdel Malek, Merci pour ce magnifique témoignage et pour les 5 étoiles. Votre retour, aussi …
+                          - button "Voir plus" [ref=f4e1451] [cursor=pointer]: Plus
+                - generic "438fahdm" [ref=f4e1455]:
+                  - generic [ref=f4e1457]:
+                    - button "Photo de 438fahdm" [ref=f4e1458]
+                    - button "438fahdm" [ref=f4e1462]
+                    - generic [ref=f4e1464]:
+                      - generic [ref=f4e1465]:
+                        - generic [ref=f4e1466]: 4/5
+                        - generic [ref=f4e1467]:
+                          - text: il y a 2 mois sur
+                          - generic [ref=f4e1468]: Tripadvisor
+                      - generic [ref=f4e1469]: Hotel très propre, idéalement situé pour visiter la ville ,assez calme et bien fréquenté,personnel très accueillant et aimable spécialement Mlle Farah qui a été d'un grand professionnalisme
+                - generic "Sou Sou" [ref=f4e1474]:
+                  - generic [ref=f4e1476]:
+                    - button "Photo de Sou Sou" [ref=f4e1477]
+                    - generic [ref=f4e1479]:
+                      - button "Sou Sou 9 avis · 1 photo" [ref=f4e1481]:
+                        - generic [ref=f4e1482]: Sou Sou
+                        - generic [ref=f4e1483]: 9 avis · 1 photo
+                      - button "Actions pour l'avis rédigé par Sou Sou" [ref=f4e1484] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f4e1486]: 
+                    - generic [ref=f4e1487]:
+                      - generic [ref=f4e1488]:
+                        - generic [ref=f4e1489]: 5/5
+                        - generic [ref=f4e1490]:
+                          - text: il y a 5 mois sur
+                          - generic [ref=f4e1491]: Google
+                      - generic [ref=f4e1493]:
+                        - text: Je recommande vivement cet hôtel. L'emplacement est bien situé, l'hôtel est propre et au calme. Le service est vraiment top! …
+                        - button "Voir plus" [ref=f4e1495] [cursor=pointer]: Plus
+                      - generic [ref=f4e1496]:
+                        - button "J'aime" [ref=f4e1497]:
+                          - generic [ref=f4e1498] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1499]: 
+                            - generic [ref=f4e1500]: J'aime
+                        - button "Partager l'avis rédigé par Sou Sou." [ref=f4e1502]:
+                          - generic [ref=f4e1503] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1504]: 
+                            - generic [ref=f4e1505]: Partager
+                      - generic [ref=f4e1506]:
+                        - generic [ref=f4e1507]: Réponse du propriétaire il y a 5 mois
+                        - generic [ref=f4e1508]:
+                          - text: Chère Sou Sou, Nous vous remercions sincèrement pour votre confiance et pour le partage de …
+                          - button "Voir plus" [ref=f4e1510] [cursor=pointer]: Plus
+                - generic "Ahmed Djema" [ref=f4e1514]:
+                  - generic [ref=f4e1516]:
+                    - button "Photo de Ahmed Djema" [ref=f4e1517]
+                    - generic [ref=f4e1519]:
+                      - button "Ahmed Djema Local Guide · 23 avis · 47 photos" [ref=f4e1521]:
+                        - generic [ref=f4e1522]: Ahmed Djema
+                        - generic [ref=f4e1523]: Local Guide · 23 avis · 47 photos
+                      - button "Actions pour l'avis rédigé par Ahmed Djema" [ref=f4e1524] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f4e1526]: 
+                    - generic [ref=f4e1527]:
+                      - generic [ref=f4e1528]:
+                        - generic [ref=f4e1529]: 5/5
+                        - generic [ref=f4e1530]:
+                          - text: il y a 2 mois sur
+                          - generic [ref=f4e1531]: Google
+                      - generic [ref=f4e1533]:
+                        - text: Un séjour absolument merveilleux à l’Hôtel Colombes d’Oran ! Dès l’arrivée, on est accueilli par un personnel incroyable, toujours souriant, disponible et attentif au moindre détail, ce qui a rendu chaque instant du séjour encore plus …
+                        - button "Voir plus" [ref=f4e1535] [cursor=pointer]: Plus
+                      - generic [ref=f4e1536]:
+                        - button "Photo 1 dans l'avis rédigé par Ahmed Djema" [ref=f4e1537] [cursor=pointer]
+                        - button "Photo 2 dans l'avis rédigé par Ahmed Djema" [ref=f4e1538] [cursor=pointer]
+                        - button "Photo 3 dans l'avis rédigé par Ahmed Djema" [ref=f4e1539] [cursor=pointer]
+                      - generic [ref=f4e1540]:
+                        - button "J'aime" [ref=f4e1541]:
+                          - generic [ref=f4e1542] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1543]: 
+                            - generic [ref=f4e1544]: J'aime
+                        - button "Partager l'avis rédigé par Ahmed Djema." [ref=f4e1546]:
+                          - generic [ref=f4e1547] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1548]: 
+                            - generic [ref=f4e1549]: Partager
+                      - generic [ref=f4e1550]:
+                        - generic [ref=f4e1551]: Réponse du propriétaire il y a 2 mois
+                        - generic [ref=f4e1552]:
+                          - text: Cher Ahmed, Un grand merci pour ce magnifique témoignage et pour cette excellente …
+                          - button "Voir plus" [ref=f4e1554] [cursor=pointer]: Plus
+                - generic "Amine B" [ref=f4e1558]:
+                  - generic [ref=f4e1560]:
+                    - button "Photo de Amine B" [ref=f4e1561]
+                    - generic [ref=f4e1563]:
+                      - button "Amine B Local Guide · 820 avis · 10 372 photos" [ref=f4e1565]:
+                        - generic [ref=f4e1566]: Amine B
+                        - generic [ref=f4e1567]: Local Guide · 820 avis · 10 372 photos
+                      - button "Actions pour l'avis rédigé par Amine B" [ref=f4e1568] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f4e1570]: 
+                    - generic [ref=f4e1571]:
+                      - generic [ref=f4e1572]:
+                        - generic [ref=f4e1573]: 5/5
+                        - generic [ref=f4e1574]:
+                          - text: il y a 4 mois sur
+                          - generic [ref=f4e1575]: Google
+                      - generic [ref=f4e1577]:
+                        - text: Nous avons passé un excellent séjour de quatre nuitées à l’hôtel La Colombe à Oran. La chambre était confortable, propre et tout à fait digne d’un établissement 4 étoiles. …
+                        - button "Voir plus" [ref=f4e1579] [cursor=pointer]: Plus
+                      - generic [ref=f4e1580]:
+                        - button "Photo 1 dans l'avis rédigé par Amine B" [ref=f4e1581] [cursor=pointer]
+                        - button "Photo 2 dans l'avis rédigé par Amine B" [ref=f4e1582] [cursor=pointer]
+                        - button "Photo 3 dans l'avis rédigé par Amine B" [ref=f4e1583] [cursor=pointer]
+                        - button "26 autres photos dans l'avis rédigé par Amine B" [ref=f4e1584] [cursor=pointer]:
+                          - generic [ref=f4e1585]: + 26
+                      - generic [ref=f4e1586]:
+                        - button "J'aime" [ref=f4e1587]:
+                          - generic [ref=f4e1588] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1589]: 
+                            - generic [ref=f4e1590]: J'aime
+                        - button "Partager l'avis rédigé par Amine B." [ref=f4e1592]:
+                          - generic [ref=f4e1593] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1594]: 
+                            - generic [ref=f4e1595]: Partager
+                      - generic [ref=f4e1596]:
+                        - generic [ref=f4e1597]: Réponse du propriétaire il y a 4 mois
+                        - generic [ref=f4e1598]:
+                          - text: Cher Amine, Nous vous remercions sincèrement d'avoir partagé ce magnifique retour …
+                          - button "Voir plus" [ref=f4e1600] [cursor=pointer]: Plus
+              - button "Voir plus d'avis (635)" [ref=f4e1604]
+              - generic [ref=f4e1609]:
+                - generic [aria-hidden] [ref=f4e1611]: 
+                - generic [ref=f4e1612]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=f4e1613] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=f4e644] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f4e645]: 
+      - generic [ref=f4e649]:
+        - button "Applications Google" [ref=f4e653] [cursor=pointer]
+        - link "Connexion" [ref=f4e657] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FColombe%2Bhotel%2BOran%2F%4035.6937079%2C-0.630017%2C17z%2Fdata%3D!4m11!3m10!1s0xd7e885791194cfb%3A0xf1d573fe6d671ea7!5m2!4m1!1i2!8m2!3d35.6937079!4d-0.630017!9m1!1b1!16s%252Fg%252F1thby0dd%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f4e660] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f4e662]: 
+          - generic [ref=f4e664] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f4e665]:
+              - generic [aria-hidden] [ref=f4e667]: 
+            - button "Faire un zoom arrière" [ref=f4e668]:
+              - generic [aria-hidden] [ref=f4e670]: 
+        - button "Parcourir les images Street View" [ref=f4e676]
+        - generic [ref=f4e678]:
+          - generic "Carte interactive" [ref=f4e679]
+          - generic [ref=f4e683] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f4e684]: 
+            - generic [ref=f4e685]: Calques
+          - button "Calques" [ref=f4e686] [cursor=pointer]
+      - generic [ref=f4e688]:
+        - contentinfo [ref=f4e691]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f4e692] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f4e693] [cursor=pointer]
+          - button "Confidentialité" [ref=f4e694] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f4e695] [cursor=pointer]
+        - button "100 m" [ref=f4e697] [cursor=pointer]
+  - generic [ref=f4e1204]: Recherche effacée

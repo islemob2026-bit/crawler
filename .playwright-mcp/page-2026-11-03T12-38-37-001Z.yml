@@ -1,0 +1,146 @@
+- generic [ref=f4e1]:
+  - generic "Google Maps" [ref=f4e9]:
+    - generic [ref=f4e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f4e15]
+      - search [ref=f4e20]:
+        - button "Retour" [ref=f4e704] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f4e705]: 
+        - generic [ref=f4e21]:
+          - combobox [ref=f4e23]: Colombe hotel Oran
+          - button "Rechercher" [ref=f4e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f4e26]: 
+          - button "Fermer" [ref=f4e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f4e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f4e36]:
+        - generic [ref=f4e39]:
+          - button "Hôtels à proximité" [ref=f4e41] [cursor=pointer]:
+            - generic [ref=f4e42]:
+              - generic [aria-hidden] [ref=f4e44]: 
+              - generic [ref=f4e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f4e47] [cursor=pointer]:
+            - generic [ref=f4e48]:
+              - generic [aria-hidden] [ref=f4e50]: 
+              - generic [ref=f4e51]: Restaurants
+          - button "Activités à découvrir" [ref=f4e53] [cursor=pointer]:
+            - generic [ref=f4e54]:
+              - generic [aria-hidden] [ref=f4e56]: 
+              - generic [ref=f4e57]: Activités à découvrir
+          - button "Bars" [ref=f4e59] [cursor=pointer]:
+            - generic [ref=f4e60]:
+              - generic [aria-hidden] [ref=f4e62]: 
+              - generic [ref=f4e63]: Bars
+          - button "Cafés" [ref=f4e65] [cursor=pointer]:
+            - generic [ref=f4e66]:
+              - generic [aria-hidden] [ref=f4e68]: 
+              - generic [ref=f4e69]: Cafés
+          - button "Pharmacies" [ref=f4e71] [cursor=pointer]:
+            - generic [ref=f4e72]:
+              - generic [aria-hidden] [ref=f4e74]: 
+              - generic [ref=f4e75]: Pharmacies
+          - button "Parkings" [ref=f4e77] [cursor=pointer]:
+            - generic [ref=f4e78]:
+              - generic [aria-hidden] [ref=f4e80]: 
+              - generic [ref=f4e81]: Parkings
+      - generic [ref=f4e82]:
+        - generic [ref=f4e83]:
+          - list [ref=f4e85]:
+            - listitem [ref=f4e86]:
+              - button "Menu" [ref=f4e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e89]: 
+            - listitem [ref=f4e90]:
+              - button "Enregistré" [ref=f4e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e93]: 
+            - listitem [ref=f4e96]:
+              - button "Récents" [ref=f4e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e99]: 
+            - listitem [ref=f4e103]:
+              - button "Colombe hotel Oran" [ref=f4e104] [cursor=pointer]
+            - listitem [ref=f4e112]:
+              - button "Obtenir l'appli" [ref=f4e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e115]: 
+          - main "Colombe hotel Oran" [ref=f4e122]:
+            - tablist [ref=f4e167]:
+              - tab "Colombe hotel Oran - Présentation" [ref=f4e168]:
+                - generic [aria-hidden] [ref=f4e170]: Présentation
+              - tab "Prix pour Colombe hotel Oran" [ref=f4e172]:
+                - generic [aria-hidden] [ref=f4e174]: Prix
+              - tab "Colombe hotel Oran - Avis" [selected] [ref=f4e176]:
+                - generic [aria-hidden] [ref=f4e178]: Avis
+              - tab "Informations sur Colombe hotel Oran" [ref=f4e180]:
+                - generic [aria-hidden] [ref=f4e182]: À propos
+            - generic [ref=f4e707]:
+              - generic [ref=f4e709]:
+                - list [ref=f4e711]:
+                  - listitem [ref=f4e712]: 7 068 DA
+                  - text: ·
+                  - listitem [ref=f4e713]: Hôtel 3 étoiles
+                - generic [ref=f4e714]: 11–12 nov.
+              - link [ref=f4e718] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f4e719]:
+                  - generic [aria-hidden] [ref=f4e720]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f4e722]:
+              - generic [ref=f4e723]:
+                - heading "Résumé des avis Google" [level=2] [ref=f4e725]
+                - button "Informations" [ref=f4e727] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f4e728]: 
+              - generic [ref=f4e730]:
+                - table [ref=f4e732]:
+                  - rowgroup [ref=f4e733]:
+                    - img "5 étoiles, 467 avis" [ref=f4e734]: "5"
+                    - img "4 étoiles, 77 avis" [ref=f4e737]: "4"
+                    - img "3 étoiles, 33 avis" [ref=f4e740]: "3"
+                    - img "2 étoiles, 28 avis" [ref=f4e743]: "2"
+                    - img "1 étoiles, 35 avis" [ref=f4e746]: "1"
+                - generic [ref=f4e749]:
+                  - generic [ref=f4e750]: 4,4
+                  - img "4,4 étoiles" [ref=f4e751]
+                  - generic [ref=f4e757]: 640 avis
+              - button "Rédiger un avis" [ref=f4e761] [cursor=pointer]:
+                - generic [ref=f4e762]:
+                  - generic [aria-hidden] [ref=f4e763]: 
+                  - generic [ref=f4e764]: Rédiger un avis
+              - generic [ref=f4e768]:
+                - textbox [active] [ref=f4e1405]: enfant
+                - button "Effacer" [ref=f4e1406] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f4e1407]: 
+              - generic [ref=f4e770]:
+                - button "Tous les avis" [ref=f4e771] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f4e773]: 
+                - button "Avis les plus pertinents" [ref=f4e774] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f4e776]: 
+              - generic [ref=f4e1409]:
+                - generic [ref=f4e1410]: Aucun avis ne mentionne "enfant"
+                - button "Afficher tous les avis" [ref=f4e1413] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=f4e644] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f4e645]: 
+      - generic [ref=f4e649]:
+        - button "Applications Google" [ref=f4e653] [cursor=pointer]
+        - link "Connexion" [ref=f4e657] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FColombe%2Bhotel%2BOran%2F%4035.6937079%2C-0.630017%2C17z%2Fdata%3D!4m11!3m10!1s0xd7e885791194cfb%3A0xf1d573fe6d671ea7!5m2!4m1!1i2!8m2!3d35.6937079!4d-0.630017!9m1!1b1!16s%252Fg%252F1thby0dd%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f4e660] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f4e662]: 
+          - generic [ref=f4e664] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f4e665]:
+              - generic [aria-hidden] [ref=f4e667]: 
+            - button "Faire un zoom arrière" [ref=f4e668]:
+              - generic [aria-hidden] [ref=f4e670]: 
+        - button "Parcourir les images Street View" [ref=f4e676]
+        - generic [ref=f4e678]:
+          - generic "Carte interactive" [ref=f4e679]
+          - generic [ref=f4e683] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f4e684]: 
+            - generic [ref=f4e685]: Calques
+          - button "Calques" [ref=f4e686] [cursor=pointer]
+      - generic [ref=f4e688]:
+        - contentinfo [ref=f4e691]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f4e692] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f4e693] [cursor=pointer]
+          - button "Confidentialité" [ref=f4e694] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f4e695] [cursor=pointer]
+        - button "100 m" [ref=f4e697] [cursor=pointer]
+  - generic [ref=f4e1204]: Affichage des résultats pour enfant

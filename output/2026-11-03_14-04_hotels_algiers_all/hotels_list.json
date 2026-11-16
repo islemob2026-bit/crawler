@@ -1,0 +1,193 @@
+{
+  "count": 47,
+  "hotels": [
+    {
+      "name": "Residence Inn by Marriott Algiers Bab Ezzouar",
+      "url": "https://www.google.com/maps/place/Residence+Inn+by+Marriott+Algiers+Bab+Ezzouar/data=!4m10!3m9!1s0x128e51941ecc904b:0x60b2257a57547fc6!5m2!4m1!1i2!8m2!3d36.712647!4d3.194073!16s%2Fg%2F11qq9rw72g!19sChIJS5DMHpRRjhIRxn9UV3olsmA?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel Marriott Algiers Bab Ezzouar",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+Marriott+Algiers+Bab+Ezzouar/data=!4m10!3m9!1s0x128e51941f2c1dd3:0xab87bfbe1948c1f4!5m2!4m1!1i2!8m2!3d36.712632!4d3.194152!16s%2Fg%2F12llrpfxf!19sChIJ0x0sH5RRjhIR9MFIGb6_h6s?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "City Hotel Algiers",
+      "url": "https://www.google.com/maps/place/City+Hotel+Algiers/data=!4m10!3m9!1s0x128fb2603913f341:0x91fa04bf5182c1bb!5m2!4m1!1i2!8m2!3d36.7626114!4d3.0564456!16s%2Fg%2F11c60573q3!19sChIJQfMTOWCyjxIRu8GCUb8E-pE?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hotel Best Night - Bab Ezzouar",
+      "url": "https://www.google.com/maps/place/Hotel+Best+Night+-+Bab+Ezzouar/data=!4m10!3m9!1s0x128e521bcdecec8d:0xd61df57da15fbfc2!5m2!4m1!1i2!8m2!3d36.7244284!4d3.1706173!16s%2Fg%2F11b6_fgfdc!19sChIJjezszRtSjhIRwr9foX31HdY?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hyatt Regency Algiers Airport",
+      "url": "https://www.google.com/maps/place/Hyatt+Regency+Algiers+Airport/data=!4m10!3m9!1s0x128e51a501e40221:0xa1c67b8a177ec9ba!5m2!4m1!1i2!8m2!3d36.7042939!4d3.2054075!16s%2Fg%2F11f10f1gnc!19sChIJIQLkAaVRjhIRusl-F4p7xqE?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Sofitel Algiers Hamma Garden",
+      "url": "https://www.google.com/maps/place/Sofitel+Algiers+Hamma+Garden/data=!4m10!3m9!1s0x128fb28be0db0863:0x7c8ea0ca3200f8ad!5m2!4m1!1i2!8m2!3d36.7505228!4d3.0725569!16s%2Fm%2F0gk_5k7!19sChIJYwjb4IuyjxIRrfgAMsqgjnw?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel Sidi Thameur",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+Sidi+Thameur/data=!4m10!3m9!1s0x128fb3bdb2dffca3:0x6756e14f934d711d!5m2!4m1!1i2!8m2!3d36.8022074!4d3.0477804!16s%2Fg%2F11cs4jy53g!19sChIJo_zfsr2zjxIRHXFNk0_hVmc?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel Marriott Algiers Bab Ezzouar",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+Marriott+Algiers+Bab+Ezzouar/data=!4m10!3m9!1s0x128e51941a455765:0xab87bfbe1948c1f4!5m2!4m1!1i2!8m2!3d36.7126325!4d3.194152!16s%2Fg%2F12llrpfxf!19sChIJZVdFGpRRjhIR9MFIGb6_h6s?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Mercure Hotel Aéroport",
+      "url": "https://www.google.com/maps/place/Mercure+Hotel+A%C3%A9roport/data=!4m10!3m9!1s0x128e5195bed2e0e7:0xe8d11643238279c9!5m2!4m1!1i2!8m2!3d36.7138012!4d3.1962584!16s%2Fg%2F1hc0htb33!19sChIJ5-DSvpVRjhIRyXmCI0MW0eg?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Grand Hôtel Adghir",
+      "url": "https://www.google.com/maps/place/Grand+H%C3%B4tel+Adghir/data=!4m10!3m9!1s0x128e4e0756e85fad:0x741ca05417ad47f5!5m2!4m1!1i2!8m2!3d36.7453194!4d3.1781895!16s%2Fg%2F1tf1kzl3!19sChIJrV_oVgdOjhIR9UetF1SgHHQ?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel El Aurassi",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+El+Aurassi/data=!4m10!3m9!1s0x128fb250ed2c2957:0xf54d6adcd3a4bafb!5m2!4m1!1i2!8m2!3d36.7764399!4d3.0509035!16s%2Fg%2F1hc0h48ww!19sChIJVyks7VCyjxIR-7qk09xqTfU?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hotel Rais El Marsa",
+      "url": "https://www.google.com/maps/place/Hotel+Rais+El+Marsa/data=!4m10!3m9!1s0x128e4f5902f40757:0xe80d2c645396b894!5m2!4m1!1i2!8m2!3d36.8097114!4d3.255651!16s%2Fg%2F11r8c4b98!19sChIJVwf0AllPjhIRlLiWU2QsDeg?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Dar-Tlidjene",
+      "url": "https://www.google.com/maps/place/Dar-Tlidjene/data=!4m10!3m9!1s0x128e45b06394d51d:0x63b1bf595cdb366b!5m2!4m1!1i2!8m2!3d36.7921519!4d3.2964038!16s%2Fg%2F1td6_3_h!19sChIJHdWUY7BFjhIRazbbXFm_sWM?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Dar El Ikram",
+      "url": "https://www.google.com/maps/place/Dar+El+Ikram/data=!4m10!3m9!1s0x128fb2684d37b805:0x266a78fe80091153!5m2!4m1!1i2!8m2!3d36.7641779!4d3.0455767!16s%2Fg%2F11b7w26vhc!19sChIJBbg3TWiyjxIRUxEJgP54aiY?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Marhaba Hotel Casbah فندق مرحبا",
+      "url": "https://www.google.com/maps/place/Marhaba+Hotel+Casbah+%D9%81%D9%86%D8%AF%D9%82+%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%E2%80%AD/data=!4m10!3m9!1s0x128fb3e4cce3075f:0x356bfe8bafbcecf3!5m2!4m1!1i2!8m2!3d36.7848679!4d3.0605475!16s%2Fg%2F11z8k4ks39!19sChIJXwfjzOSzjxIR8-y8r4v-azU?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel Casablanca",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+Casablanca/data=!4m10!3m9!1s0x128e51b4752cf2d3:0xc7a7e31c07d70e8b!5m2!4m1!1i2!8m2!3d36.7118421!4d3.2140072!16s%2Fg%2F11btxcgj0r!19sChIJ0_IsdbRRjhIRiw7XBxzjp8c?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "New Day Hotel",
+      "url": "https://www.google.com/maps/place/New+Day+Hotel/data=!4m10!3m9!1s0x128fad561478e555:0x3b40b2f616b05a57!5m2!4m1!1i2!8m2!3d36.7409321!4d3.0920647!16s%2Fg%2F11c30xhbd6!19sChIJVeV4FFatjxIRV1qwFvayQDs?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel Best Night 2 - Dar El Beida - Aéroport",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+Best+Night+2+-+Dar+El+Beida+-+A%C3%A9roport/data=!4m10!3m9!1s0x128e51884c7b3cfb:0xbf16b05563c9c4ff!5m2!4m1!1i2!8m2!3d36.7242851!4d3.220358!16s%2Fg%2F11gy4rs1ps!19sChIJ-zx7TIhRjhIR_8TJY1WwFr8?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel Saint Eugène",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+Saint+Eug%C3%A8ne/data=!4m10!3m9!1s0x128fb300036cb889:0xd399a5ba98fc93f6!5m2!4m1!1i2!8m2!3d36.7967618!4d3.0477978!16s%2Fg%2F11lf02893s!19sChIJibhsAwCzjxIR9pP8mLqlmdM?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hotel El Djazair - Ex St George",
+      "url": "https://www.google.com/maps/place/Hotel+El+Djazair+-+Ex+St+George/data=!4m10!3m9!1s0x128fb26fdc9e483d:0x6900d538d4834a10!5m2!4m1!1i2!8m2!3d36.7539677!4d3.0462679!16s%2Fm%2F0gkzv6h!19sChIJPUie3G-yjxIREEqD1DjVAGk?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "AD Hotel Pont d'Hydra",
+      "url": "https://www.google.com/maps/place/AD+Hotel+Pont+d%27Hydra/data=!4m10!3m9!1s0x128fb33441a7cecf:0x2dd28440032b1e7f!5m2!4m1!1i2!8m2!3d36.7517345!4d3.0398417!16s%2Fg%2F11sf9tckx7!19sChIJz86nQTSzjxIRfx4rA0CE0i0?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hotel El Biar",
+      "url": "https://www.google.com/maps/place/Hotel+El+Biar/data=!4m10!3m9!1s0x128fb21895168eb1:0x73eab10336154d75!5m2!4m1!1i2!8m2!3d36.7626017!4d3.0237565!16s%2Fg%2F1tt5p2pr!19sChIJsY4WlRiyjxIRdU0VNgOx6nM?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "AZ Hôtels Kouba",
+      "url": "https://www.google.com/maps/place/AZ+H%C3%B4tels+Kouba/data=!4m10!3m9!1s0x128fad56d1358135:0xeb0ee6442e858e6f!5m2!4m1!1i2!8m2!3d36.7369725!4d3.0904668!16s%2Fg%2F11c467w_x9!19sChIJNYE10VatjxIRb46FLkTmDus?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hotel Hydra",
+      "url": "https://www.google.com/maps/place/Hotel+Hydra/data=!4m10!3m9!1s0x128fadf72b4e9911:0x9c9c042a48c2411e!5m2!4m1!1i2!8m2!3d36.7382034!4d3.0300499!16s%2Fg%2F1tg_06hs!19sChIJEZlOK_etjxIRHkHCSCoEnJw?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Numidien Hotel",
+      "url": "https://www.google.com/maps/place/Numidien+Hotel/data=!4m10!3m9!1s0x128e501618ab2251:0xd3d62691a3a9ca51!5m2!4m1!1i2!8m2!3d36.7231072!4d3.2386192!16s%2Fg%2F11c0vpd5_g!19sChIJUSKrGBZQjhIRUcqpo5Em1tM?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel Plaza - Belcourt",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+Plaza+-+Belcourt/data=!4m10!3m9!1s0x128fb2885c73e015:0x466fdbdd2621c381!5m2!4m1!1i2!8m2!3d36.7551776!4d3.0596466!16s%2Fg%2F11cnwj5n2l!19sChIJFeBzXIiyjxIRgcMhJt3bb0Y?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel Sidi Yahia",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+Sidi+Yahia/data=!4m10!3m9!1s0x128fadbdf3704b85:0xacc0695238807cbc!5m2!4m1!1i2!8m2!3d36.7393836!4d3.0367565!16s%2Fg%2F11ghnyrl_p!19sChIJhUtw872tjxIRvHyAOFJpwKw?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "M Suite Hotel",
+      "url": "https://www.google.com/maps/place/M+Suite+Hotel/data=!4m10!3m9!1s0x128e51c811358229:0xa20b17e0b9f90d08!5m2!4m1!1i2!8m2!3d36.7182698!4d3.2089335!16s%2Fg%2F11fx7t4xqv!19sChIJKYI1EchRjhIRCA35ueAXC6I?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hotel Ralf",
+      "url": "https://www.google.com/maps/place/Hotel+Ralf/data=!4m10!3m9!1s0x128fb25c92c7ef07:0x7b38be50f8028cd0!5m2!4m1!1i2!8m2!3d36.768639!4d3.049401!16s%2Fg%2F11w44n7jlh!19sChIJB-_HklyyjxIR0IwC-FC-OHs?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hani Hotel Aeroport",
+      "url": "https://www.google.com/maps/place/Hani+Hotel+Aeroport/data=!4m10!3m9!1s0x128e52799058afe9:0x1bfd1452124f3c48!5m2!4m1!1i2!8m2!3d36.7302924!4d3.1779303!16s%2Fg%2F11btwtcbyz!19sChIJ6a9YkHlSjhIRSDxPElIU_Rs?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel Hammamet",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+Hammamet/data=!4m10!3m9!1s0x128fb0992232d74d:0xb9438554bdd9c076!5m2!4m1!1i2!8m2!3d36.8070483!4d2.9435617!16s%2Fg%2F11b7vwd65h!19sChIJTdcyIpmwjxIRdsDZvVSFQ7k?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Golden Tulip Royaume",
+      "url": "https://www.google.com/maps/place/Golden+Tulip+Royaume/data=!4m10!3m9!1s0x128e53993ab55317:0x5dab32974db7e247!5m2!4m1!1i2!8m2!3d36.6951117!4d3.1617159!16s%2Fg%2F11fkdsm11k!19sChIJF1O1OplTjhIRR-K3TZcyq10?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel Dar El Aaz - Bab Ezzouar",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+Dar+El+Aaz+-+Bab+Ezzouar/data=!4m10!3m9!1s0x128e53646cecf68d:0x66b405380c80bbef!5m2!4m1!1i2!8m2!3d36.7235027!4d3.1761548!16s%2Fg%2F11gmyy1958!19sChIJjfbsbGRTjhIR77uADDgFtGY?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "HOTEL BEST DAY",
+      "url": "https://www.google.com/maps/place/HOTEL+BEST+DAY/data=!4m10!3m9!1s0x128e5100745982b3:0x1698c428483eb540!5m2!4m1!1i2!8m2!3d36.7390248!4d3.1854307!16s%2Fg%2F11vwjbw960!19sChIJs4JZdABRjhIRQLU-SCjEmBY?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "HNR Hotel - El Hamma",
+      "url": "https://www.google.com/maps/place/HNR+Hotel+-+El+Hamma/data=!4m10!3m9!1s0x128fb35982e806e5:0x85c3cc82e43fd38!5m2!4m1!1i2!8m2!3d36.7552844!4d3.0589298!16s%2Fg%2F11frll92rx!19sChIJ5QboglmzjxIROP1DLsg8XAg?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel Zinou ZM",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+Zinou+ZM/data=!4m10!3m9!1s0x128e45598dbce383:0xb908f6b25e2ebd4f!5m2!4m1!1i2!8m2!3d36.7933808!4d3.289549!16s%2Fg%2F11fmhk74dq!19sChIJg-O8jVlFjhIRT70uXrL2CLk?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel Edelweiss",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+Edelweiss/data=!4m10!3m9!1s0x128fb3a55a0b343b:0xe092eaa57826af1f!5m2!4m1!1i2!8m2!3d36.7475597!4d3.0588135!16s%2Fg%2F11s3vpry7m!19sChIJOzQLWqWzjxIRH68meKXqkuA?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hotel STAR INN",
+      "url": "https://www.google.com/maps/place/Hotel+STAR+INN/data=!4m10!3m9!1s0x128e515af9bcd1d1:0x4603fe1b980ccbfd!5m2!4m1!1i2!8m2!3d36.7213283!4d3.2017165!16s%2Fg%2F11s46c84wb!19sChIJ0dG8-VpRjhIR_csMmBv-A0Y?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel Ikram Bab Ezzouar",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+Ikram+Bab+Ezzouar/data=!4m10!3m9!1s0x128e51fd7e238db9:0x17d7be73a92d65c8!5m2!4m1!1i2!8m2!3d36.7393893!4d3.1857439!16s%2Fg%2F11bxf26r_j!19sChIJuY0jfv1RjhIRyGUtqXO-1xc?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "HOTEL NOUR ECHAMES -فندق نور الشمس 023363131",
+      "url": "https://www.google.com/maps/place/HOTEL+NOUR+ECHAMES+-%D9%81%D9%86%D8%AF%D9%82+%D9%86%D9%88%D8%B1+%D8%A7%D9%84%D8%B4%D9%85%D8%B3+023363131%E2%80%AD/data=!4m10!3m9!1s0x128fb1006e99878d:0x4107cf53f96dc7b3!5m2!4m1!1i2!8m2!3d36.7589122!4d2.9617736!16s%2Fg%2F11vxpnf6q8!19sChIJjYeZbgCxjxIRs8dt-VPPB0E?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Ikram El Dhayf - Boulevard des Martyrs",
+      "url": "https://www.google.com/maps/place/Ikram+El+Dhayf+-+Boulevard+des+Martyrs/data=!4m10!3m9!1s0x128fb27da2962433:0xf454f4929b485417!5m2!4m1!1i2!8m2!3d36.7503132!4d3.0583151!16s%2Fg%2F11c0rrksy1!19sChIJMySWon2yjxIRF1RIm5L0VPQ?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Gazelle Oasis Hotel",
+      "url": "https://www.google.com/maps/place/Gazelle+Oasis+Hotel/data=!4m10!3m9!1s0x128fb341586fa801:0x48d554c2c5fd447e!5m2!4m1!1i2!8m2!3d36.7666389!4d3.0354651!16s%2Fg%2F11v40dnk9j!19sChIJAahvWEGzjxIRfkT9xcJU1Ug?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "AFRIC HOTEL - Casbah",
+      "url": "https://www.google.com/maps/place/AFRIC+HOTEL+-+Casbah/data=!4m10!3m9!1s0x128fb3c5a1a83597:0xf478aae188fc7095!5m2!4m1!1i2!8m2!3d36.7803563!4d3.058772!16s%2Fg%2F11t763bvht!19sChIJlzWoocWzjxIRlXD8iOGqePQ?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hotel Welcome",
+      "url": "https://www.google.com/maps/place/Hotel+Welcome/data=!4m10!3m9!1s0x128e537231a53301:0x58838100073f3d2d!5m2!4m1!1i2!8m2!3d36.7190625!4d3.2053125!16s%2Fg%2F11kp_bsjtq!19sChIJATOlMXJTjhIRLT0_BwCBg1g?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel suprême",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+supr%C3%AAme/data=!4m10!3m9!1s0x128fb30037dfe863:0xf36a8f1278976646!5m2!4m1!1i2!8m2!3d36.7641373!4d3.0208836!16s%2Fg%2F11vqd2djrd!19sChIJY-jfNwCzjxIRRmaXeBKPavM?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "HOTEL SAMIR",
+      "url": "https://www.google.com/maps/place/HOTEL+SAMIR/data=!4m10!3m9!1s0x128fb258d52ce117:0x28ede28d56b40d53!5m2!4m1!1i2!8m2!3d36.7655556!4d3.0502778!16s%2Fg%2F12hlspdt1!19sChIJF-Es1ViyjxIRUw20Vo3i7Sg?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    },
+    {
+      "name": "Hôtel Atlantis Alger Aéroport ex Ibis",
+      "url": "https://www.google.com/maps/place/H%C3%B4tel+Atlantis+Alger+A%C3%A9roport+ex+Ibis/data=!4m10!3m9!1s0x128e519580f95383:0x3515632dd396cf81!5m2!4m1!1i2!8m2!3d36.7148003!4d3.1979105!16s%2Fg%2F11ypp5h57x!19sChIJg1P5gJVRjhIRgc-W0y1jFTU?authuser=0&hl=fr&g_ep=EgoyMDI2MTAyOC4wIJJjKgBIAVAD&rclk=1"
+    }
+  ]
+}

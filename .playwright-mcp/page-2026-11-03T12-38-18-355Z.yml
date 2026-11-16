@@ -1,0 +1,316 @@
+- generic [ref=f4e1]:
+  - generic "Google Maps" [ref=f4e9]:
+    - generic [ref=f4e3]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f4e15]
+      - search [ref=f4e20]:
+        - button "Retour" [ref=f4e704] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f4e705]: 
+        - generic [ref=f4e21]:
+          - combobox [ref=f4e23]: Colombe hotel Oran
+          - button "Rechercher" [ref=f4e25] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f4e26]: 
+          - button "Fermer" [ref=f4e28] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f4e29]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=f4e36]:
+        - generic [ref=f4e39]:
+          - button "Hôtels à proximité" [ref=f4e41] [cursor=pointer]:
+            - generic [ref=f4e42]:
+              - generic [aria-hidden] [ref=f4e44]: 
+              - generic [ref=f4e45]: Hôtels à proximité
+          - button "Restaurants" [ref=f4e47] [cursor=pointer]:
+            - generic [ref=f4e48]:
+              - generic [aria-hidden] [ref=f4e50]: 
+              - generic [ref=f4e51]: Restaurants
+          - button "Activités à découvrir" [ref=f4e53] [cursor=pointer]:
+            - generic [ref=f4e54]:
+              - generic [aria-hidden] [ref=f4e56]: 
+              - generic [ref=f4e57]: Activités à découvrir
+          - button "Bars" [ref=f4e59] [cursor=pointer]:
+            - generic [ref=f4e60]:
+              - generic [aria-hidden] [ref=f4e62]: 
+              - generic [ref=f4e63]: Bars
+          - button "Cafés" [ref=f4e65] [cursor=pointer]:
+            - generic [ref=f4e66]:
+              - generic [aria-hidden] [ref=f4e68]: 
+              - generic [ref=f4e69]: Cafés
+          - button "Pharmacies" [ref=f4e71] [cursor=pointer]:
+            - generic [ref=f4e72]:
+              - generic [aria-hidden] [ref=f4e74]: 
+              - generic [ref=f4e75]: Pharmacies
+          - button "Parkings" [ref=f4e77] [cursor=pointer]:
+            - generic [ref=f4e78]:
+              - generic [aria-hidden] [ref=f4e80]: 
+              - generic [ref=f4e81]: Parkings
+      - generic [ref=f4e82]:
+        - generic [ref=f4e83]:
+          - list [ref=f4e85]:
+            - listitem [ref=f4e86]:
+              - button "Menu" [ref=f4e87] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e89]: 
+            - listitem [ref=f4e90]:
+              - button "Enregistré" [ref=f4e91] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e93]: 
+            - listitem [ref=f4e96]:
+              - button "Récents" [ref=f4e97] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e99]: 
+            - listitem [ref=f4e103]:
+              - button "Colombe hotel Oran" [ref=f4e104] [cursor=pointer]
+            - listitem [ref=f4e112]:
+              - button "Obtenir l'appli" [ref=f4e113] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e115]: 
+          - main "Colombe hotel Oran" [ref=f4e122]:
+            - tablist [ref=f4e167]:
+              - tab "Colombe hotel Oran - Présentation" [ref=f4e168]:
+                - generic [aria-hidden] [ref=f4e170]: Présentation
+              - tab "Prix pour Colombe hotel Oran" [ref=f4e172]:
+                - generic [aria-hidden] [ref=f4e174]: Prix
+              - tab "Colombe hotel Oran - Avis" [selected] [ref=f4e176]:
+                - generic [aria-hidden] [ref=f4e178]: Avis
+              - tab "Informations sur Colombe hotel Oran" [ref=f4e180]:
+                - generic [aria-hidden] [ref=f4e182]: À propos
+            - generic [ref=f4e707]:
+              - generic [ref=f4e709]:
+                - list [ref=f4e711]:
+                  - listitem [ref=f4e712]: 7 068 DA
+                  - text: ·
+                  - listitem [ref=f4e713]: Hôtel 3 étoiles
+                - generic [ref=f4e714]: 11–12 nov.
+              - link [ref=f4e718] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f4e719]:
+                  - generic [aria-hidden] [ref=f4e720]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=f4e722]:
+              - generic [ref=f4e723]:
+                - heading "Résumé des avis Google" [level=2] [ref=f4e725]
+                - button "Informations" [ref=f4e727] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f4e728]: 
+              - generic [ref=f4e730]:
+                - table [ref=f4e732]:
+                  - rowgroup [ref=f4e733]:
+                    - img "5 étoiles, 467 avis" [ref=f4e734]: "5"
+                    - img "4 étoiles, 77 avis" [ref=f4e737]: "4"
+                    - img "3 étoiles, 33 avis" [ref=f4e740]: "3"
+                    - img "2 étoiles, 28 avis" [ref=f4e743]: "2"
+                    - img "1 étoiles, 35 avis" [ref=f4e746]: "1"
+                - generic [ref=f4e749]:
+                  - generic [ref=f4e750]: 4,4
+                  - img "4,4 étoiles" [ref=f4e751]
+                  - generic [ref=f4e757]: 640 avis
+              - button "Rédiger un avis" [ref=f4e761] [cursor=pointer]:
+                - generic [ref=f4e762]:
+                  - generic [aria-hidden] [ref=f4e763]: 
+                  - generic [ref=f4e764]: Rédiger un avis
+              - generic [ref=f4e768]:
+                - textbox [active] [ref=f4e979]: famille
+                - button "Effacer" [ref=f4e980] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f4e981]: 
+              - generic [ref=f4e770]:
+                - button "Tous les avis" [ref=f4e771] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f4e773]: 
+                - button "Avis les plus pertinents" [ref=f4e774] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f4e776]: 
+              - generic [ref=f4e982]:
+                - generic "Loubna Talbi" [ref=f4e983]:
+                  - generic [ref=f4e985]:
+                    - button "Photo de Loubna Talbi" [ref=f4e986]
+                    - generic [ref=f4e988]:
+                      - button "Loubna Talbi 3 avis" [ref=f4e990]:
+                        - generic [ref=f4e991]: Loubna Talbi
+                        - generic [ref=f4e992]: 3 avis
+                      - button "Actions pour l'avis rédigé par Loubna Talbi" [ref=f4e993] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f4e995]: 
+                    - generic [ref=f4e996]:
+                      - generic [ref=f4e997]:
+                        - generic [ref=f4e998]: 1/5
+                        - generic [ref=f4e999]:
+                          - text: il y a 2 mois sur
+                          - generic [ref=f4e1000]: Google
+                      - generic [ref=f4e1002]:
+                        - generic [ref=f4e1003]: … de me donner, oui il s’agit belle et bien d’un échange sur votre messagerie WhatsApp qu’une membre de ma famille a eu avec votre personnel pour une éventuelle réservation, discussion dans laquelle votre personnel l’a traitée de personne « …
+                        - button "Voir plus" [ref=f4e1005] [cursor=pointer]: Plus
+                      - generic [ref=f4e1006]:
+                        - button "J'aime" [ref=f4e1007]:
+                          - generic [ref=f4e1008] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1009]: 
+                            - generic [ref=f4e1010]: J'aime
+                        - button "Partager l'avis rédigé par Loubna Talbi." [ref=f4e1012]:
+                          - generic [ref=f4e1013] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1014]: 
+                            - generic [ref=f4e1015]: Partager
+                      - generic [ref=f4e1016]:
+                        - generic [ref=f4e1017]: Réponse du propriétaire il y a 2 mois
+                        - generic [ref=f4e1018]:
+                          - text: Bonjour Madame LOUBNA TALBI. Nous avons pris connaissance de votre commentaire avec étonnement. Après …
+                          - button "Voir plus" [ref=f4e1020] [cursor=pointer]: Plus
+                - generic "Zohra Bechairia" [ref=f4e1024]:
+                  - generic [ref=f4e1026]:
+                    - button "Photo de Zohra Bechairia" [ref=f4e1027]
+                    - generic [ref=f4e1029]:
+                      - button "Zohra Bechairia 1 avis" [ref=f4e1031]:
+                        - generic [ref=f4e1032]: Zohra Bechairia
+                        - generic [ref=f4e1033]: 1 avis
+                      - button "Actions pour l'avis rédigé par Zohra Bechairia" [ref=f4e1034] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f4e1036]: 
+                    - generic [ref=f4e1037]:
+                      - generic [ref=f4e1038]:
+                        - generic [ref=f4e1039]: 5/5
+                        - generic [ref=f4e1040]:
+                          - text: il y a 2 mois sur
+                          - generic [ref=f4e1041]: Google
+                      - generic [ref=f4e1043]:
+                        - generic [ref=f4e1044]: … et très disponibles. Je remercie en particulier Ahmed pour son accueil et ses bons conseils sur le quotidien des oranais et Moussa et Najib en restauration pour leur excellent service. Merci a toute l équipe pour notre séjour en famille !
+                        - button "Voir plus" [ref=f4e1046] [cursor=pointer]: Plus
+                      - generic [ref=f4e1047]:
+                        - button "J'aime" [ref=f4e1048]:
+                          - generic [ref=f4e1049] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1050]: 
+                            - generic [ref=f4e1051]: J'aime
+                        - button "Partager l'avis rédigé par Zohra Bechairia." [ref=f4e1053]:
+                          - generic [ref=f4e1054] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1055]: 
+                            - generic [ref=f4e1056]: Partager
+                      - generic [ref=f4e1057]:
+                        - generic [ref=f4e1058]: Réponse du propriétaire il y a 2 mois
+                        - generic [ref=f4e1059]:
+                          - text: … beau témoignage et pour les 5 étoiles accordées à notre établissement. Nous sommes particulièrement heureux que votre séjour en famille ait été à la hauteur de vos attentes. Votre mention d’Ahmed, pour son accueil et ses conseils, ainsi …
+                          - button "Voir plus" [ref=f4e1061] [cursor=pointer]: Plus
+                - generic "Cleancarprestige Bio" [ref=f4e1065]:
+                  - generic [ref=f4e1067]:
+                    - button "Photo de Cleancarprestige Bio" [ref=f4e1068]
+                    - generic [ref=f4e1070]:
+                      - button "Cleancarprestige Bio Local Guide · 98 avis · 179 photos" [ref=f4e1072]:
+                        - generic [ref=f4e1073]: Cleancarprestige Bio
+                        - generic [ref=f4e1074]: Local Guide · 98 avis · 179 photos
+                      - button "Actions pour l'avis rédigé par Cleancarprestige Bio" [ref=f4e1075] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f4e1077]: 
+                    - generic [ref=f4e1078]:
+                      - generic [ref=f4e1079]:
+                        - generic [ref=f4e1080]: 5/5
+                        - generic [ref=f4e1081]:
+                          - text: il y a un an sur
+                          - generic [ref=f4e1082]: Google
+                      - generic [ref=f4e1084]:
+                        - generic [ref=f4e1085]: Très bonne endroit où séjourner en famille , très très propre et les lits sont super confortable. Les gens sont très poli et professionnel , nous avons récupéré la chambre en 5 min à peine et l’avons restitué aussi vite. Petit déjeuner …
+                        - button "Voir plus" [ref=f4e1087] [cursor=pointer]: Plus
+                      - generic [ref=f4e1088]:
+                        - button "Photo 1 dans l'avis rédigé par Cleancarprestige Bio" [ref=f4e1089] [cursor=pointer]
+                        - button "Photo 2 dans l'avis rédigé par Cleancarprestige Bio" [ref=f4e1090] [cursor=pointer]
+                        - button "Photo 3 dans l'avis rédigé par Cleancarprestige Bio" [ref=f4e1091] [cursor=pointer]
+                        - button "14 autres photos dans l'avis rédigé par Cleancarprestige Bio" [ref=f4e1092] [cursor=pointer]:
+                          - generic [ref=f4e1093]: + 14
+                      - generic [ref=f4e1094]:
+                        - button "J'aime" [ref=f4e1095]:
+                          - generic [ref=f4e1096] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1097]: 
+                            - generic [ref=f4e1098]: J'aime
+                        - button "Partager l'avis rédigé par Cleancarprestige Bio." [ref=f4e1100]:
+                          - generic [ref=f4e1101] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1102]: 
+                            - generic [ref=f4e1103]: Partager
+                      - generic [ref=f4e1104]:
+                        - generic [ref=f4e1105]: Réponse du propriétaire il y a un an
+                        - generic [ref=f4e1106]:
+                          - text: … votre excellente note et vos précieux commentaires partagés sur Google Voyage et Google Fly à propos de votre séjour en famille au Best Western Colombe Hotel Oran. Nous sommes ravis que vous ayez apprécié la propreté, le confort de nos …
+                          - button "Voir plus" [ref=f4e1108] [cursor=pointer]: Plus
+                - generic "My El" [ref=f4e1112]:
+                  - generic [ref=f4e1114]:
+                    - button "Photo de My El" [ref=f4e1115]
+                    - generic [ref=f4e1117]:
+                      - button "My El 8 avis" [ref=f4e1119]:
+                        - generic [ref=f4e1120]: My El
+                        - generic [ref=f4e1121]: 8 avis
+                      - button "Actions pour l'avis rédigé par My El" [ref=f4e1122] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f4e1124]: 
+                    - generic [ref=f4e1125]:
+                      - generic [ref=f4e1126]:
+                        - generic [ref=f4e1127]: 4/5
+                        - generic [ref=f4e1128]:
+                          - text: il y a un an sur
+                          - generic [ref=f4e1129]: Google
+                      - generic [ref=f4e1131]:
+                        - generic [ref=f4e1132]: Nous avons séjourné dans cet hôtel en famille 4 nuitées du 2 au 6 Août dans la chambre 301 et 302 , et nous avons été très satisfait de la propreté des chambres et de l’hôtel en général.Il y a de la place devant gratuitement pour stationner …
+                        - button "Voir plus" [ref=f4e1134] [cursor=pointer]: Plus
+                      - generic [ref=f4e1135]:
+                        - button "J'aime" [ref=f4e1136]:
+                          - generic [ref=f4e1137] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1138]: 
+                            - generic [ref=f4e1139]: J'aime
+                        - button "Partager l'avis rédigé par My El." [ref=f4e1141]:
+                          - generic [ref=f4e1142] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1143]: 
+                            - generic [ref=f4e1144]: Partager
+                      - generic [ref=f4e1145]:
+                        - generic [ref=f4e1146]: Réponse du propriétaire il y a un an
+                        - generic [ref=f4e1147]:
+                          - text: Bonjour, Quel plaisir de lire votre retour d’expérience après votre séjour en famille au Best Western Colombe Hotel Oran ! Nous sommes ravis que les chambres 301 et 302 aient répondu à vos attentes en matière de propreté et de confort, et …
+                          - button "Voir plus" [ref=f4e1149] [cursor=pointer]: Plus
+                - generic "FLIFLA FAF" [ref=f4e1153]:
+                  - generic [ref=f4e1155]:
+                    - button "Photo de FLIFLA FAF" [ref=f4e1156]
+                    - generic [ref=f4e1158]:
+                      - button "FLIFLA FAF 1 avis" [ref=f4e1160]:
+                        - generic [ref=f4e1161]: FLIFLA FAF
+                        - generic [ref=f4e1162]: 1 avis
+                      - button "Actions pour l'avis rédigé par FLIFLA FAF" [ref=f4e1163] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f4e1165]: 
+                    - generic [ref=f4e1166]:
+                      - generic [ref=f4e1167]:
+                        - generic [ref=f4e1168]: 5/5
+                        - generic [ref=f4e1169]:
+                          - text: il y a 2 ans sur
+                          - generic [ref=f4e1170]: Google
+                      - generic [ref=f4e1172]:
+                        - generic [ref=f4e1173]: … à la reception qui a égayé nos vacances et a su nous conseiller et nous orienter. Nous avons, avec notre famille, énormément apprécié notre séjour et ne manquerons pas de revenir inshallah. Merci aussi à Abdennour et tous ceux que nous …
+                        - button "Voir plus" [ref=f4e1175] [cursor=pointer]: Plus
+                      - generic [ref=f4e1176]:
+                        - button "J'aime" [ref=f4e1177]:
+                          - generic [ref=f4e1178] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1179]: 
+                            - generic [ref=f4e1180]: J'aime
+                        - button "Partager l'avis rédigé par FLIFLA FAF." [ref=f4e1182]:
+                          - generic [ref=f4e1183] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f4e1184]: 
+                            - generic [ref=f4e1185]: Partager
+                      - generic [ref=f4e1186]:
+                        - generic [ref=f4e1187]: Réponse du propriétaire il y a 2 ans
+                        - generic [ref=f4e1188]:
+                          - text: Cher FLIFLA Un grand merci pour votre commentaire chaleureux Nous sommes ravis que vous ayez apprécié votre séjour parmi nous, et nous transmettrons vos compliments à Mlle …
+                          - button "Voir plus" [ref=f4e1190] [cursor=pointer]: Plus
+              - button "Voir plus d'avis (635)" [ref=f4e1194]
+              - generic [ref=f4e1199]:
+                - generic [aria-hidden] [ref=f4e1201]: 
+                - generic [ref=f4e1202]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=f4e1203] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=f4e644] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f4e645]: 
+      - generic [ref=f4e649]:
+        - button "Applications Google" [ref=f4e653] [cursor=pointer]
+        - link "Connexion" [ref=f4e657] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FColombe%2Bhotel%2BOran%2F%4035.6937079%2C-0.630017%2C17z%2Fdata%3D!4m11!3m10!1s0xd7e885791194cfb%3A0xf1d573fe6d671ea7!5m2!4m1!1i2!8m2!3d35.6937079!4d-0.630017!9m1!1b1!16s%252Fg%252F1thby0dd%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=f4e660] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f4e662]: 
+          - generic [ref=f4e664] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=f4e665]:
+              - generic [aria-hidden] [ref=f4e667]: 
+            - button "Faire un zoom arrière" [ref=f4e668]:
+              - generic [aria-hidden] [ref=f4e670]: 
+        - button "Parcourir les images Street View" [ref=f4e676]
+        - generic [ref=f4e678]:
+          - generic "Carte interactive" [ref=f4e679]
+          - generic [ref=f4e683] [cursor=pointer]:
+            - generic [aria-hidden] [ref=f4e684]: 
+            - generic [ref=f4e685]: Calques
+          - button "Calques" [ref=f4e686] [cursor=pointer]
+      - generic [ref=f4e688]:
+        - contentinfo [ref=f4e691]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=f4e692] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=f4e693] [cursor=pointer]
+          - button "Confidentialité" [ref=f4e694] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=f4e695] [cursor=pointer]
+        - button "100 m" [ref=f4e697] [cursor=pointer]
+  - generic [ref=f4e1204]: Affichage des résultats pour famille

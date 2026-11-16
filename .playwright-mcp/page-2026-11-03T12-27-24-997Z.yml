@@ -1,0 +1,606 @@
+- generic [active] [ref=f1e1]:
+  - generic:
+    - generic:
+      - link "Passer au contenu principal":
+        - generic [aria-hidden]: Passer au contenu principal
+  - banner [ref=f1e2]:
+    - generic [ref=f1e3]:
+      - generic [ref=f1e4]:
+        - button "Menu principal" [ref=f1e5] [cursor=pointer]
+        - heading "Conditions d’utilisation" [level=1] [ref=f1e9]
+      - generic [ref=f1e11]:
+        - button "Applications Google" [ref=f1e15] [cursor=pointer]
+        - link "Connexion" [ref=f1e19] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://policies.google.com/terms?client_theme%3Dlight&followup=https://policies.google.com/terms?client_theme%3Dlight&ec=GAZAoQQ
+  - generic [ref=f1e21]:
+    - main [ref=f1e22]:
+      - generic [ref=f1e25]:
+        - navigation
+      - article [ref=f1e27]:
+        - generic [ref=f1e29]:
+          - generic [ref=f1e31]:
+            - paragraph [ref=f1e33]:
+              - text: À compter du 30 juillet 2026
+              - link "Versions archivées" [ref=f1e34] [cursor=pointer]:
+                - /url: /terms/archive?client_theme=light
+              - link "Télécharger au format PDF" [ref=f1e36] [cursor=pointer]:
+                - /url: https://www.gstatic.com/policies/terms/pdf/20260730/4te5pybt/google_terms_of_service_fr.pdf
+            - paragraph [ref=f1e37]:
+              - button "Version spécifique au pays :" [ref=f1e38] [cursor=pointer]
+              - text: Algérie
+            - heading "Objet des présentes conditions d'utilisation" [level=2] [ref=f1e39]
+            - heading [level=3] [ref=f1e40]:
+              - text: Même si vous pouvez être tenté de ne pas lire les présentes conditions d'utilisation, il est important que vous sachiez ce que vous pouvez attendre de nous lorsque vous utilisez les
+              - button "services" [ref=f1e41] [cursor=pointer]
+              - text: Google, et inversement.
+            - paragraph [ref=f1e42]:
+              - text: Les présentes conditions d'utilisation traduisent le
+              - link "fonctionnement de Google" [ref=f1e43] [cursor=pointer]:
+                - /url: https://about.google/intl/fr_DZ/how-our-business-works
+              - text: ", les lois qui s'appliquent à notre entreprise et"
+              - link "certains principes que nous avons toujours tenus pour vrais" [ref=f1e44] [cursor=pointer]:
+                - /url: https://www.google.com/about/philosophy.html
+              - text: ". Par conséquent, ces conditions d'utilisation contribuent à définir votre relation avec Google lorsque vous interagissez avec nos services. Elles couvrent entre autres les thèmes suivants :"
+            - list [ref=f1e45]:
+              - listitem [ref=f1e46]:
+                - link "Ce que vous pouvez attendre de notre part" [ref=f1e47] [cursor=pointer]:
+                  - /url: /terms?client_theme=light#toc-what-you-expect
+                - text: ", qui décrit comment nous proposons et développons nos services."
+              - listitem [ref=f1e48]:
+                - text: La section
+                - link "Ce que nous attendons de votre part" [ref=f1e49] [cursor=pointer]:
+                  - /url: /terms?client_theme=light#toc-what-we-expect
+                - text: énonce certaines règles concernant l'utilisation de nos services.
+              - listitem [ref=f1e50]:
+                - text: La section
+                - link "Contenu dans les services Google" [ref=f1e51] [cursor=pointer]:
+                  - /url: /terms?client_theme=light#toc-content
+                - text: ", présente les droits de propriété intellectuelle associés aux contenus que vous trouvez dans nos services, que ces contenus vous appartiennent ou soient la propriété de Google ou de tiers."
+              - listitem [ref=f1e52]:
+                - text: La section
+                - link "En cas de problèmes ou de désaccords" [ref=f1e53] [cursor=pointer]:
+                  - /url: /terms?client_theme=light#toc-problems
+                - text: présente d'autres droits dont vous jouissez et décrit les conséquences d'une violation des présentes conditions d'utilisation.
+            - paragraph [ref=f1e54]: Il est essentiel de bien comprendre ces conditions, car accéder à nos services ou les utiliser vaut acceptation de nos conditions.
+            - paragraph [ref=f1e55]:
+              - text: Outre les présentes conditions, nous avons également publié des
+              - link "Règles de confidentialité" [ref=f1e56] [cursor=pointer]:
+                - /url: /privacy?client_theme=light
+              - text: . Même si ces règles ne font pas partie de ces conditions, nous vous invitons à les lire attentivement afin de mieux comprendre comment
+              - link "modifier, gérer, exporter et supprimer vos données" [ref=f1e57] [cursor=pointer]:
+                - /url: https://myaccount.google.com/
+              - text: .
+            - heading "Conditions d'utilisation" [level=1] [ref=f1e58]
+            - heading "Fournisseur de services" [level=2] [ref=f1e59]
+            - paragraph [ref=f1e60]:
+              - text: Les
+              - button "services" [ref=f1e61] [cursor=pointer]
+              - text: "Google vous sont fournis par la société ci-dessous avec laquelle vous concluez un contrat :"
+            - paragraph [ref=f1e62]: Google LLCSociété immatriculée dans l'État du Delaware (États-Unis) et régie par la législation américaine1600 Amphitheatre ParkwayMountain View, Californie, 94043États-Unis
+            - heading "Limite d'âge" [level=2] [ref=f1e63]
+            - paragraph [ref=f1e64]:
+              - text: Si vous n'avez pas atteint la
+              - link "limite d'âge pour gérer votre propre compte Google" [ref=f1e65] [cursor=pointer]:
+                - /url: https://support.google.com/accounts/answer/1350409
+              - text: ", vous devez avoir l'autorisation d'un parent ou d'un représentant légal pour utiliser un compte Google. Veuillez demander à un parent ou à un représentant légal de lire les présentes conditions avec vous."
+            - paragraph [ref=f1e66]:
+              - text: Si vous êtes un parent ou un représentant légal, et si vous autorisez votre enfant à utiliser les
+              - button "services" [ref=f1e67] [cursor=pointer]
+              - text: ", les présentes conditions s'appliquent à vous, et vous êtes responsable des activités de votre enfant sur ces services."
+            - paragraph [ref=f1e68]:
+              - text: Certains services Google prévoient une limite d'âge indiquée dans leurs
+              - link "Conditions supplémentaires spécifiques" [ref=f1e69] [cursor=pointer]:
+                - /url: /terms/service-specific?client_theme=light
+              - text: .
+          - generic [ref=f1e71]:
+            - heading "Sommaire" [level=2] [ref=f1e72]
+            - link "Introduction" [ref=f1e77] [cursor=pointer]:
+              - /url: /terms?client_theme=light#toc-intro
+            - link "Votre relation avec Google" [ref=f1e82] [cursor=pointer]:
+              - /url: /terms?client_theme=light#toc-relationship
+            - link "Utiliser les services Google" [ref=f1e87] [cursor=pointer]:
+              - /url: /terms?client_theme=light#toc-using
+            - link "Contenu dans les services Google" [ref=f1e92] [cursor=pointer]:
+              - /url: /terms?client_theme=light#toc-content
+            - link "Logiciels dans les services Google" [ref=f1e97] [cursor=pointer]:
+              - /url: /terms?client_theme=light#toc-software
+            - link "En cas de problèmes ou de désaccords" [ref=f1e102] [cursor=pointer]:
+              - /url: /terms?client_theme=light#toc-problems
+            - link "À propos des présentes conditions d'utilisation" [ref=f1e107] [cursor=pointer]:
+              - /url: /terms?client_theme=light#toc-about
+          - generic [ref=f1e109]:
+            - heading "Votre relation avec Google" [level=1] [ref=f1e111]
+            - paragraph [ref=f1e112]:
+              - text: Les présentes conditions d'utilisation contribuent à déterminer la nature de votre relation avec Google. Par les termes "Google", "nous", "nos" et "notre", nous désignons Google LLC et ses
+              - button "sociétés affiliées" [ref=f1e113] [cursor=pointer]
+              - text: . D'une manière générale, nous vous autorisons à accéder à nos
+              - button "services" [ref=f1e114] [cursor=pointer]
+              - text: et à les utiliser si vous acceptez de respecter ces conditions, qui reflètent le
+              - link "fonctionnement des activités de Google et la façon dont nous nous rémunérons" [ref=f1e115] [cursor=pointer]:
+                - /url: https://about.google/intl/fr_DZ/how-our-business-works
+              - text: .
+            - heading "Ce que vous pouvez attendre de notre part" [level=2] [ref=f1e116]
+            - heading "L'accès à une gamme étendue de services utiles" [level=3] [ref=f1e117]
+            - generic [ref=f1e119]:
+              - text: "Nous fournissons une variété de services qui sont soumis aux présentes conditions d'utilisation, notamment :"
+              - list [ref=f1e120]:
+                - listitem [ref=f1e121]: des applications et des sites (comme Maps et la recherche Google) ;
+                - listitem [ref=f1e122]: des plates-formes (comme Google Shopping) ;
+                - listitem [ref=f1e123]: des services intégrés (comme Google Maps qui peut être incorporé dans les applications ou sites d'autres sociétés) ;
+                - listitem [ref=f1e124]: des appareils (comme Google Nest et Pixel).
+            - paragraph [ref=f1e125]: Un grand nombre de ces services comprennent également des contenus que vous pouvez lire en streaming ou avec lesquels vous pouvez interagir.
+            - paragraph [ref=f1e126]: Nos services sont conçus pour fonctionner ensemble, ce qui vous permet de passer plus facilement d'une activité à l'autre. Par exemple, si un événement d'agenda inclut une adresse, vous pouvez cliquer dessus pour que Maps vous indique l'itinéraire à suivre.
+            - heading "Développer, améliorer et mettre à jour les services Google" [level=3] [ref=f1e127]
+            - paragraph [ref=f1e129]: Nous développons en permanence de nouvelles technologies et fonctionnalités en vue d'améliorer nos services. Par exemple, nous utilisons l'intelligence artificielle et le machine learning (apprentissage automatique) pour vous proposer des traductions simultanées, ainsi que pour mieux détecter et bloquer le spam et les logiciels malveillants. Dans le cadre de ces améliorations continues, nous pouvons être amenés à ajouter ou supprimer des fonctionnalités, à modifier les limites ou les quotas applicables à nos services, à proposer de nouveaux services et à en abandonner d'autres. Si un service nécessite ou inclut l'utilisation d'un logiciel à télécharger ou préchargé, les mises à jour de ce logiciel (nouvelles versions ou fonctionnalités) sont susceptibles de s'effectuer automatiquement sur votre appareil. Certains services vous permettent de modifier les paramètres de mise à jour automatique.
+            - paragraph [ref=f1e130]:
+              - text: En cas de modifications importantes ayant un impact négatif sur votre utilisation de nos services ou de suppression d'un service, nous vous adresserons un préavis dans un délai raisonnable, sauf dans des situations urgentes, telles que la prévention d'abus ou la réponse à des obligations légales, ou en cas d'impératifs liés à des questions de sécurité ou de fonctionnalité. Nous vous offrirons également la possibilité d'exporter
+              - button "vos contenus" [ref=f1e131] [cursor=pointer]
+              - text: à partir de votre compte Google en utilisant l'outil
+              - link "Google Takeout" [ref=f1e132] [cursor=pointer]:
+                - /url: https://takeout.google.com/settings/takeout
+              - text: ", sous réserve des lois et règles applicables."
+            - heading "Ce que nous attendons de votre part" [level=2] [ref=f1e133]
+            - heading "Respecter les présentes conditions et les conditions supplémentaires spécifiques à certains services" [level=3] [ref=f1e134]
+            - generic [ref=f1e136]:
+              - text: L'autorisation que nous vous donnons d'utiliser nos
+              - button "services" [ref=f1e137] [cursor=pointer]
+              - text: "et d'y accéder reste valable tant que vous respectez :"
+              - list [ref=f1e138]:
+                - listitem [ref=f1e139]: les présentes conditions d'utilisation ;
+                - listitem [ref=f1e140]:
+                  - text: les
+                  - link "Conditions supplémentaires spécifiques à certains services" [ref=f1e142] [cursor=pointer]:
+                    - /url: /terms/service-specific?client_theme=light
+                  - text: qui peuvent, par exemple, inclure des limites d'âge supplémentaires.
+            - paragraph [ref=f1e143]:
+              - text: Nous mettons également à votre disposition divers règlements, centres d'aide et autres ressources pour répondre à vos questions courantes et vous donner une idée des conditions dans lesquelles vous pouvez utiliser nos services. Ces ressources comprennent nos
+              - link "Règles de confidentialité" [ref=f1e144] [cursor=pointer]:
+                - /url: /privacy?client_theme=light
+              - text: ", notre"
+              - link "Centre d'aide relatif aux droits d'auteur" [ref=f1e145] [cursor=pointer]:
+                - /url: https://support.google.com/legal/topic/4558877
+              - text: ", notre"
+              - link "Centre de sécurité" [ref=f1e146] [cursor=pointer]:
+                - /url: https://safety.google
+              - text: ", notre"
+              - link "Centre pour la transparence" [ref=f1e147] [cursor=pointer]:
+                - /url: https://transparency.google/
+              - text: ainsi que d'autres pages accessibles depuis le
+              - link "site dédié à nos Règles" [ref=f1e148] [cursor=pointer]:
+                - /url: /?client_theme=light
+              - text: . Enfin, nous pouvons être amenés à fournir des instructions et des avertissements spécifiques dans nos services (par exemple, des boîtes de dialogue qui vous alertent sur des informations importantes).
+            - paragraph [ref=f1e149]:
+              - text: Même si nous vous autorisons à utiliser nos services, sachez que nous conservons l'ensemble des
+              - button "droits de propriété intellectuelle" [ref=f1e150] [cursor=pointer]
+              - text: qui y sont associés.
+            - heading "Respecter les autres" [level=3] [ref=f1e151]
+            - generic [ref=f1e153]:
+              - text: "Nous souhaitons maintenir un environnement respectueux pour tous. Pour cela, vous devez suivre les règles de conduite élémentaires suivantes :"
+              - list [ref=f1e154]:
+                - listitem [ref=f1e155]: Respecter les lois applicables, y compris celles sur le contrôle des exportations, les sanctions et la traite des êtres humains
+                - listitem [ref=f1e156]: Respecter les droits d'autrui, y compris les droits de propriété intellectuelle et les droits au respect de la confidentialité
+                - listitem [ref=f1e157]: Ne pas nuire ou faire du mal à autrui ou à soi-même (ni menacer ou encourager de telles pratiques), que ce soit par la tromperie, l'escroquerie, l'usurpation d'identité, la diffamation, l'intimidation, le harcèlement ou des persécutions
+            - paragraph [ref=f1e158]:
+              - text: Les
+              - link "Conditions supplémentaires spécifiques à certains services" [ref=f1e159] [cursor=pointer]:
+                - /url: /terms/service-specific?client_theme=light
+              - text: ", comme le"
+              - link "Règlement sur les utilisations interdites de l'IA générative" [ref=f1e160] [cursor=pointer]:
+                - /url: /terms/generative-ai/use-policy?client_theme=light
+              - text: ", fournissent des informations additionnelles concernant les comportements appropriés que tous les utilisateurs de ces services doivent adopter. Si vous constatez des infractions à ces règles, la plupart de nos services vous permettent de les"
+              - link "signaler" [ref=f1e161] [cursor=pointer]:
+                - /url: https://support.google.com/groups/answer/81275
+              - text: . Toute mesure prise à la suite d'un signalement fait l'objet de la procédure décrite dans la section
+              - emphasis [ref=f1e162]:
+                - link "Mesures prises en cas de problèmes" [ref=f1e163] [cursor=pointer]:
+                  - /url: /terms?client_theme=light#taking-action
+              - text: .
+            - heading "Ne pas utiliser nos services de façon abusive" [level=3] [ref=f1e164]
+            - paragraph [ref=f1e165]: "La plupart des personnes qui accèdent à nos services ou les utilisent comprennent les règles générales qui maintiennent Internet comme un espace ouvert et sécurisé. Malheureusement, quelques personnes ne respectent pas ces règles que nous décrivons donc ici afin de protéger nos services et nos utilisateurs contre les utilisations abusives. En conséquence :"
+            - text: "Vous ne devez pas utiliser nos services ni nos systèmes de manière abusive, ni les perturber, interférer avec eux ou y nuire. Par exemple :"
+            - list [ref=f1e166]:
+              - listitem [ref=f1e167]: En introduisant des logiciels malveillants
+              - listitem [ref=f1e168]: En piratant ou en contournant nos systèmes ou mesures de protection, ou en y envoyant du spam
+              - listitem [ref=f1e169]:
+                - text: En les débridant, en envoyant des requêtes hostiles ou en y injectant des requêtes, sauf dans le cadre de nos
+                - link "programmes de sécurité et de test de bugs" [ref=f1e170] [cursor=pointer]:
+                  - /url: https://bughunters.google.com/
+              - listitem [ref=f1e171]: "En accédant à nos services ou contenus, ou en les utilisant, de manière frauduleuse ou trompeuse, que ce soit, par exemple :"
+              - list [ref=f1e172]:
+                - listitem [ref=f1e173]: En recourant à l'hameçonnage
+                - listitem [ref=f1e174]: En créant de faux comptes ou contenus, y compris de faux avis
+                - listitem [ref=f1e175]: En induisant les autres en erreur en leur faisant croire qu'un contenu d'IA générative a été créé par un humain
+                - listitem [ref=f1e176]: En fournissant des services qui semblent provenir de vous (ou de quelqu'un d'autre) alors qu'ils proviennent en réalité de nous
+              - listitem [ref=f1e177]: En fournissant des services qui semblent provenir de nous alors que ce n'est pas le cas
+              - listitem [ref=f1e178]: En utilisant nos services (y compris les contenus qu'ils fournissent) pour enfreindre les droits légaux d'autrui, tels que les droits de propriété intellectuelle ou au respect de la vie privée
+              - listitem [ref=f1e179]: En procédant à la rétro-ingénierie de nos services ou de la technologie sous-jacente telle que nos modèles de machine learning (apprentissage automatique) pour soutirer des secrets commerciaux ou d'autres informations exclusives, sauf dans le cadre permis par la loi applicable
+              - listitem [ref=f1e180]: En utilisant des moyens automatisés pour accéder au contenu de l'un de nos services sans respecter les instructions lisibles par machine sur nos pages Web (par exemple, les fichiers robots.txt qui interdisent l'exploration, la formation ou d'autres activités)
+              - listitem [ref=f1e181]: En utilisant du contenu généré par IA par le biais de nos services pour développer des modèles de machine learning ou des technologies d'IA associées
+              - listitem [ref=f1e182]: En cachant ou en déformant qui vous êtes afin d'enfreindre les présentes conditions
+              - listitem [ref=f1e183]: En fournissant des services qui encouragent autrui à enfreindre ces conditions
+            - heading "Autorisation d'utiliser votre contenu" [level=3] [ref=f1e184]
+            - paragraph [ref=f1e186]:
+              - text: Certains de nos services sont conçus pour vous permettre d'importer, de soumettre, de stocker, d'envoyer, de recevoir ou de partager
+              - button "votre contenu" [ref=f1e187] [cursor=pointer]
+              - text: . Vous n'êtes pas obligé de fournir du contenu dans nos services, et vous êtes libre de choisir celui que vous voulez fournir. Si vous décidez d'importer ou de partager un contenu, vérifiez si vous disposez bien des droits nécessaires pour le faire, et si ce contenu est licite.
+            - generic [ref=f1e188]:
+              - heading "Licence d'utilisation" [level=2] [ref=f1e189]
+              - paragraph [ref=f1e190]:
+                - button "Vos contenus" [ref=f1e191] [cursor=pointer]
+                - text: demeurent les vôtres, ce qui signifie que vous conservez tous les
+                - button "droits de prorpriété intellectuelle" [ref=f1e192] [cursor=pointer]
+                - text: que vous détenez sur ces contenus. Par exemple, vous disposez de droits de propriété intellectuelle sur les contenus originaux dont vous êtes l'auteur, comme les avis que vous rédigez. Vous pouvez également disposer du droit de partager les contenus originaux d'un tiers, si celui-ci vous y autorise.
+              - paragraph [ref=f1e193]: Nous avons besoin de votre autorisation si vos droits de propriété intellectuelle limitent l'utilisation que nous faisons de votre contenu. Vous accordez cette autorisation à Google via cette licence.
+              - heading "Ce qui est inclus" [level=3] [ref=f1e194]
+              - paragraph [ref=f1e195]:
+                - text: La présente licence porte sur les éléments de
+                - button "vos contenus" [ref=f1e196] [cursor=pointer]
+                - text: si ces contenus sont protégés par des droits de propriété intellectuelle.
+              - heading "Ce qui n'est pas inclus" [level=3] [ref=f1e197]
+              - list [ref=f1e198]:
+                - listitem [ref=f1e199]: La présente licence porte uniquement sur vos droits de propriété intellectuelle et ne concerne pas la protection de votre vie privée.
+                - listitem [ref=f1e200]:
+                  - text: "Elle ne couvre pas les types de contenus suivants :"
+                  - list [ref=f1e201]:
+                    - listitem [ref=f1e202]: Les informations factuelles publiques que vous fournissez, par exemple lorsque vous corrigez l'adresse d'un établissement local. Aucune licence n'est requise pour ce type d'informations, car elles sont de notoriété publique et libres de droits.
+                    - listitem [ref=f1e203]:
+                      - text: Vos commentaires, tels que vos suggestions pour améliorer nos services. Les commentaires font l'objet de la rubrique sur les
+                      - emphasis [ref=f1e204]:
+                        - link "Communications liées aux services" [ref=f1e205] [cursor=pointer]:
+                          - /url: /terms?client_theme=light#toc-service-related-comm
+                      - text: ci-dessous.
+              - heading "Portée" [level=3] [ref=f1e206]
+              - generic [ref=f1e207]:
+                - text: "La présente licence est :"
+                - list [ref=f1e208]:
+                  - listitem [ref=f1e209]: "mondiale : elle est valide dans le monde entier ;"
+                  - listitem [ref=f1e210]: "non exclusive : vous pouvez proposer des licences d'accès à vos contenus à des tiers ;"
+                  - listitem [ref=f1e211]: "libre de droits : elle ne donne pas lieu au versement d'une contrepartie financière."
+              - heading "Droits" [level=3] [ref=f1e212]
+              - paragraph [ref=f1e213]: "Cette licence autorise Google à procéder aux opérations suivantes :"
+              - list [ref=f1e214]:
+                - listitem [ref=f1e215]: héberger, reproduire, distribuer, communiquer et utiliser votre contenu (par exemple, pour sauvegarder votre contenu dans nos systèmes et le rendre accessible où que vous soyez) ;
+                - listitem [ref=f1e216]: publier, exécuter ou afficher publiquement vos contenus si vous les avez rendus accessibles à d'autres personnes ;
+                - listitem [ref=f1e217]: modifier vos contenus et créer des œuvres dérivées basées sur ceux-ci, par exemple en modifiant leur format ou en les traduisant ;
+                - listitem [ref=f1e218]:
+                  - text: "concéder l'autorisation d'effectuer ces actes :"
+                  - list [ref=f1e219]:
+                    - listitem [ref=f1e220]: à d'autres utilisateurs, mais seulement pour permettre à nos services de fonctionner comme prévu (par exemple, pour que vous puissiez partager des photos avec les utilisateurs de votre choix) ;
+                    - listitem [ref=f1e221]:
+                      - text: à nos partenaires qui ont signé avec nous des accords conformes aux présentes conditions, uniquement aux fins limitées décrites dans la section
+                      - emphasis [ref=f1e222]:
+                        - link "Objet" [ref=f1e223] [cursor=pointer]:
+                          - /url: /terms?client_theme=light#toc-purpose
+                      - text: .
+              - heading "Objet" [level=3] [ref=f1e224]
+              - paragraph [ref=f1e225]: "Cette licence est consentie pour les fins limitées suivantes :"
+              - list [ref=f1e226]:
+                - listitem [ref=f1e227]:
+                  - text: "Exploiter et améliorer les services, c'est-à-dire permettre à ces services de fonctionner comme prévu et créer de nouvelles fonctionnalités. Ceci inclut le recours à des systèmes automatisés et à des algorithmes pour analyser vos contenus :"
+                  - list [ref=f1e228]:
+                    - listitem [ref=f1e229]: pour détecter le spam, les logiciels malveillants et les contenus illégaux ;
+                    - listitem [ref=f1e230]: afin d'identifier des tendances au travers des données (par exemple, en déterminant quand suggérer un nouvel album dans Google Photos pour regrouper des photos similaires) ;
+                    - listitem [ref=f1e231]:
+                      - text: afin de personnaliser nos services en vous proposant des recommandations, des contenus, des résultats de recherche et des annonces personnalisées (que vous pouvez modifier ou désactiver dans les
+                      - link "Paramètres des annonces" [ref=f1e232] [cursor=pointer]:
+                        - /url: https://adssettings.google.com?ref=ps-terms
+                      - text: ) en fonction de vos préférences ou besoins.
+                  - text: Cette analyse a lieu lors de l'envoi, de la réception et du stockage des contenus.
+                - listitem [ref=f1e233]: Utiliser des contenus que vous avez partagés publiquement pour la promotion des services. Par exemple, pour promouvoir une application Google, nous pouvons citer un avis que vous avez rédigé. Nous pouvons également promouvoir Google Play en utilisant une capture d'écran d'une application que vous proposez via cette plate-forme.
+                - listitem [ref=f1e234]: Développer de nouvelles technologies et de nouveaux services pour Google conformément aux présentes conditions.
+              - heading "Durée" [level=3] [ref=f1e235]
+              - paragraph [ref=f1e236]: Cette licence est valable aussi longtemps que votre contenu est protégé par des droits de propriété intellectuelle.
+              - paragraph [ref=f1e237]: "Si vous supprimez de nos services tout contenu couvert par la présente licence, nos systèmes cesseront de rendre ce contenu accessible au public dans un délai raisonnable. Il existe toutefois deux exceptions à cette règle :"
+              - list [ref=f1e238]:
+                - listitem [ref=f1e239]: Si vous avez déjà partagé votre contenu avec d'autres personnes avant de le supprimer. Par exemple, si vous avez partagé une photo avec un ami qui en a ensuite fait une copie ou qui l'a partagée à nouveau, cette photo peut continuer d'apparaître dans le compte Google de votre ami même après l'avoir supprimée du vôtre.
+                - listitem [ref=f1e240]: Si vous rendez vos contenus accessibles via les services d'autres entreprises, il est possible que les moteurs de recherche, y compris la recherche Google, continuent à rechercher et à afficher ces contenus dans leurs résultats de recherche.
+          - generic [ref=f1e242]:
+            - heading "Utiliser les services Google" [level=1] [ref=f1e244]
+            - heading "Votre compte Google" [level=2] [ref=f1e245]
+            - paragraph [ref=f1e246]:
+              - link "Si vous avez l'âge requis" [ref=f1e247] [cursor=pointer]:
+                - /url: https://support.google.com/accounts/answer/1350409
+              - text: ", vous pouvez"
+              - link "créer et utiliser votre propre compte Google" [ref=f1e248] [cursor=pointer]:
+                - /url: https://support.google.com/accounts/answer/27441
+              - text: . Certains
+              - button "services" [ref=f1e249] [cursor=pointer]
+              - text: ne fonctionnent que si vous avez un compte Google. Par exemple, si vous souhaitez utiliser Gmail pour envoyer et recevoir des e-mails, vous devez créer un tel compte.
+            - paragraph [ref=f1e250]:
+              - text: Vous êtes responsable de l'utilisation que vous faites de votre compte Google, et il vous incombe de prendre les mesures nécessaires pour le protéger, dans la mesure du raisonnable. Nous vous conseillons par ailleurs d'utiliser régulièrement l'outil
+              - link "Check-up Sécurité" [ref=f1e251] [cursor=pointer]:
+                - /url: https://myaccount.google.com/security-checkup
+              - text: .
+            - heading "Utiliser les services Google au nom d'une organisation ou d'une entreprise" [level=2] [ref=f1e252]
+            - generic [ref=f1e253]:
+              - text: De nombreuses
+              - button "organisations" [ref=f1e254] [cursor=pointer]
+              - text: ", comme les entreprises, les organisations à but non lucratif et les établissements scolaires, profitent de nos"
+              - button "services" [ref=f1e255] [cursor=pointer]
+              - text: ". Pour utiliser nos services au nom d'une organisation, les critères suivants doivent être remplis :"
+              - list [ref=f1e256]:
+                - listitem [ref=f1e257]: Un représentant agréé de cette organisation doit accepter les présentes conditions.
+                - listitem [ref=f1e258]: L'administrateur de votre organisation peut vous attribuer un compte Google. Il peut également vous demander de respecter des règles supplémentaires, en plus d'avoir accès à votre compte Google ou de pouvoir le désactiver.
+            - heading "Communications liées aux services" [level=2] [ref=f1e259]
+            - paragraph [ref=f1e260]:
+              - text: Pour vous proposer nos services, nous vous transmettons parfois des annonces et d'autres informations à leur sujet. Pour en savoir plus sur la façon dont nous communiquons avec vous, consultez les
+              - link "Règles de confidentialité" [ref=f1e261] [cursor=pointer]:
+                - /url: /privacy?client_theme=light
+              - text: de Google.
+            - paragraph [ref=f1e262]: Si vous choisissez de nous livrer vos commentaires, tels que des suggestions pour améliorer nos services, nous pouvons en tenir compte sans obligation vis-à-vis de vous.
+            - heading "Coûts des connexions aux réseaux mobiles, Wi-Fi et autres" [level=2] [ref=f1e263]
+            - paragraph [ref=f1e264]: Les services Google peuvent utiliser fréquemment Internet lorsque vous n'interagissez pas activement avec les services ou votre appareil. Google utilise Internet de cette manière à des fins très diverses (par exemple, pour fournir des mises à jour logicielles et pour améliorer les services, la sécurité, l'expérience utilisateur et/ou les opérations de Google, y compris la publicité). Ces utilisations dépendent de vos connexions aux réseaux mobiles, Wi-Fi et/ou autres, et pourront être décomptées de votre quota de données auprès de vos fournisseurs de services mobiles ou d'accès à Internet. Vous êtes responsable de toutes ces utilisations du réseau et des coûts associés. Nous vous recommandons de vérifier votre forfait mobile ou Internet, ainsi que les paramètres de votre appareil et de votre réseau.
+          - generic [ref=f1e266]:
+            - heading "Contenu dans les services Google" [level=1] [ref=f1e268]
+            - heading "Votre contenu" [level=2] [ref=f1e269]
+            - paragraph [ref=f1e270]:
+              - text: Certains de nos
+              - button "services" [ref=f1e271] [cursor=pointer]
+              - text: vous permettent de générer des contenus originaux. Google ne revendiquera pas la propriété de ces contenus. Certains contenus ne sont peut-être pas adaptés à tous les publics.
+            - paragraph [ref=f1e272]:
+              - text: Certains de nos
+              - button "services" [ref=f1e273] [cursor=pointer]
+              - text: vous donnent la possibilité de rendre vos contenus accessibles au public (par exemple, vous pouvez publier un commentaire que vous avez rédigé sur un produit ou un restaurant, ou encore mettre en ligne un article de blog dont vous êtes l'auteur).
+            - list [ref=f1e274]:
+              - listitem [ref=f1e275]:
+                - text: Consultez la section
+                - emphasis [ref=f1e276]:
+                  - link "Autorisation d'utiliser votre contenu" [ref=f1e277] [cursor=pointer]:
+                    - /url: /terms?client_theme=light#toc-permission
+                - text: pour en savoir plus sur vos droits liés à
+                - button "votre contenu" [ref=f1e278] [cursor=pointer]
+                - text: ", ainsi que sur la façon dont celui-ci est utilisé dans nos services."
+              - listitem [ref=f1e279]:
+                - text: Consultez la section
+                - emphasis [ref=f1e280]:
+                  - link "Supprimer votre contenu" [ref=f1e281] [cursor=pointer]:
+                    - /url: /terms?client_theme=light#toc-removing
+                - text: pour découvrir pourquoi et comment nous sommes susceptibles de supprimer des contenus générés par les utilisateurs de nos services.
+            - paragraph [ref=f1e282]:
+              - text: Si vous estimez qu'une personne porte atteinte à vos
+              - button "droits de propriété intellectuelle" [ref=f1e283] [cursor=pointer]
+              - text: ", vous pouvez"
+              - link "nous le signaler en décrivant l'atteinte présumée" [ref=f1e284] [cursor=pointer]:
+                - /url: https://support.google.com/legal/answer/3110420
+              - text: afin que nous puissions agir en conséquence. Par exemple, nous pouvons suspendre ou clôturer les comptes Google des personnes qui portent atteinte à des
+              - button "droits d'auteur" [ref=f1e285] [cursor=pointer]
+              - text: de manière répétée, comme indiqué dans notre
+              - link "Centre d'aide relatif aux droits d'auteur" [ref=f1e286] [cursor=pointer]:
+                - /url: https://support.google.com/legal/topic/4558877
+              - text: .
+            - heading "Contenu Google" [level=2] [ref=f1e287]
+            - paragraph [ref=f1e288]:
+              - text: Certains de nos
+              - button "services" [ref=f1e289] [cursor=pointer]
+              - text: comprennent des contenus qui appartiennent à Google. C'est le cas, par exemple, de nombreuses représentations visuelles disponibles dans Google Maps. Vous êtes autorisé à utiliser les contenus de Google dans le cadre des présentes conditions et des
+              - link "Conditions supplémentaires liées à des services spécifiques" [ref=f1e290] [cursor=pointer]:
+                - /url: /terms/service-specific?client_theme=light
+              - text: ", mais nous conservons tous nos droits de propriété intellectuelle sur nos contenus. Vous n'êtes pas autorisé à supprimer, masquer ni modifier nos éléments de marque, nos logos ou nos mentions légales. Si vous souhaitez utiliser nos éléments de marque ou logos, veuillez consulter la page des"
+              - link "autorisations relatives à la marque Google" [ref=f1e291] [cursor=pointer]:
+                - /url: https://www.google.com/permissions
+              - text: .
+            - heading "Autres contenus" [level=2] [ref=f1e292]
+            - paragraph [ref=f1e293]:
+              - text: Enfin, certains de nos
+              - button "services" [ref=f1e294] [cursor=pointer]
+              - text: vous donnent accès à des contenus appartenant à d'autres personnes ou
+              - button "organisations" [ref=f1e295] [cursor=pointer]
+              - text: (par exemple, une description d'activité faite par le propriétaire d'un magasin, ou un article de presse affiché dans Google Actualités). Vous ne pouvez pas utiliser ce contenu sans l'autorisation de cette personne ou de cette organisation, ou d'une autre manière que celle prévue par la loi. Les opinions exprimées dans le contenu d'autres personnes ou organisations sont les leurs, et ne reflètent pas nécessairement celles de Google.
+          - generic [ref=f1e297]:
+            - heading "Logiciels dans les services Google" [level=1] [ref=f1e299]
+            - paragraph [ref=f1e300]:
+              - text: Certains de nos
+              - button "services" [ref=f1e301] [cursor=pointer]
+              - text: incluent des logiciels téléchargeables ou préchargés. Nous vous autorisons à les utiliser dans le cadre de ces services.
+            - generic [ref=f1e302]:
+              - text: "La licence que nous vous octroyons est :"
+              - list [ref=f1e303]:
+                - listitem [ref=f1e304]: mondiale, ce qui signifie qu'elle est valable partout dans le monde ;
+                - listitem [ref=f1e305]: non exclusive, ce qui signifie que nous pouvons fournir cette même licence à autrui ;
+                - listitem [ref=f1e306]: sans contrepartie financière, ce qui signifie qu'elle est sans coût supplémentaire ;
+                - listitem [ref=f1e307]: personnelle, ce qui signifie qu'elle ne bénéficie qu'à vous ;
+                - listitem [ref=f1e308]: non transférable, ce qui signifie que vous ne pouvez pas sous-licencier cette licence à quiconque.
+            - paragraph [ref=f1e309]: "Certains de nos services incluent des logiciels que nous mettons à votre disposition conformément à des conditions de licence Open Source. Il peut arriver que des stipulations d'une licence Open Source remplacent expressément les présentes conditions d'utilisation sur certains aspects : assurez-vous de les lire."
+            - paragraph [ref=f1e310]: Vous ne pouvez pas copier, modifier, distribuer, vendre ni louer la totalité ou une partie de nos services ou logiciels.
+          - generic [ref=f1e312]:
+            - heading "En cas de problèmes ou de désaccords" [level=1] [ref=f1e314]
+            - paragraph [ref=f1e315]: Les présentes conditions d'utilisation, ainsi que la loi, vous donnent droit (1) à une certaine qualité de service et (2) à des moyens de résoudre les problèmes, le cas échéant.
+            - heading "Garantie" [level=2] [ref=f1e316]
+            - paragraph [ref=f1e317]:
+              - text: Nous fournissons nos
+              - button "services" [ref=f1e318] [cursor=pointer]
+              - text: conformément à nos obligations de moyens, dans les limites de ce qui est raisonnable. Si nous ne répondons pas au niveau de qualité décrit dans cette
+              - button "Garantie" [ref=f1e319] [cursor=pointer]
+              - text: ", vous acceptez de nous en informer afin que nous puissions vous aider à résoudre le problème rencontré."
+            - heading "Clauses de non-responsabilité" [level=2] [ref=f1e320]
+            - paragraph [ref=f1e321]:
+              - text: Les seuls engagements que nous prenons concernant nos
+              - button "services" [ref=f1e322] [cursor=pointer]
+              - text: (y compris leurs contenus, leurs fonctions propres, leur fiabilité, leur disponibilité ainsi que leur capacité à satisfaire vos besoins) sont énoncés (1) à la section
+              - emphasis [ref=f1e323]:
+                - link "Garantie" [ref=f1e324] [cursor=pointer]:
+                  - /url: /terms?client_theme=light#toc-warranty
+              - text: ", (2) dans les"
+              - link "Conditions supplémentaires spécifiques à certains services" [ref=f1e325] [cursor=pointer]:
+                - /url: /terms/service-specific?client_theme=light
+              - text: et (3) dans les lois que les présentes conditions d'utilisation ne peuvent pas limiter.
+            - paragraph [ref=f1e326]:
+              - generic [ref=f1e327]:
+                - text: Sauf autorisation explicite dans les
+                - link "Conditions supplémentaires spécifiques à certains services" [ref=f1e328] [cursor=pointer]:
+                  - /url: /terms/service-specific?client_theme=light
+                - text: ", ne vous fiez pas aux services pour obtenir des conseils médicaux, juridiques, financiers ou d'autre nature professionnelle. Les contenus liés à ces thèmes ne sont fournis qu'à titre indicatif, ne constituent pas un diagnostic ni un traitement médical, et ne remplacent pas les conseils dispensés par un professionnel qualifié."
+            - heading "Responsabilités" [level=2] [ref=f1e329]
+            - heading "Pour tous les utilisateurs" [level=3] [ref=f1e330]
+            - paragraph [ref=f1e331]:
+              - text: Les présentes conditions d'utilisation, ainsi que la loi, tentent d'établir un équilibre entre les demandes que Google et vous-même pouvez effectuer en cas de problèmes. C'est pourquoi la loi exige que chacun assume certaines
+              - button "responsabilités" [ref=f1e332] [cursor=pointer]
+              - text: (mais pas d'autres) en vertu de ces conditions.
+            - text: "Nos responsabilités ne sont limitées par les présentes conditions d'utilisation que dans le cadre des lois applicables. Les présentes conditions d'utilisation ne limitent pas la responsabilité en cas de :"
+            - list [ref=f1e333]:
+              - listitem [ref=f1e334]: fraude, ou déclarations trompeuses ou déceptives à caractère frauduleux ;
+              - listitem [ref=f1e335]: décès ou dommages corporels dus à une négligence ;
+              - listitem [ref=f1e336]: négligence grave ;
+              - listitem [ref=f1e337]: faute délibérée.
+            - paragraph [ref=f1e338]:
+              - text: Hormis les responsabilités décrites ci-dessus, Google est seulement responsable de ses violations des présentes conditions d'utilisation ou des
+              - link "Conditions supplémentaires spécifiques à certains services" [ref=f1e339] [cursor=pointer]:
+                - /url: /terms/service-specific?client_theme=light
+              - text: applicables, sous réserve des lois applicables.
+            - heading "Pour les utilisateurs professionnels et les organisations uniquement" [level=3] [ref=f1e340]
+            - paragraph [ref=f1e341]:
+              - text: Si vous êtes un
+              - button "utilisateur professionnel" [ref=f1e342] [cursor=pointer]
+              - text: ou une
+              - button "organisation" [ref=f1e343] [cursor=pointer]
+              - text: ":"
+            - list [ref=f1e344]:
+              - listitem [ref=f1e345]:
+                - text: Dans les limites autorisées par la loi applicable, vous vous engagez à
+                - button "indemniser" [ref=f1e346] [cursor=pointer]
+                - text: Google et ses administrateurs, dirigeants, employés et sous-traitants en cas de procédure juridique engagée par un tiers (y compris en cas d'action émanant d'autorités administratives), lorsqu'une telle procédure résulte de votre utilisation illégale des
+                - button "services" [ref=f1e347] [cursor=pointer]
+                - text: ou de la violation des présentes conditions d'utilisation ou des
+                - link "Conditions supplémentaires spécifiques à certains services" [ref=f1e348] [cursor=pointer]:
+                  - /url: /terms/service-specific?client_theme=light
+                - text: . Cette indemnisation couvre toute responsabilité ou dépense découlant de réclamations, pertes, dommages-intérêts, décisions de justice, amendes, honoraires d'avocats et autres frais de justice, sauf si un passif ou une dépense résulte d'une violation, d'une négligence ou d'une faute délibérée de Google.
+              - listitem [ref=f1e349]:
+                - text: Si vous êtes légalement exempté de certaines responsabilités, y compris en matière d'
+                - button "indemnisation" [ref=f1e350] [cursor=pointer]
+                - text: ", ces responsabilités ne s'appliquent pas à vous en vertu des présentes conditions. Par exemple, les Nations Unies jouissent d'immunités vis-à-vis de certaines obligations légales, et les présentes conditions ne prévalent pas sur ces immunités."
+              - listitem [ref=f1e351]:
+                - text: Sauf indication contraire dans la section
+                - emphasis [ref=f1e352]:
+                  - link "Pour tous les utilisateurs" [ref=f1e353] [cursor=pointer]:
+                    - /url: /terms?client_theme=light#for-all
+                - text: ci-dessus, la
+                - button "responsabilité" [ref=f1e354] [cursor=pointer]
+                - text: "de Google ne saurait être engagée dans les cas suivants :"
+                - list [ref=f1e355]:
+                  - listitem [ref=f1e356]: Perte de profits, de revenus, d'opportunités commerciales, de clients ou d'économies anticipées
+                  - listitem [ref=f1e357]: Perte indirecte ou dépassant toutes prévisions raisonnables
+                  - listitem [ref=f1e358]: Dommages et intérêts punitifs
+              - listitem [ref=f1e359]:
+                - text: Sauf indication contraire dans la section
+                - emphasis [ref=f1e360]:
+                  - link "Pour tous les utilisateurs" [ref=f1e361] [cursor=pointer]:
+                    - /url: /terms?client_theme=light#for-all
+                - text: "ci-dessus, la responsabilité totale de Google au titre des présentes conditions d'utilisation ne saurait excéder le plus élevé des deux montants suivants : (1) 500 USD ou (2) 125 % des frais que vous avez payés pour utiliser les services concernés au cours des 12 mois précédant la violation."
+            - heading "Mesures prises en cas de problèmes" [level=2] [ref=f1e362]
+            - paragraph [ref=f1e363]: "Dans la mesure du possible, nous vous avertirons avant d'engager les démarches décrites ci-dessous. Nous vous expliquerons également la raison motivant ces démarches et vous donnerons l'occasion de clarifier et régler le problème, à moins que nous ayons des motifs raisonnables de croire que cela puisse :"
+            - list [ref=f1e364]:
+              - listitem [ref=f1e365]:
+                - text: nuire ou engager la
+                - button "responsabilité" [ref=f1e366] [cursor=pointer]
+                - text: d'un utilisateur, d'un tiers ou de Google ;
+              - listitem [ref=f1e367]: violer la loi ou une instruction émanant d'une autorité chargée de l'appliquer ;
+              - listitem [ref=f1e368]: compromettre une enquête ;
+              - listitem [ref=f1e369]:
+                - text: compromettre le fonctionnement, l'intégrité ou la sécurité de nos
+                - button "services" [ref=f1e370] [cursor=pointer]
+                - text: .
+            - heading "Supprimer votre contenu" [level=3] [ref=f1e371]
+            - paragraph [ref=f1e372]:
+              - text: Si nous avons des motifs raisonnables de croire que l'un de
+              - button "vos contenus" [ref=f1e373] [cursor=pointer]
+              - text: (1) enfreint les présentes conditions ou les
+              - link "conditions ou règles supplémentaires spécifiques à certains services" [ref=f1e374] [cursor=pointer]:
+                - /url: /terms/service-specific?client_theme=light
+              - text: ", (2) ne respecte pas la loi applicable, ou (3) est susceptible de porter préjudice à nos utilisateurs, à des tiers ou à Google, nous nous réservons alors le droit de supprimer tout ou partie de ce contenu conformément à la loi applicable. Il peut s'agir de pédopornographie, de contenus qui facilitent la traite des êtres humains ou le harcèlement, de contenus à caractère terroriste ou de contenus portant atteinte aux"
+              - button "droits de propriété intellectuelle" [ref=f1e375] [cursor=pointer]
+              - text: d'autrui.
+            - heading "Suspendre ou bloquer votre accès aux services Google" [level=3] [ref=f1e376]
+            - paragraph [ref=f1e377]: "Sans limiter aucun de ses autres droits, Google peut suspendre votre accès aux services ou y mettre fin, ou supprimer votre compte Google si l'une des situations suivantes se présentent :"
+            - list [ref=f1e378]:
+              - listitem [ref=f1e379]:
+                - text: Vous enfreignez substantiellement ou de manière répétée ces conditions, ou les
+                - link "conditions ou règles supplémentaires spécifiques à certains services" [ref=f1e380] [cursor=pointer]:
+                  - /url: /terms/service-specific?client_theme=light
+              - listitem [ref=f1e381]: Nous sommes tenus de procéder ainsi pour respecter une obligation légale ou une ordonnance du tribunal.
+              - listitem [ref=f1e382]:
+                - text: Nous avons des motifs raisonnables de croire que votre conduite cause un préjudice à un utilisateur, à un tiers ou à Google, ou engage la
+                - button "responsabilité" [ref=f1e383] [cursor=pointer]
+                - text: de l'un d'eux (par exemple, par le piratage, l'hameçonnage, le harcèlement, le spam, la tromperie ou le détournement de contenu qui ne vous appartient pas).
+            - paragraph [ref=f1e384]:
+              - text: Pour savoir pourquoi nous désactivons des comptes et quelles en sont les conséquences, consultez
+              - link "cette page du Centre d'aide" [ref=f1e385] [cursor=pointer]:
+                - /url: https://support.google.com/accounts/answer/40695
+              - text: . Si vous pensez que votre compte Google fait l'objet d'une suspension ou d'une clôture due à une erreur,
+              - link "vous pouvez faire appel de cette décision" [ref=f1e386] [cursor=pointer]:
+                - /url: https://support.google.com/accounts/answer/40695
+              - text: .
+            - paragraph [ref=f1e387]:
+              - text: Bien entendu, vous pouvez cesser d'utiliser nos services à tout moment. Dans ce cas,
+              - link "nous vous serions reconnaissants d'en indiquer le motif" [ref=f1e388] [cursor=pointer]:
+                - /url: https://www.google.com/tools/feedback
+              - text: afin que nous puissions améliorer davantage nos services.
+            - heading "Règlement des litiges, droit applicable et tribunaux compétents" [level=2] [ref=f1e389]
+            - paragraph [ref=f1e390]:
+              - text: Pour toute information sur la procédure à suivre pour contacter Google, veuillez consulter la page de
+              - link "prise de contact" [ref=f1e391] [cursor=pointer]:
+                - /url: https://www.google.com/contact
+              - text: .
+            - paragraph [ref=f1e392]:
+              - text: Les lois de l'État de Californie régiront les présentes Conditions d'utilisation et tous les litiges découlant desdites conditions, des
+              - link "Conditions supplémentaires spécifiques à certains services" [ref=f1e393] [cursor=pointer]:
+                - /url: /terms/service-specific?client_theme=light
+              - text: ou de tout
+              - button "service" [ref=f1e394] [cursor=pointer]
+              - text: associé, ou s'y rapportant, indépendamment des règles de conflit de lois. Ces litiges seront résolus exclusivement par les tribunaux fédéraux ou les tribunaux d'État du comté de Santa Clara, Californie, États-Unis. Google et vous-même acceptez par les présentes de vous soumettre à la compétence de ces tribunaux.
+            - paragraph [ref=f1e395]: Dans la mesure où certaines legislations empêchent la résolution de certains conflits devant une Cour Californienne, vous pourrez porter le litige relatif à ces conflits devant votre jurisdiction nationale. De même, si la legislation applicable empêche votre jurisdiction d'appliquer le droit californien pour résoudre ces conflits, le droit applicable sera celui de votre pays, état, ou autre lieu de résidence.
+          - generic [ref=f1e397]:
+            - heading "À propos des présentes conditions d'utilisation" [level=1] [ref=f1e399]
+            - paragraph [ref=f1e400]: En vertu de la loi, vous disposez de certains droits qui ne peuvent pas être limités par un contrat tel que les présentes conditions d'utilisation. Celles-ci ne sont en aucun cas destinées à restreindre ces droits.
+            - paragraph [ref=f1e401]:
+              - text: Ces conditions décrivent la relation entre vous et Google. Elles ne créent aucun droit légal pour d'autres personnes ou
+              - button "organisations" [ref=f1e402] [cursor=pointer]
+              - text: ", même si d'autres bénéficient de cette relation dans le cadre de ces conditions."
+            - paragraph [ref=f1e403]:
+              - text: Nous tenons à ce que ces conditions soient faciles à comprendre et avons donc utilisé des
+              - button "exemples tirés de nos services" [ref=f1e404] [cursor=pointer]
+              - text: . Toutefois, certains de ces services ne sont peut-être pas disponibles dans votre pays.
+            - paragraph [ref=f1e405]:
+              - text: En cas de conflit entre ces conditions et les
+              - link "Conditions supplémentaires spécifiques à certains services" [ref=f1e406] [cursor=pointer]:
+                - /url: /terms/service-specific?client_theme=light
+              - text: ", ces dernières prévalent pour le service en question."
+            - paragraph [ref=f1e407]: S'il s'avère qu'une condition particulière n'est pas valide ou applicable, cela sera sans incidence sur les autres stipulations des présentes conditions.
+            - paragraph [ref=f1e408]:
+              - text: Si vous ne respectez pas ces conditions ou les
+              - link "Conditions supplémentaires spécifiques à certains services" [ref=f1e409] [cursor=pointer]:
+                - /url: /terms/service-specific?client_theme=light
+              - text: ", et si nous ne prenons pas de mesure immédiate à ce sujet, cela ne signifie pas que nous renonçons à un quelconque droit que nous pourrions avoir, comme celui d'agir ultérieurement."
+            - paragraph [ref=f1e410]:
+              - text: Nous pouvons modifier ces conditions et les
+              - link "Conditions supplémentaires spécifiques à certains services" [ref=f1e411] [cursor=pointer]:
+                - /url: /terms/service-specific?client_theme=light
+              - text: (1) pour tenir compte des changements concernant nos services ou notre façon de mener nos activités (par exemple, lorsque nous ajoutons de nouveaux services et d'autres fonctionnalités, technologies, prix ou avantages, ou que nous en supprimons des anciens), (2) pour des raisons juridiques, réglementaires ou de sécurité, ou (3) pour prévenir tout préjudice ou toute utilisation abusive.
+            - paragraph [ref=f1e412]:
+              - text: En cas de modifications substantielles apportées à ces conditions ou aux
+              - link "Conditions supplémentaires spécifiques à certains services" [ref=f1e413] [cursor=pointer]:
+                - /url: /terms/service-specific?client_theme=light
+              - text: ", nous vous en informerons dans un délai raisonnable avant leur application, afin que vous puissiez en prendre connaissance, sauf (1) lorsque nous lançons un nouveau service ou une nouvelle fonctionnalité, ou (2) en cas d'urgence (par exemple, pour mettre fin à une utilisation abusive en cours ou pour répondre à des obligations légales). Si vous n'acceptez pas ces nouvelles conditions, supprimez"
+              - button "vos contenus" [ref=f1e414] [cursor=pointer]
+              - text: et cessez toute utilisation de nos services. Vous pouvez également mettre un terme à votre relation avec nous à tout moment en
+              - link "clôturant votre compte Google" [ref=f1e415] [cursor=pointer]:
+                - /url: https://support.google.com/accounts/answer/32046
+              - text: .
+    - generic [ref=f1e418]:
+      - list [ref=f1e419]:
+        - listitem [ref=f1e420]:
+          - link "Google" [ref=f1e421] [cursor=pointer]:
+            - /url: https://www.google.com/
+        - listitem [ref=f1e422]:
+          - link "À propos de Google" [ref=f1e423] [cursor=pointer]:
+            - /url: https://about.google/
+        - listitem [ref=f1e424]:
+          - link "Confidentialité" [ref=f1e425] [cursor=pointer]:
+            - /url: /privacy?client_theme=light
+        - listitem [ref=f1e426]:
+          - link "Conditions d'utilisation" [ref=f1e427] [cursor=pointer]:
+            - /url: /terms?client_theme=light
+        - listitem [ref=f1e428]:
+          - link "Centre pour la transparence" [ref=f1e429] [cursor=pointer]:
+            - /url: https://transparency.google/
+      - combobox "Liste déroulante permettant de modifier la langue du site." [ref=f1e433] [cursor=pointer]:
+        - generic: Français

@@ -1,0 +1,294 @@
+- generic [ref=e1]:
+  - generic "Google Maps" [ref=e2]:
+    - generic [ref=e8]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=e13]
+      - search [ref=e19]:
+        - button "Retour" [ref=e855] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e856]: 
+        - generic [ref=e20]:
+          - combobox [ref=e22]: Le Méridien Hôtel & Convention center
+          - button "Rechercher" [ref=e24] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e25]: 
+          - button "Fermer" [ref=e27] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e28]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=e730]:
+        - generic [ref=e733]:
+          - button "Hôtels à proximité" [ref=e735] [cursor=pointer]:
+            - generic [ref=e736]:
+              - generic [aria-hidden] [ref=e738]: 
+              - generic [ref=e739]: Hôtels à proximité
+          - button "Restaurants" [ref=e741] [cursor=pointer]:
+            - generic [ref=e742]:
+              - generic [aria-hidden] [ref=e744]: 
+              - generic [ref=e745]: Restaurants
+          - button "Activités à découvrir" [ref=e747] [cursor=pointer]:
+            - generic [ref=e748]:
+              - generic [aria-hidden] [ref=e750]: 
+              - generic [ref=e751]: Activités à découvrir
+          - button "Bars" [ref=e753] [cursor=pointer]:
+            - generic [ref=e754]:
+              - generic [aria-hidden] [ref=e756]: 
+              - generic [ref=e757]: Bars
+          - button "Cafés" [ref=e759] [cursor=pointer]:
+            - generic [ref=e760]:
+              - generic [aria-hidden] [ref=e762]: 
+              - generic [ref=e763]: Cafés
+          - button "Pharmacies" [ref=e765] [cursor=pointer]:
+            - generic [ref=e766]:
+              - generic [aria-hidden] [ref=e768]: 
+              - generic [ref=e769]: Pharmacies
+          - button "Parkings" [ref=e771] [cursor=pointer]:
+            - generic [ref=e772]:
+              - generic [aria-hidden] [ref=e774]: 
+              - generic [ref=e775]: Parkings
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - list [ref=e32]:
+            - listitem [ref=e33]:
+              - button "Menu" [ref=e34] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e36]: 
+            - listitem [ref=e37]:
+              - button "Enregistré" [ref=e38] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e40]: 
+            - listitem [ref=e43]:
+              - button "Récents" [ref=e44] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e46]: 
+            - listitem [ref=e962]:
+              - button "Le Méridien Hôtel & Convention center" [ref=e963] [cursor=pointer]
+            - listitem [ref=e50]:
+              - button "Obtenir l'appli" [ref=e51] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e53]: 
+          - main "Le Méridien Hôtel & Convention center" [ref=e60]:
+            - tablist [ref=e120]:
+              - tab "Le Méridien Hôtel & Convention center - Présentation" [ref=e121]:
+                - generic [aria-hidden] [ref=e123]: Présentation
+              - tab "Prix pour Le Méridien Hôtel & Convention center" [ref=e125]:
+                - generic [aria-hidden] [ref=e127]: Prix
+              - tab "Le Méridien Hôtel & Convention center - Avis" [selected] [ref=e129]:
+                - generic [aria-hidden] [ref=e131]: Avis
+              - tab "Informations sur Le Méridien Hôtel & Convention center" [ref=e133]:
+                - generic [aria-hidden] [ref=e135]: À propos
+            - generic [ref=e858]:
+              - generic [ref=e860]:
+                - list [ref=e862]:
+                  - listitem [ref=e863]: 50 230 DA
+                  - text: ·
+                  - listitem [ref=e864]: Hôtel 5 étoiles
+                - generic [ref=e865]: 28–29 janv.
+              - link [ref=e869] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e870]:
+                  - generic [aria-hidden] [ref=e871]: 
+                  - text: Vérifier la disponibilité
+            - generic [ref=e873]:
+              - generic [ref=e874]:
+                - heading "Résumé des avis Google" [level=2] [ref=e876]
+                - button "Informations" [ref=e878] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e879]: 
+              - generic [ref=e881]:
+                - table [ref=e883]:
+                  - rowgroup [ref=e884]:
+                    - img "5 étoiles, 1 335 avis" [ref=e885]: "5"
+                    - img "4 étoiles, 504 avis" [ref=e888]: "4"
+                    - img "3 étoiles, 195 avis" [ref=e891]: "3"
+                    - img "2 étoiles, 95 avis" [ref=e894]: "2"
+                    - img "1 étoiles, 237 avis" [ref=e897]: "1"
+                - generic [ref=e900]:
+                  - generic [ref=e901]: 4,1
+                  - img "4,1 étoiles" [ref=e902]
+                  - generic [ref=e908]: 2 366 avis
+              - button "Rédiger un avis" [ref=e912] [cursor=pointer]:
+                - generic [ref=e913]:
+                  - generic [aria-hidden] [ref=e914]: 
+                  - generic [ref=e915]: Rédiger un avis
+              - generic [ref=e919]:
+                - textbox [active] [ref=e1935]: pas pour
+                - button "Effacer" [ref=e1936] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e1937]: 
+              - generic [ref=e921]:
+                - button "Tous les avis" [ref=e922] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e924]: 
+                - button "Avis les moins favorables" [ref=e985] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e927]: 
+              - generic [ref=e1938]:
+                - generic "Ab Bou" [ref=e1939]:
+                  - generic [ref=e1941]:
+                    - button "Photo de Ab Bou" [ref=e1942]
+                    - generic [ref=e1944]:
+                      - button "Ab Bou Local Guide · 92 avis · 35 photos" [ref=e1946]:
+                        - generic [ref=e1947]: Ab Bou
+                        - generic [ref=e1948]: Local Guide · 92 avis · 35 photos
+                      - button "Actions pour l'avis rédigé par Ab Bou" [ref=e1949] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=e1951]: 
+                    - generic [ref=e1952]:
+                      - generic [ref=e1953]:
+                        - generic [ref=e1954]: 1/5
+                        - generic [ref=e1955]:
+                          - text: il y a 3 semaines sur
+                          - generic [ref=e1956]: Google
+                        - generic [ref=e1957]: Nouveau
+                      - generic [ref=e1959]:
+                        - generic [ref=e1960]: … Après un aussi long trajet, c’est vraiment inadmissible. Le lendemain, je voulais simplement accompagner ma fille à la piscine pour la surveiller. On m’a interdit l’accès à la terrasse de la piscine parce que je ne portais pas de maillot …
+                        - button "Voir plus" [ref=e1962] [cursor=pointer]: Plus
+                      - generic [ref=e1963]:
+                        - button "J'aime" [ref=e1964]:
+                          - generic [ref=e1965] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e1966]: 
+                            - generic [ref=e1967]: J'aime
+                        - button "Partager l'avis rédigé par Ab Bou." [ref=e1969]:
+                          - generic [ref=e1970] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e1971]: 
+                            - generic [ref=e1972]: Partager
+                - generic "Amira Knz" [ref=e1976]:
+                  - generic [ref=e1978]:
+                    - button "Photo de Amira Knz" [ref=e1979]
+                    - generic [ref=e1981]:
+                      - button "Amira Knz Local Guide · 13 avis · 12 photos" [ref=e1983]:
+                        - generic [ref=e1984]: Amira Knz
+                        - generic [ref=e1985]: Local Guide · 13 avis · 12 photos
+                      - button "Actions pour l'avis rédigé par Amira Knz" [ref=e1986] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=e1988]: 
+                    - generic [ref=e1989]:
+                      - generic [ref=e1990]:
+                        - generic [ref=e1991]: 1/5
+                        - generic [ref=e1992]:
+                          - text: il y a 4 mois sur
+                          - generic [ref=e1993]: Google
+                      - generic [ref=e1995]:
+                        - generic [ref=e1996]: Quelle déception ! Nous avons réservé une suite royale à plus de 500€ la nuit, et l’expérience n’a absolument pas été à la hauteur de nos attentes. En dehors de la magnifique vue sur la mer, le reste laisse sérieusement à désirer. Le …
+                        - button "Voir plus" [ref=e1998] [cursor=pointer]: Plus
+                      - generic [ref=e1999]:
+                        - button "Photo 1 dans l'avis rédigé par Amira Knz" [ref=e2000] [cursor=pointer]
+                        - button "Photo 2 dans l'avis rédigé par Amira Knz" [ref=e2001] [cursor=pointer]
+                        - button "Photo 3 dans l'avis rédigé par Amira Knz" [ref=e2002] [cursor=pointer]
+                        - button "Photo 4 dans l'avis rédigé par Amira Knz" [ref=e2003] [cursor=pointer]
+                      - generic [ref=e2004]:
+                        - button "J'aime" [ref=e2005]:
+                          - generic [ref=e2006] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e2007]: 
+                            - generic [ref=e2008]: J'aime
+                        - button "Partager l'avis rédigé par Amira Knz." [ref=e2010]:
+                          - generic [ref=e2011] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e2012]: 
+                            - generic [ref=e2013]: Partager
+                - generic "Nesrine Remmache" [ref=e2017]:
+                  - generic [ref=e2019]:
+                    - button "Photo de Nesrine Remmache" [ref=e2020]
+                    - generic [ref=e2022]:
+                      - button "Nesrine Remmache Local Guide · 13 avis" [ref=e2024]:
+                        - generic [ref=e2025]: Nesrine Remmache
+                        - generic [ref=e2026]: Local Guide · 13 avis
+                      - button "Actions pour l'avis rédigé par Nesrine Remmache" [ref=e2027] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=e2029]: 
+                    - generic [ref=e2030]:
+                      - generic [ref=e2031]:
+                        - generic [ref=e2032]: 1/5
+                        - generic [ref=e2033]:
+                          - text: il y a 3 mois sur
+                          - generic [ref=e2034]: Google
+                      - generic [ref=e2036]:
+                        - generic [ref=e2037]: Alors, par où commencer... Nous avons payé **44 700 DA** pour une chambre double avec petit-déjeuner. À ce prix-là, on s'attend à un véritable hôtel 5 étoiles, avec un service irréprochable, des chambres impeccables et des prestations à la …
+                        - button "Voir plus" [ref=e2039] [cursor=pointer]: Plus
+                      - generic [ref=e2040]:
+                        - button "J'aime" [ref=e2041]:
+                          - generic [ref=e2042] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e2043]: 
+                            - generic [ref=e2044]: J'aime
+                        - button "Partager l'avis rédigé par Nesrine Remmache." [ref=e2046]:
+                          - generic [ref=e2047] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e2048]: 
+                            - generic [ref=e2049]: Partager
+                - generic "S Btc" [ref=e2053]:
+                  - generic [ref=e2055]:
+                    - button "Photo de S Btc" [ref=e2056]
+                    - generic [ref=e2058]:
+                      - button "S Btc 9 avis" [ref=e2060]:
+                        - generic [ref=e2061]: S Btc
+                        - generic [ref=e2062]: 9 avis
+                      - button "Actions pour l'avis rédigé par S Btc" [ref=e2063] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=e2065]: 
+                    - generic [ref=e2066]:
+                      - generic [ref=e2067]:
+                        - generic [ref=e2068]: 1/5
+                        - generic [ref=e2069]:
+                          - text: il y a 4 mois sur
+                          - generic [ref=e2070]: Google
+                      - generic [ref=e2072]:
+                        - generic [ref=e2073]: A FUIR !!! Pour un accès piscine, Très mauvaise expérience, j’ai appelé avant de venir on me confirme que l’accès piscine est ouvert aux non résidents et arrivée sur place on me dit que non, j’ai finalement pu accéder à la piscine, le …
+                        - button "Voir plus" [ref=e2075] [cursor=pointer]: Plus
+                      - generic [ref=e2076]:
+                        - button "J'aime" [ref=e2077]:
+                          - generic [ref=e2078] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e2079]: 
+                            - generic [ref=e2080]: J'aime
+                        - button "Partager l'avis rédigé par S Btc." [ref=e2082]:
+                          - generic [ref=e2083] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e2084]: 
+                            - generic [ref=e2085]: Partager
+                - generic "C." [ref=e2089]:
+                  - generic [ref=e2091]:
+                    - button "Photo de C." [ref=e2092]
+                    - generic [ref=e2094]:
+                      - button "C. 3 avis" [ref=e2096]:
+                        - generic [ref=e2097]: C.
+                        - generic [ref=e2098]: 3 avis
+                      - button "Actions pour l'avis rédigé par C." [ref=e2099] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=e2101]: 
+                    - generic [ref=e2102]:
+                      - generic [ref=e2103]:
+                        - generic [ref=e2104]: 1/5
+                        - generic [ref=e2105]:
+                          - text: il y a 4 mois sur
+                          - generic [ref=e2106]: Google
+                      - generic [ref=e2108]:
+                        - generic [ref=e2109]: Une étoile à peine méritée car mettre 0 est impossible…L’accès à la piscine à 12000 pour avoir le droit de s’installer devant un bassin simple et une pateaugeoir. Pas de vue sur mer, une serviette de bain est fournie et heureusement vu le …
+                        - button "Voir plus" [ref=e2111] [cursor=pointer]: Plus
+                      - generic [ref=e2112]:
+                        - button "J'aime" [ref=e2113]:
+                          - generic [ref=e2114] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e2115]: 
+                            - generic [ref=e2116]: J'aime
+                        - button "Partager l'avis rédigé par C.." [ref=e2118]:
+                          - generic [ref=e2119] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e2120]: 
+                            - generic [ref=e2121]: Partager
+              - button "Voir plus d'avis (2 361)" [ref=e2125]
+              - generic [ref=e2130]:
+                - generic [aria-hidden] [ref=e2132]: 
+                - generic [ref=e2133]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=e2134] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=e721] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e722]: 
+      - generic [ref=e792]:
+        - button "Applications Google" [ref=e796] [cursor=pointer]
+        - link "Connexion" [ref=e800] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FLe%2BM%25C3%25A9ridien%2BH%25C3%25B4tel%2B%2526%2BConvention%2Bcenter%2F%4035.7245902%2C-0.5813477%2C14.67z%2Fdata%3D!4m11!3m10!1s0xd7e88570d76d9cb%3A0x4f243c20bf8254a8!5m2!4m1!1i2!8m2!3d35.7264888!4d-0.5919311!9m1!1b1!16s%252Fg%252F1tp09h6c%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=e804] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e806]: 
+          - generic [ref=e808] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=e809]:
+              - generic [aria-hidden] [ref=e811]: 
+            - button "Faire un zoom arrière" [ref=e812]:
+              - generic [aria-hidden] [ref=e814]: 
+        - generic [ref=e818]:
+          - button "Parcourir les images Street View" [ref=e820]
+          - button "Street View" [ref=e822] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e825]: 
+        - generic [ref=e830]:
+          - generic "Carte interactive" [ref=e831]
+          - generic [ref=e835] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e836]: 
+            - generic [ref=e837]: Calques
+          - button "Calques" [ref=e838] [cursor=pointer]
+      - generic [ref=e840]:
+        - contentinfo [ref=e843]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=e844] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=e845] [cursor=pointer]
+          - button "Confidentialité" [ref=e846] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=e847] [cursor=pointer]
+        - button "500 m" [ref=e970] [cursor=pointer]
+  - generic [ref=e1164]: Affichage des résultats pour pas pour

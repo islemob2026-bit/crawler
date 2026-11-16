@@ -1,0 +1,294 @@
+- generic [ref=e1]:
+  - generic "Google Maps" [ref=e2]:
+    - generic [ref=e8]:
+      - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=e13]
+      - search [ref=e19]:
+        - button "Retour" [ref=e855] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e856]: 
+        - generic [ref=e20]:
+          - combobox [ref=e22]: Le Méridien Hôtel & Convention center
+          - button "Rechercher" [ref=e24] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e25]: 
+          - button "Fermer" [ref=e27] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e28]: 
+      - region "Options de recherche disponibles pour cette zone" [ref=e730]:
+        - generic [ref=e733]:
+          - button "Hôtels à proximité" [ref=e735] [cursor=pointer]:
+            - generic [ref=e736]:
+              - generic [aria-hidden] [ref=e738]: 
+              - generic [ref=e739]: Hôtels à proximité
+          - button "Restaurants" [ref=e741] [cursor=pointer]:
+            - generic [ref=e742]:
+              - generic [aria-hidden] [ref=e744]: 
+              - generic [ref=e745]: Restaurants
+          - button "Activités à découvrir" [ref=e747] [cursor=pointer]:
+            - generic [ref=e748]:
+              - generic [aria-hidden] [ref=e750]: 
+              - generic [ref=e751]: Activités à découvrir
+          - button "Bars" [ref=e753] [cursor=pointer]:
+            - generic [ref=e754]:
+              - generic [aria-hidden] [ref=e756]: 
+              - generic [ref=e757]: Bars
+          - button "Cafés" [ref=e759] [cursor=pointer]:
+            - generic [ref=e760]:
+              - generic [aria-hidden] [ref=e762]: 
+              - generic [ref=e763]: Cafés
+          - button "Pharmacies" [ref=e765] [cursor=pointer]:
+            - generic [ref=e766]:
+              - generic [aria-hidden] [ref=e768]: 
+              - generic [ref=e769]: Pharmacies
+          - button "Parkings" [ref=e771] [cursor=pointer]:
+            - generic [ref=e772]:
+              - generic [aria-hidden] [ref=e774]: 
+              - generic [ref=e775]: Parkings
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - list [ref=e32]:
+            - listitem [ref=e33]:
+              - button "Menu" [ref=e34] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e36]: 
+            - listitem [ref=e37]:
+              - button "Enregistré" [ref=e38] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e40]: 
+            - listitem [ref=e43]:
+              - button "Récents" [ref=e44] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e46]: 
+            - listitem [ref=e962]:
+              - button "Le Méridien Hôtel & Convention center" [ref=e963] [cursor=pointer]
+            - listitem [ref=e50]:
+              - button "Obtenir l'appli" [ref=e51] [cursor=pointer]:
+                - generic [aria-hidden] [ref=e53]: 
+          - main "Le Méridien Hôtel & Convention center" [ref=e60]:
+            - tablist [ref=e120]:
+              - tab "Le Méridien Hôtel & Convention center - Présentation" [ref=e121]:
+                - generic [aria-hidden] [ref=e123]: Présentation
+              - tab "Prix pour Le Méridien Hôtel & Convention center" [ref=e125]:
+                - generic [aria-hidden] [ref=e127]: Prix
+              - tab "Le Méridien Hôtel & Convention center - Avis" [selected] [ref=e129]:
+                - generic [aria-hidden] [ref=e131]: Avis
+              - tab "Informations sur Le Méridien Hôtel & Convention center" [ref=e133]:
+                - generic [aria-hidden] [ref=e135]: À propos
+            - generic [ref=e858]:
+              - generic [ref=e860]:
+                - list [ref=e862]:
+                  - listitem [ref=e863]: 50 230 DA
+                  - text: ·
+                  - listitem [ref=e864]: Hôtel 5 étoiles
+                - generic [ref=e865]: 28–29 janv.
+              - link [ref=e869] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=e870]:
+                  - generic [aria-hidden] [ref=e871]: 
+                  - text: Vérifier la disponibilité
+            - generic [active] [ref=e873]:
+              - generic [ref=e874]:
+                - heading "Résumé des avis Google" [level=2] [ref=e876]
+                - button "Informations" [ref=e878] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e879]: 
+              - generic [ref=e881]:
+                - table [ref=e883]:
+                  - rowgroup [ref=e884]:
+                    - img "5 étoiles, 1 335 avis" [ref=e885]: "5"
+                    - img "4 étoiles, 504 avis" [ref=e888]: "4"
+                    - img "3 étoiles, 195 avis" [ref=e891]: "3"
+                    - img "2 étoiles, 95 avis" [ref=e894]: "2"
+                    - img "1 étoiles, 237 avis" [ref=e897]: "1"
+                - generic [ref=e900]:
+                  - generic [ref=e901]: 4,1
+                  - img "4,1 étoiles" [ref=e902]
+                  - generic [ref=e908]: 2 366 avis
+              - button "Rédiger un avis" [ref=e912] [cursor=pointer]:
+                - generic [ref=e913]:
+                  - generic [aria-hidden] [ref=e914]: 
+                  - generic [ref=e915]: Rédiger un avis
+              - generic [ref=e919]:
+                - textbox [ref=e1165]: famille
+                - button "Effacer" [ref=e1166] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e1167]: 
+              - generic [ref=e921]:
+                - button "Tous les avis" [ref=e922] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e924]: 
+                - button "Avis les moins favorables" [ref=e985] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=e927]: 
+              - generic [ref=e1168]:
+                - generic "Ab Bou" [ref=e1169]:
+                  - generic [ref=e1171]:
+                    - button "Photo de Ab Bou" [ref=e1172]
+                    - generic [ref=e1174]:
+                      - button "Ab Bou Local Guide · 92 avis · 35 photos" [ref=e1176]:
+                        - generic [ref=e1177]: Ab Bou
+                        - generic [ref=e1178]: Local Guide · 92 avis · 35 photos
+                      - button "Actions pour l'avis rédigé par Ab Bou" [ref=e1179] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=e1181]: 
+                    - generic [ref=e1182]:
+                      - generic [ref=e1183]:
+                        - generic [ref=e1184]: 1/5
+                        - generic [ref=e1185]:
+                          - text: il y a 3 semaines sur
+                          - generic [ref=e1186]: Google
+                        - generic [ref=e1187]: Nouveau
+                      - generic [ref=e1189]:
+                        - generic [ref=e1190]: … mauvaise expérience Pire hôtel que j’ai pu faire en Algérie. Nous sommes arrivés vers 16h après 10 heures de route, en famille avec un bébé, et on nous a fait attendre 1h30 à l’accueil avant de nous donner les clés. Après un aussi long …
+                        - button "Voir plus" [ref=e1192] [cursor=pointer]: Plus
+                      - generic [ref=e1193]:
+                        - button "J'aime" [ref=e1194]:
+                          - generic [ref=e1195] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e1196]: 
+                            - generic [ref=e1197]: J'aime
+                        - button "Partager l'avis rédigé par Ab Bou." [ref=e1199]:
+                          - generic [ref=e1200] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e1201]: 
+                            - generic [ref=e1202]: Partager
+                - generic "Laure Dps" [ref=e1206]:
+                  - generic [ref=e1208]:
+                    - button "Photo de Laure Dps" [ref=e1209]
+                    - generic [ref=e1211]:
+                      - button "Laure Dps Local Guide · 30 avis · 2 photos" [ref=e1213]:
+                        - generic [ref=e1214]: Laure Dps
+                        - generic [ref=e1215]: Local Guide · 30 avis · 2 photos
+                      - button "Actions pour l'avis rédigé par Laure Dps" [ref=e1216] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=e1218]: 
+                    - generic [ref=e1219]:
+                      - generic [ref=e1220]:
+                        - generic [ref=e1221]: 1/5
+                        - generic [ref=e1222]:
+                          - text: il y a 11 mois sur
+                          - generic [ref=e1223]: Google
+                      - generic [ref=e1225]:
+                        - generic [ref=e1226]: … si le règlement est créer par le directeur de l'hôtel ? J'explique nous avons acheter une bouteille au duty free pour la famille. Nous le faisons tout les 6 mois. Nous n'avons jamais eu aucun problème mais cette fois ci ça n'a pas louper. …
+                        - button "Voir plus" [ref=e1228] [cursor=pointer]: Plus
+                      - generic [ref=e1229]:
+                        - button "J'aime" [ref=e1230]:
+                          - generic [ref=e1231] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e1232]: 
+                            - generic [ref=e1233]: J'aime
+                        - button "Partager l'avis rédigé par Laure Dps." [ref=e1235]:
+                          - generic [ref=e1236] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e1237]: 
+                            - generic [ref=e1238]: Partager
+                - generic "Labed Mélissa" [ref=e1242]:
+                  - generic [ref=e1244]:
+                    - button "Photo de Labed Mélissa" [ref=e1245]
+                    - generic [ref=e1247]:
+                      - button "Labed Mélissa Local Guide · 36 avis · 5 photos" [ref=e1249]:
+                        - generic [ref=e1250]: Labed Mélissa
+                        - generic [ref=e1251]: Local Guide · 36 avis · 5 photos
+                      - button "Actions pour l'avis rédigé par Labed Mélissa" [ref=e1252] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=e1254]: 
+                    - generic [ref=e1255]:
+                      - generic [ref=e1256]:
+                        - generic [ref=e1257]: 1/5
+                        - generic [ref=e1258]:
+                          - text: il y a 3 mois sur
+                          - generic [ref=e1259]: Google
+                      - generic [ref=e1261]:
+                        - generic [ref=e1262]: J’y suis actuellement en famille . Spa organisation médiocre , chambres absolument pas moderne . Le prix conséquent pour le niveau de service .
+                        - button "Voir plus" [ref=e1264] [cursor=pointer]: Plus
+                      - generic [ref=e1265]:
+                        - button "J'aime" [ref=e1266]:
+                          - generic [ref=e1267] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e1268]: 
+                            - generic [ref=e1269]: J'aime
+                        - button "Partager l'avis rédigé par Labed Mélissa." [ref=e1271]:
+                          - generic [ref=e1272] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e1273]: 
+                            - generic [ref=e1274]: Partager
+                - generic "Youcef Djenki" [ref=e1278]:
+                  - generic [ref=e1280]:
+                    - button "Photo de Youcef Djenki" [ref=e1281]
+                    - generic [ref=e1283]:
+                      - button "Youcef Djenki 4 avis" [ref=e1285]:
+                        - generic [ref=e1286]: Youcef Djenki
+                        - generic [ref=e1287]: 4 avis
+                      - button "Actions pour l'avis rédigé par Youcef Djenki" [ref=e1288] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=e1290]: 
+                    - generic [ref=e1291]:
+                      - generic [ref=e1292]:
+                        - generic [ref=e1293]: 1/5
+                        - generic [ref=e1294]:
+                          - text: il y a 2 ans sur
+                          - generic [ref=e1295]: Google
+                      - generic [ref=e1297]:
+                        - generic [ref=e1298]: … était poussiéreuse et senter le renfermé, le lendemain, nous demandons une suite premium pour pouvoir accueillir toute notre famille. Le manager du front desk Mehdi, très aimable nous change de chambre après 5 heures de negociation. Le …
+                        - button "Voir plus" [ref=e1300] [cursor=pointer]: Plus
+                      - generic [ref=e1301]:
+                        - button "J'aime" [ref=e1302]:
+                          - generic [ref=e1303] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e1304]: 
+                            - generic [ref=e1305]: J'aime
+                        - button "Partager l'avis rédigé par Youcef Djenki." [ref=e1307]:
+                          - generic [ref=e1308] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e1309]: 
+                            - generic [ref=e1310]: Partager
+                - generic "Mary Castro" [ref=e1314]:
+                  - generic [ref=e1316]:
+                    - button "Photo de Mary Castro" [ref=e1317]
+                    - generic [ref=e1319]:
+                      - button "Mary Castro Local Guide · 12 avis · 2 photos" [ref=e1321]:
+                        - generic [ref=e1322]: Mary Castro
+                        - generic [ref=e1323]: Local Guide · 12 avis · 2 photos
+                      - button "Actions pour l'avis rédigé par Mary Castro" [ref=e1324] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=e1326]: 
+                    - generic [ref=e1327]:
+                      - generic [ref=e1328]:
+                        - generic [ref=e1329]: 1/5
+                        - generic [ref=e1330]:
+                          - text: il y a 3 ans sur
+                          - generic [ref=e1331]: Google
+                      - generic [ref=e1333]:
+                        - generic [ref=e1334]: Nous avons réservé 1 semaine au mois d’août en famille. Après plusieurs jours à essayer de les joindre, nous recevons un mail de l’hôtel nous signalant qu’il n’y aura pas de Clim lors de notre séjour !!! Et avec le plus grand culot, on nous …
+                        - button "Voir plus" [ref=e1336] [cursor=pointer]: Plus
+                      - generic [ref=e1337]:
+                        - button "1 \"J'aime\"" [ref=e1338]:
+                          - generic [ref=e1339] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e1340]: 
+                            - generic [ref=e1341]: "1"
+                        - button "Partager l'avis rédigé par Mary Castro." [ref=e1343]:
+                          - generic [ref=e1344] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=e1345]: 
+                            - generic [ref=e1346]: Partager
+                      - generic [ref=e1347]:
+                        - generic [ref=e1348]: Réponse du propriétaire il y a 3 ans
+                        - generic [ref=e1349]:
+                          - text: Cher Madame Mary Castro, Nous vous sommes reconnaissants de nous avoir consacré votre temps pour partager …
+                          - button "Voir plus" [ref=e1351] [cursor=pointer]: Plus
+              - button "Voir plus d'avis (2 361)" [ref=e1355]
+              - generic [ref=e1360]:
+                - generic [aria-hidden] [ref=e1362]: 
+                - generic [ref=e1363]:
+                  - text: Vous voyez un affichage limité de Google Maps.
+                  - button "Voir plus" [ref=e1364] [cursor=pointer]
+        - button "Réduire le panneau latéral" [ref=e721] [cursor=pointer]:
+          - generic [aria-hidden] [ref=e722]: 
+      - generic [ref=e792]:
+        - button "Applications Google" [ref=e796] [cursor=pointer]
+        - link "Connexion" [ref=e800] [cursor=pointer]:
+          - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FLe%2BM%25C3%25A9ridien%2BH%25C3%25B4tel%2B%2526%2BConvention%2Bcenter%2F%4035.7245902%2C-0.5813477%2C14.67z%2Fdata%3D!4m11!3m10!1s0xd7e88570d76d9cb%3A0x4f243c20bf8254a8!5m2!4m1!1i2!8m2!3d35.7264888!4d-0.5919311!9m1!1b1!16s%252Fg%252F1tp09h6c%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+      - generic:
+        - generic:
+          - button "Afficher votre position" [ref=e804] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e806]: 
+          - generic [ref=e808] [cursor=pointer]:
+            - button "Faire un zoom avant" [ref=e809]:
+              - generic [aria-hidden] [ref=e811]: 
+            - button "Faire un zoom arrière" [ref=e812]:
+              - generic [aria-hidden] [ref=e814]: 
+        - generic [ref=e818]:
+          - button "Parcourir les images Street View" [ref=e820]
+          - button "Street View" [ref=e822] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e825]: 
+        - generic [ref=e830]:
+          - generic "Carte interactive" [ref=e831]
+          - generic [ref=e835] [cursor=pointer]:
+            - generic [aria-hidden] [ref=e836]: 
+            - generic [ref=e837]: Calques
+          - button "Calques" [ref=e838] [cursor=pointer]
+      - generic [ref=e840]:
+        - contentinfo [ref=e843]:
+          - text: Données cartographiques ©2026
+          - button "Algérie" [ref=e844] [cursor=pointer]
+          - button "Conditions d'utilisation" [ref=e845] [cursor=pointer]
+          - button "Confidentialité" [ref=e846] [cursor=pointer]
+          - button "Envoyer des commentaires sur le produit" [ref=e847] [cursor=pointer]
+        - button "500 m" [ref=e970] [cursor=pointer]
+  - generic [ref=e1164]: Affichage des résultats pour famille

@@ -1,0 +1,377 @@
+- generic "Google Maps" [ref=f4e9]:
+  - dialog [ref=f4e10]:
+    - generic [ref=f4e13]:
+      - generic [aria-hidden] [ref=f4e14]: 
+      - text: Indiquez vos dates pour afficher les meilleurs prix
+  - generic [ref=f4e3]:
+    - application "Plan·Utilisez les touches fléchées pour déplacer la carte.·Pour obtenir des informations sur un lieu, appuyez sur la touche numérique correspondante." [ref=f4e15]
+    - search [ref=f4e20]:
+      - generic [ref=f4e21]:
+        - combobox [ref=f4e23]: Colombe hotel Oran
+        - button "Rechercher" [ref=f4e25] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f4e26]: 
+        - button "Fermer" [ref=f4e28] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f4e29]: 
+    - region "Options de recherche disponibles pour cette zone" [ref=f4e36]:
+      - generic [ref=f4e39]:
+        - button "Hôtels à proximité" [ref=f4e41] [cursor=pointer]:
+          - generic [ref=f4e42]:
+            - generic [aria-hidden] [ref=f4e44]: 
+            - generic [ref=f4e45]: Hôtels à proximité
+        - button "Restaurants" [ref=f4e47] [cursor=pointer]:
+          - generic [ref=f4e48]:
+            - generic [aria-hidden] [ref=f4e50]: 
+            - generic [ref=f4e51]: Restaurants
+        - button "Activités à découvrir" [ref=f4e53] [cursor=pointer]:
+          - generic [ref=f4e54]:
+            - generic [aria-hidden] [ref=f4e56]: 
+            - generic [ref=f4e57]: Activités à découvrir
+        - button "Bars" [ref=f4e59] [cursor=pointer]:
+          - generic [ref=f4e60]:
+            - generic [aria-hidden] [ref=f4e62]: 
+            - generic [ref=f4e63]: Bars
+        - button "Cafés" [ref=f4e65] [cursor=pointer]:
+          - generic [ref=f4e66]:
+            - generic [aria-hidden] [ref=f4e68]: 
+            - generic [ref=f4e69]: Cafés
+        - button "Pharmacies" [ref=f4e71] [cursor=pointer]:
+          - generic [ref=f4e72]:
+            - generic [aria-hidden] [ref=f4e74]: 
+            - generic [ref=f4e75]: Pharmacies
+        - button "Parkings" [ref=f4e77] [cursor=pointer]:
+          - generic [ref=f4e78]:
+            - generic [aria-hidden] [ref=f4e80]: 
+            - generic [ref=f4e81]: Parkings
+    - generic [ref=f4e82]:
+      - generic [ref=f4e83]:
+        - list [ref=f4e85]:
+          - listitem [ref=f4e86]:
+            - button "Menu" [ref=f4e87] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f4e89]: 
+          - listitem [ref=f4e90]:
+            - button "Enregistré" [ref=f4e91] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f4e93]: 
+          - listitem [ref=f4e96]:
+            - button "Récents" [ref=f4e97] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f4e99]: 
+          - listitem [ref=f4e103]:
+            - button "Colombe hotel Oran" [ref=f4e104] [cursor=pointer]
+          - listitem [ref=f4e112]:
+            - button "Obtenir l'appli" [ref=f4e113] [cursor=pointer]:
+              - generic [aria-hidden] [ref=f4e115]: 
+        - main "Colombe hotel Oran" [ref=f4e122]:
+          - generic [ref=f4e123]:
+            - generic [ref=f4e124]:
+              - button "Photo de Colombe hotel Oran" [ref=f4e126] [cursor=pointer]
+              - button "SUPER AFFAIRE·À partir de 7 068 DA par nuit.·28 % de moins que le prix habituel" [ref=f4e129] [cursor=pointer]:
+                - generic [ref=f4e130]:
+                  - generic [ref=f4e131]: 28 % de moins que le prix habituel
+                  - generic [ref=f4e132]:
+                    - generic [ref=f4e133]: SUPER AFFAIRE
+                    - generic [ref=f4e135]: 7 068 DA
+              - button "Voir les photos" [ref=f4e136] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e137]: 
+            - generic [ref=f4e141]:
+              - heading "Colombe hotel Oran" [level=1] [ref=f4e143]
+              - heading "فندق بيست ويسترن كولومب" [level=2] [ref=f4e144]
+              - generic [ref=f4e148]:
+                - generic [ref=f4e149]:
+                  - generic [ref=f4e150]:
+                    - text: 4,4
+                    - img "4,4 étoiles" [ref=f4e151]
+                  - img "640 avis" [ref=f4e159]: (640)
+                - generic [ref=f4e162]:
+                  - text: ·
+                  - generic [ref=f4e163]: Hôtel 3 étoiles
+            - tablist [ref=f4e167]:
+              - tab "Colombe hotel Oran - Présentation" [selected] [ref=f4e168]:
+                - generic [aria-hidden] [ref=f4e170]: Présentation
+              - tab "Prix pour Colombe hotel Oran" [ref=f4e172]:
+                - generic [aria-hidden] [ref=f4e174]: Prix
+              - tab "Colombe hotel Oran - Avis" [ref=f4e176]:
+                - generic [aria-hidden] [ref=f4e178]: Avis
+              - tab "Informations sur Colombe hotel Oran" [ref=f4e180]:
+                - generic [aria-hidden] [ref=f4e182]: À propos
+            - region "Colombe hotel Oran - Actions" [ref=f4e184]:
+              - button "Itinéraires" [ref=f4e186] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e188]: 
+              - button "Enregistrer" [ref=f4e191] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e193]: 
+              - button "À proximité" [ref=f4e196] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e198]: 
+              - button "Partager" [ref=f4e201] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e203]: 
+            - link [ref=f4e207] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=f4e208]:
+                - generic [aria-hidden] [ref=f4e209]: 
+                - text: Vérifier la disponibilité
+            - generic [ref=f4e212]:
+              - generic [ref=f4e214]:
+                - heading "Comparer les prix" [level=2] [ref=f4e215]
+                - generic [ref=f4e217]:
+                  - generic [ref=f4e218]: Annulation gratuite uniquement
+                  - checkbox "Annulation gratuite uniquement" [ref=f4e219]:
+                    - generic [aria-hidden] [ref=f4e220]: 
+                    - checkbox "Annulation gratuite uniquement" [ref=f4e221] [cursor=pointer]
+              - generic [ref=f4e222]:
+                - group "Arrivée/Départ" [ref=f4e223]:
+                  - group "Du mercredi 11 novembre au jeudi 12 novembre" [active] [ref=f4e225]:
+                    - generic [ref=f4e227] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f4e228]: mer. 11 nov.
+                      - generic [ref=f4e229]:
+                        - button "Arriver un jour plus tôt" [ref=f4e230]:
+                          - generic [aria-hidden] [ref=f4e231]: 
+                        - button "Arriver un jour plus tard" [ref=f4e232]:
+                          - generic [aria-hidden] [ref=f4e233]: 
+                    - generic [ref=f4e235] [cursor=pointer]:
+                      - generic [aria-hidden] [ref=f4e236]: jeu. 12 nov.
+                      - generic [ref=f4e237]:
+                        - button "Partir un jour plus tôt" [disabled] [ref=f4e238]:
+                          - generic [aria-hidden] [ref=f4e239]: 
+                        - button "Partir un jour plus tard" [ref=f4e240]:
+                          - generic [aria-hidden] [ref=f4e241]: 
+                - group "Invités" [ref=f4e242]:
+                  - generic [aria-hidden] [ref=f4e243]: 
+                  - button "2 clients" [ref=f4e244] [cursor=pointer]:
+                    - text: "2"
+                    - generic [aria-hidden] [ref=f4e245]: 
+              - generic [ref=f4e249]:
+                - heading "Toutes les options" [level=2] [ref=f4e252]
+                - generic [ref=f4e253]:
+                  - button "Trip.com 7 082 DA Annulation gratuite jusqu'au 8 nov. · Petit-déjeuner inclus" [ref=f4e259] [cursor=pointer]:
+                    - generic [ref=f4e260]:
+                      - generic [ref=f4e261]:
+                        - generic [ref=f4e262]: Trip.com
+                        - generic [ref=f4e264]:
+                          - generic [ref=f4e265]: 7 082 DA
+                          - generic [aria-hidden] [ref=f4e266]: 
+                      - generic [ref=f4e267]: Annulation gratuite jusqu'au 8 nov. · Petit-déjeuner inclus
+                  - button "goseek.com 7 068 DA Annulation gratuite jusqu'au 7 nov. · Petit-déjeuner inclus" [ref=f4e274] [cursor=pointer]:
+                    - generic [ref=f4e275]:
+                      - generic [ref=f4e276]:
+                        - generic [ref=f4e277]: goseek.com
+                        - generic [ref=f4e279]:
+                          - generic [ref=f4e280]: 7 068 DA
+                          - generic [aria-hidden] [ref=f4e281]: 
+                      - generic [ref=f4e282]: Annulation gratuite jusqu'au 7 nov. · Petit-déjeuner inclus
+                  - button "Plus de prix à partir de 7 068 DA" [ref=f4e286]
+            - region "Colombe hotel Oran - Informations" [ref=f4e292]:
+              - generic [ref=f4e293]:
+                - 'button "Adresse: 06 bd zabour larbi hai khaldia, Oran 31000" [ref=f4e294] [cursor=pointer]':
+                  - generic [ref=f4e295]:
+                    - generic [aria-hidden] [ref=f4e297]: 
+                    - generic [ref=f4e298]: 06 bd zabour larbi hai khaldia, Oran 31000
+                - button "Copier l'adresse" [ref=f4e302] [cursor=pointer]:
+                  - generic [aria-hidden] [ref=f4e304]: 
+              - generic [ref=f4e305]:
+                - 'link "Site Web: hotelcolombe.com" [ref=f4e306] [cursor=pointer]':
+                  - /url: https://www.hotelcolombe.com/
+                  - generic [ref=f4e307]:
+                    - generic [aria-hidden] [ref=f4e309]: 
+                    - generic [ref=f4e310]: hotelcolombe.com
+                - generic [ref=f4e312]:
+                  - link "Accéder au site Web" [ref=f4e314] [cursor=pointer]:
+                    - /url: https://www.hotelcolombe.com/
+                    - generic [aria-hidden] [ref=f4e316]: 
+                  - button "Copier le site Web" [ref=f4e318] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f4e320]: 
+              - generic [ref=f4e321]:
+                - 'button "Numéro de téléphone: 041 74 61 75" [ref=f4e322] [cursor=pointer]':
+                  - generic [ref=f4e323]:
+                    - generic [aria-hidden] [ref=f4e325]: 
+                    - generic [ref=f4e326]: 041 74 61 75
+                - generic [ref=f4e328]:
+                  - button "Copier le numéro de téléphone" [ref=f4e330] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f4e332]: 
+                  - link "Composer le numéro de téléphone" [ref=f4e334] [cursor=pointer]:
+                    - /url: tel:041746175
+                    - generic [aria-hidden] [ref=f4e336]: 
+              - generic [ref=f4e337]:
+                - 'button "Plus code: M9V9+FX Oran" [ref=f4e338] [cursor=pointer]':
+                  - generic [ref=f4e339]:
+                    - generic [aria-hidden] [ref=f4e341]: 
+                    - generic [ref=f4e342]: M9V9+FX Oran
+                - generic [ref=f4e344]:
+                  - button "Copier le plus code" [ref=f4e346] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f4e348]: 
+                  - button "En savoir plus sur les plus codes" [ref=f4e350] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f4e352]: 
+              - generic [ref=f4e354]:
+                - generic [aria-hidden] [ref=f4e356]: 
+                - generic [ref=f4e357]: "Heure d'arrivée : 12:00 PMHeure de départ : 2:00 PM"
+            - button "Suggérer une modification" [ref=f4e362] [cursor=pointer]:
+              - generic [ref=f4e363]:
+                - generic [aria-hidden] [ref=f4e364]: 
+                - generic [ref=f4e365]: Suggérer une modification
+            - generic [ref=f4e368]:
+              - generic [ref=f4e369]: Du propriétaire
+              - button "Afficher les posts locaux" [ref=f4e371] [cursor=pointer]:
+                - generic [ref=f4e373]:
+                  - generic [ref=f4e374]: "BLACK FRIDAY 2026 ON VOUS RÉGALE ! Offrez à votre famille une escapade de 3 nuits et 4 jours à Oran ! Du 29 octobre au 1er novembre 2026 OFFRE SPÉCIALE FAMILLE Pour 2 adultes et 2 enfants FORMULE 1 — PETIT-DÉJEUNER 43 900 DA le séjour pour 4 personnes. Enfant supplémentaire : 6000 DA FORMULE 2 — DEMI-PENSION 69 900 DA le séjour Enfant supplémentaire : 6000 DA ✨ 3 nuits pour profiter, se retrouver et partager de beaux moments en famille. Réservations : 042 199 004 / 042 199 006 ✉️ reservation@hotelcolombe.com"
+                  - generic [ref=f4e376]: 21 oct. 2026
+                  - link "Réserver" [ref=f4e378]:
+                    - /url: https://www.tripadvisor.fr/Hotel_Review-g303167-d1018301-Reviews-Colombe_Hotel_Oran-Oran_Oran_Province.html
+            - heading "Photos" [level=2] [ref=f4e384]
+            - button "715 photos" [ref=f4e387] [cursor=pointer]
+            - button "Ajouter des photos/vidéos" [ref=f4e395] [cursor=pointer]:
+              - generic [ref=f4e396]:
+                - generic [aria-hidden] [ref=f4e397]: 
+                - generic [ref=f4e398]: Ajouter des photos/vidéos
+            - heading "Hôtels similaires à proximité" [level=2] [ref=f4e402]
+            - region "Hôtels similaires à proximité" [ref=f4e403]:
+              - generic [ref=f4e406]:
+                - link "Sofi Hotel Oran·6 120 DA·4,4 étoiles·849 avis·Autre hôtel 3 étoiles, 947 DA moins cher·À 0,9 km" [ref=f4e407] [cursor=pointer]:
+                  - generic [ref=f4e408]: 6 120 DA
+                  - generic [ref=f4e411]:
+                    - generic [ref=f4e412]: Sofi Hotel Oran
+                    - img "4,4 étoiles 849 avis" [ref=f4e416]: 4,4(849)
+                    - generic [ref=f4e418]: Autre hôtel 3 étoiles, 947 DA moins cher
+                    - generic [ref=f4e419]: À 0,9 km
+                - link "Hotel Ikram Oran·7 444 DA·3,4 étoiles·114 avis·À 0,6 km" [ref=f4e420] [cursor=pointer]:
+                  - generic [ref=f4e421]: 7 444 DA
+                  - generic [ref=f4e424]:
+                    - generic [ref=f4e425]: Hotel Ikram Oran
+                    - img "3,4 étoiles 114 avis" [ref=f4e429]: 3,4(114)
+                    - generic [ref=f4e431]: À 0,6 km
+                - link "Hôtel le Cheval Blanc·6 787 DA·3,7 étoiles·182 avis·À 1 km" [ref=f4e432] [cursor=pointer]:
+                  - generic [ref=f4e433]: 6 787 DA
+                  - generic [ref=f4e436]:
+                    - generic [ref=f4e437]: Hôtel le Cheval Blanc
+                    - img "3,7 étoiles 182 avis" [ref=f4e441]: 3,7(182)
+                    - generic [ref=f4e443]: À 1 km
+                - link "Hôtel Mistral·6 996 DA·3,7 étoiles·324 avis·À 1,6 km" [ref=f4e444] [cursor=pointer]:
+                  - generic [ref=f4e445]: 6 996 DA
+                  - generic [ref=f4e448]:
+                    - generic [ref=f4e449]: Hôtel Mistral
+                    - img "3,7 étoiles 324 avis" [ref=f4e453]: 3,7(324)
+                    - generic [ref=f4e455]: À 1,6 km
+                - link "Charme El Cheikh Hotel·5 705 DA·3,9 étoiles·198 avis·Hôtel 4 étoiles, 1 363 DA moins cher·À 1,5 km" [ref=f4e456] [cursor=pointer]:
+                  - generic [ref=f4e457]: 5 705 DA
+                  - generic [ref=f4e460]:
+                    - generic [ref=f4e461]: Charme El Cheikh Hotel
+                    - img "3,9 étoiles 198 avis" [ref=f4e465]: 3,9(198)
+                    - generic [ref=f4e467]: Hôtel 4 étoiles, 1 363 DA moins cher
+                    - generic [ref=f4e468]: À 1,5 km
+                - link "Les Ambassadeurs Oran·6 921 DA·4,2 étoiles·342 avis·À 1,9 km" [ref=f4e469] [cursor=pointer]:
+                  - generic [ref=f4e470]: 6 921 DA
+                  - generic [ref=f4e473]:
+                    - generic [ref=f4e474]: Les Ambassadeurs Oran
+                    - img "4,2 étoiles 342 avis" [ref=f4e478]: 4,2(342)
+                    - generic [ref=f4e480]: À 1,9 km
+                - link "MH HOTEL·4,1 étoiles·420 avis·À 1,9 km" [ref=f4e481] [cursor=pointer]:
+                  - generic [ref=f4e484]:
+                    - generic [ref=f4e485]: MH HOTEL
+                    - img "4,1 étoiles 420 avis" [ref=f4e489]: 4,1(420)
+                    - generic [ref=f4e491]: À 1,9 km
+            - button "Afficher d'autres hôtels à proximité" [ref=f4e496]
+            - heading "Informations sur l'hôtel" [level=2] [ref=f4e502]
+            - generic [ref=f4e503]:
+              - text: Cet hôtel simple se trouve à 2 km du musée national Ahmed Zabana, à 3 km de la mosquée Abdellah Ben Salem et à 10 km du fort de Santa Cruz.
+              - button "Plus d'informations sur cet hôtel" [ref=f4e504] [cursor=pointer]: Plus
+            - generic [ref=f4e507]:
+              - img "Wi-Fi gratuit disponible" [ref=f4e508]:
+                - generic [aria-hidden] [ref=f4e509]: 
+                - generic [ref=f4e510]: Wi-Fi gratuit
+              - img "Petit-déjeuner inclus disponible" [ref=f4e511]:
+                - generic [aria-hidden] [ref=f4e512]: 
+                - generic [ref=f4e513]: Petit-déjeuner inclus
+              - img "Parking gratuit disponible" [ref=f4e514]:
+                - generic [aria-hidden] [ref=f4e515]: 
+                - generic [ref=f4e516]: Parking gratuit
+              - img "Accès handicapés disponible" [ref=f4e517]:
+                - generic [aria-hidden] [ref=f4e518]: 
+                - generic [ref=f4e519]: Accès handicapés
+              - img "Piscine non disponible" [ref=f4e520]:
+                - generic [aria-hidden] [ref=f4e521]: 
+                - generic [ref=f4e522]: Piscine
+              - img "Climatisation disponible" [ref=f4e523]:
+                - generic [aria-hidden] [ref=f4e524]: 
+                - generic [ref=f4e525]: Climatisation
+            - button "Afficher plus d'équipements" [ref=f4e529]:
+              - generic [ref=f4e530] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e531]: 
+                - generic [ref=f4e532]: Afficher plus d'équipements
+            - generic [ref=f4e535]:
+              - heading "Résumé des avis Google" [level=2] [ref=f4e536]
+              - button "Plus d'informations sur le résumé des avis" [ref=f4e537] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e538]: 
+            - generic [ref=f4e540] [cursor=pointer]:
+              - table [ref=f4e542]:
+                - rowgroup [ref=f4e543]:
+                  - img "5 étoiles, 467 avis" [ref=f4e544]: "5"
+                  - img "4 étoiles, 77 avis" [ref=f4e547]: "4"
+                  - img "3 étoiles, 33 avis" [ref=f4e550]: "3"
+                  - img "2 étoiles, 28 avis" [ref=f4e553]: "2"
+                  - img "1 étoiles, 35 avis" [ref=f4e556]: "1"
+              - generic [ref=f4e559]:
+                - generic [ref=f4e560]: 4,4
+                - img "4,4 étoiles" [ref=f4e561]
+                - button "640 avis" [ref=f4e567]
+            - button "Rédiger un avis" [ref=f4e573] [cursor=pointer]:
+              - generic [ref=f4e574]:
+                - generic [aria-hidden] [ref=f4e575]: 
+                - generic [ref=f4e576]: Rédiger un avis
+            - generic [ref=f4e579]:
+              - heading "Tous les avis" [level=2] [ref=f4e581]
+              - button "Rechercher dans les avis" [ref=f4e583] [cursor=pointer]:
+                - generic [aria-hidden] [ref=f4e585]: 
+            - generic [ref=f4e589]:
+              - generic [ref=f4e591]:
+                - generic [ref=f4e592]: Tripadvisor
+                - generic [ref=f4e595]:
+                  - generic [ref=f4e596]: 4,6/5
+                  - generic [aria-hidden] [ref=f4e597]: ·
+                  - generic [ref=f4e598]: 766 avis
+                - generic [ref=f4e599]: khamsak2020, il y a un mois
+                - generic [ref=f4e601]: Super hôtel ,propre et tranquille |très bon accueil par |Melle Farah , très souriante |Très bon petit petit déjeuner | Bien situé |Je recommande
+                - link "Afficher plus sur Tripadvisor" [ref=f4e604] [cursor=pointer]:
+                  - /url: https://www.tripadvisor.fr/ShowUserReviews-g303167-d1018301-r1079943079?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=DZ&supul=fr
+              - generic [ref=f4e607]:
+                - generic [ref=f4e608]: Tripadvisor
+                - generic [ref=f4e611]:
+                  - generic [ref=f4e612]: 4,6/5
+                  - generic [aria-hidden] [ref=f4e613]: ·
+                  - generic [ref=f4e614]: 770 avis
+                - generic [ref=f4e615]: L8303OSomarb, il y a 4 semaines
+                - generic [ref=f4e617]: ⭐️⭐️⭐️⭐️⭐️ Une magnifique expérience en famille||Nous avons passé une très belle nuitée en famille dans la suite luxueuse 503, et ce fut une …
+                - link "Afficher plus sur Tripadvisor" [ref=f4e620] [cursor=pointer]:
+                  - /url: https://www.tripadvisor.fr/ShowUserReviews-g303167-d1018301-r1080715750?m=68573&staydates=2026_11_15_2026_11_16&uguests=1_2_0&supdv=desktop&supuc=DZ&supul=fr
+            - button "Plus d'avis (637)" [ref=f4e626]
+            - link "À propos de ces données" [ref=f4e633] [cursor=pointer]:
+              - /url: https://support.google.com/local-listings?p=how_google_sources&authuser=0&hl=fr
+            - generic [ref=f4e638]:
+              - generic [aria-hidden] [ref=f4e640]: 
+              - generic [ref=f4e641]:
+                - text: Vous voyez un affichage limité de Google Maps.
+                - button "Voir plus" [ref=f4e642] [cursor=pointer]
+      - button "Réduire le panneau latéral" [ref=f4e644] [cursor=pointer]:
+        - generic [aria-hidden] [ref=f4e645]: 
+    - generic [ref=f4e649]:
+      - button "Applications Google" [ref=f4e653] [cursor=pointer]
+      - link "Connexion" [ref=f4e657] [cursor=pointer]:
+        - /url: https://accounts.google.com/ServiceLogin?hl=fr&passive=true&continue=https%3A%2F%2Fwww.google.com%2Fmaps%2Fplace%2FColombe%2Bhotel%2BOran%2F%4035.6937079%2C-0.630017%2C17z%2Fdata%3D!3m1!4b1!4m9!3m8!1s0xd7e885791194cfb%3A0xf1d573fe6d671ea7!5m2!4m1!1i2!8m2!3d35.6937079!4d-0.630017!16s%252Fg%252F1thby0dd%3Fved%3D1t%253A314688&service=local&ec=GAZAcQ
+    - generic:
+      - generic:
+        - button "Afficher votre position" [ref=f4e660] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f4e662]: 
+        - generic [ref=f4e664] [cursor=pointer]:
+          - button "Faire un zoom avant" [ref=f4e665]:
+            - generic [aria-hidden] [ref=f4e667]: 
+          - button "Faire un zoom arrière" [ref=f4e668]:
+            - generic [aria-hidden] [ref=f4e670]: 
+      - button "Parcourir les images Street View" [ref=f4e676]
+      - generic [ref=f4e678]:
+        - generic "Carte interactive" [ref=f4e679]
+        - generic [ref=f4e683] [cursor=pointer]:
+          - generic [aria-hidden] [ref=f4e684]: 
+          - generic [ref=f4e685]: Calques
+        - button "Calques" [ref=f4e686] [cursor=pointer]
+    - generic [ref=f4e688]:
+      - contentinfo [ref=f4e691]:
+        - text: Données cartographiques ©2026
+        - button "Algérie" [ref=f4e692] [cursor=pointer]
+        - button "Conditions d'utilisation" [ref=f4e693] [cursor=pointer]
+        - button "Confidentialité" [ref=f4e694] [cursor=pointer]
+        - button "Envoyer des commentaires sur le produit" [ref=f4e695] [cursor=pointer]
+      - button "100 m" [ref=f4e697] [cursor=pointer]
