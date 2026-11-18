@@ -1,6 +1,6 @@
 # ClippingProject — Implementation Plan
 
-Status: **Draft v2 — costed**
+Status: **Draft v3 — campaigns risk-adjusted**
 Owner: —
 Last updated: 2026-11-18
 
@@ -328,7 +328,7 @@ This is the number to beat with revenue per 1k views.
 | Line | Range | Planning value | Notes |
 | --- | --- | --- | --- |
 | TikTok Creator Rewards | $0.40–$1.00 / 1k **qualified** | **$0.25 / 1k total** | Only ~40% of views qualify; >1 min only |
-| TikTok brand campaigns | ~$1.00 / 1k gross, 10% fee | **$0.90 / 1k** | Median of 656 live campaigns, Nov 2026 |
+| TikTok brand campaigns | $0.12–$0.97 / 1k effective | **$0.27 / 1k net** | Headline ~$1.00, 10% fee. Headline ≠ paid — see §7.4 |
 | YouTube Shorts | $0.07–$0.20 / 1k; US ~$0.33 | **$0.00** | Gated by the 10M/90-day threshold |
 | Affiliate / TikTok Shop | Commission-based | not modelled | Upside |
 | Fixed brand deals | Per post | not modelled | Upside |
@@ -342,9 +342,44 @@ Assumes a **70/30 TikTok/YouTube** view split.
 | Mode | Calculation | Revenue per 1k total views |
 | --- | --- | --- |
 | Creator Rewards only | 0.70 × $0.25 + 0.30 × $0 | **$0.175** |
-| With brand campaigns | 0.70 × $0.90 + 0.30 × $0 | **$0.630** |
+| With brand campaigns | 0.70 × $0.27 + 0.30 × $0 | **$0.189** |
 
-**The single biggest lever is campaign participation, worth 3.6× Creator Rewards alone.**
+At realistic effective rates, campaigns are worth **~8% more than Creator Rewards**, not a multiple. They are a second revenue line, not a rescue.
+
+### 7.4 Are campaigns real? (due diligence)
+
+**Yes, the market is real — but the advertised CPM is a ceiling, not a payout.**
+
+Evidence from the 2026 campaign marketplace (Content Rewards, formerly Whop Content Rewards):
+
+| Measure | Figure | Basis |
+| --- | --- | --- |
+| Scale | ~$40k/day paid out, ~1M videos/month, 500–700 live campaigns | Platform statements |
+| Headline CPM | ~$1.00 per 1k views (median) | Campaign listings |
+| Spend per new view, campaigns with volume | ~$1.02 per 1k | Independent scrape, Oct 2026 |
+| **Paid out / advertised budget** | **14.5%** | Scrape of 658 campaigns, Sep 2026 |
+| **Campaigns that paid $0** | **56%** | Same scrape |
+| **Effective payout / headline CPM** | **median 0.12** (25th pct 0.04, 75th 0.28) | Same scrape |
+| Budget concentration | Top 4 organisations = 52% of spend | Oct 2026 snapshot |
+
+The same "$1 CPM" campaign can pay $0.03 or $0.97 per 1,000 views. That gap is mostly campaign selection, not luck.
+
+**How to tell a real campaign from a scam**
+
+| Green flags | Red flags |
+| --- | --- |
+| No cost to join | Asks for a deposit, subscription, or "verification fee" |
+| Brand/organisation is identifiable and searchable | Anonymous brand, no site, no company |
+| Page shows budget spent and paid-out history | Only a headline CPM, no spend data |
+| Written brief, approval rules, per-clip max payout | Terms arrive after you post, or never |
+| Platform holds the budget (escrow-style) | Pays by DM, crypto only, or "trust me" |
+| Payout via a known processor with KYC | Asks for your TikTok login or 2FA code |
+| 7-day earning window + hold, stated in writing | Promises "unlimited" or "$5/1k guaranteed" |
+| Product not required to participate | Requires you to buy the product first |
+
+**Non-scam risks that still cost money:** budget exhaustion mid-campaign, rejection after views accrue, bot-score flags that pause payouts, per-clip payout caps that kill a viral hit, and campaign niches (gambling, crypto, "get rich") that damage the account or breach local ad rules.
+
+**Rule for this project:** only join campaigns where the page shows money already paid out, the effective rate is ≥ $0.25 per 1k, and entry is free. Any campaign asking for money up front is a scam, without exception.
 
 ## 8. Profit projection
 
@@ -355,34 +390,34 @@ Monthly cost at 24 clips: **$54.44**.
 | Revenue mode | Revenue per 1k views | Break-even total views/mo | Break-even views per clip |
 | --- | --- | --- | --- |
 | Creator Rewards only | $0.175 | **311,000** | ~13,000 |
-| With brand campaigns | $0.630 | **86,400** | ~3,600 |
+| With brand campaigns | $0.189 | **288,000** | ~12,000 |
 
-Read this as: *on Creator Rewards alone you need ~13k views per clip just to cover costs; with campaigns, ~3.6k is enough.*
+Read this as: *you need ~12–13k views per clip just to cover costs.* Campaigns move the line by about 8%, not by a multiple.
 
 ### 8.2 Monthly scenarios (24 clips)
 
 | Scenario | Views/clip (both platforms) | Monthly views | Creator Rewards only | With campaigns |
 | --- | --- | --- | --- | --- |
-| Conservative | 2,000 | 48,000 | **−$46.04** | **−$24.20** |
-| Base | 10,000 | 240,000 | **−$12.44** | **+$96.76** |
-| Upside | 25,000 | 600,000 | **+$50.56** | **+$323.56** |
-| Viral month | 50,000 | 1,200,000 | **+$155.56** | **+$701.56** |
+| Conservative | 2,000 | 48,000 | **−$46.04** | **−$45.37** |
+| Base | 10,000 | 240,000 | **−$12.44** | **−$9.08** |
+| Upside | 25,000 | 600,000 | **+$50.56** | **+$58.96** |
+| Viral month | 50,000 | 1,200,000 | **+$155.56** | **+$172.36** |
 
-Honest reading: the base case is a **small loss on Creator Rewards alone** and a **healthy profit with campaigns**. The project does not pay for itself on ad revenue at realistic volumes.
+Honest reading: **at realistic effective campaign rates the base case is roughly break-even to slightly negative.** Profitability needs ~12k views per clip, or a second revenue line (affiliate, fixed brand deals).
 
 ### 8.3 Sensitivity — net monthly profit
 
 | Views per clip | Total views/mo | Creator Rewards only | With campaigns |
 | --- | --- | --- | --- |
-| 2,000 | 48,000 | −$46.04 | −$24.20 |
-| 5,000 | 120,000 | −$33.44 | +$21.16 |
-| 10,000 | 240,000 | −$12.44 | +$96.76 |
-| 25,000 | 600,000 | +$50.56 | +$323.56 |
-| 50,000 | 1,200,000 | +$155.56 | +$701.56 |
+| 2,000 | 48,000 | −$46.04 | −$45.37 |
+| 5,000 | 120,000 | −$33.44 | −$31.76 |
+| 10,000 | 240,000 | −$12.44 | −$9.08 |
+| 25,000 | 600,000 | +$50.56 | +$58.96 |
+| 50,000 | 1,200,000 | +$155.56 | +$172.36 |
 
 ### 8.4 12-month ramp (planning model)
 
-Assumptions: 24 clips/month; views climb from ~1k to ~46k per clip; Creator Rewards from month 3; campaigns from month 6; costs flat at $54.44.
+Assumptions: 24 clips/month; views climb from ~1k to ~46k per clip; Creator Rewards from month 3; campaigns from month 6 at the §7.4 planning rate; costs flat at $54.44.
 
 | Month | Total views | Revenue | Cost | Net | Cumulative |
 | --- | --- | --- | --- | --- | --- |
@@ -391,23 +426,26 @@ Assumptions: 24 clips/month; views climb from ~1k to ~46k per clip; Creator Rewa
 | 3 | 96,000 | $16.80 | $54.44 | −$37.64 | −$133.92 |
 | 4 | 150,000 | $26.25 | $54.44 | −$28.19 | −$162.11 |
 | 5 | 220,000 | $38.50 | $54.44 | −$15.94 | −$178.05 |
-| 6 | 300,000 | $189.00 | $54.44 | +$134.56 | −$43.49 |
-| 7 | 400,000 | $252.00 | $54.44 | +$197.56 | +$154.07 |
-| 8 | 500,000 | $315.00 | $54.44 | +$260.56 | +$414.63 |
-| 9 | 650,000 | $409.50 | $54.44 | +$355.06 | +$769.69 |
-| 10 | 800,000 | $504.00 | $54.44 | +$449.56 | +$1,219.25 |
-| 11 | 950,000 | $598.50 | $54.44 | +$544.06 | +$1,763.31 |
-| 12 | 1,100,000 | $693.00 | $54.44 | +$638.56 | +$2,401.87 |
+| 6 | 300,000 | $56.70 | $54.44 | +$2.26 | −$175.79 |
+| 7 | 400,000 | $75.60 | $54.44 | +$21.16 | −$154.63 |
+| 8 | 500,000 | $94.50 | $54.44 | +$40.06 | −$114.57 |
+| 9 | 650,000 | $122.85 | $54.44 | +$68.41 | −$46.16 |
+| 10 | 800,000 | $151.20 | $54.44 | +$96.76 | +$50.60 |
+| 11 | 950,000 | $179.55 | $54.44 | +$125.11 | +$175.71 |
+| 12 | 1,100,000 | $207.90 | $54.44 | +$153.46 | +$329.17 |
 
-**Year 1: revenue ≈ $3,055, cost ≈ $653, net ≈ +$2,402.** Cumulative break-even lands in **month 7**; monthly break-even in **month 6**.
+**Year 1: revenue ≈ $982, cost ≈ $653, net ≈ +$329.** Monthly break-even in **month 6**; cumulative break-even in **month 10**.
+
+This is a thin margin: one missed month of campaign revenue pushes cumulative break-even past year one.
 
 ### 8.5 What must be true for the projection to hold
 
-1. Campaign revenue materialises by month 6 — it is ~80% of all revenue in the model. Without it, year 1 is a loss.
-2. Average views per clip exceed ~4,000 (campaign mode) or ~13,000 (Creator Rewards mode).
-3. Costs stay flat — i.e. human review is removed by month 4, otherwise add $24/mo.
-4. The account is in a Creator Rewards-eligible country, or revenue leans 100% on campaigns/affiliate.
+1. Campaign work starts by month 6 and sustains an effective ≥$0.25 per 1k — i.e. campaigns are chosen by paid-out history (§7.4), not by headline CPM.
+2. Average views per clip reach ~12,000.
+3. Costs stay flat — human review removed by month 4, otherwise add $24/mo.
+4. The account is in a Creator Rewards-eligible country; if not, months 1–5 earn **$0** and the ramp starts at month 6.
 5. No account strikes: a ban resets the follower base and the revenue to zero.
+6. YouTube stays a distribution channel; any Shorts revenue is upside, not plan.
 
 ### 8.6 Kill / scale criteria
 
@@ -415,7 +453,9 @@ Assumptions: 24 clips/month; views climb from ~1k to ~46k per clip; Creator Rewa
 | --- | --- |
 | < 2,000 views/clip after 60 days | Change niche, hooks, or source material |
 | Negative net for 3 consecutive months | Pause; re-cost before continuing |
-| Campaign revenue > 50% of total | Increase volume to 48 clips/mo |
+| Campaign effective rate < $0.25/1k | Drop it; check paid-out history before the next one |
+| Campaign budget already exhausted | Stop clipping; unpaid views may never settle |
+| Any campaign asks for an upfront fee | Treat as scam; do not join |
 | Cost per 1k views > revenue per 1k for 2 months | Re-negotiate tooling or automate review |
 | Aggregator spend > 20% of revenue | Build the direct TikTok API path |
 
@@ -542,7 +582,7 @@ Rules: `.env` and credential exports never enter git; scrub credential reference
 4. Is human review required permanently, or only for launch?
 5. Local transcription vs hosted — depends on host CPU/GPU budget.
 6. Do we need multiple TikTok profiles from day one? This drives the aggregator tier.
-7. Is campaign work (posting brand clips) acceptable, or do we only publish our own content? Campaigns are ~80% of modelled revenue.
+7. Is campaign work (posting brand clips) acceptable, or do we only publish our own content? At realistic effective rates campaigns are only ~8% better than Creator Rewards, so this is a strategic choice rather than the main lever.
 
 ## 16. Appendix — reference calls
 
